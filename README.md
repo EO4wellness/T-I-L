@@ -12,7 +12,7 @@ Nutanix
 
 
 ###Android 
-    Udacity Course: 
+    Udacity Course: Localization Course https://www.udacity.com/course/localization-essentials--ud610 (11/19/2020) 
 
 
 ###General
