@@ -19,7 +19,7 @@ Nutanix
 Currently I volunteer as a webmaster for an organization.  As part of my volunteer position, I research and teach-myself anything I don't already know how to do, in order to implement what I need to accomplish.  I've been doing this since the 1990s. 
 
 
-###GitHub
+###Git/GitHub
 
     Installed GitHub Desktop locally. Completed basic tutorial.  (November 18, 2000) 
         updated and set up Notepad++ as my current default Text editor
@@ -30,6 +30,9 @@ Currently I volunteer as a webmaster for an organization.  As part of my volunte
         used ctrl+r (to pull request) which is how people collaborate in GitHub--this is how you ask your new code or changes to be included in the main code. 
     Consulted Markdown file to learn GitHub formatting basics 
 	Read @bonn0062 article https://towardsdatascience.com/getting-started-with-git-and-github-6fcd0f2d4ac6 Forked welcome wall respoitory https://github.com/bonn0062/github_welcome_wall googled how to add images in MD, and added a "ThankYou.md" file 
+    The "Secret" of creating a repository within your GitHub account named as your username.  
+    That ReadMe.MD GetHub profile generators are a thing which exists. 
+    About GitHub liscensing options https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/licensing-a-repository 
 
 ###Notepad++
     Updated existing install to new version (November 18, 2020)
