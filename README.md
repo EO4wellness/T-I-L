@@ -9,6 +9,7 @@ GitHub
 InDesign 
 Notepad++
 Nutanix 
+Server 
 
 
 ###Android 
@@ -40,7 +41,8 @@ Currently I volunteer as a webmaster for an organization.  As part of my volunte
 	Googled and then Changed Settings-->Style Configurator-->  new theme to be able to read text (November 18, 2020) 
 	
 	
-###Nutanix
+
+##Nutanix
     Ongoing Udacity Nanodegree Enrollment and Studies 
 	Project 1
 	Project 2
@@ -50,6 +52,9 @@ Currently I volunteer as a webmaster for an organization.  As part of my volunte
 	Career Counseling 
 	Resume
 	Coverletter 
+	
+##Server 
+    Maintenance (November 20, 21, 22 2020) 
 
 ##Other Iterests
 A list or links of other topics to followup with in future T-I-L sessions:
