@@ -34,6 +34,7 @@ Currently I volunteer as a webmaster for an organization.  As part of my volunte
     The "Secret" of creating a repository within your GitHub account named as your username.  
     That ReadMe.MD GetHub profile generators are a thing which exists. 
     About GitHub liscensing options https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/licensing-a-repository 
+    About GitHub Contributors recognition https://allcontributors.org/docs/en/bot/installation and installation (November 22,2020) 
 
 ###Notepad++
     Updated existing install to new version (November 18, 2020)
