@@ -2,7 +2,7 @@
 This is a record of my personal journey.  November, 2020 is the very beginning of my first T-I-L on GitHub, but it is not my very first day of learning, and it is also not the very first day I've learned anything about coding. 
  
  
-##TOC:
+## TOC:
 A.I. 
 Android
 Events 
@@ -14,24 +14,24 @@ Nutanix
 Server 
 
 
-###Artificial Intellegence: 
+### Artificial Intellegence: 
 * Enrolled in (November 22, 2020)
 * Previous Bertlesmann AI/Deep Learning Scholarship 2019-2020
 
-###Android 
+### Android 
 *Udacity Course: Localization Course https://www.udacity.com/course/localization-essentials--ud610 (11/19/2020) 
 
 
-###Events 
+### Events 
 * Signed up to Attend: Why you Cannot Stop Data Breaches-https://www.meetup.com/dataops-austin/events/274734432 
 
 
-###General
+### General
 *Currently I volunteer as a webmaster for an organization.  
 *As part of my volunteer position, I research and teach-myself anything I don't already know how to do, in order to implement what I need to accomplish.  I've been doing this since the 1990s when I taught myself HTML from "view source" on Netscape, and then taught myself desk-top publishing reading the Help menu of InDesign. 
 
 
-###Git/GitHub
+### Git/GitHub
 
 *Installed GitHub Desktop locally. Completed basic tutorial.  (November 18, 2000) 
         updated and set up Notepad++ as my current default Text editor
@@ -47,7 +47,7 @@ Server
 *About GitHub liscensing options https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/licensing-a-repository 
 *About GitHub Contributors recognition https://allcontributors.org/docs/en/bot/installation and installation (November 22,2020) 
 
-###Notepad++
+### Notepad++
 *Updated existing install to new version (November 18, 2020)
 	Set as default GetHub Desktop editor (November 18, 2020)
 	Googled and then Changed Settings-->Style Configurator-->  new theme to be able to read text (November 18, 2020) 
@@ -55,7 +55,7 @@ Server
 	
 	
 
-###Nutanix
+### Nutanix
 *Ongoing Udacity Nanodegree Enrollment and Studies 
 	Project 1
 	Project 2
@@ -67,10 +67,10 @@ Server
 	Coverletter 
 *Nutanix University online 
 	
-###Server 
+### Server 
 *Maintenance (November 20, 21, 22 2020) 
 
-###Other Iterests
+### Other Iterests
 *A list or links of other topics to followup with in future T-I-L sessions:
     Using GitHub for website hosting https://towardsdatascience.com/how-to-create-a-free-github-pages-website-53743d7524e1 
 	Learning about newsletter listservers 
