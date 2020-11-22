@@ -76,3 +76,5 @@ Server
 	Learning about newsletter listservers 
 	Reading (links from SLACK which other students posted) 
 *Need to learn more about Markdown and Linking--things are (yet) appearing the way I had hoped they would!  :lol: 
+
+@all-contributors bot
