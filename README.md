@@ -1,5 +1,5 @@
-# T-I-L
-Today I Learned: This is a record of my personal journey.  November, 2020 is the very beginning of my first T-I-L on GitHub, but it is not my very first day of learning, and it is also not the very first day I've learned anything about coding. 
+# T-I-L / Today I Learned: 
+This is a record of my personal journey.  November, 2020 is the very beginning of my first T-I-L on GitHub, but it is not my very first day of learning, and it is also not the very first day I've learned anything about coding. 
  
  
 ##TOC
