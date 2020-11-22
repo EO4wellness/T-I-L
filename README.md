@@ -2,7 +2,7 @@
 This is a record of my personal journey.  November, 2020 is the very beginning of my first T-I-L on GitHub, but it is not my very first day of learning, and it is also not the very first day I've learned anything about coding. 
  
  
-##TOC
+##TOC:
 A.I. 
 Android
 Events 
@@ -14,7 +14,7 @@ Nutanix
 Server 
 
 
-###Artificial Intellegence 
+###Artificial Intellegence: 
 * Enrolled in (November 22, 2020)
 * Previous Bertlesmann AI/Deep Learning Scholarship 2019-2020
 
