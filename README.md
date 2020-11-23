@@ -11,6 +11,7 @@ GitHub
 InDesign 
 Notepad++
 Nutanix 
+Python 
 Server 
 
 
@@ -68,6 +69,11 @@ Server
 	Resume
 	Coverletter 
 * Nutanix University online 
+
+### Python 
+*  took Jason Olson's "Python: The Big Picture" on PluralSight. 
+*  PIP 
+*  Python 2 vs Python 3 (from 2008, intentionally not backwards compatable).  Default to Python 3 all of the time and only use 2 if you need to for a site or library you're forced to use. 
 	
 ### Server 
 * Maintenance (November 20, 21, 22 2020) 
