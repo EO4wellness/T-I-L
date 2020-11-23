@@ -16,7 +16,7 @@ Server
 
 
 ### Artificial Intellegence: 
-* Enrolled in (November 22, 2020)
+* Enrolled in (November 22, 2020) https://academy.infinite.red/p/ai-demystified-free-5-day-mini-course  
 * Previous Bertlesmann AI/Deep Learning Scholarship 2019-2020
 
 ### Android 
