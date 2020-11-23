@@ -74,17 +74,19 @@ Server
 *  took Jason Olson's "Python: The Big Picture" on PluralSight. 
 *  PIP 
 *  Python 2 vs Python 3 (from 2008, intentionally not backwards compatable).  Default to Python 3 all of the time and only use 2 if you need to for a site or library you're forced to use. 
+*  Want to study more about using Python script with Open Source Blender 
 	
 ### Server 
 * Maintenance (November 20, 21, 22 2020) 
 * Coming Soon...
 
-### Other Iterests
+### Other Iterests or TO-Dos which have not yet become To-Dones! 
 * A list or links of other topics to followup with in future T-I-L sessions:
     Using GitHub for website hosting https://towardsdatascience.com/how-to-create-a-free-github-pages-website-53743d7524e1 
 	Learning about newsletter listservers 
 	Reading (links from SLACK which other students posted) 
 * Need to learn more about Markdown and Linking--things are (yet) appearing the way I had hoped they would!  :lol: 
+* https://smartcat.com/ Need to finish set up of account and connect with others there 
 
 
 @all-contributors bot
