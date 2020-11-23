@@ -49,6 +49,7 @@ Server
 * About GitHub liscensing options https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/licensing-a-repository 
 * About GitHub Contributors recognition https://allcontributors.org/docs/en/bot/installation and installation (November 22,2020) 
 * Importance of a SPACE!  Today (November 22,2020) I learned the importance of a space when my markdown text suddenly started displaying correctly, after days of NOT displaying as intended, despite consulting the style guide, simply because I neglected to see, and implement, the space between the markdown formating character(s) and the content!  
+* Read and update: https://dev.to/imshravan/github-profile-readme-dynamic-quote-generator-9bo 
 
 ### Notepad++
 * Updated existing install to new version (November 18, 2020)
@@ -75,6 +76,7 @@ Server
 *  PIP 
 *  Python 2 vs Python 3 (from 2008, intentionally not backwards compatable).  Default to Python 3 all of the time and only use 2 if you need to for a site or library you're forced to use. 
 *  Want to study more about using Python script with Open Source Blender 
+*  Enrolled in and began https://www.udemy.com/course/data-analysis-with-pandas-a-complete-tutorial/?Join-%40UdemyFree4You=&couponCode=CGFORUPSKILL2020  
 	
 ### Server 
 * Maintenance (November 20, 21, 22 2020) 
@@ -85,8 +87,10 @@ Server
     Using GitHub for website hosting https://towardsdatascience.com/how-to-create-a-free-github-pages-website-53743d7524e1 
 	Learning about newsletter listservers 
 	Reading (links from SLACK which other students posted) 
-* Need to learn more about Markdown and Linking--things are (yet) appearing the way I had hoped they would!  :lol: 
+* Need to learn more about Markdown and Linking--things are (yet) appearing the way I had hoped they would!  :lol: https://www.markdownguide.org/basic-syntax/
 * https://smartcat.com/ Need to finish set up of account and connect with others there 
+* Where to learn react.  A place recommended to me to start: https://www.codecademy.com/learn/react-101  
+* https://www.freecodecamp.org/  
 
 
 @all-contributors bot
