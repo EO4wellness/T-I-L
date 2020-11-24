@@ -21,7 +21,8 @@ Server
 
 ### Android 
 * Udacity Course: Localization Course https://www.udacity.com/course/localization-essentials--ud610 (11/19/2020) 
-* 
+* New Course 
+* Future Learn Coding 
 
 
 ### Events 
