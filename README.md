@@ -3,9 +3,9 @@ This is a record of my personal journey.  November, 2020 is the very beginning o
  
  
 ## TOC 
-A.I.<br> 
-Android<br>
-Events <br>
+[A.I.](https://github.com/EO4wellness/T-I-L/blob/main/README.md#artificial-intellegence)<br> 
+[Android](https://github.com/EO4wellness/T-I-L/blob/main/README.md#android)<br>
+[Events](https://github.com/EO4wellness/T-I-L/blob/main/README.md#events) <br>
 General<br>
 GitHub<br>
 InDesign <br>
@@ -14,6 +14,7 @@ Nutanix <br>
 PHP<br>
 Python <br>
 Server <br>
+[WIKI](](https://github.com/EO4wellness/T-I-L/wiki)<br>
 
 
 ### Artificial Intellegence: 
