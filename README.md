@@ -3,17 +3,17 @@ This is a record of my personal journey.  November, 2020 is the very beginning o
  
  
 ## TOC 
-A.I. 
-Android
-Events 
-General
-GitHub
-InDesign 
-Notepad++
-Nutanix 
-PHP
-Python 
-Server 
+A.I.<br> 
+Android<br>
+Events <br>
+General<br>
+GitHub<br>
+InDesign <br>
+Notepad++<br>
+Nutanix <br>
+PHP<br>
+Python <br>
+Server <br>
 
 
 ### Artificial Intellegence: 
