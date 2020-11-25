@@ -6,15 +6,15 @@ This is a record of my personal journey.  November, 2020 is the very beginning o
 [A.I.](https://github.com/EO4wellness/T-I-L/blob/main/README.md#artificial-intellegence)<br> 
 [Android](https://github.com/EO4wellness/T-I-L/blob/main/README.md#android)<br>
 [Events](https://github.com/EO4wellness/T-I-L/blob/main/README.md#events) <br>
-General<br>
-GitHub<br>
-InDesign <br>
-Notepad++<br>
-Nutanix <br>
-PHP<br>
-Python <br>
-Server <br>
-[WIKI](](https://github.com/EO4wellness/T-I-L/wiki)<br>
+[General](https://github.com/EO4wellness/T-I-L/blob/main/README.md#general) <br>
+[GitHub](https://github.com/EO4wellness/T-I-L/blob/main/README.md#github) <br>
+[InDesign](https://github.com/EO4wellness/T-I-L/blob/main/README.md#indesign) <br>
+[Notepad++](https://github.com/EO4wellness/T-I-L/blob/main/README.md#notepad++) <br>
+[Nutanix](https://github.com/EO4wellness/T-I-L/blob/main/README.md#nutanix) <br>
+[PHP](https://github.com/EO4wellness/T-I-L/blob/main/README.md#php) <br>
+[Python](https://github.com/EO4wellness/T-I-L/blob/main/README.md#python) <br>
+[Server](https://github.com/EO4wellness/T-I-L/blob/main/README.md#server) <br>
+[WIKI](https://github.com/EO4wellness/T-I-L/wiki)<br>
 
 
 ### Artificial Intellegence: 
