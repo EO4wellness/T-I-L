@@ -1,4 +1,4 @@
-# T-I-L / Today I Learned 
+# Today I Learned [T-I-L](https://github.com/EO4wellness/T-I-L/wiki)
 This is a record of my personal journey.  November, 2020 is the very beginning of my first T-I-L on GitHub, but it is not my very first day of learning, and it is also not the very first day I've learned anything about coding. My personal tag line about learning is embodied in the phrase "The Road to Coding isn't Built Overnight!" 
  
  
