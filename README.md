@@ -52,6 +52,9 @@ Server
 * Importance of a SPACE!  Today (November 22,2020) I learned the importance of a space when my markdown text suddenly started displaying correctly, after days of NOT displaying as intended, despite consulting the style guide, simply because I neglected to see, and implement, the space between the markdown formating character(s) and the content!  
 * Read and update: https://dev.to/imshravan/github-profile-readme-dynamic-quote-generator-9bo 
 * (Cold as Ice)(https://www.techzine.eu/news/devops/52436/github-saves-greatest-hits-in-arctic-code-vault/?crph=1b330444af9fc782f303814618059a7d&utm_source=Newsletter&utm_medium=email&utm_content=China-sponsored+hacker+group+attacks+companies+worldwide&utm_campaign=Mailing%3A++China-sponsored+hacker+group+attacks+companies+worldwide&vgo_ee=rJ5R%2FYnXUvXOqv02v9u0Lr9xNL0uPdWKPfefZlVJEEE%3D)
+* took a look at this "TACPO" project today and its code & found it interesting
+Code Repository:  https://github.com/pedropro/TACO
+Project website: http://tacodataset.org/
 
 ### Notepad++
 * Updated existing install to new version (November 18, 2020)
