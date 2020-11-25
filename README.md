@@ -11,6 +11,7 @@ GitHub
 InDesign 
 Notepad++
 Nutanix 
+PHP
 Python 
 Server 
 
@@ -75,6 +76,9 @@ Project website: http://tacodataset.org/
 	Resume
 	Coverletter 
 * Nutanix University online 
+
+### PHP 
+* Started Sololearns PHP course today (Nov 25; finished first syntax module 100%) 
 
 ### Python 
 *  took Jason Olson's "Python: The Big Picture" on PluralSight. 
