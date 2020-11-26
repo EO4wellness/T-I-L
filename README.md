@@ -93,7 +93,7 @@ Project website: http://tacodataset.org/
 * Maintenance (November 20, 21, 22 2020) 
 * Coming Soon...
 
-### Other Iterests or TO-Dos which have not yet become To-Dones! 
+### Other Iterests or TO-Dos which have not yet become To-Done listings! 
 * A list or links of other topics to followup with in future T-I-L sessions:
     Using GitHub for website hosting https://towardsdatascience.com/how-to-create-a-free-github-pages-website-53743d7524e1 
 	Learning about newsletter listservers 
