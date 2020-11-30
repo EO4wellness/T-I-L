@@ -14,7 +14,7 @@ PHP is the very first folder I've created on GitHub within an existing folder-so
 So are you ready to learn PHP too?  Here is the journey I took to begin learning PHP. 
 <br>
 ### [Solo Learn Website](https://www.sololearn.com/Play/PHP)
-One of the many cool things about learning code with Solo Learn is their [code playground](https://code.sololearn.com/#html) where you can experiment with the code you are learning.  
+One of the many cool things about learning code with Solo Learn is their [code playground](https://code.sololearn.com/#html) where you can experiment with the code you are learning and run it.  This is also fabulous to finding errors and correcting them before they become BAD habits! 
 * Began learning PHP with Sololearn website. 
 * My [Solo Learn profile](https://www.sololearn.com/Profile/15619122)
 * Completed the first module, Basic PHP Syntax, on Nov 25, 2020. 
