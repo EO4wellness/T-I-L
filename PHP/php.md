@@ -19,7 +19,7 @@ One of the many cool things about learning code with Solo Learn is their [code p
 * My [Solo Learn profile](https://www.sololearn.com/Profile/15619122)
 * Completed the first module, Basic PHP Syntax, on Nov 25, 2020. 
 * Continued learning, completing the second module, PHP variables, on 11/29/2020.
-* Next?  In Module 3 I'll be learning about Operators, at my next PHP learning session. . . 
+* Next?  In Module 3 I'll be learning about Operators, at my next PHP learning session. . . my student [course notes are located at](https://docs.google.com/document/d/1p2pJzciuWfOurcGY2J9QFw7ncewmdOoEYau40PMkOa4/edit?usp=sharing)
 
 ### [PHP Website Documentation](https://www.php.net/)
 
