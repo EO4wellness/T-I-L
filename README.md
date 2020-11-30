@@ -81,6 +81,7 @@ Project website: http://tacodataset.org/
 ### PHP 
 * Started Sololearns PHP course today (Nov 25; finished first syntax module 100%) 
   (Nov 29; finished second module 100% on variables) 
+* Created a [PHP Folder](https://github.com/EO4wellness/T-I-L/tree/main/PHP) in this repository with basic, beginner, .php code snippets. 
 
 ### Python 
 *  took Jason Olson's "Python: The Big Picture" on PluralSight. 
