@@ -8,7 +8,7 @@ This is a record of my personal journey.  November, 2020 is the very beginning o
 [Events](https://github.com/EO4wellness/T-I-L/blob/main/README.md#events) <br>
 [General](https://github.com/EO4wellness/T-I-L/blob/main/README.md#general) <br>
 [GitHub](https://github.com/EO4wellness/T-I-L/blob/main/README.md#github) <br>
-[HTML]<br>
+[HTML](https://github.com/EO4wellness/T-I-L/blob/main/README.md#html)<br>
 [InDesign](https://github.com/EO4wellness/T-I-L/blob/main/README.md#indesign) <br>
 [Notepad++](https://github.com/EO4wellness/T-I-L/blob/main/README.md#notepad++) <br>
 [Nutanix](https://github.com/EO4wellness/T-I-L/blob/main/README.md#nutanix) <br>
@@ -68,6 +68,7 @@ Project website: http://tacodataset.org/
 	Set as default GetHub Desktop editor (November 18, 2020)
 	Googled and then Changed Settings-->Style Configurator-->  new theme to be able to read text (November 18, 2020) 
 * HTML/CSS tool 
+* PHP tool with extension modification(s) NOTE: If you change the file extention to "txt" while writing/editing on your device and then changed the file extension to "php" when saving to upload to the server. 
 	
 	
 
