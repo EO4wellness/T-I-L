@@ -13,6 +13,7 @@ PHP is the very first folder I've created on GitHub within an existing folder-so
 ## Resources 
 So are you ready to learn PHP too?  Here is the journey I took to begin learning PHP. 
 <br>
-* https://www.sololearn.com/Play/PHP
-* Began learning PHP with basic syntax at Sololearn's website Nov 25, 2020. 
-* Continued learning PHP variables 11/29/2020
+### [Solo Learn Website](https://www.sololearn.com/Play/PHP)
+* Began learning PHP with Sololearn website. 
+* Completed the first module, Basic PHP Syntax, on Nov 25, 2020. 
+* Continued learning, completing the second module, PHP variables, on 11/29/2020.
