@@ -21,3 +21,8 @@ So are you ready to learn PHP too?  Here is the journey I took to begin learning
 * Next?  In Module 3 I'll be learning about Operators, at my next PHP learning session. . . 
 
 ### [PHP Website Documentation](https://www.php.net/)
+
+### [PHP Snippets Folder](https://github.com/EO4wellness/T-I-L/blob/main/PHP)
+This folder contains the code snippets in the order I learned them (commented): 
+1. [PHP Header](https://github.com/EO4wellness/T-I-L/blob/main/PHP/php-heading.php)
+2. [echo command](https://github.com/EO4wellness/T-I-L/blob/main/PHP/echo.php)
