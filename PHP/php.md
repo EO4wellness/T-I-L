@@ -27,3 +27,4 @@ One of the many cool things about learning code with Solo Learn is their [code p
 This folder contains the code snippets in the order I learned them (commented): 
 1. [PHP Header](https://github.com/EO4wellness/T-I-L/blob/main/PHP/php-heading.php)
 2. [echo command](https://github.com/EO4wellness/T-I-L/blob/main/PHP/echo.php)
+3. [html script tag](https://github.com/EO4wellness/T-I-L/blob/main/PHP/script.html) depreciated as of PHP version 7 and newer. 
