@@ -15,7 +15,9 @@ So are you ready to learn PHP too?  Here is the journey I took to begin learning
 <br>
 ### [Solo Learn Website](https://www.sololearn.com/Play/PHP)
 * Began learning PHP with Sololearn website. 
+* My [Solo Learn profile](https://www.sololearn.com/Profile/15619122)
 * Completed the first module, Basic PHP Syntax, on Nov 25, 2020. 
 * Continued learning, completing the second module, PHP variables, on 11/29/2020.
+* Next?  In Module 3 I'll be learning about Operators, at my next PHP learning session. . . 
 
 ### [PHP Website Documentation](https://www.php.net/)
