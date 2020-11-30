@@ -17,3 +17,5 @@ So are you ready to learn PHP too?  Here is the journey I took to begin learning
 * Began learning PHP with Sololearn website. 
 * Completed the first module, Basic PHP Syntax, on Nov 25, 2020. 
 * Continued learning, completing the second module, PHP variables, on 11/29/2020.
+
+### [PHP Website Documentation](https://www.php.net/)
