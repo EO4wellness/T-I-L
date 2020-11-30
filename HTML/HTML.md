@@ -5,7 +5,7 @@ When I first learn HTML coding it was using the Netscape (retired) browser, long
 
 ## Basics of HTML
 [basic HTML code snippets](https://github.com/EO4wellness/T-I-L/tree/main/HTML/Basic-Code)
-
+[HTML Template-Lets Get Started](https://github.com/EO4wellness/T-I-L/blob/main/HTML/Basic-Code/head.html)
 
 ## Examples 
 coming soon 
