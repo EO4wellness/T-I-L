@@ -8,6 +8,7 @@ This is a record of my personal journey.  November, 2020 is the very beginning o
 [Events](https://github.com/EO4wellness/T-I-L/blob/main/README.md#events) <br>
 [General](https://github.com/EO4wellness/T-I-L/blob/main/README.md#general) <br>
 [GitHub](https://github.com/EO4wellness/T-I-L/blob/main/README.md#github) <br>
+[HTML]<br>
 [InDesign](https://github.com/EO4wellness/T-I-L/blob/main/README.md#indesign) <br>
 [Notepad++](https://github.com/EO4wellness/T-I-L/blob/main/README.md#notepad++) <br>
 [Nutanix](https://github.com/EO4wellness/T-I-L/blob/main/README.md#nutanix) <br>
@@ -58,6 +59,9 @@ This is a record of my personal journey.  November, 2020 is the very beginning o
 * took a look at this "TACO" project today and its code & found it interesting
 Code Repository:  https://github.com/pedropro/TACO
 Project website: http://tacodataset.org/
+
+### HTML 
+[HTML](https://github.com/EO4wellness/T-I-L/blob/main/HTML/HTML.md)
 
 ### Notepad++
 * Updated existing install to new version (November 18, 2020)
