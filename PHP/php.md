@@ -1,6 +1,14 @@
-# PHP Learning Chronicals 
+# My PHP Learning Chronicles
 
 PHP is the very first folder I've created on GitHub within an existing folder-so to start this section, I first needed to learn how.  Many people wonder this so I wrote a WIKI describing the process found here [How to Create a Folder on GitHub](https://github.com/EO4wellness/T-I-L/wiki/GitHub#create-a-folder)
+
+
+## About PHP 
+PHP is a server-side scripting language.
+PHP is primarily used in web-based applications. 
+PHP can be used for a lot of different tasks and functions. 
+PHP files use the .php (dot-PHP) file extension type. 
+PHP is a plain-text file. Therefore if you download a .php file from your server, onto your local machine, you can safely change the ".php" extenion to ".txt" and open it to view, read, or edit it using any basic text editing software. However, it must be resaved with the ".php" file extension to be executable upon re-upload to the server. 
 
 * https://www.sololearn.com/Play/PHP
 * Began learning PHP with basic syntax at Sololearn's website Nov 25, 2020. 
