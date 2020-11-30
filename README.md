@@ -20,6 +20,7 @@ This is a record of my personal journey.  November, 2020 is the very beginning o
 ### Artificial Intellegence: 
 * Enrolled in and successfully completed (November 2020) https://academy.infinite.red/p/ai-demystified-free-5-day-mini-course  
 * Previous [Bertlesmann AI/Deep Learning Scholarship 2019-2020](https://github.com/EO4wellness/deep-learning-v2-pytorch)
+* Interesting [UseCase](https://style-transfer.devopsdirective.com/) example of Transfer Style. 
 
 ### Android 
 * Udacity Course: Localization Course https://www.udacity.com/course/localization-essentials--ud610 (11/19/2020) 
