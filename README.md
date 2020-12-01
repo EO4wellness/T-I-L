@@ -14,6 +14,7 @@ This is a record of my personal journey.  November, 2020 is the very beginning o
 [Nutanix](https://github.com/EO4wellness/T-I-L/blob/main/README.md#nutanix) <br>
 [PHP](https://github.com/EO4wellness/T-I-L/blob/main/README.md#php) <br>
 [Python](https://github.com/EO4wellness/T-I-L/blob/main/README.md#python) <br>
+[Security](https://github.com/EO4wellness/T-I-L/wiki/Security)<br>
 [Server](https://github.com/EO4wellness/T-I-L/blob/main/README.md#server) <br>
 [WIKI](https://github.com/EO4wellness/T-I-L/wiki)<br>
 
@@ -71,7 +72,6 @@ Project website: http://tacodataset.org/
 * PHP tool with extension modification(s) NOTE: If you change the file extention to "txt" while writing/editing on your device and then changed the file extension to "php" when saving to upload to the server. 
 	
 	
-
 ### Nutanix
 * Ongoing Udacity Nanodegree Enrollment and Studies 
 	Project 1
