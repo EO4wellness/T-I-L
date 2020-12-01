@@ -99,6 +99,8 @@ Project website: http://tacodataset.org/
 	
 ### Server 
 * Maintenance (November 20, 21, 22 2020) 
+* Maintenance and set up for email forwarders (Dec 1, 2020)
+* Took screen shots and wrote documentation (how to) for what I do at the new server each time I do maintenance so if I'm not available someone could log in to replace me and duplicate what I do. 
 * Coming Soon...
 
 ### Other Iterests or TO-Dos which have not yet become To-Done listings! 
