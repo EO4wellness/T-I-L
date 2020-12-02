@@ -62,7 +62,8 @@ Code Repository:  https://github.com/pedropro/TACO
 Project website: http://tacodataset.org/
 
 ### HTML 
-[HTML](https://github.com/EO4wellness/T-I-L/blob/main/HTML/HTML.md)
+*[HTML](https://github.com/EO4wellness/T-I-L/blob/main/HTML/HTML.md)
+*Dec 1, 2020, Began an HTML short-course at Udemy named Build Responsive Website Using The Primitive codes
 
 ### Notepad++
 * Updated existing install to new version (November 18, 2020)
