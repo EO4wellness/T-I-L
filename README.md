@@ -40,6 +40,7 @@ This is a record of my personal journey.  November, 2020 is the very beginning o
 * Originally started by learning Fortran, then tutoring and debuging Fortran. 
 * [Fortran](https://www.fortran90.org/src/best-practices.html#)
 * [Article: 66 Years](https://analyticsindiamag.com/66-years-of-fortran-dead-or-alive/)
+* [Anaconda](https://anaconda.org/conda-forge/fortran_kernel)
 
 
 ### General
