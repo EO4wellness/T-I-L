@@ -72,7 +72,7 @@ This is a record of my personal journey.  November, 2020 is the very beginning o
 * (Cold as Ice)(https://www.techzine.eu/news/devops/52436/github-saves-greatest-hits-in-arctic-code-vault/?crph=1b330444af9fc782f303814618059a7d&utm_source=Newsletter&utm_medium=email&utm_content=China-sponsored+hacker+group+attacks+companies+worldwide&utm_campaign=Mailing%3A++China-sponsored+hacker+group+attacks+companies+worldwide&vgo_ee=rJ5R%2FYnXUvXOqv02v9u0Lr9xNL0uPdWKPfefZlVJEEE%3D)
 * took a look at this "TACO" project today and its code & found it interesting
 Code Repository:  https://github.com/pedropro/TACO
-Project website: http://tacodataset.org/
+Project website: http://tacodataset.org/<br>
 [GitHub Stars](https://stars.github.com/nominate/)
 
 ### HTML 
