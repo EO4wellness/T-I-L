@@ -34,6 +34,8 @@ This is a record of my personal journey.  November, 2020 is the very beginning o
 
 ### Events 
 * Signed up to Attend: Why you Cannot Stop Data Breaches-https://www.meetup.com/dataops-austin/events/274734432 
+* Registered to Attend: SalesForce Dream Force https://www.salesforce.com/dreamforce/
+* Enjoying the now, ongoing, Women Who Code, #connectforward conference. https://connectforward.womenwhocode.dev/register [List of Presenters](https://connectforward.womenwhocode.dev/speakers/)
 
 
 ### Fortran
@@ -75,6 +77,9 @@ Project website: http://tacodataset.org/
 * Dec 1, 2020, Began an HTML short-course at Udemy named Build Responsive Website Using The Primitive codes which starts with the [Bootstrap Template Code](https://v5.getbootstrap.com/docs/5.0/getting-started/introduction/)
 * [Introduction to HTML and CSS](https://classroom.udacity.com/courses/ud001)
 
+### JavaScript 
+* https://www.programiz.com/javascript  
+
 ### Notepad++
 * Updated existing install to new version (November 18, 2020)
 	Set as default GetHub Desktop editor (November 18, 2020)
@@ -107,6 +112,7 @@ Project website: http://tacodataset.org/
 *  Want to study more about using Python script with Open Source Blender 
 *  Enrolled in and began https://www.udemy.com/course/data-analysis-with-pandas-a-complete-tutorial/?Join-%40UdemyFree4You=&couponCode=CGFORUPSKILL2020 
 *  Learn Python the Hard Way https://learnpythonthehardway.org/python3/  
+*  Another Python resource https://www.w3schools.com/python/python_for_loops.asp 
 	
 ### Server 
 * Maintenance (November 20, 21, 22 2020) 
