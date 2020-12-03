@@ -38,7 +38,6 @@ This is a record of my personal journey.  November, 2020 is the very beginning o
 
 ### Fortran
 * Originally started by learning Fortran, then tutoring and debuging Fortran. 
-* https://youtu.be/TSWuddGXkG4
 * [Fortran](https://www.fortran90.org/src/best-practices.html#)
 
 
