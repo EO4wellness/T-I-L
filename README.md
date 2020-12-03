@@ -73,6 +73,7 @@ This is a record of my personal journey.  November, 2020 is the very beginning o
 * took a look at this "TACO" project today and its code & found it interesting
 Code Repository:  https://github.com/pedropro/TACO
 Project website: http://tacodataset.org/
+[GitHub Stars](https://stars.github.com/nominate/)
 
 ### HTML 
 * [HTML](https://github.com/EO4wellness/T-I-L/blob/main/HTML/HTML.md)<br>
