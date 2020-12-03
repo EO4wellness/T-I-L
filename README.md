@@ -6,6 +6,7 @@ This is a record of my personal journey.  November, 2020 is the very beginning o
 [A.I.](https://github.com/EO4wellness/T-I-L/blob/main/README.md#artificial-intellegence)<br> 
 [Android](https://github.com/EO4wellness/T-I-L/blob/main/README.md#android)<br>
 [Events](https://github.com/EO4wellness/T-I-L/blob/main/README.md#events) <br>
+[Fortran](https://github.com/EO4wellness/T-I-L/blob/main/README.md#fortran)<br>
 [General](https://github.com/EO4wellness/T-I-L/blob/main/README.md#general) <br>
 [GitHub](https://github.com/EO4wellness/T-I-L/blob/main/README.md#github) <br>
 [HTML](https://github.com/EO4wellness/T-I-L/blob/main/README.md#html)<br>
@@ -33,6 +34,12 @@ This is a record of my personal journey.  November, 2020 is the very beginning o
 
 ### Events 
 * Signed up to Attend: Why you Cannot Stop Data Breaches-https://www.meetup.com/dataops-austin/events/274734432 
+
+
+### Fortran
+* Originally started by learning Fortran, then tutoring and debuging Fortran. 
+* https://youtu.be/TSWuddGXkG4
+* [Fortran](https://www.fortran90.org/src/best-practices.html#)
 
 
 ### General
