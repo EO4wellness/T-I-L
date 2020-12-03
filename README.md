@@ -129,6 +129,7 @@ Project website: http://tacodataset.org/
 * In November, 2020, I started a T-I-L WIKI just to learn and practice more of the WIKI Github skill set.  Likely, overtime, I will also do "issues" "projects" and other additional GitHub features here in this repository to practice various aspects of what's available.  
 * [Wiki Link - basically using it like an online learning blog.](https://github.com/EO4wellness/T-I-L/wiki) 
 * Began working more on documenting common errors within my WIKI.  The purpose of writing it is really solidifying in my mind and it is taking on its own focus now--as so often is the case when you start doing something new. 
+* Today's contribution is to update my WIKI regarding GitHub, as part of my daily-study time in the Udacity Hybrid Cloud Engineer Nanodegree. 
 
 
 @all-contributors bot
