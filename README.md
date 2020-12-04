@@ -5,6 +5,7 @@ This is a record of my personal journey.  November, 2020 is the very beginning o
 ## TOC 
 [A.I.](https://github.com/EO4wellness/T-I-L/blob/main/README.md#artificial-intellegence)<br> 
 [Android](https://github.com/EO4wellness/T-I-L/blob/main/README.md#android)<br>
+[Data](https://github.com/EO4wellness/T-I-L/blob/main/README.md#data)<br>
 [Events](https://github.com/EO4wellness/T-I-L/blob/main/README.md#events) <br>
 [Fortran](https://github.com/EO4wellness/T-I-L/blob/main/README.md#fortran)<br>
 [General](https://github.com/EO4wellness/T-I-L/blob/main/README.md#general) <br>
@@ -32,6 +33,9 @@ This is a record of my personal journey.  November, 2020 is the very beginning o
 * New Course 
 * Future Learn Coding 
 
+### Data 
+* Dec 1, 2020: Received Bertlesmann Udacity Data Track Scholarship. 
+* Dec 3, 2020: Began Data Track coursework. Completed reading all of the introductory materials, website pages, FAQ, slack, calendar and completed lesson 1 & 2. 
 
 ### Events 
 * Signed up to Attend: Why you Cannot Stop Data Breaches-https://www.meetup.com/dataops-austin/events/274734432 
@@ -93,14 +97,15 @@ Project website: http://tacodataset.org/<br>
 	
 ### Nutanix
 * Ongoing Udacity Nanodegree Enrollment and Studies 
-	Project 1
+	Project 1 - Stumped by error message.  Afraid I wasn't going to be able to do it.  Reviewed everything and then I discovered the cause--fixed it and am now 
+                    back to actively working on submitting my project. 
 	Project 2
 	Project 3
 	LinkedIn Profile-ongoing 
 	GitHub Participation-ongoing 
-	Career Counseling 
-	Resume
-	Coverletter 
+	Career Counseling - set up new session for this month, attended last end of Oct. 
+	Resume - in progress
+	Coverletter -in progress 
 * Nutanix University online 
 
 ### PHP 
