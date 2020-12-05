@@ -36,6 +36,8 @@ This is a record of my personal journey.  November, 2020 is the very beginning o
 ### Data 
 * Dec 1, 2020: Received Bertlesmann Udacity Data Track Scholarship. 
 * Dec 3, 2020: Began Data Track coursework. Completed reading all of the introductory materials, website pages, FAQ, slack, calendar and completed lesson 1 & 2. 
+* Dec 4, 2020: Lesson 3-Linear Regression
+* Dec 5, 2020: Lesson 3-Review Linear Regression 
 
 ### Events 
 * Signed up to Attend: Why you Cannot Stop Data Breaches-https://www.meetup.com/dataops-austin/events/274734432 
