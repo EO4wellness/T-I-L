@@ -126,6 +126,7 @@ Project website: http://tacodataset.org/<br>
 	Resume - in progress
 	Coverletter -in progress 
 * Nutanix University online 
+* Followups for Project 1: https://knowledge.udacity.com/questions/359263  https://knowledge.udacity.com/questions/366657  https://knowledge.udacity.com/questions/369081  https://knowledge.udacity.com/questions/366657  https://knowledge.udacity.com/questions/364247  https://knowledge.udacity.com/questions/391389  https://knowledge.udacity.com/questions/128424  https://www.youtube.com/watch?v=Pxmbm1FZ9FY&feature=emb_logo  https://next.nutanix.com/prism-infrastructure-management-26/nutanix-prism-element-central-and-pro-overview-video-28363
 
 ### PHP 
 * Started Sololearns PHP course today (Nov 25; finished first syntax module 100%) 
