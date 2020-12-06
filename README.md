@@ -27,6 +27,7 @@ This is a record of my personal journey.  November, 2020 is the very beginning o
 * Interesting [UseCase](https://style-transfer.devopsdirective.com/) example of Transfer Style. 
 * [Introduction to Deep Learning with Pytorch](https://classroom.udacity.com/courses/ud188)
 * https://www.kaggle.com/learn/intro-to-deep-learning 
+* Connected with fellow Udacity student @AarthiAlagammai over this [Kaggle article: Tools A.I.](https://www.kaggle.com/aarthialagammai/tools-that-rules)
 
 ### Android 
 * Udacity Course: Localization Course https://www.udacity.com/course/localization-essentials--ud610 (11/19/2020) 
@@ -37,7 +38,9 @@ This is a record of my personal journey.  November, 2020 is the very beginning o
 * Dec 1, 2020: Received Bertlesmann Udacity Data Track Scholarship. 
 * Dec 3, 2020: Began Data Track coursework. Completed reading all of the introductory materials, website pages, FAQ, slack, calendar and completed lesson 1 & 2. 
 * Dec 4, 2020: Lesson 3-Linear Regression
-* Dec 5, 2020: Lesson 3-Review Linear Regression 
+* Dec 5, 2020: Lesson 3-Review Linear Regression.  Reviewed and completed Lesson 3.  
+* Dec 6, 2020: Completed Lesson 3, 4, and 5.  Reviewing and exploring other course-related materials, digging in deeper with tutorials at the Alteryx website. 
+* Dec 7, 2020: Orientation, began Alteryx website training. 
 
 ### Events 
 * Signed up to Attend: Why you Cannot Stop Data Breaches-https://www.meetup.com/dataops-austin/events/274734432 
