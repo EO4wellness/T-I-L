@@ -45,7 +45,7 @@ This is a record of my personal journey.  November, 2020 is the very beginning o
 ### Events 
 * Signed up to Attend: Why you Cannot Stop Data Breaches-https://www.meetup.com/dataops-austin/events/274734432 
 * Registered to Attend: SalesForce Dream Force https://www.salesforce.com/dreamforce/
-* Enjoying the now, ongoing, Women Who Code, #connectforward conference. https://connectforward.womenwhocode.dev/register [List of Presenters](https://connectforward.womenwhocode.dev/speakers/)
+* Enjoying the now, ongoing, Women Who Code, #connectforward conference. https://connectforward.womenwhocode.dev/register [List of Presenters](https://connectforward.womenwhocode.dev/speakers/) from the Women Who Code Connect Forward event I've been daily watching some or all of an entire video of the event [playlist](https://www.youtube.com/playlist?list=PLVcEZG2JPVhdzBiCNzL7yYIW-0OOSLvjM) and want to continue doing so.  I've learned alot from this group AND have been receiving fabulous support and encouragement. 
 * Registered to attend Explorium's New Year's Resolution for Data Scientists: Accessing Better Data to be held Dec. 16th, 2020  |  9am PST
 
 
