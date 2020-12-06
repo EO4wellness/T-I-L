@@ -148,6 +148,7 @@ Project website: http://tacodataset.org/<br>
 * [Learn about Issues](https://guides.github.com/features/issues/)
 * [Alteryx Adapt Program](https://www.alteryx.com/why-alteryx/alteryx-for-good/adapt-program)
 * [MarkDown Resource to Read Thru](https://github.github.com/gfm/#html-blocks)
+* Solo Learn reading list [Part 1](https://www.sololearn.com/blog/111) and [Part 2](https://www.sololearn.com/blog/112)
 
 ### WIKI
 * In November, 2020, I started a T-I-L WIKI just to learn and practice more of the WIKI Github skill set.  Likely, overtime, I will also do "issues" "projects" and other additional GitHub features here in this repository to practice various aspects of what's available.  
