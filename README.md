@@ -165,6 +165,7 @@ Project website: http://tacodataset.org/<br>
 * https://www.kdnuggets.com/2020/11/learn-deep-learning-free-course-yann-lecun.html 
 * https://www.kdnuggets.com/2020/11/greatlearning-ai-project-ideas-beginners.html 
 * https://www.kdnuggets.com/2020/12/14-data-science-projects-improve-skills.html 
+https://wordpress.com/media/galswhocode.wordpress.com
 
 ### WIKI
 * In November, 2020, I started a T-I-L WIKI just to learn and practice more of the WIKI Github skill set.  Likely, overtime, I will also do "issues" "projects" and other additional GitHub features here in this repository to practice various aspects of what's available.  
