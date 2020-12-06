@@ -6,6 +6,7 @@ This is a record of my personal journey.  November, 2020 is the very beginning o
 [A.I.](https://github.com/EO4wellness/T-I-L/blob/main/README.md#artificial-intellegence)<br> 
 [Android](https://github.com/EO4wellness/T-I-L/blob/main/README.md#android)<br>
 [Data](https://github.com/EO4wellness/T-I-L/blob/main/README.md#data)<br>
+[Deepnote](https://www.loom.com/share/29b8146cb3c144e8ba7d7f2e4487a611)<br>
 [Events](https://github.com/EO4wellness/T-I-L/blob/main/README.md#events) <br>
 [Fortran](https://github.com/EO4wellness/T-I-L/blob/main/README.md#fortran)<br>
 [General](https://github.com/EO4wellness/T-I-L/blob/main/README.md#general) <br>
@@ -41,6 +42,15 @@ This is a record of my personal journey.  November, 2020 is the very beginning o
 * Dec 5, 2020: Lesson 3-Review Linear Regression.  Reviewed and completed Lesson 3.  
 * Dec 6, 2020: Completed Lesson 3, 4, and 5.  Reviewing and exploring other course-related materials, digging in deeper with tutorials at the Alteryx website. 
 * Dec 7, 2020: Orientation, began Alteryx website training. 
+
+### Deepnote
+* Reviewed and shared: [Work at Deepnote](https://deepnote.com/publish/jobs)<br>
+* [SQL cells in Deepnote](https://www.loom.com/share/29b8146cb3c144e8ba7d7f2e4487a611)<br>
+* Joined Deepnote Community 
+* https://deepnote.com/
+* [Write Notebook](https://docs.deepnote.com/collaboration/publishing-a-notebook)
+* [How to Ditch Spreadsheets vs. Notebooks](https://deepnote.com/publish/1c797c44-4373-4640-ba62-8e2c673aff52)
+* Tutorial[ Use Pandas to bring Spreadsheets to Deepnote](https://deepnote.com/publish/31ef49b9-dd56-4e27-97ce-98c2e89bc4c9)
 
 ### Events 
 * Signed up to Attend: Why you Cannot Stop Data Breaches-https://www.meetup.com/dataops-austin/events/274734432 
