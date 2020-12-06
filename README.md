@@ -161,6 +161,10 @@ Project website: http://tacodataset.org/<br>
 * [MarkDown Resource to Read Thru](https://github.github.com/gfm/#html-blocks)
 * Solo Learn reading list [Part 1](https://www.sololearn.com/blog/111) and [Part 2](https://www.sololearn.com/blog/112)
 * https://dev.to/iuliagroza/complete-introduction-to-the-30-most-essential-data-structures-algorithms-43kd?utm_source=hootsuite&utm_medium=&utm_term=&utm_content=&utm_campaign= 
+* https://www.kdnuggets.com/2020/11/tabpy-combining-python-tableau.html
+* https://www.kdnuggets.com/2020/11/learn-deep-learning-free-course-yann-lecun.html 
+* https://www.kdnuggets.com/2020/11/greatlearning-ai-project-ideas-beginners.html 
+* https://www.kdnuggets.com/2020/12/14-data-science-projects-improve-skills.html 
 
 ### WIKI
 * In November, 2020, I started a T-I-L WIKI just to learn and practice more of the WIKI Github skill set.  Likely, overtime, I will also do "issues" "projects" and other additional GitHub features here in this repository to practice various aspects of what's available.  
