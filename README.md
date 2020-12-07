@@ -30,6 +30,7 @@ This is a record of my personal journey.  November, 2020 is the very beginning o
 * https://www.kaggle.com/learn/intro-to-deep-learning 
 * Connected with fellow Udacity student @AarthiAlagammai over this [Kaggle article: Tools A.I.](https://www.kaggle.com/aarthialagammai/tools-that-rules)
 * [NLP](https://towardsdatascience.com/learn-nlp-the-stanford-way-lesson-1-3f1844265760)
+* [70 Projects & Datasets](https://data-flair.training/blogs/machine-learning-datasets/)
 
 ### Android 
 * Udacity Course: Localization Course https://www.udacity.com/course/localization-essentials--ud610 (11/19/2020) 
