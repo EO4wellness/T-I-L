@@ -13,7 +13,7 @@ To use Python, you must first install it.
 [Anaconda](https://www.anaconda.com/products/individual)
 
 # Beginners Tutorials and Guides
-* [Sololearn]https://www.sololearn.com
+* [Sololearn](https://www.sololearn.com)
 * [Hello World in Python](https://www.hackinscience.org/exercises/)
 * https://wiki.python.org/moin/BeginnersGuide
 * https://www.python.org/about/gettingstarted/
