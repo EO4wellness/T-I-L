@@ -101,6 +101,9 @@ Project website: http://tacodataset.org/<br>
 [Tip for GitHub Involvement](https://opensource.stackexchange.com/questions/6316/githubs-help-wanted-label-what-if-i-want-help-on-all-issues)
 [Help Wanted Tip](http://github-help-wanted.com/)
 [Up for Grabs-Get Started](https://github.com/up-for-grabs/up-for-grabs.net)
+* Found "dark mode" setting in GitHub. Prefer it.  Changed settings. 12/9-2020 
+* Found "discussion" setting and turned it on. 12-09-2020 
+* Worked on READme and Version Control repo https://github.com/EO4wellness/leary-leerie 12-09-202
 
 ### HTML 
 * [HTML](https://github.com/EO4wellness/T-I-L/blob/main/HTML/HTML.md)<br>
