@@ -46,6 +46,8 @@ This is a record of my personal journey.  November, 2020 is the very beginning o
 * Dec 5, 2020: Lesson 3-Review Linear Regression.  Reviewed and completed Lesson 3.  
 * Dec 6, 2020: Completed Lesson 3, 4, and 5.  Reviewing and exploring other course-related materials, digging in deeper with tutorials at the Alteryx website. 
 * Dec 7, 2020: Orientation, began Alteryx website training. 
+* Dec 8, 2020: Applications, Slack workspace interactions Q&A. 
+* Dec 9, 2020: Review Lesson 3, 4, and 5. 
 
 ### Deepnote
 * Reviewed and shared: [Work at Deepnote](https://deepnote.com/publish/jobs)<br>
@@ -62,6 +64,7 @@ This is a record of my personal journey.  November, 2020 is the very beginning o
 * Enjoying the now, ongoing, Women Who Code, #connectforward conference. https://connectforward.womenwhocode.dev/register [List of Presenters](https://connectforward.womenwhocode.dev/speakers/) from the Women Who Code Connect Forward event I've been daily watching some or all of an entire video of the event [playlist](https://www.youtube.com/playlist?list=PLVcEZG2JPVhdzBiCNzL7yYIW-0OOSLvjM) and want to continue doing so.  I've learned alot from this group AND have been receiving fabulous support and encouragement. 
 * Registered to attend Explorium's New Year's Resolution for Data Scientists: Accessing Better Data to be held Dec. 16th, 2020  |  9am PST
 * Sillenza-A Two-Month long open source project for newbies up to menotrs. I've signed up to be a part of this experience: https://swoc.tech/ 
+* Cybrary Security Courses 12/09/2020 
 
 
 ### Fortran
