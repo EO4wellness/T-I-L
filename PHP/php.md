@@ -33,8 +33,8 @@ This folder contains the code snippets in the order I learned them (commented):
 
 ### To Do 
 * Wonder how to write a TO-DO list or tasks list within GitHub Flavored Markdown?<br>
-        - [ ] Empty boxes <br><br>
-        - [x] For filled Boxes <br>
+                - [ ] Empty boxes <br><br>
+                - [x] For filled Boxes <br>
 * My PHP STUDY ToDo/TaskList( <br>
 - [ ] [Sololearn](https://www.sololearn.com/Play/PHP)<br>
         -[x] Basic Syntax 
