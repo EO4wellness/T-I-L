@@ -32,8 +32,8 @@ This folder contains the code snippets in the order I learned them (commented):
 5. []()
 
 ### To Do 
-* Wonder how to write a TO-DO list or tasks list within GitHub Flavored Markdown?
+* Wonder how to write a TO-DO list or tasks list within GitHub Flavored Markdown?<br>
         -[ ] Empty boxes 
         -[x] For filled Boxes 
-* ToDo/TaskList Tutorial 
+* ToDo/TaskList Tutorial <br>
 -[ ] [Future Resource](https://www.jotform.com/blog/20-useful-php-components-tutorials-for-everyday-project/)
