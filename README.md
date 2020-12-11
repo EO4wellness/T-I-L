@@ -107,6 +107,7 @@ Project website: http://tacodataset.org/<br>
 * Found "dark mode" setting in GitHub. Prefer it.  Changed settings. 12/9-2020 
 * Found "discussion" setting and turned it on. 12-09-2020 
 * Worked on READme and Version Control repo https://github.com/EO4wellness/leary-leerie 12-09-202
+  and again on 12-10 and 12-11 and 12-12. 
 
 ### HTML 
 * [HTML](https://github.com/EO4wellness/T-I-L/blob/main/HTML/HTML.md)<br>
@@ -139,6 +140,7 @@ Project website: http://tacodataset.org/<br>
 * Nutanix University online 
 * Followups for Project 1: https://knowledge.udacity.com/questions/359263  https://knowledge.udacity.com/questions/366657  https://knowledge.udacity.com/questions/369081  https://knowledge.udacity.com/questions/366657  https://knowledge.udacity.com/questions/364247  https://knowledge.udacity.com/questions/391389  https://knowledge.udacity.com/questions/128424  https://www.youtube.com/watch?v=Pxmbm1FZ9FY&feature=emb_logo  https://next.nutanix.com/prism-infrastructure-management-26/nutanix-prism-element-central-and-pro-overview-video-28363
 Studied several lessons today 12-7-2020 in the ND
+* 12-11 studied in ND. Saw that Microsoft came out with a similar product to [Nutanix](https://azure.microsoft.com/en-us/products/azure-stack/hci/hci-download/?ocid=eml_pg224624_gdc_comm_az&mkt_tok=eyJpIjoiTURBMVlqRm1OVE0zTmpKbCIsInQiOiJTNjVJSCtJMVlMYUo0aWYxWkpDTnQ0c0ZJY1ZXZWd1TVhsN3lpeHBkUTBZa3FTcWx5bUJmSlg4YXF6WE9hWGkrYllcL2NGaEZBbWtHOEMrbnJsQ1NZcXQ1UVFcL0ZMSlp4WUpSN2tNd242MzMxdDA4OVJ1eTdtVTFLaVprb05uMmtSWWN0VVVWcTJkUFVqcmt1WVMyUG1FZz09In0%3D) and took a look at it. 
 
 ### PHP 
 * Started Sololearns PHP course today (Nov 25; finished first syntax module 100%) 
