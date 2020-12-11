@@ -36,7 +36,16 @@ This folder contains the code snippets in the order I learned them (commented):
         - [ ] Empty boxes <br><br>
         - [x] For filled Boxes <br>
 * My PHP STUDY ToDo/TaskList( <br>
--[ ] [Sololearn](https://www.sololearn.com/Play/PHP)<br>
-     -[x] Basic Syntax -[x] Variables -[ ] Operators -[ ] Arrays -[ ] Control Structures -[ ] Functions -[ ] Predefined Variables -[ ]Working with Files -[ ] Object-Oriented PHP -[ ] Certificate of Completion 
--[ ] [Future PHP Study Resource](https://www.jotform.com/blog/20-useful-php-components-tutorials-for-everyday-project/)
--[ ] [W3 Schools Tutorial on PHP](https://www.w3schools.com/php/default.asp)
+- [ ] [Sololearn](https://www.sololearn.com/Play/PHP)<br>
+        -[x] Basic Syntax 
+        -[x] Variables 
+        -[ ] Operators 
+        -[ ] Arrays 
+        -[ ] Control Structures 
+        -[ ] Functions 
+        -[ ] Predefined Variables 
+        -[ ]Working with Files 
+        -[ ] Object-Oriented PHP 
+        -[ ] Certificate of Completion 
+- [ ] [Future PHP Study Resource](https://www.jotform.com/blog/20-useful-php-components-tutorials-for-everyday-project/)<br>
+- [ ] [W3 Schools Tutorial on PHP](https://www.w3schools.com/php/default.asp)<br>
