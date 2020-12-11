@@ -15,7 +15,7 @@ So are you ready to learn PHP too?  Here is the journey I took to begin learning
 <br>
 ### [Solo Learn Website](https://www.sololearn.com/Play/PHP)
 One of the many cool things about learning code with Solo Learn is their [code playground](https://code.sololearn.com/#html) where you can experiment with the code you are learning and run it.  This is also fabulous to finding errors and correcting them before they become BAD habits! 
-* Began learning PHP with Sololearn website. 
+* Began learning PHP with Sololearn website (Nov, 2020). 
 * My [Solo Learn profile](https://www.sololearn.com/Profile/15619122)
 * Completed the first module, Basic PHP Syntax, on Nov 25, 2020. 
 * Continued learning, completing the second module, PHP variables, on 11/29/2020.
