@@ -39,7 +39,7 @@ This is a record of my personal journey.  November, 2020 is the very beginning o
 * Future Learn Coding 
 
 ### Data 
-* [Zip Function in Python Useful for](https://renanmf.com/zip-function-python/)
+* [Python 'Zip Function' in Data Useage](https://renanmf.com/zip-function-python/)
 * Dec 1, 2020: Received Bertlesmann Udacity Data Track Scholarship. 
 * Dec 3, 2020: Began Data Track coursework. Completed reading all of the introductory materials, website pages, FAQ, slack, calendar and completed lesson 1 & 2. 
 * Dec 4, 2020: Lesson 3-Linear Regression
