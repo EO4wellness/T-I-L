@@ -118,6 +118,9 @@ Project website: http://tacodataset.org/<br>
 ### JavaScript 
 * https://www.programiz.com/javascript  
 
+### Markdown
+* [Code Blocks in MD](https://github.com/EO4wellness/leary-leerie/blob/master/git-install-notes.md)
+
 ### Notepad++
 * Updated existing install to new version (November 18, 2020)
 	Set as default GetHub Desktop editor (November 18, 2020)
