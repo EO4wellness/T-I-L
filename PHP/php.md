@@ -33,7 +33,8 @@ This folder contains the code snippets in the order I learned them (commented):
 
 ### To Do 
 * Wonder how to write a TO-DO list or tasks list within GitHub Flavored Markdown?<br>
-        -[ ] Empty boxes 
-        -[x] For filled Boxes 
+        -[ ] Empty boxes <br><br>
+        -[x] For filled Boxes <br>
 * ToDo/TaskList Tutorial <br>
--[ ] [Future Resource](https://www.jotform.com/blog/20-useful-php-components-tutorials-for-everyday-project/)
+-[ ] [Future PHP Study Resource](https://www.jotform.com/blog/20-useful-php-components-tutorials-for-everyday-project/)
+-[ ] [W3 Schools Tutorial on PHP](https://www.w3schools.com/php/default.asp)
