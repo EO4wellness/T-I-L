@@ -13,6 +13,7 @@ This is a record of my personal journey.  November, 2020 is the very beginning o
 [GitHub](https://github.com/EO4wellness/T-I-L/blob/main/README.md#github) <br>
 [HTML](https://github.com/EO4wellness/T-I-L/blob/main/README.md#html)<br>
 [InDesign](https://github.com/EO4wellness/T-I-L/blob/main/README.md#indesign) <br>
+[Markdown](https://github.com/EO4wellness/T-I-L/blob/main/README.md#markdown)<br>
 [Notepad++](https://github.com/EO4wellness/T-I-L/blob/main/README.md#notepad++) <br>
 [Nutanix](https://github.com/EO4wellness/T-I-L/blob/main/README.md#nutanix) <br>
 [PHP](https://github.com/EO4wellness/T-I-L/blob/main/README.md#php) <br>
