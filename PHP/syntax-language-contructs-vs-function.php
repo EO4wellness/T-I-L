@@ -12,8 +12,11 @@ echo "I am learning PHP!";
 #
  <?php
 function writeMsg() {
-  echo "Hello world!";
+  echo "I am learning PHP!";
 }
 
 writeMsg(); // call the function
 ?> 
+#
+# Note these two PHP statements both have the same output, namely: "I am learning PHP!" but they require different syntax.
+#
