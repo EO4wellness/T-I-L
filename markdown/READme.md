@@ -3,9 +3,11 @@ This folder contains a chronical of my MARKDOWN learning journey. The folder and
 
 # Resources
 * [Online Simple/Free Conversion Tool Markdown-to-HTML](https://markdowntohtml.com/)<br>
-* [Markdown Pad Download](http://markdownpad.com/download.html) 
-* [Markdown Pad Portable](http://markdownpad.com/download.html)
-* [Developer Pro MD Pad](https://markdownpad.com/buy.html)|[Feature Comparisson](https://markdownpad.com/compare.html)
-  [Support](http://markdownpad.com/support.html)
+* [Markdown Pad Download](http://markdownpad.com/download.html) <br>
+* [Markdown Pad Portable](http://markdownpad.com/download.html)<br>
+* [Developer Pro MD Pad](https://markdownpad.com/buy.html)|[Feature Comparisson](https://markdownpad.com/compare.html)<br>
+  [Support](http://markdownpad.com/support.html)<br>
+* [Markdown Tutorial](https://www.markdowntutorial.com/lesson/1/)<br>
+<br>
 # 
 
