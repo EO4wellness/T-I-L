@@ -186,6 +186,7 @@ Studied several lessons today 12-7-2020 in the ND
 * https://www.kdnuggets.com/2020/12/14-data-science-projects-improve-skills.html 
 * https://wordpress.com/media/galswhocode.wordpress.com
 * [Learn React in 10 Hours](https://www.freecodecamp.org/news/react-10-hour-course/)
+* [Data Visualization Course](https://www.coursera.org/specializations/data-visualization)<br>
 
 ### WIKI
 * In November, 2020, I started a T-I-L WIKI just to learn and practice more of the WIKI Github skill set.  Likely, overtime, I will also do "issues" "projects" and other additional GitHub features here in this repository to practice various aspects of what's available.  
