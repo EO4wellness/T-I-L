@@ -10,13 +10,13 @@ The road to polyglot is also not built in one day.<br>
 # Today I Learned | Las Idiomas
 -[x] Japaneese | Japonés | [T-I-L](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/japon%C3%A9s)<br>
 -[x] Spanish | Espanol | [T-I-L](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/espa%C3%B1ol)<br>
--[x] German | Aleman | [T-I-L](link)<br> 
--[x] Slovak | Eslovaco | [T-I-L](link)<br> 
--[x] Welsh | Galés | [T-I-L](link)<br>
+-[x] German | Aleman | [T-I-L](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/aleman)<br> 
+-[x] Slovak | Eslovaco | [T-I-L](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/eslovaco)<br> 
+-[x] Welsh | Galés | [T-I-L](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/gales)<br>
 
 
 ## T-I-L Current Log
-[Japaneese](https://github.com/EO4wellness/T-I-L/blob/main/DUOlingo/japon%C3%A9s/2020_log.md) | [Spanish] | [German] | [Slovak] | [Welsh] 
+[Japaneese]() | [Spanish]() | [German]() | [Slovak]() | [Welsh]() 
 
 
 # Why?
