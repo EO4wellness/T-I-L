@@ -16,7 +16,7 @@ The road to polyglot is also not built in one day.<br>
 
 
 ## T-I-L Current Log
-[Japaneese]() | [Spanish]() | [German]() | [Slovak]() | [Welsh]() 
+[Japaneese](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/japon%C3%A9s/2020_log.md) | [Spanish](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/espa%C3%B1ol/2020_log.md) | [German](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/aleman/2020_log.md) | [Slovak](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/eslovaco/2020_log.md) | [Welsh](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/gales/2020_log.md) 
 
 
 # Why?
