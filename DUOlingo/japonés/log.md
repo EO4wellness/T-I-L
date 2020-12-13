@@ -1,4 +1,4 @@
-# YEAR | Month | Date: | Decription of Studies
+# YEAR | Month | Date: | Description of Studies
 * 2020-12-1: Review of Hiragana<br>
 * 2020-12-2: Review of Hiragana<br>
 * 2020-12-3: Review of Hiragana<br>
