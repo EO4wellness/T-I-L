@@ -109,7 +109,7 @@ Project website: http://tacodataset.org/<br>
 * Found "discussion" setting and turned it on. 12-09-2020 
 * Worked on READme and Version Control repo https://github.com/EO4wellness/leary-leerie 12-09-202
   and again on 12-10 and 12-11 and 12-12. 
-* [Delete](link)
+* [Delete](https://github.com/EO4wellness/T-I-L/wiki/GitHub-Delete)
 
 ### HTML 
 * [HTML](https://github.com/EO4wellness/T-I-L/blob/main/HTML/HTML.md)<br>
