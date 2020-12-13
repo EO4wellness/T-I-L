@@ -3,16 +3,16 @@ The road to code is not built in one day.
 
 The road to polyglot is also not built in one day.  
 
-# Today I Learned 
--[x] Japaneese 
+# Today I Learned | Las Idiomas
+-[x] Japaneese | Japonés
 
--[x] Spanish 
+-[x] Spanish | Espanol 
 
--[x] German 
+-[x] German | Aleman 
 
--[x] Slovak 
+-[x] Slovak | Eslovaco
 
--[x] Welsh 
+-[x] Welsh | Galés
 
 
 ## TIL Logs
