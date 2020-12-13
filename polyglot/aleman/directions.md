@@ -27,57 +27,42 @@ Ja, das Hotel ist rechts. (Yes, the hotel is on the right)<br>
 Der supermarkt ist auch in der Nahe (The supermarket is also nearby) <br>
 Wo ist der Supermarkt (Where is the supermarket?)<br>
 Der Park ist links.  (The park is on the left)<br>
-
-Entschuldigung wo ist das Kino?  Excuse me, where is the movie theater? 
-rechts oder links (on the right or on the left?) 
-
+Entschuldigung wo ist das Kino?  (Excuse me, where is the movie theater?)<br> 
+rechts oder links (on the right or on the left?) <br>
+<br>
 ## LESSON #3: 
-der Geldautomat (the ATM)
-
+der Geldautomat (the ATM)<br>
+<br>
 ## LESSON #4
-Entschuldigung, wo ist der Geldautomat?
-(Excuse me, where is the ATM?) 
+Entschuldigung, wo ist der Geldautomat? (Excuse me, where is the ATM?) <br>
 <br>
-Das Museum ist neu. 
-(The museum is new)
+Das Museum ist neu. (The museum is new) <br>
 <br>
-Ja, die Bibliothek ist weit weg 
-(Yes, the library is far away)
+Ja, die Bibliothek ist weit weg (Yes, the library is far away)<br>
 <br>
-Die U-Bahnstation ist alt
-(The subway station is old.)
+Die U-Bahnstation ist alt (The subway station is old.)<br>
 <br>
-Die Universitat in Berlin ist alt.
-(The university in Berlin is old)
+Die Universitat in Berlin ist alt.(The university in Berlin is old)<br>
 <br>
-(Is the University big?)
-Ist die Universitat GroB
+(Is the University big?) Ist die Universitat GroB<br>
 <br>
-(new and old)
-neu und alt 
+(new and old) neu und alt <br>
 <br>
-Ist der Bahnhof da druben?
-(Is the train station over there?) 
+Ist der Bahnhof da druben? (Is the train station over there?) <br>
 <br>
-Der Taxistand ist da druben
-The taxi stand is over there. 
+Der Taxistand ist da druben (The taxi stand is over there). <br>
 <br>
-Der Taxistand ist hier. 
-(The taxi stand is here.)
+Der Taxistand ist hier. (The taxi stand is here.)<br>
 <br>
-der Park und der Markt
-(the park and the market)
+der Park und der Markt (the park and the market)<br>
 <br>
-Entschuldigung who ist der Markt?
-(Excuse me, where is the market?)
+Entschuldigung who ist der Markt? (Excuse me, where is the market?)<br>
 <br>
-Der Bahnhof ist da druben
-(The train station is over there.)
-
+Der Bahnhof ist da druben (The train station is over there.)<br>
+<br>
 ## LESSON #5 
 <br>
-alt und wunderbar 
-(old and wonderful)
+alt und wunderbar  (old and wonderful)<br>
 <br>
 Die Kirche ist da druben 
 (The church is over there.)
