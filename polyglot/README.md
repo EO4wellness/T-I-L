@@ -9,7 +9,7 @@ The road to polyglot is also not built in one day.<br>
 
 # Today I Learned | Las Idiomas
 -[x] Japaneese | Japonés | [T-I-L](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/japon%C3%A9s)<br>
--[x] Spanish | Espanol | [T-I-L](https://github.com/EO4wellness/T-I-L/tree/main/DUOlingo/espanol)<br>
+-[x] Spanish | Espanol | [T-I-L](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/espa%C3%B1ol)<br>
 -[x] German | Aleman | [T-I-L](link)<br> 
 -[x] Slovak | Eslovaco | [T-I-L](link)<br> 
 -[x] Welsh | Galés | [T-I-L](link)<br>
