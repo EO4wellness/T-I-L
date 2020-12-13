@@ -11,7 +11,7 @@ The road to polyglot is also not built in one day.<br>
 
 
 ## TIL Logs
-* [Japaneese]
+* [Japaneese](https://github.com/EO4wellness/T-I-L/blob/main/DUOlingo/japon%C3%A9s/2020_log.md)
 * [Spanish]
 * [German]
 * [Slovak]
