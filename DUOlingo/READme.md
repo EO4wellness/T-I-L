@@ -3,7 +3,7 @@ The road to code is not built in one day.<br>
 The road to polyglot is also not built in one day.<br>  
 
 
-## Tools Used
+## Tool Favs
 [Duolingo](https://www.duolingo.com/profile/EO4wellnes) | [Mondly](https://app.mondly.com/home) | [Drops](https://app.languagedrops.com/)
 
 
