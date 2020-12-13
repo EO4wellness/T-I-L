@@ -10,7 +10,7 @@ The road to polyglot is also not built in one day.<br>
 -[x] Welsh | Galés | [T-I-L](link)<br>
 
 
-## TIL Logs
+## T-I-L Current Log
 * [Japaneese](https://github.com/EO4wellness/T-I-L/blob/main/DUOlingo/japon%C3%A9s/2020_log.md)
 * [Spanish]
 * [German]
