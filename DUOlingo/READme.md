@@ -22,4 +22,4 @@ The road to polyglot is also not built in one day.<br>
 # Why?
 Why not! 
 
-! <>
+![Polyglot Definition-MW](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/images/polyglot.png)
