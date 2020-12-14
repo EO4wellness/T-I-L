@@ -31,28 +31,28 @@ Croeso, Megan.  Owen dw i.  (Welcome, Megan.  I am Owen).<br>
 # Course Structure<br>
 * DysguCymraeg Mynediad(LearnWelsh) Sylfaen level courses for adults <br>
 * Covers CERF levels A1 and A2<br>
-* [Welsh](https://www.learnwelsh.cymru)<br>
-<br>
-# Welsh Nouns and Adjectives<br>
+* [Welsh](https://www.learnwelsh.cymru) <br>
+
+## Welsh Nouns and Adjectives<br>
 * NOTE: Nouns in Welsh are followed by Adjectives, unlike English so that:<br>
 * Bore (morning) da (good) in welsh would be translated into English as Good morning.<br>
 * Likewise, nos da (evening good) in Welsh, is translated Good evening in English.<br>
 <br>
-# Names<br>
+## Names<br>
 * In Wales, personal names are not translated and the spelling is not changed between English and Welsh.  However, in contrast, if a place name is translated between Welsh and English. <br>
 * In order to make sentences with the first words we are learning in Welsh, we need to know a few names. <br>
         Dylan, Dewi, and Owen are men's names. <br>
         Morgan can be either a man's name or a woman's name. <br>
         Megan is a woman's name. <br>
         Draig/Dragon is generally not used as a name in Wales. However the Draig Goch is the national symbol. <br>
-<br>
-# Pronounciation<br>
+
+## Pronounciation<br>
 * Normally Welsh and British English are pronounced with the same sounds.  <br>
 * W and Y in Welsh are volwels despite normally being treated in English as consonants. <br>
 * Course instructors recommend [WelshPlus YouTube Pronunciation Basics](https://www.youtube.com/playlist?list=PLz6oFM0_IszwxmU7dMcGQClZ5zMwX2EdY)<br>
 * Course instructors recommend consulting [on-line dictionary](www.gweiadur.com)<br>
-<br>
-# Typing Welsh Accented Characters <br>
+
+## Typing Welsh Accented Characters <br>
 <br>
     * If you are in Britain, try setting your region to UK - on iOS that gives you ŵ, ŷ, î, ê, ï, á, etc, as pop-up characters if you keep the w, y or other vowel keys depressed for a second.<br>
     * Otherwise, install the iOS/Android Swiftkey app with its Welsh keyboard.<br>
