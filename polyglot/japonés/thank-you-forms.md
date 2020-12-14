@@ -4,4 +4,4 @@
 * This lesson introduces and reviews those forms. 
 
 ## Thank You
-! [Thank You Forms](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/japon%C3%A9s/images/thank-you-forms.png)
+![Thank You Forms](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/japon%C3%A9s/images/thank-you-forms.png)
