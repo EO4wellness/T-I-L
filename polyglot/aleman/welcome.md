@@ -1,47 +1,47 @@
-# Basics in German: Lesson 1
-Hello and Welcome 
-Hallo | Hello | Hola | Croeso | Ahoj 
-German | English | Spanish | Welsh | Slovak 
+# Basics in German: Lesson 1<br>
+Hello and Welcome <br>
+Hallo | Hello | Hola | Croeso | Ahoj <br>
+German | English | Spanish | Welsh | Slovak <br>
+<br>
+# Nouns <br>
+In German, all nouns are capitalized. <br>
+<br>
+# Lesson 1: Words <br>
+Wasser (Water) <br>
+Junge (Boy) <br>
+Tschuss (Bye) <br>
+Nein (no)<br>
+Ja (yes)<br>
+danke (thank you) <br>
+und (and)<br>
+oder (or) <br>
+<br>
+# Lesson 1: Phrases <br>
+Brot und Kaffee, bitte! (Bread and coffee, Please) <br>
+Brot und Wasser, bitte.  (Bread and water, please) <br>
+Kaffee und Milch, bitte.  (Coffee and Milk, please) <br>
+Wasser und Brot, bitte! (Coffee and Bread, please) <br>
+Hallo und tschüss. (hello and goodbye) <br>
+Danke, tschüss (thank you, goodbye) <br>
+Nein, danke (No, thank you!) <br>
+Ja oder nein (Yes or no)<br>
+Hallo und tschuss. (Hello and Goodbye)<br>
+<br>
 
-# Nouns 
-In German, all nouns are capitalized. 
-
-# Lesson 1: Words 
-Wasser (Water) 
-Junge (Boy) 
-Tschuss (Bye) 
-Nein (no)
-Ja (yes)
-danke (thank you) 
-und (and)
-oder (or) 
-
-# Lesson 1: Phrases 
-Brot und Kaffee, bitte! (Bread and coffee, Please) 
-Brot und Wasser, bitte.  (Bread and water, please) 
-Kaffee und Milch, bitte.  (Coffee and Milk, please) 
-Wasser und Brot, bitte! (Coffee and Bread, please) 
-Hallo und tschüss. (hello and goodbye) 
-Danke, tschüss (thank you, goodbye) 
-Nein, danke (No, thank you!) 
-Ja oder nein (Yes or no)
-Hallo und tschuss. (Hello and Goodbye)
-
-
-# Basics in German: Lesson 2
-
-#Pets
-In English, it is say that the dog is man's best friend.  However, in Germany, cats are more popular than dogs. 
-
-# Spots 
-The vowels in German sometimes have two dots above them.  They are called umlauts.  The umlauts (two dots) change the vowel's pronunciation. 
-
+# Basics in German: Lesson 2<br>
+<br>
+#Pets<br>
+In English, it is say that the dog is man's best friend.  However, in Germany, cats are more popular than dogs. <br>
+<br>
+# Spots <br>
+The vowels in German sometimes have two dots above them.  They are called umlauts.  The umlauts (two dots) change the vowel's pronunciation. <br>
+<br>
         Bär (bear) 
         schön (beautiful) 
 
-# Gender
-Words change form in German depending on the gender. All words in German have gender. The disctnction isn't logical--it is something you have to memorize. 
-
+# Gender<br>
+Words change form in German depending on the gender. All words in German have gender. The disctnction isn't logical--it is something you have to memorize. <br>
+<br>
         mein Vater (my father) 
         meine Mutter (my mother) 
         die Frau (the woman)
@@ -53,20 +53,20 @@ Words change form in German depending on the gender. All words in German have ge
         die Eule (the owl)
         die Katze (the cat) 
         der Hund und die Katze (the dog and the cat) 
-
-# Words 
-
-# Phrases 
-Wo ist die Maus?  (Where is the mouse?)
-eine Maus ein bär  (a mouse, a bear) 
-Mein Sohn ist jung.  (Mein Sohn ist jung)
-Ein Elefant und ein Hund (An Elephant and a dog).
-Meine Tochter ist jung. (My daugther is young). 
-die Eule, der Bär (the owl, the bear) 
-du bist eine Maus.  (You are a mouse)
-ein Elefant, ein Hund, eine Katze.  (An elephant, a dog, a cat)
-Ein Hund und eine Katze (a dog and a cat) 
-der Hund, die Eule (the dog, the owl) 
-die Katze ist sehr jung. (The cat is very young) 
+<br>
+# Words <br>
+<br>
+# Phrases <br>
+Wo ist die Maus?  (Where is the mouse?)<br>
+eine Maus ein bär  (a mouse, a bear) <br>
+Mein Sohn ist jung.  (Mein Sohn ist jung)<br>
+Ein Elefant und ein Hund (An Elephant and a dog).<br>
+Meine Tochter ist jung. (My daugther is young). <br>
+die Eule, der Bär (the owl, the bear) <br>
+du bist eine Maus.  (You are a mouse)<br>
+ein Elefant, ein Hund, eine Katze.  (An elephant, a dog, a cat)<br>
+Ein Hund und eine Katze (a dog and a cat) <br>
+der Hund, die Eule (the dog, the owl) <br>
+die Katze ist sehr jung. (The cat is very young) <br>
 Ja, die Eule ist klug und nett. (Yes, the owl is smart and nice). 
 Der Elefant ist sehr schön.  (The elephant is very beautiful) 
