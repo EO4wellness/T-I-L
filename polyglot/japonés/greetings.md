@@ -31,7 +31,7 @@ Also see [forms](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/japon%C
 <br>
 ![Nice to meet you](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/japon%C3%A9s/images/nice-to-meet-you.png)<br>
 <br>
-!Nice to meet you!](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/japon%C3%A9s/images/nice-to-meet-you2.png)<br>
+![Nice to meet you!](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/japon%C3%A9s/images/nice-to-meet-you2.png)<br>
 <br>
 ## Please.
 ![Please](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/japon%C3%A9s/images/please.png)<br>
