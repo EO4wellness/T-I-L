@@ -29,17 +29,18 @@ Hallo und tschuss. (Hello and Goodbye)<br>
 <br>
 
 # Basics in German: Lesson 2<br>
+Overview-review of previous lesson. 
 <br>
-#Pets<br>
+## Pets<br>
 In English, it is say that the dog is man's best friend.  However, in Germany, cats are more popular than dogs. <br>
 <br>
-# Spots <br>
+## Spots <br>
 The vowels in German sometimes have two dots above them.  They are called umlauts.  The umlauts (two dots) change the vowel's pronunciation. <br>
 <br>
         Bär (bear) 
         schön (beautiful) 
 
-# Gender<br>
+## Gender<br>
 Words change form in German depending on the gender. All words in German have gender. The disctnction isn't logical--it is something you have to memorize. <br>
 <br>
         mein Vater (my father) 
@@ -55,6 +56,7 @@ Words change form in German depending on the gender. All words in German have ge
         der Hund und die Katze (the dog and the cat) 
 <br>
 # Words <br>
+New ones are found in this lesson within the phrases, as well as a review of the previous ones. 
 <br>
 # Phrases <br>
 Wo ist die Maus?  (Where is the mouse?)<br>
@@ -68,5 +70,5 @@ ein Elefant, ein Hund, eine Katze.  (An elephant, a dog, a cat)<br>
 Ein Hund und eine Katze (a dog and a cat) <br>
 der Hund, die Eule (the dog, the owl) <br>
 die Katze ist sehr jung. (The cat is very young) <br>
-Ja, die Eule ist klug und nett. (Yes, the owl is smart and nice). 
-Der Elefant ist sehr schön.  (The elephant is very beautiful) 
+Ja, die Eule ist klug und nett. (Yes, the owl is smart and nice).  <br>
+Der Elefant ist sehr schön.  (The elephant is very beautiful)  <br>
