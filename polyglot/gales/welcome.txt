@@ -1,0 +1,126 @@
+# Greetings-Lesson 1
+
+## WORDS:
+Croeso (Welcome) 
+Bore da (Good Morning) 
+bore (morning) 
+da (good) 
+nos (night) 
+nos da (good night) 
+prynhawn (afternoon)
+prynhawn da (good afternoon) 
+hwyl (goodbye) 
+
+
+## PHRASES: 
+Nos da, Morgan.  (Good night, Morgan)
+Nos da, Megan.  (Good night, Megan)
+Croeso, Megan.  Owen dw i.  (Welcome, Megan.  I am Owen.)
+Prynhawn da.  (Good afternoon)
+Draig dw i.  (I am a dragon)
+Megan dw i.  Croeso, Morgan.  (I am Megan.  Welcome, Morgan.) 
+Hwyl, Morgan.  (Goodbye, Morgan.)
+Prynhawn da, Owen. (Good afternoon, Owen) 
+Bore da, Dylan. (Good morning, Dylan)
+Prynhawn da Megan dw i.  (Good afternoon, I am Megan) 
+Croeso, Megan.  Owen dw i.  (Welcome, Megan.  I am Owen).
+
+
+
+# Course Structure
+* DysguCymraeg Mynediad(LearnWelsh) Sylfaen level courses for adults 
+* Covers CERF levels A1 and A2<br>
+* [Welsh](https://www.learnwelsh.cymru)<br>
+
+# Welsh Nouns and Adjectives
+* NOTE: Nouns in Welsh are followed by Adjectives, unlike English so that:<br>
+* Bore (morning) da (good) in welsh would be translated into English as Good morning.<br>
+* Likewise, nos da (evening good) in Welsh, is translated Good evening in English.<br>
+
+# Names
+* In Wales, personal names are not translated and the spelling is not changed between English and Welsh.  However, in contrast, if a place name is translated between Welsh and English. 
+* In order to make sentences with the first words we are learning in Welsh, we need to know a few names. 
+        Dylan, Dewi, and Owen are men's names. 
+        Morgan can be either a man's name or a woman's name. 
+        Megan is a woman's name. 
+        Draig/Dragon is generally not used as a name in Wales. However the Draig Goch is the national symbol. 
+
+# Pronounciation
+* Normally Welsh and British English are pronounced with the same sounds.  
+* W and Y in Welsh are volwels despite normally being treated in English as consonants. 
+* Course instructors recommend [WelshPlus YouTube Pronunciation Basics](https://www.youtube.com/playlist?list=PLz6oFM0_IszwxmU7dMcGQClZ5zMwX2EdY)
+* Course instructors recommend consulting [on-line dictionary](www.gweiadur.com)
+
+# Typing Welsh Accented Characters 
+
+    * If you are in Britain, try setting your region to UK - on iOS that gives you ŵ, ŷ, î, ê, ï, á, etc, as pop-up characters if you keep the w, y or other vowel keys depressed for a second.
+    * Otherwise, install the iOS/Android Swiftkey app with its Welsh keyboard.
+    * On MacOS, use the Welsh keyboard layout and use the Keyboard Viewer to see how to produce the accents. For example, type opt-w to get ŵ, or opt-8, i to get ï.
+    * On Windows you can use the UK extended keyboard layout to get accented characters. Or install the free 'To Bach v2' from https://www.interceptorsolutions.com/tobach Their website has instructions for using it.
+
+
+
+# Greetings-Lesson 2
+## Words:
+        Yn waeth (worse) 
+        Yn well (better) 
+        Gwaeth
+        Gwych (Great!) 
+        Iawn (fine)
+        Diolch (thanks) 
+        pwy (Who) 
+        Wedi blino (tired)
+
+## Phrases:
+        Sut dych chi (How are you?) 
+        Sut dych chi, Megan?  Gwych! (How are you, Megan?  Great!)
+        Pwy dych chi (Who are you?) 
+        Da iawn, diolch. (Very well. Thanks)
+        Sut dych chi Owen.  Yn waeth.  (How are you, Owen?  Worse!)
+        Sut dych chi.  Wedi blino.  (How are you? Tired!) 
+        Dim diloch Owen. (No thanks, Owen). 
+        Yn well diolch (Better, thanks)
+        Bore dy, Dylan.  Sut dych chi?  (Good morning, Dylan.  How are you?) 
+        Sut dych chil.  Da iawn diolch.  (How are you?  Very well, thank you.)
+        Megan dw i.  Pwy dych chi?  (I am Megan. Who are you?) 
+        Dw i wedi blino.  (I am tired)
+        Dych chi wedi blino?  (Are you tired?)
+        Iawn, diolch.  (Fine, thanks). 
+
+# Introducing Yourself
+In Welsh, such introductions start by emphasising the one's Name or one's Occupation.  Thus, the word for the name or the occupation comes first in any such Welsh sentence. Recall, that while there may be equivalent names between Welsh and English, we do not translate or change the spelling of any person's name. 
+
+# Articles 
+Welsh does't use defnate articles. 
+
+# Confirming a name. 
+If you are concerned you misheard a name or occupation, rememer that names and/or occupations always come first.  So if someone says:
+
+        My name is ____
+        ___ dw i 
+
+You would ask to confirm it in this manner: 
+
+        Is your name ____
+        ____ dych chi? 
+
+# Asking a Name 
+In English, Pwy dych chi? (Who are you?) sounds rude or abrupt, but in Welsh it is perfectly normal every-day Welsh. 
+
+#  New Names Introduced in the Lesson:
+Gareth (Male)
+Sioned (Female)
+Eleri Lingo (Female)
+Draig (Dragon) 
+
+# Pronounce 
+/ch/ is not used in English but is pronounced in Welsh like "Loch" 
+
+Dysgu Cymraeg (Learn Welsh) 
+Mynediad (entry-level) 
+Sylfaen (basic-level) 
+Cymraeg i'r Teulu (Welsh for the Family) 
+
+# Resources 
+[Digging deeper](https://forum.duolingo.com/comment/13186004)
+
