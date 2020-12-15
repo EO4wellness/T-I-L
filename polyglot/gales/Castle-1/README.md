@@ -10,3 +10,5 @@
 * Final Castle 
 
 ![Final-Castle-1-Testing](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/gales/images/Welsh-Castle-1.png)
+
+Navigate: Castle 1 No Link-This is The Page] | [Castle 2]((https://github.com/EO4wellness/T-I-L/blob/main/polyglot/gales/Castle-2/README.md)  | [Castle 3]((https://github.com/EO4wellness/T-I-L/blob/main/polyglot/gales/Castle-3/README.md)   | [Castle 4]((https://github.com/EO4wellness/T-I-L/blob/main/polyglot/gales/Castle-4/README.md) 
