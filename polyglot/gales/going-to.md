@@ -91,7 +91,8 @@ A note about review.  Originally, I started with Duolingo to learn more about wh
 * y dafarn (the pub) 
 
 
-## Phrases|Sentences
+## Phrases | Sentences
+### I am going to: 
 * Dw i'n mynd i aros.  (I am going to wait). <br>
 * Dw i'n mynd i aros yma.  (I am going to wait here).<br>
 * Dw i'n mynd i'r dafarn. (I am going to the pub.)<br>
@@ -101,14 +102,14 @@ A note about review.  Originally, I started with Duolingo to learn more about wh
 * Dw i'n mynd i nofio yn Aberystwyth yfory. (I am going swimming in Aberystwyth tomorrow). <br>
 * Dw i'n mynd i Abertystwyth ym mis Gorffennaf. (I am going to Aberystwyth in July.)<br>
 * Dw i ddim yn hoffi mynd i Abertawe ym mis Rhagfyr. (I don't like going to Swansea in December).<br>
-<br>
+### You are going to: 
 * Dych chi'n mwynhau nofio y yn pwll nofio newydd? (Do you enjoy swimming in the new swimming pool?)<br>
 * Dych chi'n mynd i Aberteifi? (Are you going to Cardigan?) <br>
 * Dych chi'n mynd i Aberystwyth ddydd Llun? (Are you going to Aberystwyth on Monday?)<br>
 * Dych chi ddim yn mynd i Abertawe ddydd Gwener. (You are not going to Swansea on Friday). <br>
 * Dych chi'n mynd i Abertawe yfory? (Are you going to Swansea tomorrow?)<br>
 * Dych chi'n mynd i Aberdaron ym mis Awst? (Are you going to Aberdaron in August?)<br>
-<br>
+### When are you going to: 
 * Pryd dych chi'n mynd i smwddio?  (When are you going to iron?)<br>
 * Pryd dych chi'n mynd i fwyta? (When are you going to eat?)<br>
-<br>
+
