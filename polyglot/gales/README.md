@@ -15,3 +15,10 @@ More than a year ago, I started learning the Welsh language on the Duolingo lear
 * [Greetings](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/gales/welcome.md) <br>
 * <br>
 * <br>
+
+# Resources:
+Some of the resources I've used in studying Welsh include (but are not limited exclusively to):
+* [Duolingo](https://www.duolingo.com/)<br>
+* [MEMrise](https://app.memrise.com/course/1165412/duolingo-welsh-review-with-full-audio/)<br>
+* [Podcast](https://open.spotify.com/show/0PejlkPIV33uxLZJBkBNf1?si=jPcObnGfRFSn9QBLXGvKDA)<br>
+* [Podcast](https://open.spotify.com/show/2wwpoISiUqX4jc0gV38Dwp?si=_8SesD9uSv2O0flImmHJwQ)<br>
