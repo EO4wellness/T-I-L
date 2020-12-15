@@ -1,6 +1,6 @@
 # Welsh Castle 1:
-* Greet 1
-* Greet 2
+* [Greet 1](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/gales/Castle-1/welcome-greet1-greet2.md)<br>
+* [Greet 2](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/gales/Castle-1/welcome-greet1-greet2.md)<br>
 * Present 1
 * Present 2
 * Clothes 1 
