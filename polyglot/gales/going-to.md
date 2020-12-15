@@ -42,7 +42,8 @@ Remember that dd, ll and rh are all single letters in Welsh (along with ch, ff, 
 Note that when g- takes a soft mutation it vanishes, and that both b- and m- take a soft mutation to f-.
 
 Don't worry if you cannot remember the mutations very easily at this stage - it will take a lot of practice for them to become natural to you. Keep a copy of the table to hand as you go through the course.
-Church and Chapel
+
+## Church vs Chapel
 
 This unit introduces the word capel (chapel). The chapel movement was very strong in Wales. The influence of the established Church of England diminished, and in recent centuries the local non-conformist chapel became the primary location of Christian worship in many places. This was formalised in 1920, when the Church of England was disestablished in Wales and the 'Church in Wales' was created as a separate Anglican body with no links to civil government.
 
@@ -86,8 +87,8 @@ In British English, when there is a well-known sporting event coming up it is us
 A note about review.  Originally, I started with Duolingo to learn more about what is (and isn't) possible with AI these days.  I wanted to see for myself what was possible.  When reseraching about Use Cases for A.I. I came across Duolingo and started using it.  Quickly, I noted the method was the SAME as what was used in school--many decades ago.  Also, it uses AI to quiz and test you.  This lesson, was a GREAT reminder of that!  I had completely forgotten most of this lesson.  The AI told me it was time to review.  I could not agree more!
 
 ## Words
-chwaraeon (sports)
-y dafarn (the pub) 
+*chwaraeon (sports)
+*y dafarn (the pub) 
 
 
 ## Phrases|Sentences
