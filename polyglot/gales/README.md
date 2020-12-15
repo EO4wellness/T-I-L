@@ -19,7 +19,7 @@ More than a year ago, I started learning the Welsh language on the Duolingo lear
 * <br>
 
 
-# Resources:
+# Study Resources:
 Some of the resources I've used in studying Welsh include (but are not limited exclusively to):
 * [Duolingo](https://www.duolingo.com/)<br>
 * [MEMrise](https://app.memrise.com/course/1165412/duolingo-welsh-review-with-full-audio/)<br>
