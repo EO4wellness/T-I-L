@@ -3,7 +3,7 @@
 * Animals<br> 
 * Months<br>
 * Days<br>
-* Going To<br>
+* [Going To](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/gales/Castle-2/Going-To.md)<br>
 * Places 1 <br>
 * Present 3 <br>
 * Wedi<br>
