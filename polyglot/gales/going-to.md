@@ -101,13 +101,14 @@ A note about review.  Originally, I started with Duolingo to learn more about wh
 * Dw i'n mynd i nofio yn Aberystwyth yfory. (I am going swimming in Aberystwyth tomorrow). 
 * Dw i'n mynd i Abertystwyth ym mis Gorffennaf. (I am going to Aberystwyth in July.)
 * Dw i ddim yn hoffi mynd i Abertawe ym mis Rhagfyr. (I don't like going to Swansea in December).
-
+<br>
 * Dych chi'n mwynhau nofio y yn pwll nofio newydd? (Do you enjoy swimming in the new swimming pool?)
 * Dych chi'n mynd i Aberteifi? (Are you going to Cardigan?) 
 * Dych chi'n mynd i Aberystwyth ddydd Llun? (Are you going to Aberystwyth on Monday?)
 * Dych chi ddim yn mynd i Abertawe ddydd Gwener. (You are not going to Swansea on Friday). 
 * Dych chi'n mynd i Abertawe yfory? (Are you going to Swansea tomorrow?)
 * Dych chi'n mynd i Aberdaron ym mis Awst? (Are you going to Aberdaron in August?)
-
+<br>
 * Pryd dych chi'n mynd i smwddio?  (When are you going to iron?)
 * Pryd dych chi'n mynd i fwyta? (When are you going to eat?)
+<br>
