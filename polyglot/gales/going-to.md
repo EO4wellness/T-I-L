@@ -87,8 +87,8 @@ In British English, when there is a well-known sporting event coming up it is us
 A note about review.  Originally, I started with Duolingo to learn more about what is (and isn't) possible with AI these days.  I wanted to see for myself what was possible.  When reseraching about Use Cases for A.I. I came across Duolingo and started using it.  Quickly, I noted the method was the SAME as what was used in school--many decades ago.  Also, it uses AI to quiz and test you.  This lesson, was a GREAT reminder of that!  I had completely forgotten most of this lesson.  The AI told me it was time to review.  I could not agree more!
 
 ## Words
-*chwaraeon (sports)
-*y dafarn (the pub) 
+* chwaraeon (sports)
+* y dafarn (the pub) 
 
 
 ## Phrases|Sentences
