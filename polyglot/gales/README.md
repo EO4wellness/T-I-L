@@ -10,7 +10,10 @@ More than a year ago, I started learning the Welsh language on the Duolingo lear
 [2021 Log](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/gales/study-logs/2021_log.md) <br>
 
 # Course of Study:
--[x] [Castle 1](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/gales/Castle-1/README.md)  |  -[ ] [Castle 2](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/gales/Castle-2/README.md)  |  -[ ] [Castle 3](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/gales/Castle-3/README.md)    |  -[ ] [Castle 4](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/gales/Castle-4/README.md) 
+-[x] [Castle 1](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/gales/Castle-1/README.md)<br>
+-[ ] [Castle 2](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/gales/Castle-2/README.md)<br>
+-[ ] [Castle 3](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/gales/Castle-3/README.md)<br>
+-[ ] [Castle 4](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/gales/Castle-4/README.md) 
 
 # Study Topics: 
 * [Clothing Terms](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/gales/Castle-1/Clothing.md) <br>
