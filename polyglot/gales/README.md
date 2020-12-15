@@ -6,8 +6,8 @@
 More than a year ago, I started learning the Welsh language on the Duolingo learning platform.  I liked it so much, I've studied Welsh more than a year now. It is FUN to learn! It is fun to speak! It is NOT fun to spell! This Repo, in the style of [#100-days-of-code or anything-in this case Welsh](https://github.com/EO4wellness/100-days-of-code), is a record of my Welsh-learning chronicals.  Day by day, brief lesson notes or study log chronicalling my progress learning Welsh. <br>
 <br>
 # LOGS:
-[2020 Log](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/gales/2020_log.md)
-[2021 Log](link) 
+[2020 Log](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/gales/2020_log.md)<br>
+[2021 Log](link) <br>
 
 # Study Topics: 
 * [Clothing Terms](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/gales/clothing.md) <br>
