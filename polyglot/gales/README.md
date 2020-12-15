@@ -10,10 +10,7 @@ More than a year ago, I started learning the Welsh language on the Duolingo lear
 [2021 Log](link) <br>
 
 # Course of Study:
--[x] Castle 1 
--[ ] Castle 2
--[ ] Castle 3 
--[ ] Castle 4
+-[x] [Castle 1](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/gales/Castle-1/README.md)  |  -[ ] [Castle 2](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/gales/Castle-2/README.md)  |  -[ ] Castle 3   |  -[ ] Castle 4
 
 # Study Topics: 
 * [Clothing Terms](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/gales/clothing.md) <br>
