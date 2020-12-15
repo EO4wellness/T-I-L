@@ -9,10 +9,16 @@ More than a year ago, I started learning the Welsh language on the Duolingo lear
 [2020 Log](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/gales/2020_log.md)<br>
 [2021 Log](link) <br>
 
+# Course of Study:
+-[x] Castle 1 
+-[ ] Castle 2
+-[ ] Castle 3 
+-[ ] Castle 4
+
 # Study Topics: 
 * [Clothing Terms](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/gales/clothing.md) <br>
 * ["Going To"](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/gales/going-to.md) <br>
-* [Greetings](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/gales/welcome.md) <br>
+* [Greetings](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/gales/Castle-1/welcome-greet1-greet2.md) <br>
 * <br>
 
 
