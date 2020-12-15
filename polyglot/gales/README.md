@@ -5,9 +5,9 @@
 <br>
 More than a year ago, I started learning the Welsh language on the Duolingo learning platform.  I liked it so much, I've studied Welsh more than a year now. It is FUN to learn! It is fun to speak! It is NOT fun to spell! This Repo, in the style of [#100-days-of-code or anything-in this case Welsh](https://github.com/EO4wellness/100-days-of-code), is a record of my Welsh-learning chronicals.  Day by day, brief lesson notes or study log chronicalling my progress learning Welsh. <br>
 <br>
-# LOGS:
-[2020 Log](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/gales/2020_log.md)<br>
-[2021 Log](link) <br>
+# [WELSH STUDY LOGS:](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/gales/study-logs)<br>
+[2020 Log](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/gales/study-logs/2020_log.md)<br>
+[2021 Log](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/gales/study-logs/2021_log.md) <br>
 
 # Course of Study:
 -[x] [Castle 1](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/gales/Castle-1/README.md)  |  -[ ] [Castle 2](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/gales/Castle-2/README.md)  |  -[ ] [Castle 3](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/gales/Castle-3/README.md)    |  -[ ] [Castle 4](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/gales/Castle-4/README.md) 
