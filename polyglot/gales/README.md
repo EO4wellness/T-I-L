@@ -22,3 +22,4 @@ Some of the resources I've used in studying Welsh include (but are not limited e
 * [MEMrise](https://app.memrise.com/course/1165412/duolingo-welsh-review-with-full-audio/)<br>
 * [Learn Welsh Podcast -on spotify](https://open.spotify.com/show/0PejlkPIV33uxLZJBkBNf1?si=jPcObnGfRFSn9QBLXGvKDA)<br>
 * [Learn Welsh -another Spotify podcast](https://open.spotify.com/show/2wwpoISiUqX4jc0gV38Dwp?si=_8SesD9uSv2O0flImmHJwQ)<br>
+* [Dictionary of Words Learned](https://www.duolingo.com/words)<br>
