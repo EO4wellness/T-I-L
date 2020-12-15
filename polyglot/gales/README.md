@@ -14,7 +14,7 @@ More than a year ago, I started learning the Welsh language on the Duolingo lear
 
 # Study Topics: 
 * [Clothing Terms](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/gales/Castle-1/Clothing.md) <br>
-* ["Going To"](link) <br>
+* ["Going To"](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/gales/Castle-2/Going-To.md) <br>
 * [Greetings](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/gales/Castle-1/welcome-greet1-greet2.md) <br>
 * <br>
 
