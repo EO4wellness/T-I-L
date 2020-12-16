@@ -49,6 +49,7 @@ This is a record of my personal journey.  November, 2020 is the very beginning o
 * Dec 7, 2020: Orientation, began Alteryx website training. 
 * Dec 8, 2020: Applications, Slack workspace interactions Q&A. 
 * Dec 9, 2020: Review Lesson 3, 4, and 5. 
+* Dec 16, 2020: [Data is the new bacon](https://youtu.be/VyhLRJVoIrI)
 
 ### Deepnote
 * Reviewed and shared: [Work at Deepnote](https://deepnote.com/publish/jobs)<br>
