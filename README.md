@@ -39,6 +39,10 @@ This is a record of my personal journey.  November, 2020 is the very beginning o
 * New Course 
 * Future Learn Coding 
 
+### Cloud 
+* Windows Virtual Desktop [documentation](https://docs.microsoft.com/en-us/azure/virtual-desktop/overview?ocid=AID3027037_QSG_496877) | [Free 1-Year Trial](https://azure.microsoft.com/en-us/free/services/virtual-desktop/?ocid=AID3027037_QSG_496876) | [Master Class Enrollment](https://info.microsoft.com/ww-thank-you-windows-virtual-desktop.html?ocid=AID3027037_QSG_496873%20&ocid=eml_pg227238_gdc_comm_az)
+* Nutanix. 
+
 ### Data 
 * [Python 'Zip Function' in Data Useage](https://renanmf.com/zip-function-python/)
 * Dec 1, 2020: Received Bertlesmann Udacity Data Track Scholarship. 
