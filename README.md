@@ -160,6 +160,7 @@ Studied several lessons today 12-7-2020 in the ND
 *  Enrolled in and began https://www.udemy.com/course/data-analysis-with-pandas-a-complete-tutorial/?Join-%40UdemyFree4You=&couponCode=CGFORUPSKILL2020 
 *  Learn Python the Hard Way https://learnpythonthehardway.org/python3/  
 *  Another Python resource https://www.w3schools.com/python/python_for_loops.asp 
+*  Women Who Code shared this resources today on LinkedIn and I want to remember to followup with it--take notes and study it--when I return to studying Python in the near future. [Women Who Code Data Visualization with Python](https://youtu.be/wvDbLhconLU) youtube tutorial.
 	
 ### Server 
 * Maintenance (November 20, 21, 22 2020) 
