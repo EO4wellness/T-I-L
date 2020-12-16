@@ -4,7 +4,7 @@
 * Months<br>
 * Days<br>
 * [Going To](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/gales/Castle-2/Going-To.md)<br>
-* Places 1 <br>
+* [Places 1](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/gales/Castle-2/Places.MD) <br>
 * Present 3 <br>
 * Wedi<br>
 * Final Castle 2 Testing 
