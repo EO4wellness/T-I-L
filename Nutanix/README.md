@@ -1,4 +1,7 @@
-Summer of 2020 I enrolled in a scholarshp opportunity at Udacity.  I won a seat within the Nutanix Hybrid Cloud Engineer Nanodegree program for both the phase 1 and phase 2 portions of the scholarship. Below is a chronical of my learning and projects for this nanodegree course.  
+# Scholarship
+Spring of 2020 I enrolled in a scholarshp opportunity at Udacity.  I won a seat within the Nutanix Hybrid Cloud Engineer Nanodegree program for both the phase 1 and phase 2 portions of the scholarship. Below is a chronical of my learning and projects for this nanodegree course. 
+
+## Link to Free Course - [Hybrid Cloud Fundamentals](https://www.udacity.com/course/hybrid-cloud-fundamentals--ud0321)
 
 Course Outline: On-Premises Private Cloud Automation
 Lesson 1: Managing Multiple Cluster and Workload Resources
