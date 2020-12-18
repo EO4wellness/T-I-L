@@ -128,4 +128,4 @@ PROJECT: Hybrid Cloud SaaS: 3-Tier Web Application
 (lots of details--sign up for career services to see this for yourself) 
 2. Project: Optimize your GitHub as part of your digital portfolio 
 (lots of details--sign up for career services to see this for yourself) 
-3.  One-on-One calls: 
+3.  One-on-One calls: I took full advantage of these wonderful programs and spoke in October, 2020 with Bret; and November 2020 with another counselor. 
