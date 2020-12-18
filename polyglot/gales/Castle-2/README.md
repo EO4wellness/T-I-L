@@ -6,7 +6,7 @@
 * [Going To](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/gales/Castle-2/Going-To.md)<br>
 * [Places 1](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/gales/Castle-2/Places.MD) <br>
 * Present 3 <br>
-* Wedi<br>
+* [Wedi](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/gales/Castle-2/Wedi)<br>
 * Final Castle 2 Testing 
 
 ![Castle 2](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/gales/images/Welsh-Castle-2.png)<br>
