@@ -7,7 +7,7 @@
 * Flirting<br>
 * Resaurant<br>
 * Places<br>
-* Jobs<br>
+* [Jobs](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/aleman/Castle-1/Jobs.md)<br>
 * Hobbies<br>
 * Directions<br>
 * Final Castle Test<br>
