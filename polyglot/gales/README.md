@@ -19,7 +19,10 @@ More than a year ago, I started learning the Welsh language on the Duolingo lear
 * [Clothing Terms](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/gales/Castle-1/Clothing.md) <br>
 * ["Going To"](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/gales/Castle-2/Going-To.md) <br>
 * [Greetings](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/gales/Castle-1/welcome-greet1-greet2.md) <br>
+* Numbers [Castle 1](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/gales/Castle-1/Numbers-1.md)
 * [Places](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/gales/Castle-2/Places.MD)<br>
+* Present [Castle 1](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/gales/Castle-1/Present%201)<br>
+* [Wedi](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/gales/Castle-2/Wedi.md)
 * <br>
 
 
