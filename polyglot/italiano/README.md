@@ -12,7 +12,7 @@ In Duolingo, Castles represent a skill set and pathway to learning.  This is con
 
 # TRAVEL 
 Many "moons" ago, I had occasion to travel to Italy.  I found while in Italy, my (then more) limited knowledge of Spanish allowed me to conduct negotiations with the shopkeeps and to navigate most public signs/transportion/menu items, despite knowing Italian what-so-ever.  While I was there, I enjoyed the country, experience, culture, and people. While all of Italy is A M A Z I N G and beautiful, I especially enjoyed visiting the Isle of Capri and the [Blue Grotto](https://en.wikipedia.org/wiki/Blue_Grotto_(Capri)), which frankly photos don't do it justice.  <br>
-![Blue-Grotto, Capri Italy](![Italia](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/italiano/images/benvenuti_in_italia.jpg))<br>
+![Blue-Grotto, Capri Italy](https://upload.wikimedia.org/wikipedia/commons/5/5d/Grotta_azzurra.jpg))<br>
 
 # [IMAGES](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/italiano/images)
 
