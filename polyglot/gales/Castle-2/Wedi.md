@@ -2,6 +2,9 @@
 * heddiw (today) 
 * cael (have) 
 * siwt (suit)
+* Ysgubo (to sweep)
+* Tacluso (tidy up)
+* Glanhau (to clean) 
 
 
 # Sentences: 
@@ -18,6 +21,12 @@
 * Dych chi wedi gwisgo'r siwt (Have you worn the suit?) 
 * Ydan nhw wedi cael bath eto?  (Have they had a bath yet?)
 * Dych chi wedi cael bath eto?  (Have you had a bath yet?) 
+* Dych chi wedi bwydo'r ci? (Have you fed the dog?)
+* Dych chi wedi mynd allan? (Have you gone out?)
+* Dw i wedi ysgubo yma.  (I have swept here)
+* Dw i wedi glanhau'r teganau eto.  (I have cleaned the toys again)
+* Dw i wedi mynd ma's.  (I have gone out.)
+* Dych chi wedi tacluso'r ddesg?  (Have you tidied up the desk?)
 
 
 # Coursework Notes:
