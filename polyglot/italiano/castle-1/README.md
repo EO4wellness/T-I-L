@@ -1,6 +1,6 @@
 # Castle 1<br>
 [Basics 1](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/italiano/castle-1/Basics-1.md)<br>
-Basics 2<br>
+[Basics 2](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/italiano/castle-1/Basics-2.md)<br>
 Phrases <br>
 Food<br>
 Plurals<br>
