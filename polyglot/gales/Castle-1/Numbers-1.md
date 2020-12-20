@@ -14,7 +14,7 @@ The traditional vigesimal system (y system ugeiniol in Cymraeg) is based on twen
 More information on both systems can be found [here in this Wikipedia article](https://en.wikipedia.org/wiki/Welsh_numerals).
 
 # Some Numbers 
-The modern system in Welsh follows a regular decimal pattern:
+The modern system in Welsh follows a regular decimal pattern:<br>
 ![Common Cymraeg and English number names and spellings](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/gales/images/Welsh-Image-Numbers.png)
 
 # Construction of Numbers 
