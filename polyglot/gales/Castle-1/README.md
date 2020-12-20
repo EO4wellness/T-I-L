@@ -6,7 +6,7 @@
 * [Clothes 1](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/gales/Castle-1/Clothing.md)<br>
 * Work 1 
 * The 1 
-* Numbers 1
+* [Numbers 1](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/gales/Castle-1/Numbers-1.md)<br>
 * Final Castle 
 
 ![Final-Castle-1-Testing](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/gales/images/Welsh-Castle-1.png)
