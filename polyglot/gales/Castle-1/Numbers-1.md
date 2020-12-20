@@ -4,6 +4,57 @@ Numbers 1
 2020-12-19 Study Session 
 Streak Day: 466
 
+2020-12-19
+
+# Words 
+* un (one)
+* dau (two)
+* tri (three) 
+* pedwar (four) 
+* pump (five)
+* chwech (six)
+* saith (seven) 
+* wyth (eight) 
+* naw (nine)
+* deg (ten) 
+* un deg un (11)
+* un deg dau (12)
+* un deg tri (13) 
+* un deg pedwar (14)
+* un deg pump (15)
+* tri deg un (31)
+* pedwar deg pump (45) 
+* athro (teacher)
+* afal (apple) 
+* aderyn (bird) 
+* ceffyl (horses) 
+
+# Phrases 
+* tri athro (three teachers) 
+* un deg pump, un deg dau (15, 12) 
+* un, tri, dau  (1, 3, 2)
+* un deg un, deg, un deg pump  (11, 10, 15)
+* naw aderyn (9 birds) 
+* naw caffyl (9 horses)
+* un deg un sgert (11 skirts) 
+* dau, pedwar, saith (2, 4, 7) 
+* un athro a saith desg (one teacher and seven desks)
+* pedwar cranc (four crabs) 
+* pedwar caffyl (four horses)
+* naw neidr (9 snakes) 
+* deg gŵydd (10 geese)
+* dau actor (2 actors) 
+* un deg dau actor (12 actors) 
+* naw ceffyl (9 horses) 
+
+
+# Sentences 
+* Dw i eisiau un deg un lemon.  (I want 11 lemons)
+* Dych chi'n prynu un deg pum desk?  (Are you busying 15 desks?) 
+* Dw i eisiau un deg pum afal.  (I want 15 apples) 
+* Dw i eisiau un deg dau afal.  (I want 12 apples) 
+
+
 # Numbers 
 There are two counting systems in Cymraeg: the decimal and vigesimal systems. During this course, you will learn both.
 
