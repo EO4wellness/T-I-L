@@ -4,6 +4,7 @@ This is a record of my personal journey.  November, 2020 is the very beginning o
  
 ## TOC 
 [A.I.](https://github.com/EO4wellness/T-I-L/blob/main/README.md#artificial-intellegence)<br> 
+[AWS](https://github.com/EO4wellness/T-I-L#aws-amazon)<br>
 [Android](https://github.com/EO4wellness/T-I-L/blob/main/README.md#android)<br>
 [Cloud](https://github.com/EO4wellness/T-I-L/blob/main/README.md#cloud)<br>
 [Data](https://github.com/EO4wellness/T-I-L/blob/main/README.md#data)<br>
