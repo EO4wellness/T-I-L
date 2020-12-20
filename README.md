@@ -5,6 +5,7 @@ This is a record of my personal journey.  November, 2020 is the very beginning o
 ## TOC 
 [A.I.](https://github.com/EO4wellness/T-I-L/blob/main/README.md#artificial-intellegence)<br> 
 [Android](https://github.com/EO4wellness/T-I-L/blob/main/README.md#android)<br>
+[Cloud](https://github.com/EO4wellness/T-I-L/blob/main/README.md#cloud)<br>
 [Data](https://github.com/EO4wellness/T-I-L/blob/main/README.md#data)<br>
 [Deepnote](https://www.loom.com/share/29b8146cb3c144e8ba7d7f2e4487a611)<br>
 [Events](https://github.com/EO4wellness/T-I-L/blob/main/README.md#events) <br>
@@ -39,6 +40,15 @@ This is a record of my personal journey.  November, 2020 is the very beginning o
 * New Course 
 * Future Learn Coding 
 
+### AWS (Amazon) 
+* [AWS New Search Feature](https://github.com/EO4wellness/T-I-L/tree/main/AWS) 12-19-2020 
+
+
+
+### Cloud 
+* Windows Virtual Desktop [documentation](https://docs.microsoft.com/en-us/azure/virtual-desktop/overview?ocid=AID3027037_QSG_496877) | [Free 1-Year Trial](https://azure.microsoft.com/en-us/free/services/virtual-desktop/?ocid=AID3027037_QSG_496876) | [Master Class Enrollment](https://info.microsoft.com/ww-thank-you-windows-virtual-desktop.html?ocid=AID3027037_QSG_496873%20&ocid=eml_pg227238_gdc_comm_az)
+* Nutanix [section](https://github.com/EO4wellness/T-I-L/blob/main/README.md#nutanix)
+
 ### Data 
 * [Python 'Zip Function' in Data Useage](https://renanmf.com/zip-function-python/)
 * Dec 1, 2020: Received Bertlesmann Udacity Data Track Scholarship. 
@@ -49,6 +59,7 @@ This is a record of my personal journey.  November, 2020 is the very beginning o
 * Dec 7, 2020: Orientation, began Alteryx website training. 
 * Dec 8, 2020: Applications, Slack workspace interactions Q&A. 
 * Dec 9, 2020: Review Lesson 3, 4, and 5. 
+* Dec 16, 2020: [Data is the new bacon](https://youtu.be/VyhLRJVoIrI)
 
 ### Deepnote
 * Reviewed and shared: [Work at Deepnote](https://deepnote.com/publish/jobs)<br>
@@ -160,6 +171,7 @@ Studied several lessons today 12-7-2020 in the ND
 *  Enrolled in and began https://www.udemy.com/course/data-analysis-with-pandas-a-complete-tutorial/?Join-%40UdemyFree4You=&couponCode=CGFORUPSKILL2020 
 *  Learn Python the Hard Way https://learnpythonthehardway.org/python3/  
 *  Another Python resource https://www.w3schools.com/python/python_for_loops.asp 
+*  Women Who Code shared this resources today on LinkedIn and I want to remember to followup with it--take notes and study it--when I return to studying Python in the near future. [Women Who Code Data Visualization with Python](https://youtu.be/wvDbLhconLU) youtube tutorial.
 	
 ### Server 
 * Maintenance (November 20, 21, 22 2020) 
