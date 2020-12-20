@@ -6,6 +6,9 @@
 * [Thank You forms](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/japon%C3%A9s/thank-you-forms.md) 
 * [Greetings](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/japon%C3%A9s/greetings.md) 
 
+Castle 1 Quiz --> 100% --> Earned Dec 20,2020.
+![Castle 1 Quiz](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/japon%C3%A9s/images/2020-12-20_japaneese_check-point-1-duolingo.png)
+
 
 ## Katakana
 coming soon 
