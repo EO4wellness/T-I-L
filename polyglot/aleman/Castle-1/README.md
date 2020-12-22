@@ -9,7 +9,7 @@
 * Places<br>
 * [Jobs](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/aleman/Castle-1/Jobs.md)<br>
 * Hobbies<br>
-* Directions<br>
+* [Directions](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/aleman/Castle-1/directions.md) Current Level: 2 of 5<br>
 * Final Castle Test<br>
 
 ### Navigate: <br>
