@@ -1,5 +1,5 @@
 # Flirting 
-Duolingo makes things interesting, in the start of any new language being learned, by allowing you to "purchase" with the points you've earned from studying, special study topics.  The "Flirting" is one such reward which can be purchased in this manner.  "Idioms" are another. 
+Duolingo makes things interesting, in the start of any new language being learned, by allowing you to "purchase" with the points you've earned from studying, special study topics.  The "Flirting" is one such reward which can be purchased in this manner.  The [Idioms Study Topic](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/aleman/Castle-1/Idioms.md) is another. 
 
 # Phrases 
 * Ich liebe dich. (I love you.) 
