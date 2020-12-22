@@ -5,7 +5,7 @@
 * [2021 Log](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/eslovaco/study-logs/2021_log.md)
 
 # Study Resources:
-Mondly 
+[Mondly](https://app.mondly.com/) 
 
 # Daily Lesson Template 
 
