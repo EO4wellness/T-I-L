@@ -1,5 +1,5 @@
 # Idioms 
-Duolingo makes things interesting, in the start of any new language being learned, by allowing you to "purchase" with the points you've earned from studying, special study topics.  The "Idioms" are one such reward which can be purchased in this manner.  "Flirting" is another.   
+Duolingo makes things interesting, in the start of any new language being learned, by allowing you to "purchase" with the points you've earned from studying, special study topics.  The "Idioms" are one such reward which can be purchased in this manner.  The [Flirting Study Topic](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/aleman/Castle-1/Flirting.md) is another.   
 
 # Phrases 
 * Ende gut, alles gut. (All's well that ends well.)
