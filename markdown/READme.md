@@ -31,8 +31,16 @@ This folder contains a chronical of my MARKDOWN learning journey. The folder and
         Escape this formatting by holding down the shift key + enter.
         
 ### Discovered by "happy" accident if you've used Git or GitHub to create a file, focused so much on the "naming" portion of the file creation, that you ignoried or forgot to add the "(dot)md) extension, then you can edit the file and add it--it self corrects.  TROUBLESHOOTING: When you view your created file, you'll know immidately that you've failed to add the extension if you start to see MD code displaying instead of the code's formatting effect. Happened: December, 2020.  
+      You can easily rename misnamed files while in "edit" mode within the GitHub interface. 
 
 ### You'll know you know MarkDown well, when HTML starts to feel "foreign" LOL! For me that happened middle of December, 2020.  
+        Example:
+        Trying to do a link in an HTML file as [link text](link-url)
+        Rather than <a href="link-url">link text</a>
+        Without even thinking--conclusion:  
+        I know know MD really well! 
+        My daily posts to T-I-L in markdown really helped me to learn it! 
+      
 
 ### To cancel out some text in appearance, say after completing a to-do list, you type the tilde twice before and after the portion of text you want to strike-through.   
       Example:  ~~I need to do some task.  Now I've done it.~~ Date Completed: 2020-12-22 
