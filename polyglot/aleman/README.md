@@ -22,6 +22,17 @@ More than a year ago, I started learning German on the Duolingo platform. This R
 *  <br>
 * <br>
 
+# German Keyboard 
+Unless you have your computer set to type in German, likely, during the course of your German-language studies, you will discover your English keyboard is missing more than a few characters.  What can you do? Here are the ASCII codes of what to type to get the current German letters into your text document.
+            
+             &szlig;     alt + 225        '&szlig;'
+             &auml;      alt + 132        '&auml;'
+             &ouml;      alt + 148        '&ouml;'
+             &uuml;      alt + 129        '&uuml;'
+             &Auml;      alt + 142        '&Auml;'
+             &Ouml;      alt + 153        '&Ouml;'
+             &Uuml;      alt + 154        '&Uuml;'
+                       
 
 # Study Resources:
 Some of the resources I've used in studying Welsh include (but are not limited exclusively to):
