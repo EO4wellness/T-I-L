@@ -11,7 +11,10 @@ This folder contains a chronical of my MARKDOWN learning journey. The folder and
 
 
 # Git-Hub Flavored Markdown Lessons Learned <br>
-### If you don't insert a SPACE after each Markdown command, you won't like the results! Discovered: November, 2020. 
+### If you don't insert a SPACE after each Markdown command, you won't like the results! Discovered: November, 2020. For example, if you type some markdown for a title 
+    #title vs # title 
+    makes a huge display difference! 
+    
 
 ### Images follow the format for links, in Markdown, except you add an exclamation first. Discovered: November, 2020. 
            Formatting Example: ! [alt text] (image-link.jpg) 
