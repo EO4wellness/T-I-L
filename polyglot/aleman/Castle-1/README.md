@@ -3,7 +3,7 @@
 * Family Current Level: 5 of 5<br>
 * [Basics 2](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/aleman/Castle-1/welcome.md) Current Level: 5 of 5<br>
 * Greetings Current Level: 5 of 5<br>
-* Idioms Current Level: All<br>
+* [Idioms](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/aleman/Castle-1/Idioms.md) Current Level: All<br>
 * Flirting Current Level: All<br>
 * Resaurant Current Level: 5 of 5<br>
 * Places Current Level: 5 of 5<br>
