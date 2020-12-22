@@ -10,18 +10,18 @@ This folder contains a chronical of my MARKDOWN learning journey. The folder and
 * [Markdown Tutorial](https://www.markdowntutorial.com/lesson/1/)<br>
 
 
-# Lessons Learned <br>
-* If you don't insert a SPACE after each Markdown command, you won't like the results! Discovered: November, 2020.<br> 
-* Images follow the format for links, in Markdown, except you add an exclamation first.
+# Git-Hub Flavored Markdown Lessons Learned <br>
+## If you don't insert a SPACE after each Markdown command, you won't like the results! Discovered: November, 2020. 
+## Images follow the format for links, in Markdown, except you add an exclamation first.
            Formatting Example: ! [alt text] (image-link.jpg) 
            This format is correct, as it is above, except putting in the actual text & link, as well as not using any spaces between the components. 
-* If you would like to indent a list, or make a "code-like" block, you can space 8 in (or two or so tabs in) to make such a block in Markdown.
+## If you would like to indent a list, or make a "code-like" block, you can space 8 in (or two or so tabs in) to make such a block in Markdown.
         Example line 1
         Example line 2
         Example line 3
         To recreate this effect, tab in 8 or more spaces, then type your text.  Escape it by holding down the shift key + enter.
-* Discovered by "happy" accident if you've used Git or GitHub to create a file, focused so much on the "naming" portion of the file creation, that you ignoried or forgot to add the "(dot)md) extension, then you can edit the file and add it--it self corrects.  TROUBLESHOOTING: When you view your created file, you'll know immidately that you've failed to add the extension if you start to see MD code displaying instead of the code's formatting effect. Happened: December, 2020. <br>
-* You'll know you know MarkDown well, when HTML starts to feel "foreign" LOL! For me that happened middle of December, 2020. <br>
-* To cancel some text, say after completing a to-do list, you type the tilde twice before and after the portion of text you want to strike-through.  <br>
-      Example:  ~~I need to do some task.  Now I've done it.~~ Date Completed: 2020-12-22 <br>
-* More coming soon . . . <br>
+## Discovered by "happy" accident if you've used Git or GitHub to create a file, focused so much on the "naming" portion of the file creation, that you ignoried or forgot to add the "(dot)md) extension, then you can edit the file and add it--it self corrects.  TROUBLESHOOTING: When you view your created file, you'll know immidately that you've failed to add the extension if you start to see MD code displaying instead of the code's formatting effect. Happened: December, 2020.  
+## You'll know you know MarkDown well, when HTML starts to feel "foreign" LOL! For me that happened middle of December, 2020. <br>
+##To cancel some text, say after completing a to-do list, you type the tilde twice before and after the portion of text you want to strike-through.   
+      Example:  ~~I need to do some task.  Now I've done it.~~ Date Completed: 2020-12-22 
+## More coming soon . . .  
