@@ -25,7 +25,7 @@ More than a year ago, I started learning German on the Duolingo platform. This R
 [x] [Flirting](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/aleman/Castle-1/Flirting.md) <br>
 [x] Resaurant <br>
 [x] Places <br>
-[x] [Jobs](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/aleman/Castle-1/Jobs.md) Finished: Dec 22, 2020<br>
+[x] [Jobs](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/aleman/Castle-1/Jobs.md) | as of Dec 22, 2020<br>
 [ ] Hobbies <br>
 [ ] [Directions](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/aleman/Castle-1/directions.md) <br>
 [ ] Final Castle Test | Current Level: not yet attempted <br>
