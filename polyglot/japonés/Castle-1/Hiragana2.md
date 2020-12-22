@@ -1,4 +1,4 @@
-# Hiragana 2
+# Hiragana 2 and 3
 ## Hiragana Pronunciation
 Below are the most basic forms of Japanese hiragana. We'll be introducing some more later as well. <br>
 Japanese 	| IPA, Notes <br>
