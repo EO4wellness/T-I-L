@@ -15,9 +15,3 @@ Most of the first castle is devoted to learning the sounds of Hiragana, although
 * Castle 1 - Quiz | First Attempted: 12/20/2020 | Successfully completed:  12/20/2020. | Score: 100% Accuracy. 
 
 ![Castle 1 Quiz](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/japon%C3%A9s/images/2020-12-20_japaneese_check-point-1-duolingo.png)
-
-![Hiragana Part 1](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/images/Hiragana-1.png)
-
-![Hiragana Part 2](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/images/Hiragana-2.png)
-
-![Hiragana Part 3](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/images/Hiragana-3.png)
