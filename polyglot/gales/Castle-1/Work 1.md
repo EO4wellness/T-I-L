@@ -86,4 +86,35 @@ Similarly:
     Saesnes (Saesnesau) - an Englishwoman (English women)
     Lloegr - England
 
+2020-12-21 Study Session 
+* Gwraig ty dw i. (I am a housewife.)
+* Dw i'n gweithio fel ysgrifennydd. (I work as a secretary)
+* Ysgrifennydd dw i. (I am a secretary).
+* y swyddfa a'r siop (the office and the shop)
+* Heddwas (a police officer)
+* y siop a'r swyddfa (a shop and the office)
+* Dw i'n mwynhau gweithio mewn siop. ( I enjoy working in a shop.)
+* meddyg (a doctor)
+* Gwr ty dych chi?  (Are you a house-husband?)
+* Y meddyg a'r nyrs.  (The doctor and the nurse)
+* Dw i'n hoffi gweithio ar fferm. (I enjoy working on a farm)
+* Heddwas - Police Officer 
+Arthro (Teacher)
+Ffermwr (Farmer)
+* Megan dw i.  Arthrawes dw i.  (I am megan.  I am a teacher)
+* Dw i'n mwynhau gweithio fel ysgrifennydd (I enjoy working as a secretary)
+* Arthrawes dych chi, Megan? (are you a teacher Megan?)
+* Dw i'n hoffi'r athrawes.  ( I like the teacher)
+* Dych chi'n mwynhau gweithio ar fferm? (Do you enjoy working on a farm?
+* Dych chi gweithio ar fferm? (Do ou work on a farm?)
+* Dych chi gweithio fel ysgrifenyddes, MOrgan?  (Do you work as a secretary, Morgan?)
+* Gwraig ty dych chi?  (Are you a housewife?)
+
+
+
+
+
+
+
+
 
