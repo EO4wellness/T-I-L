@@ -1,6 +1,6 @@
 # [Intro to Japaneese](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/japon%C3%A9s/intro.md)
 
-## [Hiragana - Basic Sounds](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/japon%C3%A9s/hiragana.md) 
+## [Hiragana - Basic Sounds](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/japon%C3%A9s/Castle-1/Hiragana.md)
 
 ## Next Learning Steps: 
 * [Thank You forms](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/japon%C3%A9s/thank-you-forms.md) 
