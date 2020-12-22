@@ -33,7 +33,8 @@ Unless you have your computer set to type in German, likely, during the course o
              &Auml;      alt + 142        Ä
              &Ouml;      alt + 153        Ö
              &Uuml;      alt + 154        Ü
-                       
+                      
+ NOTE: the HTML or ASCII codes above may or my not work in any given browser, depending upon the default character set.  I've also created a [German Special Keyboard Characters](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/aleman/special-characters.md)cut-n-past tool, as on laptops, generally speaking, ASCII doesn't work--as for ASCII to work you need a 10-key numerical pad. 
 
 # Study Resources:
 Some of the resources I've used in studying Welsh include (but are not limited exclusively to):
