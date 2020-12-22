@@ -7,7 +7,7 @@ Most of the first castle is devoted to learning the sounds of Hiragana, although
 * [Hiragana 1](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/japon%C3%A9s/Castle-1/Hiragana1.md)
 * [Hiragana 2](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/japon%C3%A9s/Castle-1/Hiragana2.md) 
 * [Hiragana 3](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/japon%C3%A9s/Castle-1/Hiragana2.md) Note: #2 and #3 has the same content. 
-* Hiragana 4 
+* [Hiragana 4](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/japon%C3%A9s/Castle-1/Hiragana4.md) 
 * Greetings 
 * Katakana 1 
 * [Intro 1](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/japon%C3%A9s/Castle-1/Intro-1.md) 
