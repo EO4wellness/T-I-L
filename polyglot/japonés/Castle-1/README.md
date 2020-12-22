@@ -11,7 +11,7 @@ Most of the first castle is devoted to learning the sounds of Hiragana, although
 * Greetings 
 * Katakana 1 
 * [Intro 1](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/japon%C3%A9s/Castle-1/Intro-1.md) 
-* Katakana 2 
+* [Katakana 2](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/japon%C3%A9s/Castle-1/Katakana2.md) 
 * [Castle 1 - Quiz](https://raw.githubusercontent.com/EO4wellness/T-I-L/main/polyglot/japon%C3%A9s/images/2020-12-20_japaneese_check-point-1-duolingo.png) | First Attempted: 12/20/2020 | Successfully completed 1st Attempt:  12/20/2020. | Score: 100% Accuracy. 
 
 ![Castle 1 Quiz](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/japon%C3%A9s/images/2020-12-20_japaneese_check-point-1-duolingo.png)
