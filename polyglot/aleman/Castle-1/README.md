@@ -1,5 +1,5 @@
 # German Castle 1:
-* Basics 1<br>
+* [Basics 1](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/aleman/Castle-1/welcome.md) Current Level: 5 of 5<br>
 * Family<br>
 * Basics 2<br>
 * Greetings<br>
