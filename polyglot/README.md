@@ -24,5 +24,8 @@ Why not!
 
 ![Polyglot Definition-MW](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/images/polyglot.png)
 
+This repository also gives me a chance to practice MarkDown formatting, as well as daily coding in Markdown, as well as using commands & features of Git and GitHub. 
+
 # Keyboard Special Characters
 Especially useful in learning other languages. https://altcodeunicode.com/how-to-use-alt-codes/ 
+
