@@ -17,10 +17,18 @@ More than a year ago, I started learning German on the Duolingo platform. This R
 -[ ] [Castle 5](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/aleman/Castle-5/README.md)<br> 
 
 # Study Topics: 
-*  <br>
-* <br>
-*  <br>
-* <br>
+[x][Basics 1](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/aleman/Castle-1/welcome.md) <br>
+[x]Family Current Level: 5 of 5<br>
+[x][Basics 2](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/aleman/Castle-1/welcome.md) Current Level: 5 of 5<br>
+[x]Greetings Current Level: 5 of 5<br>
+[x][Idioms](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/aleman/Castle-1/Idioms.md) Current Level: All<br>
+[x][Flirting](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/aleman/Castle-1/Flirting.md) Current Level: All<br>
+[x]Resaurant Current Level: 5 of 5<br>
+[x] Places Current Level: 5 of 5<br>
+[x][Jobs](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/aleman/Castle-1/Jobs.md) Current Level: 5 of 5 earned 12-22-2020<br>
+[ ]Hobbies Current Level: 1 of 5<br>
+[ ][Directions](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/aleman/Castle-1/directions.md) Current Level: 2 of 5<br>
+[ ] Final Castle Test | Current Level: not yet attempted <br>
 
 # German Keyboard 
 Unless you have your computer set to type in German, likely, during the course of your German-language studies, you will discover your English keyboard is missing more than a few characters.  What can you do? Here are the ASCII codes of what to type to get the current German letters into your text document.
