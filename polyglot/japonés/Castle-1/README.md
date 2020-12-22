@@ -10,7 +10,7 @@ Most of the first castle is devoted to learning the sounds of Hiragana, although
 * Hiragana 4 
 * Greetings 
 * Katakana 1 
-* Intro 1 
+* [Intro 1](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/japon%C3%A9s/Castle-1/Intro-1.md) 
 * Katakana 2 
 * Castle 1 - Quiz | First Attempted: 12/20/2020 | Successfully completed:  12/20/2020. | Score: 100% Accuracy. 
 
