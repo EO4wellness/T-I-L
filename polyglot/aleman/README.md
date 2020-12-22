@@ -25,13 +25,14 @@ More than a year ago, I started learning German on the Duolingo platform. This R
 # German Keyboard 
 Unless you have your computer set to type in German, likely, during the course of your German-language studies, you will discover your English keyboard is missing more than a few characters.  What can you do? Here are the ASCII codes of what to type to get the current German letters into your text document.
             
-             &szlig;     alt + 225        '&szlig;'
-             &auml;      alt + 132        '&auml;'
-             &ouml;      alt + 148        '&ouml;'
-             &uuml;      alt + 129        '&uuml;'
-             &Auml;      alt + 142        '&Auml;'
-             &Ouml;      alt + 153        '&Ouml;'
-             &Uuml;      alt + 154        '&Uuml;'
+             HTML        ASCII            Example 
+             &szlig;     alt + 225        ß
+             &auml;      alt + 132        ä
+             &ouml;      alt + 148        ö
+             &uuml;      alt + 129        ü
+             &Auml;      alt + 142        Ä
+             &Ouml;      alt + 153        Ö
+             &Uuml;      alt + 154        Ü
                        
 
 # Study Resources:
