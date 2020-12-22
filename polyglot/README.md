@@ -1,6 +1,6 @@
 # Introduction
 The road to code is not built in one day.<br>
-The road to polyglot is also not built in one day.<br>  
+The road to polyglot, likewise, is not built in one day.<br>  
 
 
 ## Tool Favs
@@ -24,3 +24,5 @@ Why not!
 
 ![Polyglot Definition-MW](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/images/polyglot.png)
 
+# Keyboard Special Characters
+Especially useful in learning other languages. https://altcodeunicode.com/how-to-use-alt-codes/ 
