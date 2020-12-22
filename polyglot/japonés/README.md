@@ -25,3 +25,12 @@ coming soon
 # Study Log [Overview](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/japon%C3%A9s/log.md)
 * 2021 Log - coming soon 
 * [2020 Log](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/japon%C3%A9s/2020_log.md)
+
+## Progress: 
+[x] [Castle 1](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/japon%C3%A9s/Castle-1)  | Completed Dec 20, 2020. 
+[ ] [Castle 2]  | Not started
+[ ] [Castle 3]  | Not started
+[ ] [Castle 4]  | Not started
+[ ] [Castle 5]  | Not started
+[ ] [Castle 6]  | Not started
+[ ] [Castle 7]  | Not started
