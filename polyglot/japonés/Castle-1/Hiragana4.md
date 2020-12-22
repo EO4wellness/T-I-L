@@ -5,11 +5,11 @@ In the following skill, we introduce a few more elements to basic hiragana.<br>
 ### Putting two little dashes or dakuten at the upper right corner of a hiragana syllable voices the consonant. <br>
 It changes the pronunciation of the hiragana in the following way:<br>
                 
-                Sound 	| Sound with Dakuten 	| Example<br>
-                k 	    | g 	                | か (ka) → が (ga)<br>
-                s 	    | z 	                | さ (sa) → ざ (za), し (shi) → じ (ji)*<br>
-                t       |	d  	                | た (ta) → だ (da), つ (tsu) → づ (zu)*<br>
-                h 	    | b                   |	は (ha) → ば (ba)<br>
+                Sound   | Sound with Dakuten  | Example 
+                k       | g                   | か (ka) → が (ga) 
+                s       | z                   | さ (sa) → ざ (za), し (shi) → じ (ji)* 
+                t       |	d                   | た (ta) → だ (da), つ (tsu) → づ (zu)* 
+                h       | b                   |	は (ha) → ば (ba)<br>
 
 ### Putting a little circle or handakuten at the upper right corner changes the pronunciation of the は-ひ-ふ-へ-ほ hiragana in the following way:<br>
         Sound 	| Sound with Handakuten 	| Example<br>
@@ -18,10 +18,10 @@ It changes the pronunciation of the hiragana in the following way:<br>
 ## Hiragana Part III: Small っ<br>
 ###Putting a っ (small tsu) between two hiragana syllables doubles the letter right after っ and introduces a short pause between two sounds. See some examples below:<br>
 
-        Without っ   	 |  With っ<br>
-        きて (kite)   	| きって (kitte)<br>
-        もと (moto)   	| もっと (motto)<br>
-        あさり (asari)  |	あっさり (assari)<br>
+        Without っ        |   With っ<br>
+        きて (kite)       |   きって (kitte)<br>
+        もと (moto)       |   もっと (motto)<br>
+        あさり (asari)    |    あっさり (assari)<br>
 
 ## Hiragana Part IV: Big and Small Characters<br>
 Lastly, this skill introduces the big and small versions of three sounds in hiragana. A small や、ゆ、or よ changes the pronunciation of a word in the following way:<br>
