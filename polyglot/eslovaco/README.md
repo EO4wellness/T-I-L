@@ -22,6 +22,7 @@
         *  S | (E) <br> 
         *  S | (E) <br>
         
-        ![Slovak Lesson Today]( image-link )
+  # Results:      
+  ![Slovak Lesson Today](image-link)
 
 
