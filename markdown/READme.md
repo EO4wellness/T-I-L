@@ -8,7 +8,8 @@ This folder contains a chronical of my MARKDOWN learning journey. The folder and
 * [Developer Pro MD Pad](https://markdownpad.com/buy.html)|[Feature Comparisson](https://markdownpad.com/compare.html)<br>
   [Support](http://markdownpad.com/support.html)<br>
 * [Markdown Tutorial](https://www.markdowntutorial.com/lesson/1/)<br>
-<br>
+
+
 # Lessons Learned <br>
 * If you don't insert a SPACE after each Markdown command, you won't like the results! Discovered: November, 2020.<br> 
 * Images follow the format for links, in Markdown, except you add an exclamation first. <br>
