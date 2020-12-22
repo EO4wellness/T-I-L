@@ -18,7 +18,7 @@ Duolingo makes things interesting, in the start of any new language being learne
 * Lachen ist die beste Medizin. (Laughter is the best medicine)
 * Es schüttet wie aus Eimern. (It is raining cats and dogs.) 
 
-# Reward
+# Lesson Rewards
 Complete any ONE lesson in Duolingo without making any erros and DUO throws you a mini-PERFECT Score party! 
 ![Perfect Score Party](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/aleman/images/perfect%20party.png)
 
