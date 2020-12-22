@@ -12,10 +12,10 @@ This folder contains a chronical of my MARKDOWN learning journey. The folder and
 
 # Lessons Learned <br>
 * If you don't insert a SPACE after each Markdown command, you won't like the results! Discovered: November, 2020.<br> 
-* Images follow the format for links, in Markdown, except you add an exclamation first. <br>
+* Images follow the format for links, in Markdown, except you add an exclamation first.
            Formatting Example: ! [alt text] (image-link.jpg) 
            This format is correct, as it is above, except putting in the actual text & link, as well as not using any spaces between the components. 
-* If you would like to indent a list, or make a "code-like" block, you can space 8 in (or two or so tabs in) to make such a block in Markdown.<br>
+* If you would like to indent a list, or make a "code-like" block, you can space 8 in (or two or so tabs in) to make such a block in Markdown.
         Example line 1
         Example line 2
         Example line 3
