@@ -4,7 +4,7 @@ Started studying Japaneese, with Duolingo, just to see if I could learn an non a
 # Topics of Study:
 Most of the first castle is devoted to learning the sounds of Hiragana, although there are more than a few vocabulary words, made from these sounds, included within the lessons too.
 
-* Hiragana 1
+* [Hiragana 1](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/japon%C3%A9s/Castle-1/Hiragana1.md)
 * Hiragana 2 
 * Hiragana 3
 * Hiragana 4 
