@@ -24,7 +24,7 @@
 * To Be 
 * Recreation
 * [Community](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/espa%C3%B1ol/Castle-2/Community.md)
-* Phrases 2 
+* [Phrases 2](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/espa%C3%B1ol/Castle-2/Phrases2.md) 
 * Connection 
 * Routines 3
 * Castle 2 Final Quiz 
