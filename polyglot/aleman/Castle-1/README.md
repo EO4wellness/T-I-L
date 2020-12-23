@@ -5,7 +5,7 @@
 * Greetings | Current Level: 5 of 5<br>
 * [Idioms](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/aleman/Castle-1/Idioms.md) | Current Level: All<br>
 * [Flirting](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/aleman/Castle-1/Flirting.md) | Current Level: All<br>
-* Restaurant | Current Level: 5 of 5<br>
+* [Restaurant](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/aleman/Castle-1/Restaurant.md) | Current Level: 5 of 5<br>
 * [Places](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/aleman/Castle-1/Places.md) | Current Level: 5 of 5<br>
 * [Jobs](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/aleman/Castle-1/Jobs.md) | Current Level: 5 of 5 earned 12-22-2020<br>
 * [Hobbies](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/aleman/Castle-1/Hobbies.md) | Current Level: 1 of 5<br>
