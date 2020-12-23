@@ -1,6 +1,6 @@
 # German Castle 1:
 * [Basics 1](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/aleman/Castle-1/welcome.md) | Current Level: 5 of 5<br>
-* Family | Current Level: 5 of 5<br>
+* [Family](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/aleman/Castle-1/Family.md) | Current Level: 5 of 5<br>
 * [Basics 2](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/aleman/Castle-1/welcome.md) | Current Level: 5 of 5<br>
 * Greetings | Current Level: 5 of 5<br>
 * [Idioms](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/aleman/Castle-1/Idioms.md) | Current Level: All<br>
