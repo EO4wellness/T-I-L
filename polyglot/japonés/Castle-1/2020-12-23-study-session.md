@@ -28,7 +28,7 @@ Aced more than one lesson-no mistakes:
 ## Done
 * For the day.  
 * Hope to carve out some personal time, later, to finish the other two remaining skill sets in this castle, so that I can move on to castle 2 study for 2021. Because learning Japaneese is harder than the alphabet based languages, I'm going to go more slowly through Japaneese course, than the others and not move ahead until I feel ready to do so. 
-* While working thru the "warm up" or "review" skill set levels today, prior to going for the Level 5 on this Katakana 1 skill set, I took screen shots I can use like flashcards to begin to work on my pronounciation skills off line. I parked copies of my "homemade" (screenshot) flashcards in their own folder inside the "images" folder located here: [Images Flashcards Castle 1] (https://github.com/EO4wellness/T-I-L/tree/main/polyglot/japon%C3%A9s/images/Flash-Cards-Castle1)
+* While working thru the "warm up" or "review" skill set levels today, prior to going for the Level 5 on this Katakana 1 skill set, I took screen shots I can use like flashcards to begin to work on my pronounciation skills off line. I parked copies of my "homemade" (screenshot) flashcards in their own folder inside the "images" folder located here: [Images Flashcards Castle 1](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/japon%C3%A9s/images/Flash-Cards-Castle1)
 
 
 
