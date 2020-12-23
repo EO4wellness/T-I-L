@@ -6,7 +6,7 @@
 * Following in the #100DaysofCode style, I'm logging my most of my studies.  
 
 # LOGS: 
-2019-No logs are available from 2019, as I didn't think to keep them, then. 
-[2020](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/aleman/study-logs/2020_log.md)
-[2021](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/aleman/study-logs/2021_log.md)
+* 2019-No logs are available from 2019, as I didn't think to keep them yet.<br> 
+* [2020](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/aleman/study-logs/2020_log.md)<br>
+* [2021](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/aleman/study-logs/2021_log.md)<br>
 
