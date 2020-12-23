@@ -19,3 +19,29 @@ In German statements, the verb is in the second place, or the second chunk. As y
 * Ich male sehr gern. | I really like to paint.
 * Mein Bruder spielt immer Schach. | My brother always plays chess.
 
+2020-12-22 Study Session:
+## Phrases:
+* du spielst, ich spiele (you play, I play) 
+
+## Sentences: 
+* Meine schwester malt. (My sisters paints.) 
+* Schwimmst du immer?  (Do you always swim?) 
+* Mein Vater schwimmt sehr gut. (My father swims really well.)
+* Mein Vater kocht. (My father cooks.) 
+* Der Bär kocht nie. (The bear never cooks.)
+* Schwimmt der Hund oft? (Does the dog swim often?) 
+* Meine Mutter spielt nie Klavier. (My mother never plays the piano.) 
+* Ich spiele sehr gut Klavier. (I play the piano really well.) 
+* Die Katze spielt nie Klavier.  (The cat never plays the piano.) 
+* Die Eule spielt immer Schach. (The owl always plays chess.) 
+* Ich spiele immer Schach.  (I always play chess)
+* Du spielst nie Schach.  (You never play chess.) 
+
+RESULTS: 
+Earned level 2 today 12-22-2020 on Hobbies 
+![Level 2 on Hobbies](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/aleman/images/hobies-2.png)
+
+
+
+
+
