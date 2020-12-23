@@ -24,7 +24,7 @@ Duolingo makes things interesting, in the start of any new language being learne
 
 # Reward
 Complete any ONE lesson in Duolingo without making any erros and DUO throws you a mini-PERFECT Score party! 
-![Perfect Score](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/aleman/images/PERFECT.png)
+![Perfect Score](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/aleman/images/2020-12-22-PERFECT.png)
 
 Complte several lessons in row perfectly without making an errors, and DUO offers to "level up" without having to do the lessons inbetween. 
-![Aced It](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/aleman/images/jump-to-new-level.png)
+![Aced It](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/aleman/images/2020-12-22-jump-to-new-level.png)
