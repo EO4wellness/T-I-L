@@ -4,7 +4,7 @@
 * [Present 1](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/gales/Castle-1/Present%201)
 * Present 2
 * [Clothes 1](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/gales/Castle-1/Clothing.md)<br>
-* Work 1 
+* [Work 1}(https://github.com/EO4wellness/T-I-L/blob/main/polyglot/gales/Castle-1/Work%201.md)
 * The 1 
 * [Numbers 1](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/gales/Castle-1/Numbers-1.md)<br>
 * Final Castle 

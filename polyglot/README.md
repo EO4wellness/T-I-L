@@ -1,6 +1,6 @@
 # Introduction
 The road to code is not built in one day.<br>
-The road to polyglot is also not built in one day.<br>  
+The road to polyglot, likewise, is not built in one day.<br>  
 
 
 ## Tool Favs
@@ -23,4 +23,9 @@ The road to polyglot is also not built in one day.<br>
 Why not! 
 
 ![Polyglot Definition-MW](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/images/polyglot.png)
+
+This repository also gives me a chance to practice MarkDown formatting, as well as daily coding in Markdown, as well as using commands & features of Git and GitHub, while at the same time serving as a type of log of my language learning activities--although I'm only sharing some of my daily language-learning activities here, not all of them. 
+
+# Keyboard Special Characters
+Especially useful in learning other languages. https://altcodeunicode.com/how-to-use-alt-codes/ 
 

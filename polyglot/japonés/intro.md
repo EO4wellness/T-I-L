@@ -2,7 +2,7 @@
 Japanese uses three different writing systems: 1. hiragana 2. katakana 3. kanji.
 
 ## Hiragana
-This is the mot basic.  It's like an alphabet that uses syllables instead of individual sounds.
+This is the most basic.  It's like an alphabet that uses syllables instead of individual sounds.
 
 ## Katakana
 Is generally used when writing foreign words and some noises. Although it's different from hiragana, it represents the exact same syllables.
