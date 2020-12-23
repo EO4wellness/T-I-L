@@ -82,3 +82,43 @@ Pronunciation reminder
 Have you checked and practised your pronunciation recently? If not, go back over these pronunciation videos.
 
 Try recording your voice saying the same words and then playing it back to compare your pronunciation with that on the videos.
+
+# 2020-12-23 Study Session to Restore Skill Set:
+##  TERMS: 
+* gwisgo (wear) 
+* mis Ionawr (January)
+* mis Chwefror (February) 
+* mis Mawrth (March)
+* mis Ebrill (April)
+* mis Mia (May)
+* mis Mehefin (June) 
+* mis Medi (September) 
+* mis Hedref (October) 
+* mis Tachwedd (November) 
+* mis Rhagfyr (December) 
+* mehefin
+* chwefror 
+* ionawr 
+* tymor
+* gaeaf 
+
+## PHRASES:
+* mis mia y mis mehefin (May and June) 
+* mis Mehefin (June)
+* mis Medi, mis ebrill, mis Ionawr (September, April, January) 
+* mis Chwefror (February)
+* mis Mawrth y mis Ebrill (March and April)
+* mis Rhagfyr a mis Tachwedd (December and November)
+* mis Ebrill a mis Mia (April and May) 
+
+## SENTENCES: 
+* Dw i'n gwisgo cot ym mis Mawrth a mis Enbrill. (I wear a coat in March and April) 
+* Dw i'n hoffi'r dial yn cwympo yn yr hydref. (I like the leaves falling in the autumn.) 
+* Dw i'n mwynhau gweld y dial yn yr haf. (I enjoy seeing the leaves in the summer.) 
+* Dw i'n hoffi mis Ionawr. (I like January) 
+* Dw i ddim yn hoffi mis Chwefror. (I don't like February.) 
+* Dych chi eisiau prynu crys newydd ym mis Mehefin.  (Do you want to buy a new shirt in June?) 
+* Dych chi hoffi mis Hedref? (Do you like October?)
+* Dych chi'n mwynhau gwylio'r dail yn cwympo yn yr hydref?  (Do you enjoy watching the leaves fall in the autumn?)
+* Dych chi hoffi mis Tachwedd?  (Do you like November?) 
+* Dych chi'n gweithio ynghanol mis Mai? (Are you working in the middle of May?)
