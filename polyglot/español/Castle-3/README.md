@@ -1,7 +1,7 @@
 # Castle Topics of Study:
 
 * Go for it! 
-* Weather 
+* [Weather](Weather.md)
 * Stem Changes 
 * Interest 
 * Basic Info 
