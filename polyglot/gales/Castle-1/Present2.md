@@ -60,3 +60,29 @@ You will meet the verb-forms that go with each of these later in the course.
 
 # Restore Skill 
 ## Practice Session 2020-12-24
+
+### Terms
+* mefus (strawberry)
+* menyn (butter)
+* cyfri (to count) 
+* tegan (A toy)
+
+### Sentences 
+* Dych chi'n prynu tegan?  (Are you buying _a_ toy?) 
+* Dw i'n hoffi mefus. (I like strawberries)
+* Dych chi'n bwyta menyn?  (Do you eat butter?)
+* Dych chi hoffi brecwast?  (Do you like breakfast?) 
+* Dych chi bwyta cinio? (Do you eat lunch? Do you eat dinner?)
+* Dych chi'n bwyta caws, ond dych chi ddim yn bwyta cig. (You eat cheese, but you do not eat meat.)
+* Dw i wedi cael brecwast. (I have had breakfast.)
+* Dw i'n bwyta cinio. (I am eating dinner.)
+* Dw i'n rhifo orenau. (I am counting oranges.)
+* Dw i'n hoffi menyn. (I like butter)
+* Dych chi'n gwneud caws? (Do you make cheese?  Or Are you making cheese?) 
+* Dych chi'n bwyta menyn? (Do you eat butter?)
+* Dych chi'n hoffi bwyta caws?  (Do you like eating cheese?) 
+* Dych chi'n gwneud cinio?  (Are you making lunch?)
+* Dw i'n prynu orenau a mefus. (I am buying oranges and strawberries.) 
+* Dych chi'n gwneud brecwast? (Are you making breakfast?)
+* Ydw, dw i eisiau tegan. (Yes, I want a toy.)
+
