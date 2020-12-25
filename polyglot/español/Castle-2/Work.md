@@ -49,7 +49,9 @@ _Su_ can mean a few different things! Context will help you understand which mea
 * Yo leo mi correo electrónico en la officina. (I read my email at the office.)
 * Escribo tu dirección en este papel. (I am writing your address on this paper)
 * Juan, tú escribes muy bien en español. (Juan, you write very well in Spanish)
+* Rafael, tu eres el jefe? (Rafael, are you the boss?)
+* El nino lee un libro todas las noches. (The boy reads a book every night.)
 
 ## Results: 
-
+Did really well.  Finished the review with 100% success.  Wrote some notes for myself to recall the different words which have similar sounds but different meanings. 
 
