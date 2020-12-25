@@ -1,6 +1,6 @@
 # TO LIKE <br>
 
-2020-12-19 Study Session 
+## 2020-12-19 Study Session 
 * A ti te gusta la biblioteca?  Do you like the library?<br>
 * No te interesan las películas.<br>
 * No me gusta esos vestidos.  I don't like those dresses. <br>
@@ -21,7 +21,7 @@
 * Nos interesa mucho Duolingo. <br>
 * A Juan le gusta hablar en espanol.  Juan likes to speak in Spanish.<br>
 
-2020-12-24 Study Session 
+## 2020-12-24 Study Session 
 * ¿A ti te gusta viajar con tu perro? (Do you like to travel with your dog?)
 * ¿A su hermano le encanta la comida mexicana?
 * Me gusta este perro.  Me gustan los perros.
