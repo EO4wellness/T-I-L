@@ -29,3 +29,6 @@ This lesson also introduces katakana, the phonetic Japanese writing system used 
 
 ## Katakana with Dakuten
 ![Intro-1 Katakan with Dakuten Chart](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/images/intro-1-image-5.png)
+
+
+
