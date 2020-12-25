@@ -1,13 +1,13 @@
 # Castle Topics of Study:
 
 * Go for it! 
-* Weather 
+* [Weather](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/espa%C3%B1ol/Castle-3/Weather.md)
 * Stem Changes 
 * Interest 
 * Basic Info 
 * How Pretty 
 * Travel 4
-* Interest 2 
+* [Interest 2](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/espa%C3%B1ol/Castle-3/Interests2.md) 
 * Groceries 
 * [Requests](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/espa%C3%B1ol/Castle-3/Requests.md) 
 * Routines 3 
