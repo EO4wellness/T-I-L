@@ -36,7 +36,7 @@
 * Voi leggite un libro. (You read a book)
 * Le leggi.  (She reads.)
 * Loro leggano. (They read.)
-## ## 2020-12-20 Lesson 3
+## 2020-12-20 Lesson 3
 * Lei scrive un libro.  (She writes a book)
 * Tu scrive.  (You write.)
 * Io leggo il giornale.  (I read the newspaper).
@@ -45,6 +45,15 @@
 * Loro scrivono.  (THey write)
 * Scrivate.  (You write.)
 
+## 2020-12-24
+* Ho un libro (I have a book) 
+* Gli uomini scrivono nello zucchero. (The men write in the sugar.)
+* Ha un libro (She has a book)
+* I ragazzi bevono.  (The boys drink)
+* Scrivete al ragazzo. (You all write to the boy)
+* Lei scrive nel giornale. (She writes in the newspaper.) 
+* Io mangio lo zucchero.  (I eat the sugar.) 
+![progress](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/italiano/castle-1/2020-12-24_next-level-Italian-Castle1-skill2.png)
 
 
 
