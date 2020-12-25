@@ -53,6 +53,8 @@
 * Scrivete al ragazzo. (You all write to the boy)
 * Lei scrive nel giornale. (She writes in the newspaper.) 
 * Io mangio lo zucchero.  (I eat the sugar.) 
+
+
 ![progress](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/italiano/castle-1/2020-12-24_next-level-Italian-Castle1-skill2.png)
 
 
