@@ -23,5 +23,5 @@ More Katakana
         
 
 # Results 
-Earned 2020-12-24<br>
+Earned 2020-12-24:<br>
 ![progress](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/japon%C3%A9s/Castle-1/2020-12-24-earned-Castle1-Katakana2-Level3.png)
