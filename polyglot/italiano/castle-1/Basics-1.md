@@ -33,7 +33,7 @@
     Un' - feminine, used before vowels.
 
 # SKILL REVIEW 
-2020-12-20 Review Session:
+### 2020-12-20 Review Session:
 * Lei beve. (She drinks.) 
 * Tu bevi.  (You drink)
 * Lui mangia. (He eats)
@@ -53,3 +53,23 @@
 * Tu bevi l'acqua. (You drink the water)
 * Io bevo.  (I drink) 
 * Lei beve.  (She drinks)
+
+### 2020-12-24 Study Session 
+* lui _ha_ l'acqua (He has water)
+* Bevete l'acqua (You all drink the water)
+* Tu bevi (you drink)
+* lo leggo, tu scrivi (I read, you write)
+* La donna mangia pesce (The woman eats fish)
+* La donna mangia la mela (The woman eats the apple.)
+* Io mangio una mela (I eat an apple) 
+* Tu bevi (you drink)
+* Io bevo (I drink)
+* Le mangia (she eats)
+* Mangio una mela. (I eat an apple)
+* Beviamo acqua (We drink water)
+* Tu mangi (You eat)
+* Mangi zucchero. (You eat sugar)
+* Bevo (I drink)
+* Tu mangi il pane. (You eat the bread)
+* Io mangio una mela (I eat an apple)
+

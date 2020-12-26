@@ -6,8 +6,8 @@
 * School 2 
 * Agreement 
 * Family 2
-* Work 
-* Emotions 
+* [Work](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/espa%C3%B1ol/Castle-2/Work.md)  
+* [Emotions](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/espa%C3%B1ol/Castle-2/Emotions.md) 
 * People 4 
 * Fashion 
 * Travel 3 
@@ -20,7 +20,7 @@
 * Menu 
 * Family 3
 * Shopping 2
-* Describe 
+* [Describe](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/espa%C3%B1ol/Castle-2/Describe.md) 
 * To Be 
 * Recreation
 * [Community](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/espa%C3%B1ol/Castle-2/Community.md)
