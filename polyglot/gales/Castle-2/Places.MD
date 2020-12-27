@@ -73,3 +73,18 @@ Sometimes the Welsh name includes the "y" (the) and that is not reflected in the
 * Dw i'n prynu dillad ynghanol Tywyn.  (I am buying clothese in the center of Tywyn.)
 * Dych chi'n byw ger llyfrgell?  (Do you live near a library?)
 * Dw i'n byw ger y llyfrgell. (I live near the library)
+
+## 2020-12-27 Study Session:
+* Dw i'n mwynhau gweithio ger Aberaeron. (I enjoy working near Aberaeron.)
+* Dw i'n hoffi'r Fenni. (I like Abergavenny)
+* Dych chi'n byw ger Caerfyrddin? (Do you live nar Carmarthen?) 
+* Dych chi'n mynd i'r siopau yn Aberaeron heddiw? (Are you going to the shops in Aberaeron today?)
+* Dw i'n myn di'r siopau yn y Fenni. (I am going to the shops in Abergavenny.) 
+* y siopau  (the shops)
+* Dych chi'n mynd i'r siopau yn Aberaeron heddiw. (Are you going to the shops in Aberaeron today?) 
+* Dych chi'n hoffi'r Fenni?  (Do you like Abergavenny?) 
+* Dw i'n hoffi'r Fenni.  (I like Abergavenny.)
+* Dw i'n mwynhau gweithio ger Aberaeron. (I enjoy working near Aneraeron)
+* Dych chi'n hoffi'r Fenni.  (Do you like Abergavenny?)
+* Dych chi'n mynd i'r siopau yn Aberaeron heddiw? (Are you going to the shops in Aberaeron today?)
+### Study Session Result: Earned level 3 in this skill. 

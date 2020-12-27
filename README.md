@@ -35,6 +35,7 @@ This is a record of my personal journey.  November, 2020 is the very beginning o
 * [NLP](https://towardsdatascience.com/learn-nlp-the-stanford-way-lesson-1-3f1844265760)
 * [70 Projects & Datasets](https://data-flair.training/blogs/machine-learning-datasets/)
 * Signed up for Comet.ML today.  Took a while to learn its functions and about using it. [more in my T-I-L WIKI](https://github.com/EO4wellness/T-I-L/wiki/Tools-Comet.ML)<br>
+* [Attention](https://theaisummer.com/attention/)
 
 ### Android 
 * Udacity Course: Localization Course https://www.udacity.com/course/localization-essentials--ud610 (11/19/2020) 
@@ -173,6 +174,7 @@ Studied several lessons today 12-7-2020 in the ND
 *  Learn Python the Hard Way https://learnpythonthehardway.org/python3/  
 *  Another Python resource https://www.w3schools.com/python/python_for_loops.asp 
 *  Women Who Code shared this resources today on LinkedIn and I want to remember to followup with it--take notes and study it--when I return to studying Python in the near future. [Women Who Code Data Visualization with Python](https://youtu.be/wvDbLhconLU) youtube tutorial.
+*  Read an article about "learning" any coding takes practice and challenging one's self.  Here is [one such idea along those lines](https://renanmf.com/python-project-guessing-game/).
 	
 ### Server 
 * Maintenance (November 20, 21, 22 2020) 
@@ -200,6 +202,7 @@ Studied several lessons today 12-7-2020 in the ND
 * https://www.kdnuggets.com/2020/12/14-data-science-projects-improve-skills.html 
 * https://wordpress.com/media/galswhocode.wordpress.com
 * [Learn React in 10 Hours](https://www.freecodecamp.org/news/react-10-hour-course/)
+* [Object Oriented Programming- 30 Min](https://www.freecodecamp.org/news/object-oriented-programming-crash-course/)
 * [Data Visualization Course](https://www.coursera.org/specializations/data-visualization)<br>
 
 ### WIKI
