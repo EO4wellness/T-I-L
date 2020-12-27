@@ -35,6 +35,7 @@ This is a record of my personal journey.  November, 2020 is the very beginning o
 * [NLP](https://towardsdatascience.com/learn-nlp-the-stanford-way-lesson-1-3f1844265760)
 * [70 Projects & Datasets](https://data-flair.training/blogs/machine-learning-datasets/)
 * Signed up for Comet.ML today.  Took a while to learn its functions and about using it. [more in my T-I-L WIKI](https://github.com/EO4wellness/T-I-L/wiki/Tools-Comet.ML)<br>
+* [Attention](https://theaisummer.com/attention/)
 
 ### Android 
 * Udacity Course: Localization Course https://www.udacity.com/course/localization-essentials--ud610 (11/19/2020) 
