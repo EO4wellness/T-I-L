@@ -41,5 +41,6 @@
 * Me gusta caminar en lay playa. I like to walk on the beach
 
 
-
+## 2020-12-27 Study Session 
+[Skill Set completed](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/espa%C3%B1ol/Castle-3/2020-12-27-TO-LIKE-skillset.jpg)
 
