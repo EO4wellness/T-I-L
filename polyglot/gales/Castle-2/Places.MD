@@ -88,3 +88,4 @@ Sometimes the Welsh name includes the "y" (the) and that is not reflected in the
 * Dych chi'n hoffi'r Fenni.  (Do you like Abergavenny?)
 * Dych chi'n mynd i'r siopau yn Aberaeron heddiw? (Are you going to the shops in Aberaeron today?)
 ### Study Session Result: Earned level 3 in this skill. 
+![level3](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/gales/Castle-2/2020-12-27-castle2-places-level3.jpg)
