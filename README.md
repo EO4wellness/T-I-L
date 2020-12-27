@@ -201,6 +201,7 @@ Studied several lessons today 12-7-2020 in the ND
 * https://www.kdnuggets.com/2020/12/14-data-science-projects-improve-skills.html 
 * https://wordpress.com/media/galswhocode.wordpress.com
 * [Learn React in 10 Hours](https://www.freecodecamp.org/news/react-10-hour-course/)
+* [Object Oriented Programming- 30 Min](https://www.freecodecamp.org/news/object-oriented-programming-crash-course/)
 * [Data Visualization Course](https://www.coursera.org/specializations/data-visualization)<br>
 
 ### WIKI
