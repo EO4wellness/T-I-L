@@ -1,0 +1,8 @@
+*stastie (happiness)
+* strom (tree)
+* spievat (sing)
+* hviezda (star)
+
+* Ty mas rad tento stary strom (You like this old tree)
+* You look at the stars (Ty sa pozeras na hviezdy)
+* On ich pocuje spievat. (He hears them sing)
