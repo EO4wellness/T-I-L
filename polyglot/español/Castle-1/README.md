@@ -7,7 +7,7 @@
 * Idioms 
 * Shopping 
 * Pre Tense 1
-* School 
+* [School](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/espa%C3%B1ol/Castle-1/School.md) 
 * People 
 * Castle 1
 
