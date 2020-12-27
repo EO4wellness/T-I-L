@@ -21,3 +21,56 @@ If you'd like to thank someone for something they did in the past, you change th
                 ありがとうございました 	Thank you for what you did, used with strangers, teachers, and bosses.
                 どうもありがとうございました 	Thank you very much for what you did, used with strangers, teachers, and bosses.
                 
+
+# Introduction to Greeting Terms
+Also see [forms](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/japon%C3%A9s/thank-you-forms.md)
+## Teacher, Thank you. 
+![Teacher, Thank You.](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/japon%C3%A9s/images/Teacher-thankyou.png)<br>
+<br>
+## Good morning. 
+![Good morning.](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/japon%C3%A9s/images/good%20morning%20from%20list.png)<br>
+<br>
+![Good morning!](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/japon%C3%A9s/images/good-morning.png)<br>
+<br>
+## Hello
+![Hello](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/japon%C3%A9s/images/hello-2.png)<br>
+<br>
+![Hello](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/japon%C3%A9s/images/hello.png)<br>
+<br>
+## Here you are!
+![Here you are!](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/japon%C3%A9s/images/here%20you%20are.png)<br>
+<br>
+![Here you are](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/japon%C3%A9s/images/here%20you%20are2.png)<br>
+<br>
+## Likewise
+![Likewise](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/japon%C3%A9s/images/likewise%20from%20list.png)<br>
+<br>
+![Likewise](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/japon%C3%A9s/images/likewise.png)<br>
+<br>
+## Nice to meet you.  Likewise. 
+![Nice to meet you.  Likewise.](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/japon%C3%A9s/images/nice%20to%20meet%20you-likewise.png)<br>
+<br>
+## Nice to meet you.
+![Nice to meet you](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/japon%C3%A9s/images/nice-to-meet%20you.png)<br>
+<br>
+![Nice to meet you](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/japon%C3%A9s/images/nice-to-meet-you.png)<br>
+<br>
+![Nice to meet you!](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/japon%C3%A9s/images/nice-to-meet-you2.png)<br>
+<br>
+## Please.
+![Please](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/japon%C3%A9s/images/please.png)<br>
+<br>
+## Teacher, Good morning!
+![Teacher, Good morning!](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/japon%C3%A9s/images/teacher-good-morning.png)<br>
+<br>
+## Teacher, hello. 
+![Teacjer. hello.](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/japon%C3%A9s/images/teacher-hello.png)<br>
+<br>
+## Teacher
+![Teacher](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/japon%C3%A9s/images/teacher.png)<br>
+<br>
+## Thank you.
+![Thank you](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/japon%C3%A9s/images/thank%20you%20from%20list.png)<br>
+<br>
+## Thank you, to you as well. 
+![Thank you, to you as well.](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/japon%C3%A9s/images/thank%20you-to-you-as-well.png)<br>

@@ -34,4 +34,5 @@ This lesson also introduces katakana, the phonetic Japanese writing system used 
 
 ![errors](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/japon%C3%A9s/Castle-1/2020-12-24-errors.jpg)
 
-
+In today's study session, while I didn't get the "Ms." wrong, I had a hard time recalling it, so I added it to the error list as well: 
+![2020-12-26 errors](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/japon%C3%A9s/Castle-1/2020-12-26-errors.jpg)
