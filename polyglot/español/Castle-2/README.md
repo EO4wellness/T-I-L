@@ -13,7 +13,7 @@
 * Travel 3 
 * Leisure 
 * Pres Tense 2 
-* Activities 
+* [Activities](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/espa%C3%B1ol/Castle-2/Activities.md) 
 * Preference
 * [Routines](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/espa%C3%B1ol/Castle-2/Routines.md)
 * Household 
