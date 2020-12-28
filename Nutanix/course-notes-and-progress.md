@@ -187,4 +187,4 @@ RESUME STUDIES HERE: https://classroom.udacity.com/nanodegrees/nd321/parts/89c29
 (lots of details--sign up for career services to see this for yourself) 
 2. Project: Optimize your GitHub as part of your digital portfolio 
 (lots of details--sign up for career services to see this for yourself) 
-3.  One-on-One calls: I took full advantage of these wonderful programs and spoke in October, 2020 with Bret; and November 2020 with another counselor. 
+3.  [One-on-One calls](https://www.udacity.com/career-services/home): I took full advantage of these wonderful programs.  Appointments: 2020-10-28 with Bret; 2020-12-08 with Andrea. After each 1-on-1 session, each career counselor also sends a follow up email with excellent resoruces to followup with the discussion and recommendation points. Very helpful and useful. 
