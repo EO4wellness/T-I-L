@@ -9,3 +9,19 @@ When I first learn HTML coding it was using the Netscape (retired) browser, long
 
 ## Examples 
 coming soon 
+
+## Learning HTML
+Projects to practice HTML & CSS skills. [list from @Ravinwashere twitter](https://twitter.com/ravinwashere/status/1343434835793100800)
+
+- Navbar design 
+- Profile card
+- Gradient text effect
+- Invisible card
+- Sections hover
+- Count down button
+- Shine effect
+- Footer design
+- Slide show
+- Simple sign up form
+- CSS calculator 
+- Landing page
