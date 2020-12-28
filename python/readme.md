@@ -7,10 +7,10 @@ Python 3 is widely used and has many use-cases spanning multiple business, progr
 
 
 # Using Python 
-To use Python, you must first install it. 
-[Python Download and Installation Instructions](https://www.python.org/downloads/)
-[Download Python for various OS](https://wiki.python.org/moin/BeginnersGuide/Download)
-[Anaconda](https://www.anaconda.com/products/individual)
+To use Python, you must first install it. I've had my download set up since 2019-Dec. 
+* [Python Download and Installation Instructions](https://www.python.org/downloads/)<br>
+* [Download Python for various OS](https://wiki.python.org/moin/BeginnersGuide/Download)<br>
+* [Anaconda](https://www.anaconda.com/products/individual)<br>
 
 # Beginners Tutorials and Guides
 * [Sololearn](https://www.sololearn.com)
@@ -21,3 +21,8 @@ To use Python, you must first install it.
 * https://wiki.python.org/moin/BeginnersGuide/NonProgrammers
 * [Documentation](https://docs.python.org/3/)
 * [Python Online Tutorials](https://www.python-course.eu/index.php)
+
+# Projects
+There is no way to learn code other than getting experience coding.  Here are some places to gain that experience and some projects to give a try. 
+![YouTube-Beginner-Projects](https://github.com/EO4wellness/T-I-L/blob/main/python/Images/Python-beginner-projects.png)
+Video URL: https://www.youtube.com/watch?v=8ext9G7xspg 
