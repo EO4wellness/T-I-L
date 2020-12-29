@@ -21,3 +21,25 @@ Let’s practice some more vowels!
 * München, tschüss say “ee”, but with “oo” shaped lips
 * Deutschland, teuer (as in “ahoy”)
 
+
+### Skill Practice Session 2020-12-29
+* Nina, kommst du aus Frankreich? (Nina, do you come from France?)
+* Ich komme aus New York (I am from New York)
+* Karl. kommst du aus Frankreigh? (Karl, do you come from France?)
+* Ist Deutschland groß oder klein? (Is Germany big or small?) 
+* München ist sehr laut. (Munich is very loud.)
+* Es ist nicht teuer. (It is not expensive.)
+* München ist teuer. (Munich is expensive)
+* Wo ist Deutschland? (Where is Germany?) 
+* Berlin ist en Deutschland. (Berlin is in Germany)
+* Ist Österreich groß? (Is Austrai big)
+* Die Kinder sind laut. (The children are loud)
+* Oi ist teuer. (Oil is expensive)
+* Wir sind laut (we are noisy)
+* Wien ist cool. Vienna is cool
+* Munchen ist eine Stadt in Deutschland. (Munich is a city in Germany.)
+* Ich lebe en Frankreich. (I live in France)
+* Ist  das essen teuer? (Is the food expensive?) 
+* Wien ist laut. Vienna is loud.
+* Ich komme aus Osterreich. (I come from Austria)
+
