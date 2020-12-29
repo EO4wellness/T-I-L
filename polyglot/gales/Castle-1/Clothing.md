@@ -70,11 +70,34 @@ Dych chi'n gwerthu hosanau?  (Do you sell stockings?) <br>
 Dych chi'n gwisgo fest newydd?  (Are you wearing a new vest?)<br>
 Dych chi'n gwisgo cot a menig?  (Are you wearing a coat and gloves?)<br>
 Dw i'n gwisgo siwt newydd (I am wearing a new suit).  <br>
+siwt Morgan (Morgan's siwt) <br>
+Esgidiau rhedeg (running shoes) <br>
 Dw i ddim yn hoffi gwisgo menig. (I do not like wearing gloves). <br>
 Dw i'n gwisgo esgidiau.  (I am wearing shoes). <br>
 Dw i ddim yn hoffi ffrog Megan.  (I do not like Megan's dress). <br>
 esgidiau newydd (new shoes) <br>
-siwt Morgan (Morgan's siwt) <br>
-Esgidiau rhedeg (running shoes) <br>
 Esgidiau rhedeg newydd (new running shoes) <br>
+
+## 2020-12-28 Restore Skill Set Study Session
+* Dillad ysgol (school clothes)
+* siaced (jacket)
+* trowsus (trousers)
+* esgidiau (shoes)
+* crys (shirt) 
+* Dych chi'n hoffi blows Megan? (Do you like Megan's blouse?)
+* Dych chi esiau sgarf newydd?  (Do you want a new scaf?)
+* Dych chi'n gwisgo cot law newydd. (Are you wearing a new rain coat?)
+* Dw i ddim yn hoffi gwisgo gwisg ysgol. (I don't like wearing a school uniform)
+* Dw i'n hoffi gwisgo trowsus. (I like wearing trousers)
+* Dych chi'n gwisgo dillad ysgol heddiw (Are you wearing school clothes today?)
+*  Dw i esiau siaced. (I want a jacket)
+* Dw i'n gwisgo cot law. (I am wearing a rain coat)
+* crys chwys (a sweatshirt)
+* trowsus Dylan (Dylan's trousers)
+* crys chwys Megan (Megan's sweatshirt)
+* Gwisg ysgol newydd (A new school uniform)
+* sgert a blows (a skirt and a blouse)
+* gwisg ysgol (school uniform)
+* dw i'n gwisgo blows (I am wearing a blouse)
+* 
 
