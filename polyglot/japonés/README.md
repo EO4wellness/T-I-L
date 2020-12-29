@@ -23,8 +23,8 @@ coming soon
 
 
 # Study Log [Overview](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/japon%C3%A9s/log.md)
-* 2021 Log - coming soon 
-* [2020 Log](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/japon%C3%A9s/2020_log.md)
+* [2021 Log](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/japon%C3%A9s/logs/2021_log.md)
+* [2020 Log](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/japon%C3%A9s/logs/2020_log.md)
 
 ## Progress: 
 [x] [Castle 1](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/japon%C3%A9s/Castle-1)  | Completed Dec 20, 2020. <br>
