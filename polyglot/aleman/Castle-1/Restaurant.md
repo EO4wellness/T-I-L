@@ -15,3 +15,18 @@ Did you notice that ‑er at the end of a word is pronounced like uh? Give it a 
 * Wasser (as in “uh”)
 * Schwester (as in “uh”)
 
+
+### Practice Review Skill session 2020-12-29
+* Ist der Salat lecker? (Is the salad delicious?) 
+* Ist die pizza lecker? (Is the pizza delicious?) 
+* Der Salat, der Käse. (the salad, the cheese)
+* Salat wit Käse (Salad with cheese)
+* Entschuldigung, die Pizza ist kalt. (Excuse me, the pizza is cold.)
+* Der Käse, die Pizza (the cheese, the pizza)
+* Hier ist die Rechnung. (Here is the check.) 
+* Die Rechnung, bitte! (The check, please.)
+* Es ist kalt im Herbst. (It is cold in the fall.)
+* Entschuldigung, die Rechnung, bitte! (Excuse me, the check, please!)
+* Der Tee ist kalt. (The tea is cold.) 
+*Received a Perfect Party at the end of the lesson.*
+
