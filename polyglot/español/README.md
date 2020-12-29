@@ -9,7 +9,7 @@ In addition to Duolingo, which is the oldest platform I've used for language lea
 
 # Logs :es:
 * [Today I learned in Spanish - 2020 Log](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/espa%C3%B1ol/study-log/2020_log.md)
-* [Today I learned in Spanish - 2020 Log](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/espa%C3%B1ol/study-log/2021_log.md)
+* [Today I learned in Spanish - 2021 Log](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/espa%C3%B1ol/study-log/2021_log.md)
 
 # Special Characters 
 For those without a keyboard which types Spanish special characters, there is a quick [cut-n-paste cheatsheet](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/espa%C3%B1ol/keyboard-shortcuts.md) I've pulled together.  I generally use it daily, when I'm not on my mobile, as my mobile is set to navigate and type in Spanish. 
