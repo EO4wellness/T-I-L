@@ -72,3 +72,19 @@ der Hund, die Eule (the dog, the owl) <br>
 die Katze ist sehr jung. (The cat is very young) <br>
 Ja, die Eule ist klug und nett. (Yes, the owl is smart and nice).  <br>
 Der Elefant ist sehr schön.  (The elephant is very beautiful)  <br>
+
+### 2020-12-29 Practice Session
+* Hallo und Tschüss (Hello and bye)
+* Milch und Kaffee Bitte  (Milk and coffee, please!)
+* Brot mit Käse (bread with cheese)
+* die Wurst ist lecker, danke! (The sausage is delicious, thank you. )
+* Wasser und Brot, bitte (Water and bread, please!)
+* Te mit Milch bitte (Tea with milk, please!)
+* Es geht danke. (I'm all right, thank you.)
+* Tschüss (Bye)
+* Milch oder Wasser? (Milk or water?)
+* Das Sandwich ist super danke. (The sandwich is super thanks.
+* Hallo. Wie gehts?  (Hello. How are you?)
+* Tschüs, bis später! (Bye, see you later)
+* Brot und Wasser bitte. (Bread and water, please )
+received perfect party at the end of the lesson review. 
