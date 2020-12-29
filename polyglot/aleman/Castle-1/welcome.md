@@ -73,7 +73,8 @@ die Katze ist sehr jung. (The cat is very young) <br>
 Ja, die Eule ist klug und nett. (Yes, the owl is smart and nice).  <br>
 Der Elefant ist sehr schön.  (The elephant is very beautiful)  <br>
 
-### 2020-12-29 Practice Session
+### 2020-12-29 Practice Session 
+*Basic 1*
 * Hallo und Tschüss (Hello and bye)
 * Milch und Kaffee Bitte  (Milk and coffee, please!)
 * Brot mit Käse (bread with cheese)
@@ -87,4 +88,15 @@ Der Elefant ist sehr schön.  (The elephant is very beautiful)  <br>
 * Hallo. Wie gehts?  (Hello. How are you?)
 * Tschüs, bis später! (Bye, see you later)
 * Brot und Wasser bitte. (Bread and water, please )
-received perfect party at the end of the lesson review. 
+*received perfect party at the end of the lesson review.* 
+*Basic 2*
+* Die Frau ist sehr groß. (The woman is very tall.)
+* Das Haustier ist jung. (The pet is young)
+* Die Frau (the woman)
+* Der Junge ist jung. (The boy is young)
+* Ist das Haustier jung? (Is the pet young?)
+* Eine Maus, eine Katze (a mouse, a cat)
+* Ich ben eine Maus. (I am a mouse)
+* Du bist eine Mause (you are a mouse)
+* Die Frau ist meine Mutter (The woman is my mother)
+*received a perfect party at the end of the review lesson.* 
