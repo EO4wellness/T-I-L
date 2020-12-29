@@ -1,5 +1,4 @@
-# Castle Topics of Study:
-
+# Castle 3 Topics of Study:
 * Go for it! 
 * [Weather](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/espa%C3%B1ol/Castle-3/Weather.md)
 * Stem Changes 
@@ -34,4 +33,9 @@
 * Home (level 1 completed) 
 * Castle 3 Final Quiz 
 
+# Stories:
+
 ### Note: Duolingo switched up this course, while I was doing "maintence only" (no new lessons--just keeping my skills current by daily, ongoing, review of completed assingments and castles--during the Bertlesmann Tech Scholarship challenge of Nov-2019 thru Summer of 2020 when I was then again enrolled in Nutanix Hybrid Scholarship (ongoing now) and the Bertlesman Tech Scholarship for 2020 too.  Due to that some of my previous lessons are not "srpread across" many levels simply due to the changes in the castle structure of what they are introducing and in what order. 
+
+### Navitation
+[Castle 1](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/espa%C3%B1ol/Castle-1)  | [Castle 2](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/espa%C3%B1ol/Castle-2)  | [Castle 3](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/espa%C3%B1ol/Castle-3)  | [Castle 4](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/espa%C3%B1ol/Castle-4)  |
