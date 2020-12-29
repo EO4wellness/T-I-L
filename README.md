@@ -123,6 +123,7 @@ Project website: http://tacodataset.org/<br>
 * Worked on READme and Version Control repo https://github.com/EO4wellness/leary-leerie 12-09-202
   and again on 12-10 and 12-11 and 12-12. 
 * [Delete](https://github.com/EO4wellness/T-I-L/wiki/GitHub-Delete)
+* T-I-L about the existance and use of [GitHub Pages](https://pages.github.com/)
 
 ### HTML 
 * [HTML](https://github.com/EO4wellness/T-I-L/blob/main/HTML/HTML.md)<br>
@@ -204,6 +205,9 @@ Studied several lessons today 12-7-2020 in the ND
 * [Learn React in 10 Hours](https://www.freecodecamp.org/news/react-10-hour-course/)
 * [Object Oriented Programming- 30 Min](https://www.freecodecamp.org/news/object-oriented-programming-crash-course/)
 * [Data Visualization Course](https://www.coursera.org/specializations/data-visualization)<br>
+* https://50reactprojects.com/
+* https://github.com/jwasham/coding-interview-university
+
 
 ### WIKI
 * In November, 2020, I started a T-I-L WIKI just to learn and practice more of the WIKI Github skill set.  Likely, overtime, I will also do "issues" "projects" and other additional GitHub features here in this repository to practice various aspects of what's available.  
