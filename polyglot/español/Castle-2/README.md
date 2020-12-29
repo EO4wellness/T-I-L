@@ -14,7 +14,7 @@
 * Leisure 
 * Pres Tense 2 
 * [Activities](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/espa%C3%B1ol/Castle-2/Activities.md) 
-* Preference
+* [Preference](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/espa%C3%B1ol/Castle-2/Preference.md)
 * [Routines](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/espa%C3%B1ol/Castle-2/Routines.md)
 * Household 
 * Menu 
