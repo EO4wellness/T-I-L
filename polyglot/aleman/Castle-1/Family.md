@@ -26,3 +26,13 @@ Here are some more sound differences between English and German!
 * Vogel, Vater (as in “father”)
 * mein, ein (as in “ice”)
 * schwach, Tochter like clearing your throat
+
+
+## 2020-12-29 Practice Review Session
+* Yes, the owl is smart and nice. (Ja, die eule ist klug und nett.)
+* Der Junge ist nett. (The boy is nice)
+* Der Mann ist nett. (The man is nice.)
+* Oh, meine Katze ist nett! (Oh, my cat is nice!)
+* Oh, mein Hund is klug. (Oh, my dog is smart)
+* Meine Tochter ist sehr klug! (My daughter is very smart!)
+Receibed a "Perfect Party" at the end of this review lesson. 

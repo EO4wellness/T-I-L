@@ -12,6 +12,13 @@
 * [Directions](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/aleman/Castle-1/directions.md)  | Current Level: 2 of 5<br>
 * Final Castle Test | Current Level: not yet attempted <br>
 
+# German Stories - Set 1:
+* [Guten Morgen!](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/aleman/Castle-1/guten-morgen.md)
+* [A Date](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/aleman/Castle-1/a-date.md) 
+* [One Thing](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/aleman/Castle-1/one-thing.md) 
+* [Surprise!](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/aleman/Castle-1/surprise.md) 
+
 ### Navigate: <br>
 [Castle 1](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/aleman/Castle-1/README.md)  | [Castle 2](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/aleman/Castle-2/README.md)  | [Castle 3](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/aleman/Castle-3/README.md)   | [Castle 4](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/aleman/Castle-4/README.md)  | [Castle 5](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/aleman/Castle-5/README.md) 
+
 

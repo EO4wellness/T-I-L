@@ -96,3 +96,34 @@ Die Universitat in Berlin ist alt
 <br>
 Der Geldautomat ist hier 
 (The ATM is here)
+
+## Practice Session 2020-12-29
+* der Kaffee (the coffee)
+* das Café (the coffee shop)
+* das Hotel (the hotel)
+* Das Café ist zu teuer. (The coffee _shop_ is too expensive.)
+* Ja, der Kaffee ist billig hier. (Yes, the coffee is cheap here.)
+* Das Museum in Berlin. The museum in Berlin
+* Ist das Café billig? (Is the coffee shop cheap?) 
+* Das Museum in Berlin ist sehr schön. (The museum in Berlin is very beautiful)
+* Ja, das Hotel ist elegant. (Yes, the hotel is elegant.)
+
+* Der Park ist links. (The park is on the left)
+* Entshuldigung, wo ist die Bäckerei? (Excuse me, where is the bakery?)
+* Oh, das Kino ist klein. (Oh, the movie theater is small!)
+* Ist die Bäckerei rechts? (Is the bakery on the right?)
+* Ja, der supermarkt ist links. (Yes, the supermarket is on the left.)
+* Das Kino ist rechts. (The movie theater is on the right.)
+* Der supermarkt ist sehr groß. (The supermarket is very big)
+
+* Das Museum ist neu. (The museum is new)
+* Der Geldautomat ist hier. (The ATM is here) 
+* Is der Bahnhof weit weg? (is the train station far away?)
+* die Universitäd in Berlin (the university in Berlin)
+* die U-Bahnstation (the subway station)
+* neu und alt (new and old)
+* Entschuldigung, wo ist der Geldautomat?  (Excuse m, where is the ATM?)
+*Received a PERFECT party at the end of this lesson*
+*Also, moved on to Level 3 in this skill.*
+
+* 
