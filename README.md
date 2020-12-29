@@ -205,6 +205,7 @@ Studied several lessons today 12-7-2020 in the ND
 * [Learn React in 10 Hours](https://www.freecodecamp.org/news/react-10-hour-course/)
 * [Object Oriented Programming- 30 Min](https://www.freecodecamp.org/news/object-oriented-programming-crash-course/)
 * [Data Visualization Course](https://www.coursera.org/specializations/data-visualization)<br>
+https://50reactprojects.com/
 
 ### WIKI
 * In November, 2020, I started a T-I-L WIKI just to learn and practice more of the WIKI Github skill set.  Likely, overtime, I will also do "issues" "projects" and other additional GitHub features here in this repository to practice various aspects of what's available.  
