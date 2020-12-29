@@ -1,3 +1,4 @@
+# Castle 1 
 * Intro
 * Phrases 
 * Travel 
@@ -28,3 +29,6 @@ The Duolingo stories help with reading comprehension, as well as introducing new
 
 
 ### NOTE: I originally completed all five levels in each of the above Castle 1 categories, as well as the first two sets of reading stories, back in my first week of enrolling in this course during the summer of 2019. Now, I'm only reviewing the castles as the Duolingo A.I. lets me know it is time to review each of these skill sets, and then I'm using that prompt to update my notes here--as I didn't originally have this repo when I began doing this coursework.
+
+### Navitation
+[Castle 1](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/espa%C3%B1ol/Castle-1)  | [Castle 2](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/espa%C3%B1ol/Castle-2)  | [Castle 3](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/espa%C3%B1ol/Castle-3)  | [Castle 4](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/espa%C3%B1ol/Castle-4)  |
