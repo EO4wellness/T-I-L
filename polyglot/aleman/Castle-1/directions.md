@@ -96,3 +96,15 @@ Die Universitat in Berlin ist alt
 <br>
 Der Geldautomat ist hier 
 (The ATM is here)
+
+## Practice Session 2020-12-29
+* der Kaffee (the coffee)
+* das Café (the coffee shop)
+* das Hotel (the hotel)
+* Das Café ist zu teuer. (The coffee _shop_ is too expensive.)
+* Ja, der Kaffee ist billig hier. (Yes, the coffee is cheap here.)
+* Das Museum in Berlin. The museum in Berlin
+* Ist das Café billig? (Is the coffee shop cheap?) 
+* Das Museum in Berlin ist sehr schön. (The museum in Berlin is very beautiful)
+* Ja, das Hotel ist elegant. (Yes, the hotel is elegant.)
+
