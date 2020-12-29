@@ -6,7 +6,7 @@ Italian is so much like Spanish, I find it fun to do a lesson once in a while--p
 # CASTLES: 
 In Duolingo, Castles represent a skill set and pathway to learning.  This is conducted very much so like a highschool or college/university course with a mixture of listening, speaking, transcribing skills regularly taught and practiced daily. 
 <br>
-* [Castle 1] - This is one I'm currently working on--though not too seriously. 
+* [Castle 1](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/italiano/castle-1) - This is one I'm currently working on--though not too seriously. 
 * [Castle 2](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/italiano/castle-2/README.md)
 * . . . more . . . 
 
