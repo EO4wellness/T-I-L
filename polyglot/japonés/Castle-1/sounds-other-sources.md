@@ -16,11 +16,11 @@
         The phonetic transcription written in Latin letters is called romaji.
         
         _____________________
-        -0Romaji	- Hiragana-
-        -a	- あ-
-        -i	- い-
-        -u	- う-
-        -e	- え-
-        -o	- お-
+        -       Romaji	- Hiragana-
+        -       a	- あ-
+        -       i	- い-
+        -       u	- う-
+        -       e	- え-
+        -       o	- お-
         _____________________
 
