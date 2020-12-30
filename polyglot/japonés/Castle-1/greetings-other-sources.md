@@ -52,3 +52,74 @@ Study notes from other available sources.
       Douzo yoroshiku.  	Pleased to meet you.
       
 Aisatsu (greetings)
+
+                        Ohayou. / おはよう 
+                        Good morning. (informal)
+                        
+                        Ken-san, ohayou! / けんさん、おはよう！
+                        健さん、おはよう！
+                        Good morning, Ken! 
+                        
+                        konbanwa / こんばんは 
+                        今晩は
+                        Good evening
+                        
+                        Konbanwa, Kimura-san. / こんばんは、きむらさん。
+                        今晩は、木村さん。
+                        Good evening, Kimura-san.
+                        
+                        Close or distant?
+                        We speak to people in different ways depending on our relationship with them.
+                        This is the same for greetings! 
+                        
+                       ohayou      |close relationships (family or friends)
+                       ohayou gozaimasu|  distant relationships (e.g. teachers, bosses or elders)
+                       
+                       Ohayou! / おはよう！(Good morning!)
+                       Arigatou! / ありがとう！ (Thank you!)
+                       Sumimasen. / すみません。(I'm sorry.)
+                       
+                       Ohayou! / おはよう！(Good morning!)
+                       Arigatou! / ありがとう！ (Thank you!)
+                       Sumimasen. / すみません。(I'm sorry.)
+                       
+                       Kyoko-san, arigatou! / きょうこさん、ありがとう！
+                       京子さん、ありがとう！
+                       Kyoko, thank you!
+                       
+                       Arigatou gozaimasu. / ありがとうございます。
+                       Thank you. (formal)
+                       
+                       Tanaka-sensei, arigatou gozaimasu. / たなかせんせい、ありがとうございます。
+                       田中先生、ありがとうございます。
+                       Thank you, Professor Tanaka. 
+                       
+                       Here's a tip!
+                       As you probably noticed, we use "gozaimasu" to express politeness - but the word doesn't mean anything by itself. 
+                       We say "gozaimas" but write "gozaimasu".
+                       Teacher: Yoshi-san, arigatou! (Thanks, Yoshi!)
+                       Yoshi: Sensei, arigatou gozaimasu! (Teacher, thank you!)
+                       
+                       Here's a tip!
+                       When somebody thanks us, we can respond by saying "iie" (not at all). It also means "no".
+                       Mariko: Yoko-san, arigatou! (Yoko, thank you!)
+                       Yoko: iie! (Not at all!)
+                       
+                       iie / いいえ
+                       not at all; no
+                       
+                       Douzo / どうぞ
+                       here you go; please
+                       
+                       Yoshiko-san, purezento, douzo! / よしこさん、プレゼント、どうぞ！
+                       良子さん、プレゼント、どうぞ！
+                       Yoshiko, here is a present for you. 
+                       
+                       Sumimasen. / すみません。
+                       sorry; excuse me
+                       
+                       Sensei, sumimasen! / せんせい、すみません！
+                       先生、すみません！
+                       I'm sorry, teacher! 
+                       
+                       
