@@ -7,24 +7,6 @@ Acording to the various random facts accumulated online, Japanese is the 9th mos
 * [Thank You forms](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/japon%C3%A9s/thank-you-forms.md) 
 * [Greetings](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/japon%C3%A9s/greetings.md) 
 
-      Beginning Japanese: 
-
-      Konnichiwa / こんにちは
-      今日は
-      Hello
-      
-      Watashi wa Mariko desu. / わたしはまりこです。
-      私は真理子です。
-      I am Mariko.
-      
-      Here's a tip!
-      As you may have guessed, "watashi" means "I". So the structure for "I am ..." is "Watashi wa ... desu". Don't worry about "wa" and "desu" for now. We will find out what they mean soon. (⁎˃ᴗ˂⁎)
-      
-      Recap
-      Konnichiwa. 	Hello
-      Watashi wa ...... desu. 	I am...
-      
-      
 
 Castle 1 Quiz --> 100% --> Earned Dec 20,2020.<br>
 ![Castle 1 Quiz](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/japon%C3%A9s/images/2020-12-20_japaneese_check-point-1-duolingo.png)
