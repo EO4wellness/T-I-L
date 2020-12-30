@@ -41,7 +41,29 @@ RESULTS:
 Earned level 2 today 12-22-2020 on Hobbies 
 ![Level 2 on Hobbies](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/aleman/images/hobies-2.png)
 
+2020-12-30 Practice Sessions:
+* Kochst du? (Do you cook?)
+* ich male, du malst (i paint, you paint)
+* Schwimmst du? (Do you swim?)
+* Oh, du kochst nie.  (OH, you never cook!)
+* Ich male sehr gut, und du? (I paint really well, and you?)
+* Du malest gut. (You paint well)
+* ich schwimmer, du schwimmst (I swim you swim)
+RESULT: 100% Perfect party! 
 
+* Kochst du immer?  (Do you always cook?) 
+* Der Bar kocht niew. (The bear never cooks)
+* Meine Schwester malt. (My sister paints)
+* Gustav male sehr gut. (Gustav paints really well.)
+* Ich schwimmer aft. (I swim often)
+* Meine Mutter kocht sehr gut. (My mother cooks really well)
+* Mein Vater schwimmt sehr gut. (My father swims really well)
+RESULT: like I often do in coding, I made a few typos this time around.  Nothing that cannot be corrected.  gut and fut aren't the same meaning (and one tap off center)
 
+* Du spielst nie Schach. (You never play chess.)
+* Die Eule spielt immer Schach. (The owl always plays chess)
+* Ich spiele sehr gut Klavier. (I play the piano really well)
+* Du spielst, ich spiele (you play, i play)
+Earned Castle 4 for this skill set today (Dec 30, 2020) 
 
 
