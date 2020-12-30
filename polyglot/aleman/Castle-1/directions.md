@@ -126,4 +126,46 @@ Der Geldautomat ist hier
 *Received a PERFECT party at the end of this lesson*
 *Also, moved on to Level 3 in this skill.*
 
-* 
+2020-12-30 Study Sessions:
+* Ist der Bahnhoff da drüben?  (Is the train station over there?)
+* Der Taxistand ist da drüben. (The taxi stand is over there)
+* Der Park is sehr groß!  (The park is very big!)
+* Ja, der markt ist klein. (Yes, the market is small)
+* Der Park ist da drüben. (The park is over there)
+* Der Taxistand und der Bahnhoff. (The taxi stand and the train station)
+* Der Markt und der Taxistand (the market and the taxistand)
+*Result: Received a Perfect Party!*
+
+* Entschuldigung wo ist die Apotheke? (Excuse me, where is the pharmacy?)
+* Die Bibliothek ist in der Nahe. (The library is nearby)
+* die Bibliothek, die Kirche (the library, the church)
+* Die Kirche ist alt und schon. (The church is old and beautiful)
+* Ja, die Apotheke ist alt. (Yes, the pharmacy is old)
+* Wo ist die bibliothek. (Where is the library)
+* Die Kirche ist i der Nahe (The church is nearby)
+* Das Restaurant ist billig. (The restuarant is cheap.)
+* Entschuldigung, wo ist das Museum? (Excuse me, where is the museum)
+* Das Cafe ist zu teuer. THe coffee shop is too expensive. 
+* Wo ist das Cafe? Where is the coffee shop?)
+* alt und bullig (old and cheap)
+* Ja, das Hotel ist elegant. (Yes, the hotel is elegant.)
+*Result: Perfect party!*
+
+* Die Backerei ist da druben (The bakery is over there)
+* Is der Supermarkt links _oder_ rechts? (Is the Supermarket on the left or the right?)
+* Ist das Museum rechts oder links? (Is the museum omn the right or on the left?)
+* Das Kino ist rechts. The movie theater is on the right.
+* Das Kino, der supermarkt the movie theater, the supermarket
+* Wo ist der Supermarkt?  Where is the supermarket?
+* Die Backerei ist billig.  The bakery is cheap
+* Ja, der Geldautomat ist _in_ der Nahe. (Yes, the ATM is nearby)
+* in der Nahe (nearby)
+* Ja, die Bibliothek ist weit weg. (Yes, the library is far away.)
+* neu und alt  (new and old)
+* der Geltautomat (the ATM)
+* Ist die Universidat Groß?  (Is the university big?)
+* Die U-Bahnstation ist alt. The subway station is old.
+* Das Nuseum ist neu.  The museum is new.
+* neu (neu)
+*Results: Earned Level 4 on Directions skill set for Castle 1 today. 
+
