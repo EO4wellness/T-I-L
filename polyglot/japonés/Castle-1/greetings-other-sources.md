@@ -95,7 +95,8 @@ Aisatsu (greetings)
                        Thank you, Professor Tanaka. 
                        
                        Here's a tip!
-                       As you probably noticed, we use "gozaimasu" to express politeness - but the word doesn't mean anything by itself. 
+                       As you probably noticed, we use "gozaimasu" to express politeness
+                       - but the word doesn't mean anything by itself. 
                        We say "gozaimas" but write "gozaimasu".
                        Teacher: Yoshi-san, arigatou! (Thanks, Yoshi!)
                        Yoshi: Sensei, arigatou gozaimasu! (Teacher, thank you!)
@@ -122,4 +123,4 @@ Aisatsu (greetings)
                        先生、すみません！
                        I'm sorry, teacher! 
                        
-                       
+    CHALLENGE:  Introduce yourself (writen and/or spoken) 
