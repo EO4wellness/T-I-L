@@ -15,16 +15,17 @@ _with both skill sets, consistent practice pays off in the long run_
 -[x] Slovak | Eslovaco | [T-I-L](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/eslovaco)<br> 
 -[x] Japaneese | Japonés | [T-I-L](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/japon%C3%A9s)<br>
 -[x] Italian | Italiano | [T-I-L](https://github.com/EO4wellness/T-I-L/tree/86669610db441e8521adeaccb15eaaa3b04d6310/polyglot/italiano)<br> 
+-[x] Other | Otra | [T-I-L](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/la-otra)<br> 
 
 
 ## T-I-L Current Learning Logs
-* [Spanish](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/espa%C3%B1ol/2020_log.md)
-* [German](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/aleman/2020_log.md)
-* [Welsh](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/gales/2020_log.md) 
-* [Slovak](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/eslovaco/2020_log.md)
-* [Japaneese](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/japon%C3%A9s/2020_log.md)
-* [Italian]()
-* [Other]()
+* [Spanish](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/espa%C3%B1ol/study-log/2021_log.md)
+* [German](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/aleman/study-logs/2021_log.md)
+* [Welsh](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/gales/study-logs/2021_log.md) 
+* [Slovak](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/eslovaco/study-logs/2021_log.md)
+* [Japaneese](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/japon%C3%A9s/logs/2021_log.md)
+* [Italian](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/italiano/study-logs/2021_log.md)
+* [Other](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/la-otra/logs/2021-log.md)
 
 
 # Why?
@@ -36,6 +37,8 @@ This repository also gives me a chance to practice MarkDown formatting, as well 
 
 # Keyboard Special Characters
 Especially useful in learning other languages. https://altcodeunicode.com/how-to-use-alt-codes/ 
+[TypeIt]([TypeIt](https://www.typeit.org/)  )
+[Template](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/template.md)
 
 ## Curious Facts
 Duolingo has several "leagues" and each week you either advance to the next level up, stay at the same level, or decline to a lower level. I've ben in each league and won advancement to each league, and I've also allowed myself to be demoted to all of the various levels.  I've won 1st place, 2nd place, and 3rd place once thru each league and now I'm not concerned about the leagues, other than it is a measure of how much time you've spent that week working on your language lessons. The leagues in order are: Bronze, Silver, Gold, Sapphire, Ruby, Emerald, Amethyst, Pearl, Obsidian and Diamond
