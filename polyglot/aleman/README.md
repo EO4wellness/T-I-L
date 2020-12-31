@@ -10,7 +10,7 @@ More than a year ago, I started learning German on the Duolingo platform. This R
 [2021 Log](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/aleman/study-logs/2021_log.md) <br>
 
 # Course of Study:
--[ ] [Castle 1](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/aleman/Castle-1/README.md)<br> First goal of 2021: Finish Castle 1 before the close of Jan.
+-[ ] [Castle 1](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/aleman/Castle-1/README.md)<br> First goal of 2021: Finish Castle 1 before the close of Jan.<br>
 -[ ] [Castle 2](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/aleman/Castle-2/README.md)<br>
 -[ ] [Castle 3](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/aleman/Castle-3/README.md)<br>
 -[ ] [Castle 4](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/aleman/Castle-4/README.md)<br> 
