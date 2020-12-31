@@ -37,7 +37,7 @@ This repository also gives me a chance to practice MarkDown formatting, as well 
 
 # Keyboard Special Characters
 * Especially useful in learning other languages. https://altcodeunicode.com/how-to-use-alt-codes/ 
-* [TypeIt]((https://www.typeit.org/) 
+* [TypeIt](https://www.typeit.org/) 
 * [Template](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/template.md)
 
 ## Curious Facts
