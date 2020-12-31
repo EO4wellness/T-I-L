@@ -1,8 +1,8 @@
 # Castle 2
-* Wanting<br>
-* Animals<br> 
+* [Wanting](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/gales/Castle-2/Wanting.md)<br>
+* [Animals](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/gales/Castle-2/Animals.md)<br> 
 * [Months](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/gales/Castle-2/Months.md)<br>
-* Days<br>
+* [Days](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/gales/Castle-2/Days.md)<br>
 * [Going To](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/gales/Castle-2/Going-To.md)<br>
 * [Places 1](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/gales/Castle-2/Places.MD) <br>
 * [Present 3](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/gales/Castle-2/Present3.md) <br>
