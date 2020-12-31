@@ -1,5 +1,5 @@
 # Castle 2
-* Wanting<br>
+* [Wanting](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/gales/Castle-2/Wanting.md)<br>
 * Animals<br> 
 * [Months](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/gales/Castle-2/Months.md)<br>
 * Days<br>
