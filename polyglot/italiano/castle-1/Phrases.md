@@ -20,4 +20,23 @@ Greetings
     Per favore, per piacere and per cortesia are courtesy forms used when asking for something.
 
 Practice Session:
-2020-12-30
+2020-12-31
+* Buonasera, Gianluca. (Good evening, Bianluca)
+* Non sono un ragazzo. (I am not a boy)
+* No, non e un ragazzo. (No he is not a kid)
+* Arrivederci. Goodbye.
+* Si Yes 
+* Buongiorno Mario (Good morning, Mario)
+* Ciao. Antonio. Hi Antonio.
+*Perfect Party.*
+
+* Arrivederci, buonanotte.
+* No gratze. No thank you.
+* Prego! You are welcome.
+* Prego. Buonasera. You're welcome. Good evening. 
+* No. spiacencte. No sorry. 
+* Il pane per favore. The bread please.
+* Una mela per favore (An Apple, please)
+*Perfect Party.*
+2020-12-31 Awared Level 1
+![Practice-Session](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/italiano/castle-1/2020-12-24_next-level-Italian-Castle1-skill2.png)
