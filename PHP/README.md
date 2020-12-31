@@ -1,4 +1,4 @@
-# PHP Learning Chronical<br>
+# PHP Learning Chronicle<br>
 For decades, I've been "reading" PHP in order to "edit" wordpress plugins and themes with minor, someone-else-created insertion or deleting minor php-code-snippets from time to time. It is about time, I start learning it myself. 
 <br>
 
