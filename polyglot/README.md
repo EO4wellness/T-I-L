@@ -1,6 +1,6 @@
 # Introduction
 The road to code is not built in one day.<br>
-*The road to polyglot, likewise, is not built in one day.*<br> 
+**The road to polyglot, likewise, is not built in one day.**<br> 
 _with both skill sets, consistent practice pays off in the long run_
 
 
