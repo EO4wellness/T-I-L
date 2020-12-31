@@ -57,6 +57,8 @@
 
 ![progress](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/italiano/castle-1/2020-12-24_next-level-Italian-Castle1-skill2.png)
 
+## 2020-12-30 Finished Skill set 
+![progress](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/italiano/castle-1/2020-12-29-finished-level.png)
 
 
 
