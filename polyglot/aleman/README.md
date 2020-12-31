@@ -17,18 +17,7 @@ More than a year ago, I started learning German on the Duolingo platform. This R
 -[ ] [Castle 5](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/aleman/Castle-5/README.md)<br> 
 
 # Study Topics: 
-[x] [Basics 1](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/aleman/Castle-1/welcome.md) <br>
-[x] Family <br>
-[x] [Basics 2](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/aleman/Castle-1/welcome.md) <br>
-[x] Greetings <br>
-[x] [Idioms](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/aleman/Castle-1/Idioms.md) <br>
-[x] [Flirting](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/aleman/Castle-1/Flirting.md) <br>
-[x] Resaurant <br>
-[x] Places <br>
-[x] [Jobs](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/aleman/Castle-1/Jobs.md) | as of Dec 22, 2020<br>
-[ ] Hobbies <br>
-[ ] [Directions](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/aleman/Castle-1/directions.md) <br>
-[ ] Final Castle Test | Current Level: not yet attempted <br>
+See various Castles for more detail(s). 
 
 # German Keyboard 
 Unless you have your computer set to type in German, likely, during the course of your German-language studies, you will discover your English keyboard is missing more than a few characters.  What can you do? Here are the ASCII codes of what to type to get the current German letters into your text document.
