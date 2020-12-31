@@ -36,9 +36,9 @@ Why not! Those who can: do. Those who cannot: don't.
 This repository also gives me a chance to practice MarkDown formatting, as well as daily coding in Markdown, as well as using commands & features of Git and GitHub, while at the same time serving as a type of log of my language learning activities--although I'm only sharing some of my daily language-learning activities here, not all of them. 
 
 # Keyboard Special Characters
-Especially useful in learning other languages. https://altcodeunicode.com/how-to-use-alt-codes/ 
-[TypeIt]([TypeIt](https://www.typeit.org/)  )
-[Template](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/template.md)
+* Especially useful in learning other languages. https://altcodeunicode.com/how-to-use-alt-codes/ 
+* [TypeIt]((https://www.typeit.org/) 
+* [Template](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/template.md)
 
 ## Curious Facts
 Duolingo has several "leagues" and each week you either advance to the next level up, stay at the same level, or decline to a lower level. I've ben in each league and won advancement to each league, and I've also allowed myself to be demoted to all of the various levels.  I've won 1st place, 2nd place, and 3rd place once thru each league and now I'm not concerned about the leagues, other than it is a measure of how much time you've spent that week working on your language lessons. The leagues in order are: Bronze, Silver, Gold, Sapphire, Ruby, Emerald, Amethyst, Pearl, Obsidian and Diamond
