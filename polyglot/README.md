@@ -7,20 +7,23 @@ The road to polyglot, likewise, is not built in one day.<br>
 [Duolingo](https://www.duolingo.com/profile/EO4wellnes) | [Mondly](https://app.mondly.com/home) | [Drops](https://app.languagedrops.com/)
 
 
-# Today I Learned | Las Idiomas
--[x] Japaneese | Japonés | [T-I-L](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/japon%C3%A9s)<br>
+# Today I Learned | Las Idiomas 
 -[x] Spanish | Espanol | [T-I-L](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/espa%C3%B1ol)<br>
 -[x] German | Aleman | [T-I-L](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/aleman)<br> 
--[x] Slovak | Eslovaco | [T-I-L](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/eslovaco)<br> 
 -[x] Welsh | Galés | [T-I-L](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/gales)<br>
+-[x] Slovak | Eslovaco | [T-I-L](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/eslovaco)<br> 
+-[x] Japaneese | Japonés | [T-I-L](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/japon%C3%A9s)<br>
+-[x] Italian | Italiano | [T-I-L](https://github.com/EO4wellness/T-I-L/tree/86669610db441e8521adeaccb15eaaa3b04d6310/polyglot/italiano)<br> 
 
 
-## T-I-L Current Log
-* [Japaneese](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/japon%C3%A9s/2020_log.md)
+## T-I-L Current Learning Logs
 * [Spanish](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/espa%C3%B1ol/2020_log.md)
 * [German](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/aleman/2020_log.md)
-* [Slovak](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/eslovaco/2020_log.md)
 * [Welsh](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/gales/2020_log.md) 
+* [Slovak](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/eslovaco/2020_log.md)
+* [Japaneese](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/japon%C3%A9s/2020_log.md)
+* [Italian]()
+* [Other]()
 
 
 # Why?
