@@ -1,11 +1,11 @@
-INTRO: 
+# INTRO: 
 Previously, I've finished the level-1 Castle for Welsh, long before starting this T-I-L log. When you've already had the quiz to test all of the skill sets available per castle, then you can use the castle to practice that specific skill set.  This can also help you "warm up" if you've had a break in your studies, to recall the language skills and resume where you left off, once again, or learn what you need to review. Each distinct session where you may choose to practice these skills, you will receive different vocabulary words testing the same sentence or phrase or word structure formations in Welsh, depending on how long it has been since you've practice the skill set. All of the duolingo quizes and skill sets focus on your ability to hear the language and translate it to English and/or trascribe it correctly into Welsh and vice versa. <br>
 ![Castle1](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/gales/Castle-1/2020-12-31-Castle1-quiz.jpg)
 
 ## REVIEW: 
 This is a log of some of the times I've reviewed this skill set. 
 
-###2020-12-31 Castle 1 skill set review session:
+### 2020-12-31 Castle 1 skill set review session:
 *  Actores Gymraeg dw ii. (I am a Welsh-speaking actress.)
 *  Dych chi mewn drama. (Are you in a play?) 
 *  Ffermwr dych chi? (Are you a farmer?) 
