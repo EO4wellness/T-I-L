@@ -35,6 +35,8 @@ Why not! Those who can: do. Those who cannot: don't.
 
 This repository also gives me a chance to practice MarkDown formatting, as well as daily coding in Markdown, as well as using commands & features of Git and GitHub, while at the same time serving as a type of log of my language learning activities--although I'm only sharing some of my daily language-learning activities here, not all of them. 
 
+Additionally, I always found it fascinating at University, when the professors or historical texts would note that certain cultures or people groups were "traced" throughout history by linguistics. Thus, I audited the [Miracles of Human Language: An Introduction to Linguistics](https://www.coursera.org/learn/human-language) Coursera course to learn more about this aspect of Human History. 
+
 # Keyboard Special Characters
 * Especially useful in learning other languages. https://altcodeunicode.com/how-to-use-alt-codes/ 
 * [TypeIt](https://www.typeit.org/) 
