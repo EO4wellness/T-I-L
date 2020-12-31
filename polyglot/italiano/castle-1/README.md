@@ -17,7 +17,7 @@ Castle 1-Final Quiz <br>
  
 # Stories Progress <br>
 ### Earning Them:
-* To unlock the stories function in duolingo, a learner must complete 10 levels (reeive 10 crowns).  I currently have 8.<br>
+* 2020-12-22 In order to unlock the stories function within duolingo, a learner must complete 10 levels (reeive 10 crowns).  I currently have 8.<br>
 ![Need 10 CROWNS for Stories](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/italiano/images/stories-10%20crowns.png)
 
 * 2020-12-29 I unlocked the first set of stories for this language. <br>
