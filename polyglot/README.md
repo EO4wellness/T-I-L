@@ -25,7 +25,7 @@ _with both skill sets, consistent practice pays off in the long run_
 * [Slovak](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/eslovaco/study-logs/2021_log.md)
 * [Japaneese](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/japon%C3%A9s/logs/2021_log.md)
 * [Italian](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/italiano/study-logs/2021_log.md)
-* [Other](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/la-otra/logs/2021-log.md)
+* [Other Studies](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/la-otra/logs/2021-log.md)
 
 
 # Why?
