@@ -19,24 +19,46 @@ Greetings
     Prego is a courtesy form used in many occasions to accompany a kind action, and it's the customary answer to reply to received thanks.
     Per favore, per piacere and per cortesia are courtesy forms used when asking for something.
 
-Practice Session:
-2020-12-31
-* Buonasera, Gianluca. (Good evening, Bianluca)
+##Practice Sessions:
+### 2020-12-31
+* Buonasera, Gianluca. (Good evening, Gianluca.)
 * Non sono un ragazzo. (I am not a boy)
 * No, non e un ragazzo. (No he is not a kid)
-* Arrivederci. Goodbye.
-* Si Yes 
+* Arrivederci. (Goodbye.)
+* Si (Yes) 
 * Buongiorno Mario (Good morning, Mario)
-* Ciao. Antonio. Hi Antonio.
+* Ciao. Antonio. (Hi Antonio).
 *Perfect Party.*
 
-* Arrivederci, buonanotte.
-* No gratze. No thank you.
-* Prego! You are welcome.
-* Prego. Buonasera. You're welcome. Good evening. 
-* No. spiacencte. No sorry. 
-* Il pane per favore. The bread please.
+* Arrivederci, buonanotte. (Good-bye, good night.)
+* No gratze. (No thank you.)
+* Prego! (You are welcome.)
+* Prego. Buonasera. (You're welcome. Good evening.) 
+* No. spiacente. (No sorry.) 
+* Il pane per favore. (The bread please.)
 * Una mela per favore (An Apple, please)
 *Perfect Party.*
-2020-12-31 Awared Level 1
+2020-12-31 Awarded Level 1
 ![Practice-Session](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/italiano/castle-1/2020-12-24_next-level-Italian-Castle1-skill2.png)
+
+* No, non sei un uomo. (No, you are not a man.)
+* Non sono un ragazzo. (I am not a boy.)
+* Si (yes)
+* Buonasera Gianluca. (Good evening, Gianluca.)
+* Buongiorno, Anna. (Good morning, Anna.)
+* Ciao (Hello)
+* Arrivederci, Davide. (Goodbye, Davide.)
+*Perfect party*
+
+* No, spaicente. (No, Sorry.)
+* Prego! (You are welcome.)
+* Thank you.  You are welcome. (Grazie. Prego.)
+* Arrivederci, buonanotte. (Good-bye, good night.)
+* Si, spiacente (Yes, sorry.)
+* Una mela, per favore (An apple, please.)
+* Il pane per favore (The bread, please)
+*Perfect party*
+
+![Level2-Castle1-Phrases](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/italiano/castle-1/2020-12-31-Level2.png)
+
+
