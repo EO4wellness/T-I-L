@@ -3,7 +3,7 @@
       (Slovak) á ä č ď é í ĺ ľ ň ó ô ŕ š ť ú ý ž
       (Spanish) á Á é É í Í ó Ó ú Ú ñ Ñ ü Ü  ¡ !    ¿ ?    « »
       (Welsh) â ê î ô û  ŵ  ŷ
-      [TypeIt](https://www.typeit.org/)
+[TypeIt](https://www.typeit.org/)      
 * ()
 * ()
 * ()
