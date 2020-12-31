@@ -5,7 +5,7 @@ _with both skill sets, consistent practice pays off in the long run_
 
 
 ## Tool Favs
-[Duolingo](https://www.duolingo.com/profile/EO4wellnes) | [Mondly](https://app.mondly.com/home) | [Drops](https://app.languagedrops.com/)
+[Duolingo](https://www.duolingo.com/profile/EO4wellnes) | [Mondly](https://app.mondly.com/home) | [Drops](https://app.languagedrops.com/) | [Verify Vocab](https://translate.google.com/)
 
 
 # Today I Learned | Las Idiomas 
