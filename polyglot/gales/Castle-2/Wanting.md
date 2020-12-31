@@ -86,7 +86,7 @@ Further information about learning Welsh is here
 ## Restore Skill Set Sessions:
 
 2020-12-31
-* Ydy. Dw i eisiau pêl.  (Yes, I want a ball)
+* Ydw. Dw i eisiau pêl.  (Yes, I want a ball)
 * Dych chi eisiau pêl? (Do you want a ball?)
 * Dych chi eisiau cyri moron? (Do you want a [carrot curry](https://www.food.com/recipe/carrot-curry-87646)?) 
 * Dw i'n hoffi bacwn. (I like bacon.)
@@ -94,4 +94,23 @@ Further information about learning Welsh is here
 * Dych chi eisiau bacwn? (Do you want bacon?)
 * Dim diolch dw i ddim eisiau pêl. (No thanks, I don't want a ball.)
 * Dych chi eisiau bresych? Dim diolch. (Do you want some cabbage?  No thanks.) 
-* 
+* Dw i'n hoffi reis. (I like rice.)
+* cyri (a curry)
+* sudd (juice)
+* cawl (soup)
+* cysgu ()
+* moron (carrot)
+* Dw i eisiau bacwn. (I want some bacon.)
+* Dych chi eisiau cawl moron? (Do you want carrot soup?) 
+* Dw i eisiau cyri tatws. (I want potato curry.)
+* Dych chi eisiau cawl tatws. (Do you want a potato soup?) 
+* Ydw. Dw i eisiau cawl. (Yes, I want soup)
+* brecwast (breakfast)
+* bresych (cabbage)
+* Dych chi eisiau bresych? (Do you want some cabbage?) 
+* neu (or)
+* Dw i eisiau tatws neu siocled. (I want potatoes or chocolate.)
+* Dych chi eisiau moron? (Do you want carrots?)
+* Dw i hoffi reis. (I like rice.)
+* Ydw. dw i eisiau reis. (Yes, I want rice.)
+
