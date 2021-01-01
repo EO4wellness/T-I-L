@@ -25,7 +25,7 @@ _with both skill sets, consistent practice pays off in the long run_
 * [Slovak](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/eslovaco/study-logs/2021_log.md)
 * [Japaneese](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/japon%C3%A9s/logs/2021_log.md)
 * [Italian](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/italiano/study-logs/2021_log.md)
-* [Other](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/la-otra/logs/2021-log.md)
+* [Other Studies](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/la-otra/logs/2021-log.md)
 
 
 # Why?
@@ -34,6 +34,8 @@ Why not! Those who can: do. Those who cannot: don't.
 ![Polyglot Definition-MW](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/images/polyglot.png)
 
 This repository also gives me a chance to practice MarkDown formatting, as well as daily coding in Markdown, as well as using commands & features of Git and GitHub, while at the same time serving as a type of log of my language learning activities--although I'm only sharing some of my daily language-learning activities here, not all of them. 
+
+Additionally, I always found it fascinating at University, when the professors or historical texts would note that certain cultures or people groups were "traced" throughout history by linguistics. Thus, I audited the [Miracles of Human Language: An Introduction to Linguistics](https://www.coursera.org/learn/human-language) Coursera course to learn more about this aspect of Human History. 
 
 # Keyboard Special Characters
 * Especially useful in learning other languages. https://altcodeunicode.com/how-to-use-alt-codes/ 
