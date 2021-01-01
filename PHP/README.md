@@ -8,7 +8,7 @@ Each of the following learning steps in learning PHP coding are listed below.
 * [PHP Heading](https://github.com/EO4wellness/T-I-L/blob/main/PHP/php-heading.php)
 * [PHP and HTML Script](https://github.com/EO4wellness/T-I-L/blob/main/PHP/script.html)
 * [Output Results or Strings of Text](https://github.com/EO4wellness/T-I-L/blob/main/PHP/echo.php) //only useful with older PHP versions, this is depreciated with modern PHP 
-* [Comments]
+* [Comments](https://github.com/EO4wellness/T-I-L/blob/main/PHP/Comments.php)
 * [Syntax](https://github.com/EO4wellness/T-I-L/blob/main/PHP/syntax-language-contructs-vs-function.php)
 * [variables]
 * [Constants]
@@ -29,6 +29,7 @@ Each of the following learning steps in learning PHP coding are listed below.
 
 
 # To-Do List
+* Need to update this repo's "comments" to all existing files using only  */  /*  and // 
 
 # Tools I've Used: 
 * [Sololearn PHP](https://www.sololearn.com/learning/1059)
