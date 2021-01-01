@@ -14,3 +14,16 @@
     echo $x % $y; //2
     
 ?>
+
+#
+#Quix
+#
+#
+#What would the value of the variable $num be after the following code?
+
+<?php
+$num = 9;
+$num = $num%2; 
+?>
+
+//1
