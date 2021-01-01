@@ -2,6 +2,16 @@
 For decades, I've been "reading" PHP in order to "edit" wordpress plugins and themes with minor, someone-else-created insertion or deleting minor php-code-snippets from time to time. It is about time, I start learning it myself. 
 <br>
 
+# Code Snippets
+Each of the following learning steps in learning PHP coding are listed below. 
+* [PHP Heading](https://github.com/EO4wellness/T-I-L/blob/main/PHP/php-heading.php)
+* [PHP and HTML Script](https://github.com/EO4wellness/T-I-L/blob/main/PHP/script.html)
+* [Output Results or Strings of Text](https://github.com/EO4wellness/T-I-L/blob/main/PHP/echo.php) //only useful with older PHP versions, this is depreciated with modern PHP 
+* [Syntax](https://github.com/EO4wellness/T-I-L/blob/main/PHP/syntax-language-contructs-vs-function.php)
+* [Operators](https://github.com/EO4wellness/T-I-L/blob/main/PHP/arithmetic-operators.php)
+* [Modulus Operator](https://github.com/EO4wellness/T-I-L/blob/main/PHP/modulus-operator.php)
+
+
 # To-Do List
 
 # Tools I've Used: 
