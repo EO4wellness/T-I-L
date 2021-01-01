@@ -35,3 +35,18 @@ Below is a table of the eight kanji that are introduced in this lesson, complete
         何 	What 	なに 	
         名 	Name 	な 	めい、みょう
         前 	Before 	まえ 	ぜん
+
+## Study Sessions:
+
+
+### 2021-01-01 First Study session this castle was under a "challenge" 
+* 話せ (はなせ)
+* はなせ”  
+* 私 は 日 本 語 が 話 せ ま す。 (I speak Japanese.)
+* 私 は 英 語 が 話 せ ま す。 (I speak English)
+* は い 、日 本 語 が 話 せ ま す。(Yes, I speak Japanese) 
+* は い (yes)
+* 私 は 日本語 が 話せ ます。(I can speak Japanese.)
+* 英 語 が 話 せ ま す か？ (Can you speak English?) 
+* 日 本 語 が 話 せ ま す か？(Can you speak Japanese?) 
+
