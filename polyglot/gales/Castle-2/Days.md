@@ -1,34 +1,36 @@
-Days of the Week
-Days of the week
+# Days of the week
+* On its own, the word dydd means 'day'. 
+* In combination with other words it is used in the names of the days of the week.
+* Most of the days of week are named after planets in Welsh
+* some are also very similar to the days of the week in Latin and the Romance languages.
+* Note - include dydd in the name of the day. 
 
-On its own, the word dydd means 'day'. In combination with other words it is used in the names of the days of the week.
+        Sunday - dydd Sul - (Sul is an old word for the Sun, no longer used for that)
+        Monday - dydd Llun - (Llun is an old word for the Moon, no longer used for that).
+        Tuesday - dydd Mawrth - (Mawrth - the planet Mars)
+        Wednesday - dydd Mercher - (Mercher- the planet Mercury)
+        Thursday - dydd Iau - (Iau - Jupiter. Note that Iau starts with a capital 'i', not a lower case L)
+        Friday - dydd Gwener - (Gwener - Venus)
+        Saturday - dydd Sadwrn - (Sadwrn - Saturn)
 
-Most of the days of week are named after planets in Welsh, and some are also very similar to the days of the week in Latin and the Romance languages.
 
-    Sunday - dydd Sul - (Sul is an old word for the Sun, no longer used for that)
-    Monday - dydd Llun - (Llun is an old word for the Moon, no longer used for that).
-    Tuesday - dydd Mawrth - (Mawrth - the planet Mars)
-    Wednesday - dydd Mercher - (Mercher- the planet Mercury)
-    Thursday - dydd Iau - (Iau - Jupiter. Note that Iau starts with a capital 'i', not a lower case L)
-    Friday - dydd Gwener - (Gwener - Venus)
-    Saturday - dydd Sadwrn - (Sadwrn - Saturn)
-
-Note - include dydd in the name of the day.
-Morning and afternoon
+## Morning and afternoon
+### Terms:
 
     bore = morning
     prynhawn = afternoon
 
-To say 'Monday morning', Tuesday afternoon' and so on we just put the name of the day after the word for the time of day:
+### To say 'Monday morning', Tuesday afternoon' and so on we just put the name of the day after the word for the time of day:
 
     bore dydd Llun = Monday morning, (but this is sometimes cut down to just bore Llun).
 
-Similarly,
+### Similarly,
 
     Tuesday afternoon = prynhawn dydd Mawrth (but this is sometimes cut down to just prynhawn Mawrth).
 
-All the names of the days of the week can be combined in this way for morning or afternoon.
-Night and evening
+### All the names of the days of the week can be combined in this way for morning or afternoon.
+
+## Night and evening
 
 Nos can be combined with the names of the days of the week to mean 'Sunday night' and so on. It is also used in this way for the names of evenings:
 
@@ -68,3 +70,25 @@ Note that this form is not used for habitual timings such as saying 'I work on a
 Note - ar is also used for 'on' with dates and with named holidays such as Dydd Nadolig (Christmas Day), Nos Galan (New Year's Eve) and so on.
 
 Further information about learning Welsh is at http://www.duolingo.com/comment/13186004 and on the national LearnWelsh/DysguCymraeg website - http://learnwelsh.cymru
+
+## Restoration Sessions:
+
+### 2021-01-01
+* Dych chi'n hoffi dydd gwener? (Do you like Friday?)
+* prynhawn dydd sadwrn (Saturday afternoon)
+* dw i'n hoffi dydd mercher (I like wednesday)
+* dydd iau a dydd gwener (thursday and Friday)
+* dydd llun (Monday)
+* dydd Sadwrn, dydd Sul, dydd lau (Saturday, Sunday, Thursday)
+* dw i'n hoffi dydd llun (I like Monday.)
+* dych chi'n hoffi dydd Mercher (do you like Wednesday?)
+* nos sul (sunday night)
+* Dydd Mawrth a dydd LLun (tuesday and monday)
+* prynhawn dyd iau (thursday afternoon)
+* Dw i'n hoffi dydd Mercher. (I like wednesday)
+* nos sadwrn (saturday night)
+* monday night (nos lun)
+* dw i'n gweithio yn y prynhawn (I am working in the afternoon.)
+* bore Mawrth (Tuesday morning)
+* prynhawn dydd marth (Tuesday afternoon)
+* dydd Sadwrn dydd Sul dydd iau (saturday, sunday, thursday)
