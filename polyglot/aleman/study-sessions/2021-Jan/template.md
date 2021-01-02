@@ -1,4 +1,5 @@
-# Beginning of the New Year studies! 
+# Study Session
+  ß   ä   ö  ü   Ä   Ö   Ü
 
 
 ## Words:
@@ -14,4 +15,4 @@
 * () 
 
 
-Results:
+## Results:
