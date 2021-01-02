@@ -77,3 +77,12 @@ Greetings
 * Si. Spiacente. (Yes, sorry)
 *Results: Earned Level 2: 2021-01-01*
 
+2021-01-02 Study Session:
+* Buongiorno, Mario. (Good morning, Mario.)
+* Arrivederci. (Good bye.)
+* Buongiorno. (Good morning.)
+* Buonasera, Gianluca. (Good evening, Gianluca.)
+* Si, io sono Maria. (Yes, I am Maria.)
+* Ciao Antonio. (Hi, Antonio.)
+* No. non sei un uomo. (No. You are not a man.)
+
