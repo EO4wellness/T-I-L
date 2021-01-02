@@ -1,4 +1,5 @@
-# Beginning of the New Year studies! 
+# DAILY STUDY SESSION: 
+á, ä, č, ď, é, í, ĺ, ľ, ň, ó, ô, ŕ, š, ť, ú, ý, ž 
 
 
 ## Words:
@@ -14,4 +15,4 @@
 * () 
 
 
-Results:
+## Results:
