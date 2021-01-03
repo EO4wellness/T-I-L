@@ -50,3 +50,5 @@ Below is a table of the eight kanji that are introduced in this lesson, complete
 * 英 語 が 話 せ ま す か？ (Can you speak English?) 
 * 日 本 語 が 話 せ ま す か？(Can you speak Japanese?) 
 
+### 2021-01-03 
+sounds matching practice
