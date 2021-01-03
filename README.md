@@ -79,6 +79,7 @@ This is a record of my personal journey.  November, 2020 is the very beginning o
 * Registered to attend Explorium's New Year's Resolution for Data Scientists: Accessing Better Data to be held Dec. 16th, 2020  |  9am PST
 * [SWoC-A Two-Month long open source project for newbies](https://github.com/EO4wellness/T-I-L/blob/main/SWOC.md) up to menotrs. I've signed up to be a part of this experience: https://swoc.tech/ 
 * Cybrary Security Courses 12/09/2020 
+* 01-02-2021 How to Contribute to Open Source when you have NO IDEA how or where to get started:  Listened to Praveen Kumar - front end enthusiast - https://youtu.be/0atfbwAb6EE - Introduction to Winter Code & Internship OnBoarding Project  
 
 
 ### Fortran
