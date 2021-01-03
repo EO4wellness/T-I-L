@@ -9,7 +9,7 @@
 * [Work](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/espa%C3%B1ol/Castle-2/Work.md)  
 * [Emotions](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/espa%C3%B1ol/Castle-2/Emotions.md) 
 * People 4 
-* Fashion 
+* [Fashion](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/espa%C3%B1ol/Castle-2/Fashion.md) 
 * Travel 3 
 * Leisure 
 * Pres Tense 2 
