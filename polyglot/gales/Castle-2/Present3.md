@@ -98,9 +98,9 @@ If the question starts with something other than the verb we use a much simpler 
 
 
 
-STUDY SESSIONS
+##STUDY SESSIONS
 
-## 2020-12-28 Study Session 
+### 2020-12-28 Study Session 
 * gweithio (working)
 * sgipio (skipping)
 * Dw i ddim yn hoffi coffi o gwbl. (I do not like coffee at all)
@@ -112,4 +112,22 @@ STUDY SESSIONS
 * Dych chi'n bwyta siocied? Ddim o gwbl! (Do you eat chocolate? Not at all!)
 * Rwyt ti'n gweithio mewn siop. (You work in a shop)
 * Wyt ti'n caru Megan. (Do you love Megan?)
-Received a "Perfect" party at the end of this lesson. 
+*Received a "Perfect" party at the end of this lesson.*
+
+### 2021-1-3 Study Session 
+* Dw i'n hoffi sgipio?  Ydw (Do I like skipping? Yes)
+* Rwyt ti'n gweithio mewn siop. (You work in a shop)
+* _mwynhau_ (enjoy)
+* _hoffi_ (like)
+* Dych chi'n mwynhau sgipio? (Do you enjoy skipping?)
+* Dw i ddim yn hoffi coffi o gwbl. (I don't like coffee at all.)
+* caru (love)
+* Dych chi'n bwyta siocled? Dim o gwbl! (Do you eat choclate? Not at all! 
+* Rwyt ti'n hoffi sgipio? (Do you like skipping?) 
+* Wyt ti'n caru Megan? (Do you love Megan?) 
+* Rwyt ti'n gweithio yn Abertawe. (You are working in Swansea)
+* Dim o gwbl. Not at all
+* Dych chi'n caru siocled? (Do you love chocolate?) 
+*Isn't it crazy how it is so human nature to make the SAME mistake, be confused about the same thing, and not recall it?  Doing well at recalling so much, but I frequently mix up that Like and Enjoy aren't the same word(s) in Welsh (like they are in any language????!!!!)  
+
+
