@@ -128,6 +128,6 @@ If the question starts with something other than the verb we use a much simpler 
 * Rwyt ti'n gweithio yn Abertawe. (You are working in Swansea)
 * Dim o gwbl. Not at all
 * Dych chi'n caru siocled? (Do you love chocolate?) 
-*Isn't it crazy how it is so human nature to make the SAME mistake, be confused about the same thing, and not recall it?  Doing well at recalling so much, but I frequently mix up that Like and Enjoy aren't the same word(s) in Welsh (like they are in any language????!!!!)  
+*RESULTS: Isn't it crazy how it is so human nature to make the SAME mistake, be confused about the same thing, and not recall it?  Doing well at recalling so much, but I frequently mix up that Like and Enjoy aren't the same word(s) in Welsh (like they are in any language????!!!!); Also, I'm having trouble hearing the place names correctly to type them/spell them correctly. Perhaps I should review those more frequently.  However, I suspect, I will just naturally pick them up over time.*  
 
 
