@@ -61,7 +61,7 @@ Greetings
 
 ![Level2-Castle1-Phrases](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/italiano/castle-1/2020-12-31-Level2.png)
 
-2021-01-01 Study Session:
+### 2021-01-01 Study Session:
 * Ciao! (Goodbye)
 * No. Non e pane. (No. It is not bread.)
 * Buonasera Sofia. (Good evening Sofia)
@@ -77,7 +77,7 @@ Greetings
 * Si. Spiacente. (Yes, sorry)
 *Results: Earned Level 2: 2021-01-01*
 
-2021-01-02 Study Session:
+### 2021-01-02 Study Session:
 * Buongiorno, Mario. (Good morning, Mario.)
 * Arrivederci. (Good bye.)
 * Buongiorno. (Good morning.)
@@ -86,3 +86,18 @@ Greetings
 * Ciao Antonio. (Hi, Antonio.)
 * No. non sei un uomo. (No. You are not a man.)
 
+### 2021-01-03 Study Session:
+* Io sono spiacente. (I am sorry.)
+* Buonanotte. (Good night.)
+* Una mela, per favore. (An apple, please.)
+* Grazie. Prego. (THank you.  You are welcome.)
+* Prego. Ciao. (You are welcome.  Bye.)
+* Si. Gratzie. (Yes, thank you.)
+* Per favore. No. (Please. No.)
+Results: Perfect Party. 
+
+* ()
+* ()
+* ()
+* ()
+* ()
