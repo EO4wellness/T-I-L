@@ -7,7 +7,7 @@
 * [Work 1](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/gales/Castle-1/Work%201.md)
 * [The 1](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/gales/Castle-1/the.md) 
 * [Numbers 1](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/gales/Castle-1/Numbers-1.md)<br>
-* Final Castle 
+* [Final Castle Quiz](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/gales/Castle-1/Castle1-quiz.md) 
 
 ![Final-Castle-1-Testing](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/gales/images/Welsh-Castle-1.png)
 
