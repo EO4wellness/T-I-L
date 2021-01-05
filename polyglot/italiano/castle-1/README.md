@@ -31,4 +31,6 @@ Castle 1-Final Quiz <br>
 * 2020-12-29 I unlocked the first set of stories for this language. <br>
 ![Stories-set1](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/italiano/castle-1/2020-12-29_stories-unlocked_italian.png) 
 
+* 2021-01-04 Unlocked the second set of stories for this language.  The next story gates requires 20 crowns before unlocking the next story set.  I currently have 15 crowns in Italian.
+![Stories-set2](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/italiano/castle-1/2021-01-04-italian-unlock-stories.png)
 
