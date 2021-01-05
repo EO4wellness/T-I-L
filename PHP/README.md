@@ -4,7 +4,7 @@ For decades, I've been "reading" PHP in order to "edit" wordpress plugins and th
 
 # Code Snippets
 Each of the following learning steps in learning PHP coding are listed below. 
-* [Intro to PHP]
+* [Intro to PHP](https://github.com/EO4wellness/T-I-L/blob/main/PHP/php.md)
 * [PHP Heading](https://github.com/EO4wellness/T-I-L/blob/main/PHP/php-heading.php)
 * [PHP and HTML Script](https://github.com/EO4wellness/T-I-L/blob/main/PHP/script.html)
 * [Output Results or Strings of Text](https://github.com/EO4wellness/T-I-L/blob/main/PHP/echo.php) //only useful with older PHP versions, this is depreciated with modern PHP 
@@ -18,7 +18,8 @@ Each of the following learning steps in learning PHP coding are listed below.
 * [Operators](https://github.com/EO4wellness/T-I-L/blob/main/PHP/arithmetic-operators.php)
 * [Modulus Operator](https://github.com/EO4wellness/T-I-L/blob/main/PHP/modulus-operator.php)
 * [Assignment Operators]
-* [Comparison Operators]
+* [Comparison Operators](https://github.com/EO4wellness/T-I-L/blob/main/PHP/assignment-operators.php)
+* [Increment or Decrement Operators](https://github.com/EO4wellness/T-I-L/blob/main/PHP/increment-decrement-operators.php)
 * [Logical Operators]
 * [Arrays]
 * [control Structurs]
