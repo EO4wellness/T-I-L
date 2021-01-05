@@ -10,7 +10,7 @@ Possession <br>
 Castle 1-Final Quiz <br>
 
 # Story Set 1
-* Good Morning
+* [Good Morning](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/italiano/castle-1/story-set1-buongiorno.md)
 * A Date 
 * One Thing 
 * Surprise! 
