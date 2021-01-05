@@ -50,5 +50,36 @@ Below is a table of the eight kanji that are introduced in this lesson, complete
 * 英 語 が 話 せ ま す か？ (Can you speak English?) 
 * 日 本 語 が 話 せ ま す か？(Can you speak Japanese?) 
 
-### 2021-01-03 
+### 2021-01-02 
 sounds matching practice
+
+### 2021-01-03
+*  何 で す か？ (What?) 
+* お 名 前 は 何 で す か？ (what is your name?)
+* マ リ ア さ ん は ス ペ イ ン 語 が 話 せ ま す。(Maria can speak Spanish)
+* な ま え (名 前) Name 
+* あ の、す み ま せ ん。(Um, excuse me.)
+* あ の、お  名 前 は 何 で す か？ (Um, what is your name?)
+* あ の、お  名 前 は (Um, what is your name?)
+* こ ん に ち は、お 名 前 は 何 で す か？ (Hello, what is your name?) 
+* フ ラ ン ス 語 が 話 せ ま す か？ (Can you speak French?) 
+* ジ ョ ン さ ん は イ タ リ ア 語 が 話 せ ま す。(John can speak Italian)
+
+* 僕  ( ぼ く ) I (sounds like boku)
+* 僕 は 英 語 が 話 せ ま す。 (I can speak English) 
+* ぼ く (僕)
+* 茂 (Shigeru-a male name)
+* さ く ら (Sakura-a female name)
+* 田 中 (Tanaka-common family name) 
+* 本 田 (Honda-common family name)
+* 茂 さ ん は 学 生 で す。(Shigeru is a student.)
+* は い、私 の で す。 (Yes, it is mine) 
+* 私 の 名 前 は 田 中 さ く ら で す。 (My name is Sakura Tanaka)
+* しげる (茂) Shigeru-male name 
+* 私 の 名 前 は 本 田 さ く ら で す。(My name is Sakura Honda)
+* さ く ら さ ん は 先 生 で す。 (Sakura is a teacher.)
+* 僕 の 名 前 は 田 中 茂 で す。(My name is Shigeru Tanaka)
+* 僕 の 名 前 は 本 田 茂 で す。(My name is Shigeru Honda.)
+* 僕 の 名 前 は 茂 で す。(My name is Shigeru)
+*Results: Earned level 1 in this skill set*
+
