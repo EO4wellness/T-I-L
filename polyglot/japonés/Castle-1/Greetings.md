@@ -74,3 +74,25 @@ Also see [forms](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/japon%C
 <br>
 ## Thank you, to you as well. 
 ![Thank you, to you as well.](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/japon%C3%A9s/images/thank%20you-to-you-as-well.png)<br>
+
+## Practice Session:
+### 2021-01-05 Restoration of Skill Set
+* ご め ん。(Sorry) 
+* よろしく (Nice to meet you). 
+* こちらこそ (Likewise). 
+* どういたしまして (You are welcome.) 
+* ありがとう (Thank you.) 
+* おはようございます (Good morning)
+* こんにちは (Hello)
+* ど う ぞ よろしくお願 い しま す。(Nice to meet you)
+* 先 生、お は よ う ご ざ い ま す。 (Teacher, Good morning.)
+* 先 生 (Teacher) 
+* 先 生、こ ん に ち は。(Teacher, hello.)
+* ど う も あ り が と う！ (Thank you very much!)
+* こちらこそ、ありがとう ございます (Thank you to you as well.)
+* ど う も あ り が と う ございます (Thank you very much)
+* じ ゃ あ ね。(Bye)
+* 先生ごめんなさい (Teacher, I am sorry.)
+*Perfect Party! This is my first "perfect" (20 correct answers in a row without any mistakes) ever in the Japanese lessons! Love seeing those "fireworks" go off at the end of the lesson and knowing you've nailed the lesson, spot on!* 
+![Results](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/japon%C3%A9s/Castle-1/2021-01-05-perfect-party.jpg)
+
