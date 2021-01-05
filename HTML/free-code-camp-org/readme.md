@@ -3,7 +3,7 @@ This service allows you to log in and begin learning coding from scratch using j
 
 
 ## Responsive Web Design Cetification (300 Hours)
-    Basic HTML and HTML5
+    Basic HTML and HTML5 - https://github.com/EO4wellness/T-I-L/tree/main/HTML/free-code-camp-org#basic-html-and-html5 
     Basic CSS
     Applied Visual Design 
     Applied Accessiblity 
