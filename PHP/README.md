@@ -42,6 +42,7 @@ Each of the following learning steps in learning PHP coding are listed below.
       [Infinant Scroll...PHP](https://www.udemy.com/share/101LnsAkMSdF5RRH4=/)<br>
 * [Learn PHP](https://www.learn-php.org/)<br>
 * [W3 Schools](https://www.w3schools.com/php/default.asp)<br>
+* [Who says YouTube](https://www.youtube.com/watch?v=895oblyUzX8&feature=youtu.be) need to watch when I have time to view it...
 * more? <br>
 
 # Research/Reading 
