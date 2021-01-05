@@ -1,7 +1,7 @@
 # Castle 1 Progress <br>
 [Basics 1](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/italiano/castle-1/Basics-1.md)<br>
 [Basics 2](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/italiano/castle-1/Basics-2.md)<br>
-[Phrases](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/italiano/castle-1/Phrases)<br>
+[Phrases](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/italiano/castle-1/Phrases) [Completed Jan 4, 2021](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/italiano/castle-1/2021-01-04-earned-level5-skill3.png)<br>
 [Food](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/italiano/castle-1/Food.md)<br>
 Plurals<br>
 Animals<br>
@@ -15,6 +15,14 @@ Castle 1-Final Quiz <br>
 * One Thing 
 * Surprise! 
  
+ # Story Set 2 (unlocked 1/4/2021)
+ * In the Museum 
+ * Honeymoon 
+ * The Red Jacket 
+ * The Exam 
+ 
+ *The next set of stories unlocks at 20 crowns earned.*
+
 # Stories Progress <br>
 ### Earning Them:
 * 2020-12-22 In order to unlock the stories function within duolingo, a learner must complete 10 levels (reeive 10 crowns).  I currently have 8.<br>
