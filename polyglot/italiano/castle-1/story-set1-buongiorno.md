@@ -52,13 +52,13 @@ QUIZ:
 *  Q: Maria was so tired that ...
     A: she put salt in her coffee. 
     
-    Matching Terms: 
-
-    Stavolta | this time 
-    Sale     |  salt
-    Con      |  with 
-    with sugar |  zuccherata 
-    Senza   | without 
+        Matching Terms: 
+      
+        Stavolta | this time 
+          Sale     |  salt
+          Con      |  with 
+          with sugar |  zuccherata 
+         Senza   | without 
     
     ![Good-Morning](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/italiano/castle-1/2021-01-04-Stories-Buongiorno.png)
     
