@@ -1,7 +1,7 @@
 # Castle 1 Progress <br>
 [Basics 1](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/italiano/castle-1/Basics-1.md)<br>
 [Basics 2](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/italiano/castle-1/Basics-2.md)<br>
-[Phrases](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/italiano/castle-1/Phrases) Completed Jan 4, 2021)<br>
+[Phrases](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/italiano/castle-1/Phrases) [Completed Jan 4, 2021](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/italiano/castle-1/2021-01-04-earned-level5-skill3.png)<br>
 [Food](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/italiano/castle-1/Food.md)<br>
 Plurals<br>
 Animals<br>
