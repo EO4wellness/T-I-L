@@ -162,4 +162,4 @@
 ### Use a media query to change a variable
 * Code Assignment:
 
-next - applied visual design 
+next - [applied visual design](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/Applied-Visual-Design.md)
