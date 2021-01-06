@@ -286,52 +286,278 @@ Course outline
 * make an element into a link by nesting them within an "A" element 
 * to next an image you can do likewise 
 * here is an example: <a href="#"><img src="https://bit.ly/fcc-running-cats" alt="Three kittens running towards the camera."></a>
+* code assignement
 
+                use the # as the href property to turn this into a dead link, but make the image on your page a link
+                
+                my solution: 
+                  <a href="#"><img src="https://bit.ly/fcc-relaxing-cat" alt="A cute orange cat lying on its back."></a>
+                  
+* at the sucessful completion of this code assignement, this portion of the course is 50% completed 
 
 ### Create a Bulleted Unordered List
-notes
+* there is an element to create lists. 
+* lists can be "unordered" if they have a butteted point style instead of numbers
+* unordered lists star with the open element of <ur> plus as many <li> elements as needed and closed with the </ul>
+* the LI (list) items should be in the format of: <li>content</li>
+* for example, if you were attempting to make, in HTML, a list of grocery shopping items or even recipe ingredients you could do so like this: 
+
+                <ul>
+                <li>milk</li>
+                <li>cheese</li>
+                <li>...as many more items as needed to complete your list..</li>
+                </ul>
+ * code assignement
+ 
+                remove the last two P elements from our code 
+                create an unordered list of 3 things that cats love
+                place this list at the bottom of the page. 
+                
+                my solution 
+                <h2>CatPhotoApp</h2>
+                <main>
+                <p>Click here to view more <a href="#">cat photos</a>.</p>
+                <a href="#"><img src="https://bit.ly/fcc-relaxing-cat" alt="A cute orange cat lying on its back."></a>
+                <ul>
+                    <li>cat nip</li>
+                    <li>windows</li>
+                    <li>fish</li>
+                </ul>
+                </main>
+
 
 ### Create an Ordered List
-notes
+* the other way to make lists is numbered, or also known as an ordered list
+* ordered lists open with <ol> followed by any number of <li> elements and closed by </ol>
+* code assignement 
+
+                make a list of the top 3 things cat hate the most 
+                
+                my solution: 
+                <h2>CatPhotoApp</h2>
+                <main>
+                <p>Click here to view more <a href="#">cat photos</a>.</p>
+                <a href="#"><img src="https://bit.ly/fcc-relaxing-cat" alt="A cute orange cat lying on its back."></a>
+                <p>Things cats love:</p>
+                  <ul>
+                      <li>cat nip</li>
+                      <li>laser pointers</li>
+                      <li>lasagna</li>
+                  </ul>
+                <p>Top 3 things cats hate:</p>
+                  <ol>
+                      <li>swimming</li>
+                      <li>water</li>
+                      <li>a leash</li>
+                  </ol>
+                  </main>
+                
 
 ### Create a Text Field
-notes
+* the INPUT element allows us to gather some information from someone visiting the website. 
+* create a text input like this: <input type="text">
+* like images, this element is self-closing 
+* code assignement 
+
+                make an imput element, below the lists, which is of the type "text"
+                
+                My Solution:
+
+                <h2>CatPhotoApp</h2>
+                <main>
+                <p>Click here to view more <a href="#">cat photos</a>.</p>
+                <a href="#"><img src="https://bit.ly/fcc-relaxing-cat" alt="A cute orange cat lying on its back."></a>
+                <p>Things cats love:</p>
+                  <ul>
+                     <li>cat nip</li>
+                     <li>laser pointers</li>
+                     <li>lasagna</li>
+                  </ul>
+                <p>Top 3 things cats hate:</p>
+                  <ol>
+                      <li>flea treatment</li>
+                      <li>thunder</li> 
+                      <li>other cats</li>
+                  </ol>
+                  <input type="text">
+                  </main>
 
 ### Add Placeholder Text to a Text Field
-notes
+* placeholder refers to any text displayed in your "input" element before the website visitor enteres anything
+* placeholder text is created by using "placeholder="content" within your INPUT element 
+* example:
+
+                <input type="text" placeholder="this is placeholder text">
+                
+* code assignement 
+
+                set the placehold value of the text input to be "cat photo URL" 
+                
+                my solution:
+                
+                <h2>CatPhotoApp</h2>
+                <main>
+                <p>Click here to view more <a href="#">cat photos</a>.</p>
+                <a href="#"><img src="https://bit.ly/fcc-relaxing-cat" alt="A cute orange cat lying on its back."></a>
+                <p>Things cats love:</p>
+                  <ul>
+                      <li>cat nip</li>
+                      <li>laser pointers</li>
+                      <li>lasagna</li>
+                  </ul>
+                  <p>Top 3 things cats hate:</p>
+                  <ol>
+                       <li>flea treatment</li>
+                       <li>thunder</li>
+                       <li>other cats</li>
+                  </ol>
+                  <input type="text" placeholder="cat photo URL" >
+                  </main>
 
 ### Create a Form Element
-notes
+* HTML can be used to submit information to the server
+* a FORM element must be used to do so 
+* an example: <form action="/url-where-you-want-to-submit-form-data"></form>
+* code assignement 
+
+                next the input element inside a form element 
+                assign the action attribute of the form element to "https://freecatphotoapp.com/submit-cat-photo"
+                
+                my solution 
+                
+                <h2>CatPhotoApp</h2>
+                <main>
+                <p>Click here to view more <a href="#">cat photos</a>.</p>
+                <a href="#"><img src="https://bit.ly/fcc-relaxing-cat" alt="A cute orange cat lying on its back."></a>
+                <p>Things cats love:</p>
+                <ul>
+                    <li>cat nip</li>
+                    <li>laser pointers</li>
+                    <li>lasagna</li>
+                </ul>
+                <p>Top 3 things cats hate:</p>
+                <ol>
+                     <li>flea treatment</li>
+                     <li>thunder</li>
+                     <li>other cats</li>
+                </ol>
+                <form action="https://freecatphotoapp.com/submit-cat-photo"><input type="text" placeholder="cat photo URL"></form>
+                </main>
+                
+
 
 ### Add a Submit Button to a Form
-notes
+* a SUBMIT button is used in conjunction with the form 
+* the button element is NOT self-closing 
+* clicking the button will send the data from the input field to the URL we specified in the ACTION attribute 
+* example: <button type="submit">this button submits the form</button>
+* code assignement 
+
+                add a button to the last element of your form 
+                use the type of submit
+                use submit as the text 
+                
+                my solution:
+                  <form action="https://freecatphotoapp.com/submit-cat-photo">
+                  <input type="text" placeholder="cat photo URL" ><button type="submit">Submit</button>
+                  </form>
+
 
 ### Use HTML5 to Require a Field
-notes
+* input can be required so that a form cannot be submitted without first filling in the required information. 
+* use the REQUIRED attribute within an INPUT element to require your website visitors to complete a field. 
+* for example <input type="text" required> 
+* code assignement 
+
+               make the text input field required 
+               test the function of your field
+               try to submit without entering the information
+               what happens? 
+               
+               my solution: 
+               <form action="https://freecatphotoapp.com/submit-cat-photo"> 
+               <input type="text" required placeholder="cat photo URL">
+               <button type="submit">Submit</button>
+               </form>
+               
+               my test: 
+               I was thrilled this first assingment told me to test the results! 
+               I believe in testing even the most simple thing. 
+               Even cut-n-paste errors are common and cause broken links. 
+               When I attempted to submit my form without entering anything 
+               the form gave me the pop out error message of: "Please fill out this field." 
+               
+               
+
 
 ### Create a Set of Radio Buttons
-notes
+* do you want your website visitors to give answers from a specific set of answers? 
+* achieve this by using radio buttons
+* Radio Buttons are a type of INPUT 
+* Radio Buttons can each be nested within its own label element.
+* Radio Button input will automatically be associated with its label element if you wrap it inside the label element. 
+* Radio Buttons need name attributes 
+* using this design option, when you select any one of the buttons, the others are deselected 
+* best practices: set a FOR attribute on the LABEL element to match the value of the ID in the INPUT
+* code assignement 
+
+                add a pair of radio buttons to our form
+                nest each radio button with its own label 
+                options: indoor, outdoor 
+                name attribute of indoor-outdoor
+                create a radio group 
+                
+                my solution: 
+                <form action="https://freecatphotoapp.com/submit-cat-photo">
+                <label for="indoor"> 
+                <input id="indoor" type="radio" name="indoor-outdoor"> Indoor 
+                </label>
+                <label for="outdoor"> 
+                <input id="outdoor" type="radio" name="indoor-outdoor"> Outdoor 
+                </label>
+                <input type="text" placeholder="cat photo URL" required>
+                <button type="submit">Submit</button>
+                </form>
+
 
 ### Create a Set of Checkboxes
-notes
+* besides radio buttons, we could also use the design element of checkboxes. 
+* checkboxes differ from radio buttons in that you can select more than one checkbox for an answer, whereas with radio buttons you must chose one or another, but not more than one. 
+* checkboxes are a type of input
+* checkboxes can be nested 
+* when wrapped in an input element inside a label element it will automatically be associated with the checkbox input with the lable element which surrounds it 
+* all of the related checkbox inputs should have the same name attribute 
+* define the relationship between a checkbox input and it corresponding label by setting the FOR attribute on the label element to match the ID attribute of the associated INPUT element 
+* checkbox example: 
+  <label for="loving"><input id="loving" type="checkbox" name="personality"> Loving</label>
+* code assignement 
+
+                add 3 checkboxes to our form 
+                each checkbox should be nested within its own label element 
+                name all 3 PERSONALITY 
+
 
 ### Use the value attribute with Radio Buttons and Checkboxes
-notes
+* code assignement 
 
 ### Check Radio Buttons and Checkboxes by Default
-notes
+* code assignement 
 
 ### Nest Many Elements within a Single div Element
-notes
+* code assignement 
 
 ### Declare the Doctype of an HTML Document
-notes
+* code assignement 
 
 ### Define the Head and Body of an HTML Document
-notes
+* code assignement 
      
      
 ## Course Review
 I already knew basic HTML so for me, this part of the course was *too basic* but, having said that, it was indeed very logical and easy to follow.  The only thing I think which may be difficult to a beginner is the interface.  For example, the instruction on the screen says to do "control + enter" to go to the next screen.  However, since the user interface is designed (very brilliant design, by the way) to look like a code editor (not a normal website interace) after you've switched screens it would be possible for some individuals, not to notice the screen changed. If I had not made an outline for taking notes about this course, for example, to which I could refer back to, I may not have noticed the topics were changing after I did the step as prompted.  Visually the screen looked nearly identical EXCEPT for that heading text--then as I read further down the page-I realized it was the next lesson, not the one I assumed (incorrectly) I didn't complete correctly for this website. 
 
 Havine said that, once you are used to this quirk in design, perhaps not working as you would have expected it to visually work, it is no big deal and isn't even difficult to navigate the website--but perhaps it would have been better, given that the majority of people are visual learners, to give people a heads-up the content is going to visually change as much in this course, as it would in other websites. I think the design is brilliant because it is a combo of what they will need to be doing to code, but still functional enough to be a website experience, not a coding experience exclusively. 
+
+Is the course too basic, if you already know some HTML?  Yes and no.  Let me explain.  I learned HTML from "view source" long ago.  If, like me, you've been using HTML for a while, this course will be EASY for you and yet still round out (potentially) some ideas and be certain you are on the same page with the rest of this course, digging into deeper concepts; while at the same time examining HTML5 elements which are relatively recently added to HTML. 
+
+If you do not know anything at all about coding, you're going to take longer to work through these examples.  Here is why you should.  If you want to learn to code, this is a fabulous method.  By the time you are finished with this segment of code, you see practical application(s) of each of these HTML code elements, attributes, and tags. I've seen many posting on line for "help" because they are "stuck" on one or more of the code assignements.  While this could be very frustrating, and that is relatably so, this process of debugging what's gone wrong also helps you learn your errors. For example, the majority of times I coded my solutions for this course, upon the "Run the Tests" button, I was successfuly right away.  Hurray!  However, on the few times I didn't pass on to the next lesson right away, it was 100% of the time a typo on the > vs . key.  So now, after having practiced this coding session, in this course, in this lab space of their website, and using this equipment I know my typos tend to be in the close tags because I was typing too fast and the "shift" key wasn't where I thought it was while typing.  This can happen to anyone.  It is an error anyone can make.  However, it is specifically a common error I make.  Knowing this from doing my own debugging makes me look for that specific typo quickly and efficiently.  That's a great thing to know and its only obtained thru debugging.  
