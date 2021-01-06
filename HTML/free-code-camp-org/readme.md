@@ -5,7 +5,7 @@ This service allows you to log in and begin learning coding from scratch using j
 ## FREE CODE CAMP's Responsive Web Design Cetification (300 Hours)
 Course outline
 * [Basic HTML and HTML5](https://github.com/EO4wellness/T-I-L/tree/main/HTML/free-code-camp-org#basic-html-and-html5) 
-  [Completed 1-6-2021](https://github.com/EO4wellness/T-I-L/blob/main/HTML/images/HTML_Frree-Code-Camp.jpg)
+  | [Completed 1-6-2021](https://github.com/EO4wellness/T-I-L/blob/main/HTML/images/HTML_Frree-Code-Camp.jpg)
 * [Basic CSS](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/basic-css.md)
 * Applied Visual Design 
 * Applied Accessiblity 
