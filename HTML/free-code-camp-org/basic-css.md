@@ -1,9 +1,34 @@
 # Basic CSS
-* there are 44 tasks to complete within this coursework 
+* there are 44 tasks to complete within this segment of the coursework as outlined below
+* Cascading style Sheets is abbreviated CSS
+* CSS communicate with the browser explaining how the text and other HTML content should display
+* CSS is case sentitive
+* be careful about capitalization 
+* support for the use of CSS is now adopted by all major browsers
+* when HTML first arrived on the sceen it did all of the formatting functions you find in CSS
+* now with CSS you can control or change the 
+        
+        color
+        font
+        positioning 
+        spacing
+        sizing
+        decorations
+        transitions
 
-    Define the Head and Body of an HTML Document
+* how to apply CSS
+        inline (directly into your HTML page elements)
+        by placing CSS rules within STYLE tags
+        write CSS to an eternal style sheet and then call on it from your HTML document 
+* external CSS style sheets called upon from within the HTML document are the most common use as this improves the overall readability of the HTML code 
+* document Object Model (DOM) 
+(NOTE: specific to our course, some of our pesonal browser choices, particularly with extensions, may interfer with the successful progress in the course.  If your tests fail, try disabling browser exensions as a solution)
+
+    
 
 ## Introduction to Basic CSS
+* this portion of the course continues using the same example (Cat Photo App) 
+* RESUME studies here: https://www.freecodecamp.org/learn/responsive-web-design/basic-css/change-the-color-of-text
 
 ### Change the Color of Text
 * Code Assignment:
