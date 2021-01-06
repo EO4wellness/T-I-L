@@ -168,7 +168,17 @@ If the question starts with something other than the verb we use a much simpler 
 * Manceinion. (Manchester)
 * Mae e'n mwynhau dysgu cerddoriaeth. (He enjoys learning music.)
 
-* 
-
+* Ydyn nhw'n lliwio'r lluniau? (are they coloring the pictures? 
+* lliwio (to color)
+* _Mae car Megan yn ofnadwy!_ (Megan's car is terrible)
+* Mae dillad Morgan yn ofnawdy! (Morgan's clothes are terrible. )
+* Maen nhw'n hoffi lliwio a gwrando ar gerddoriaeth (They like coloring in and listening to music)
+* Mae dylan yn mynd am dro. (Dylan is going for a walk.)
+* Gweddol, diolch. (Not bad, thanks)
+* Ydy Megan yn mynd am dro? (Is Megan going for a walk?) 
+* Sut dych chi Megan? ofnawdy (how are you, megan? terrible!)
+* sut dych chi Morgan? gweddol diolch (how are you morgan? not bad, thanks.)
+* _llun_  (a picture) 
+![Results](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/gales/Castle-2/2021-01-06-next-level.png)
 
 
