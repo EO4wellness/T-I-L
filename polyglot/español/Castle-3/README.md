@@ -3,7 +3,7 @@
 * [Weather](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/espa%C3%B1ol/Castle-3/Weather.md)
 * Stem Changes 
 * [Interest](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/espa%C3%B1ol/Castle-3/Interests.md) 
-* Basic Info 
+* [Basic Info](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/espa%C3%B1ol/Castle-3/Basic-Info.md)
 * How Pretty 
 * Travel 4
 * [Interest 2](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/espa%C3%B1ol/Castle-3/Interests2.md) 
