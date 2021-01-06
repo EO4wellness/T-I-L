@@ -1,5 +1,5 @@
 # [FREE CODE CAMP](https://www.freecodecamp.org)
-This service allows you to log in and begin learning coding from scratch using just your GitHub profile to log in. If you are totally new to coding, FreeCodeCamp recommends starting at the very beginning (link on their study course outline). 
+This service allows you to log in and begin learning coding from scratch using just your GitHub profile to log in. If you are totally new to coding, FreeCodeCamp recommends starting at the very beginning (link on their study course outline). My [FreeCodeCamp profile](https://www.freecodecamp.org/fcc82f28646-b371-4d60-b44c-2a1e6e85fbd9)
 
 
 ## Responsive Web Design Cetification (300 Hours)
@@ -160,6 +160,7 @@ Course outline
                 <h1>Hello World</h1>
                 <p>Hello Paragraph</p>
             </main>
+            
   * more about this in a later study session (below) 
   * code assignment: 
   
@@ -186,8 +187,14 @@ Course outline
 * the text of the ALT attribute is used for screen readers, accessiblity, and displays if the image fails to load 
 * if an image is purely decorative, using an empty ALT attribute is the best practice
 * ALT attributes should not contian special characters 
-* example: <img src="https://www.freecatphotoapp.com/your-image.jpg">
-* example with ALT: <img src="https://www.freecatphotoapp.com/your-image.jpg" alt="A business cat wearing a necktie."> 
+* example: 
+
+        <img src="https://www.freecatphotoapp.com/your-image.jpg">
+        
+* example with ALT: 
+
+        <img src="https://www.freecatphotoapp.com/your-image.jpg" alt="A business cat wearing a necktie."> 
+        
 * code assignement: 
 
             within the existing code, add this image https://bit.ly/fcc-relaxing-cat to the main element 
@@ -207,8 +214,12 @@ Course outline
 * anchor elements are used to link to content outside the webpage you are writing 
 * because of this, all a elements need a destination 
 * the desination is a web address called an HREF attribute 
-* example of an anchor text: <a href="https://freecodecamp.org">this links to freecodecamp.org</a>
-  this example will display the text "this links to freecodecamp.org" as a link you can click to visit https://www.freecodecamp.org
+* example of an anchor text: 
+
+                <a href="https://freecodecamp.org">this links to freecodecamp.org</a>
+                
+                this example will display the text "this links to freecodecamp.org" as a link you can click to visit https://www.freecodecamp.org
+                
 * code assingment: 
 
         create an A element that links to this website and has "cat photos as its anchor text. 
@@ -249,7 +260,10 @@ Course outline
 
 ### Nest an Anchor Element within a Paragraph
 * links can be nested within other text elements
-* example: <p>Here's a <a target="_blank" href="http://freecodecamp.org"> link to freecodecamp.org</a> for you to follow.</p>
+* example: 
+
+                <p>Here's a <a target="_blank" href="http://freecodecamp.org"> link to freecodecamp.org</a> for you to follow.</p>
+                
 * the course outlines a description of what each part of the code above does, function wise
 * code assignment:
         
@@ -285,7 +299,10 @@ Course outline
 ### Turn an Image into a Link
 * make an element into a link by nesting them within an "A" element 
 * to next an image you can do likewise 
-* here is an example: <a href="#"><img src="https://bit.ly/fcc-running-cats" alt="Three kittens running towards the camera."></a>
+* here is an example: 
+
+                <a href="#"><img src="https://bit.ly/fcc-running-cats" alt="Three kittens running towards the camera."></a>
+                
 * code assignement
 
                 use the # as the href property to turn this into a dead link, but make the image on your page a link
@@ -307,6 +324,7 @@ Course outline
                 <li>cheese</li>
                 <li>...as many more items as needed to complete your list..</li>
                 </ul>
+                
  * code assignement
  
                 remove the last two P elements from our code 
@@ -417,7 +435,10 @@ Course outline
 ### Create a Form Element
 * HTML can be used to submit information to the server
 * a FORM element must be used to do so 
-* an example: <form action="/url-where-you-want-to-submit-form-data"></form>
+* an example: 
+
+        <form action="/url-where-you-want-to-submit-form-data"></form>
+        
 * code assignement 
 
                 next the input element inside a form element 
@@ -450,7 +471,10 @@ Course outline
 * a SUBMIT button is used in conjunction with the form 
 * the button element is NOT self-closing 
 * clicking the button will send the data from the input field to the URL we specified in the ACTION attribute 
-* example: <button type="submit">this button submits the form</button>
+* example: 
+
+                <button type="submit">this button submits the form</button>
+                
 * code assignement 
 
                 add a button to the last element of your form 
@@ -466,7 +490,10 @@ Course outline
 ### Use HTML5 to Require a Field
 * input can be required so that a form cannot be submitted without first filling in the required information. 
 * use the REQUIRED attribute within an INPUT element to require your website visitors to complete a field. 
-* for example <input type="text" required> 
+* for example 
+
+                <input type="text" required> 
+                
 * code assignement 
 
                make the text input field required 
@@ -529,7 +556,9 @@ Course outline
 * all of the related checkbox inputs should have the same name attribute 
 * define the relationship between a checkbox input and it corresponding label by setting the FOR attribute on the label element to match the ID attribute of the associated INPUT element 
 * checkbox example: 
-  <label for="loving"><input id="loving" type="checkbox" name="personality"> Loving</label>
+
+        <label for="loving"><input id="loving" type="checkbox" name="personality"> Loving</label>
+        
 * code assignement 
 
                 add 3 checkboxes to our form 
