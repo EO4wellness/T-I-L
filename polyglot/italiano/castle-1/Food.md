@@ -1,5 +1,5 @@
 # Food
-*i unlocked the food skill set on december 30th, 2020; but i didn't start working on this skill set until i finished the one before it. 
+*i unlocked the food skill set on december 30th, 2020; but i didn't start working on this skill set until i finished the one before it. my first  study session within this skill set was on Jan 5th. 
 
 ## Ingredients
 * Italian has three ways to express the presence of an ingredient in the name of a dish:
@@ -30,4 +30,32 @@ It's important to keep in mind that the English idiom of "having food"
 being synonymous with "eating food" doesn't apply to Italian,
 where "avere cibo" simply means owning food.
 
+## Study Sessions 
+I began this set of skills on 2021-01-05
+
 ### PRACTICE SESSION 1:
+* il gelato (the ice cream)
+* il caffe (the coffee)
+* la tazza (the cup)
+* il biscotto (the cookie)
+* il latte (the milk)
+* Noi beviamo il latte. (We drink milk)
+* Un caffe per favore. (A coffee, please.)
+* Crema al cioccolato (chocolate cream)
+* L'uomo mangia il gelato al cioccolato (THe man eats chocolate ice cream.)
+*Results: amazinly, I received a Perfect Party at the end of this lesson.  That can ONLY happy because of the tips--otherwise, I wouldn't have been successful on the challenge questions at the end, and would have learned by making the most common mistakes (putting the words in the wrong order for the Italian grammar use).
+
+
+* ()
+* ()
+* ()
+* ()
+* ()
+* ()
+* ()
+* ()
+* ()
+* ()
+* ()
+
+

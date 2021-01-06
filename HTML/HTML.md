@@ -11,17 +11,22 @@ When I first learn HTML coding it was using the Netscape (retired) browser, long
 coming soon 
 
 ## Learning HTML
-Projects to practice HTML & CSS skills. [list from @Ravinwashere twitter](https://twitter.com/ravinwashere/status/1343434835793100800)
+Here are some resources you can user to learn HTML:
 
-- Navbar design 
-- Profile card
-- Gradient text effect
-- Invisible card
-- Sections hover
-- Count down button
-- Shine effect
-- Footer design
-- Slide show
-- Simple sign up form
-- CSS calculator 
-- Landing page
+* [Free Code Camp](https://www.freecodecamp.org) - Visiting this site, you can get started, freely, using your GitHub credentials to log in and begin learning coding.  The Free Code Camp coursework is structured and progresses from beginning to more advanced topics, starting with HTML.  Unless you need to start at the "very beginning" (which teaches you, for example, what <H1>Text</H1> does) you can begin your studies with the approximately 300 hours of study needed to learn responsive website development skills including HTML, CSS, and HTML5. 
+
+* Projects to practice HTML & CSS skills. [list from @Ravinwashere twitter](https://twitter.com/ravinwashere/status/1343434835793100800)
+
+    - Navbar design 
+    - Profile card
+    - Gradient text effect
+    - Invisible card
+    - Sections hover
+    - Count down button
+    - Shine effect
+    - Footer design
+    - Slide show
+    - Simple sign up form
+    - CSS calculator 
+    - Landing page
+

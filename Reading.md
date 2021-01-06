@@ -10,3 +10,5 @@ This category is for papers, articles, blog posts which aren't necessarily a tut
               c. [More](https://www.wordfence.com/blog/2015/10/should-you-disable-xml-rpc-on-wordpress/) <br>
     iii.  Rounding things out a bit--it isn't just a WP thing--[Documentation of use within Python](https://docs.python.org/3/library/xmlrpc.client.html) <br>
 *  <br>
+
+*  Free Code Camp wrote an excellent article for new coders to consider: [Patterns to Avoid](https://www.freecodecamp.org/news/antipatterns-to-avoid-in-code/) which I read today 1-5-2021.
