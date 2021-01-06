@@ -49,4 +49,21 @@ Remember, some verbs  have special yo  forms.
 ### 2021-01-06 Restoration    
 * Mi madre sabe hablar japones  (my mother knows how to speak Japanese.)
 * Nosotros nadamos con mi perro.  (We swim with my dog.)
-* 
+* Ustedes saben hablar chino? (Do you know how to speak Chinese? )
+* _Pedro, ¿sabes nadar?_ (Pedro, do you know how to swim? 
+* Como se escribe esta palabra? (How do you write this word? )
+* Ella sabe un poco de japones. (She knows a little bit of Japanese) :sunglasses: like me :heart_eyes:
+* Las chicas nadan en la piscina ahora. (The girls are swimming in the pool now.)
+* Mi hermano menor no sabe manejar. (My younger brother doesn't know how to drive)
+* ¿Sabes hablar japonés? (Do you know how to speak Japanese?)
+* Yo canto en espanol muy bien  (I sing very well in spanish) 
+* Ellos estan aprendiendo a majejar (They are learning to drive.)
+* Sabes qual es la respuesta (Do you know the answer?) 
+* Ustedes cantan en el concierto hoy. You sing in the concert today. 
+* Queremos manejar essos carros rapidos. We want to drive those fast cars.
+* Ellos saben todas las respuestas. They know all of the answers.  
+* Tu no sabes nadar. You don't know how to swim. 
+* Él nada en la piscina todos las días. He swims in the pool every day. 
+* ¿Cómo se escribe gato en Español? (How do you write "cat" in Spanish?) 
+* ¿Sabes el precio de este carro? Do you know the price of this car? 
+* ¿Cómo se escribe perro en español? How do you write dog in Spanish?
