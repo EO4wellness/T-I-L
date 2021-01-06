@@ -5,7 +5,7 @@ This service allows you to log in and begin learning coding from scratch using j
 ## FREE CODE CAMP's Responsive Web Design Cetification (300 Hours)
 Course outline
 * [Basic HTML and HTML5](https://github.com/EO4wellness/T-I-L/tree/main/HTML/free-code-camp-org#basic-html-and-html5) [Completed 1-6-2021](https://github.com/EO4wellness/T-I-L/blob/main/HTML/images/HTML_Frree-Code-Camp.jpg)
-* Basic CSS
+* [Basic CSS](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/basic-css.md)
 * Applied Visual Design 
 * Applied Accessiblity 
 * Responsive Web Design Principles
@@ -769,7 +769,7 @@ Upon completion of the course, you receie a "100% bar" scrolling to show you've 
 
 ![support-request-non-profit](https://github.com/EO4wellness/T-I-L/blob/main/HTML/images/freecodecamp.png)
 
-## Course Review
+## Course Segment Review
 I already knew basic HTML so for me, this part of the course was *too basic* but, having said that, it was indeed very logical and easy to follow.  The only thing I think which may be difficult to a beginner is the interface.  For example, the instruction on the screen says to do "control + enter" to go to the next screen.  However, since the user interface is designed (very brilliant design, by the way) to look like a code editor (not a normal website interace) after you've switched screens it would be possible for some individuals, not to notice the screen changed. If I had not made an outline for taking notes about this course, for example, to which I could refer back to, I may not have noticed the topics were changing after I did the step as prompted.  Visually the screen looked nearly identical EXCEPT for that heading text--then as I read further down the page-I realized it was the next lesson, not the one I assumed (incorrectly) I didn't complete correctly for this website. 
 
 Havine said that, once you are used to this quirk in design, perhaps not working as you would have expected it to visually work, it is no big deal and isn't even difficult to navigate the website--but perhaps it would have been better, given that the majority of people are visual learners, to give people a heads-up the content is going to visually change as much in this course, as it would in other websites. I think the design is brilliant because it is a combo of what they will need to be doing to code, but still functional enough to be a website experience, not a coding experience exclusively. 
@@ -780,4 +780,6 @@ If you do not know anything at all about coding, you're going to take longer to 
 
 The Free Code Camp is a non-profit.  As such, if you are able, they request you send them a donation to keep their work free to all.  This is a worthy cause.  If you are new to coding, web hosts are not free. The time it takes to write the function of this website, isn't minor.  This website continues to build content to help others learn to code and asks nothing in return other than the occasional request for donations. Your profile with this website can be public or private in any or all aspects (name, photo, details, educational paths, certifiations, etc.) 
 
+![segment-results](https://github.com/EO4wellness/T-I-L/blob/main/HTML/images/HTML_Frree-Code-Camp.jpg)
 
+[continue to CSS coursework notes and code examples](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/basic-css.md)
