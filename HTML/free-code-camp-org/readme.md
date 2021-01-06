@@ -7,8 +7,8 @@ Course outline
 * [Basic HTML and HTML5](https://github.com/EO4wellness/T-I-L/tree/main/HTML/free-code-camp-org#basic-html-and-html5) 
   | [Completed 1-6-2021](https://github.com/EO4wellness/T-I-L/blob/main/HTML/images/HTML_Frree-Code-Camp.jpg)
 * [Basic CSS](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/basic-css.md)
-* Applied Visual Design 
-* Applied Accessiblity 
+* [Applied Visual Design](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/Applied-Visual-Design.md) 
+* [Applied Accessiblity](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/Applied-Accessibility.md) 
 * Responsive Web Design Principles
 * CSS Flexbox
 * CSS Grid
