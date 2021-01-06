@@ -564,6 +564,19 @@ Course outline
                 add 3 checkboxes to our form 
                 each checkbox should be nested within its own label element 
                 name all 3 PERSONALITY 
+                
+                my solution 
+                
+                  <form action="https://freecatphotoapp.com/submit-cat-photo">
+                  <label for="indoor"><input id="indoor" type="radio" name="indoor-outdoor"> Indoor</label>
+                  <label for="outdoor"><input id="outdoor" type="radio" name="indoor-outdoor"> Outdoor</label><br>
+                  <input type="text" placeholder="cat photo URL" required><br>
+                  <label for="loving"><input id="loving" type="checkbox" name="personality"> Loving</label>
+                  <label for="spunky"><input id="loving" type="checkbox" name="personality"> Spunky</label>
+                  <label for="Troublesome"><input id="loving" type="checkbox" name="personality"> Troublesome</label><br>
+                  <button type="submit">Submit</button>
+                  </form>
+                
 
 
 ### Use the value attribute with Radio Buttons and Checkboxes
@@ -589,4 +602,6 @@ Havine said that, once you are used to this quirk in design, perhaps not working
 
 Is the course too basic, if you already know some HTML?  Yes and no.  Let me explain.  I learned HTML from "view source" long ago.  If, like me, you've been using HTML for a while, this course will be EASY for you and yet still round out (potentially) some ideas and be certain you are on the same page with the rest of this course, digging into deeper concepts; while at the same time examining HTML5 elements which are relatively recently added to HTML. 
 
-If you do not know anything at all about coding, you're going to take longer to work through these examples.  Here is why you should.  If you want to learn to code, this is a fabulous method.  By the time you are finished with this segment of code, you see practical application(s) of each of these HTML code elements, attributes, and tags. I've seen many posting on line for "help" because they are "stuck" on one or more of the code assignements.  While this could be very frustrating, and that is relatably so, this process of debugging what's gone wrong also helps you learn your errors. For example, the majority of times I coded my solutions for this course, upon the "Run the Tests" button, I was successfuly right away.  Hurray!  However, on the few times I didn't pass on to the next lesson right away, it was 100% of the time a typo on the > vs . key.  So now, after having practiced this coding session, in this course, in this lab space of their website, and using this equipment I know my typos tend to be in the close tags because I was typing too fast and the "shift" key wasn't where I thought it was while typing.  This can happen to anyone.  It is an error anyone can make.  However, it is specifically a common error I make.  Knowing this from doing my own debugging makes me look for that specific typo quickly and efficiently.  That's a great thing to know and its only obtained thru debugging.  
+If you do not know anything at all about coding, you're going to take longer to work through these examples.  Here is why you should.  If you want to learn to code, this is a fabulous method.  By the time you are finished with this segment of code, you see practical application(s) of each of these HTML code elements, attributes, and tags. I've seen many posting on line for "help" because they are "stuck" on one or more of the code assignements.  While this could be very frustrating, and that is relatably so, this process of debugging what's gone wrong also helps you learn your errors. For example, the majority of times I coded my solutions for this course, upon the "Run the Tests" button, I was successfuly right away.  Hurray!  However, on the few times I didn't pass on to the next lesson right away, it was 100% of the time a typo on the > vs . key.  So now, after having practiced this coding session, in this course, in this lab space of their website, and using this equipment I know my typos tend to be in the close tags because I was typing too fast and the "shift" key wasn't where I thought it was while typing.  This can happen to anyone.  It is an error anyone can make.  However, it is specifically a common error I make.  Knowing this from doing my own debugging makes me look for that specific typo quickly and efficiently.  That's a great thing to know and its only obtained thru debugging. 
+
+The Free Code Camp is a non-profit.  As such, if you are able, they request you send them a donation to keep their work free to all.  This is a worthy cause.  If you are new to coding, web hosts are not free. The time it takes to write the function of this website, isn't minor.  This website continues to build content to help others learn to code and asks nothing in return other than the occasional request for donations. Your profile with this website can be public or private in any or all aspects (name, photo, details, educational paths, certifiations, etc.) 
