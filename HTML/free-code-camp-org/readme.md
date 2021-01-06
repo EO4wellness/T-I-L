@@ -2,12 +2,13 @@
 This service allows you to log in and begin learning coding from scratch using just your GitHub profile to log in. If you are totally new to coding, FreeCodeCamp recommends starting at the very beginning (link on their study course outline). My [FreeCodeCamp profile](https://www.freecodecamp.org/fcc82f28646-b371-4d60-b44c-2a1e6e85fbd9)
 
 
-## Responsive Web Design Cetification (300 Hours)
+## FREE CODE CAMP's Responsive Web Design Cetification (300 Hours)
 Course outline
-* [Basic HTML and HTML5](https://github.com/EO4wellness/T-I-L/tree/main/HTML/free-code-camp-org#basic-html-and-html5)
-* Basic CSS
-* Applied Visual Design 
-* Applied Accessiblity 
+* [Basic HTML and HTML5](https://github.com/EO4wellness/T-I-L/tree/main/HTML/free-code-camp-org#basic-html-and-html5) 
+  | [Completed 1-6-2021](https://github.com/EO4wellness/T-I-L/blob/main/HTML/images/HTML_Frree-Code-Camp.jpg)
+* [Basic CSS](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/basic-css.md)
+* [Applied Visual Design](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/Applied-Visual-Design.md) 
+* [Applied Accessiblity](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/Applied-Accessibility.md) 
 * Responsive Web Design Principles
 * CSS Flexbox
 * CSS Grid
@@ -580,22 +581,196 @@ Course outline
 
 
 ### Use the value attribute with Radio Buttons and Checkboxes
+* when a website visitor uses the "submit" button we've created, then the information they entered gets sent to the server, including the options they selected in any radio or check boxes. 
+* if a value for each of the radio options isn't unique within the coding, then the information your website visitor submitted would default to "on" (for the entire radio group), meaing you wouldn't be able to tell which of the options your website visitor actually selected. 
+* thus, the value attribute needs to be set to something to identify the option
 * code assignement 
+
+                assign each of the radio and checkbox inputs the VALUE attribute 
+                use the input label text, in lower case, for the value attribute 
+                
+                my solution: 
+                <h2>CatPhotoApp</h2>
+                <main>
+                <p>Click here to view more <a href="#">cat photos</a>.</p>
+                <a href="#"><img src="https://bit.ly/fcc-relaxing-cat" alt="A cute orange cat lying on its back."></a>
+                <p>Things cats love:</p>
+                <ul>
+                <li>cat nip</li>
+                <li>laser pointers</li>
+                <li>water</li>
+                </ul>
+                <p>Top 3 things cats hate:</p>
+                <ol>
+                <li>flea treatment</li>
+                <li>thunder</li>
+                <li>other cats</li>
+                </ol>
+                <form action="https://freecatphotoapp.com/submit-cat-photo">
+                <label for="indoor"><input id="indoor" value="indoor" type="radio" name="indoor-outdoor"> Indoor</label>
+                <label for="outdoor"><input id="outdoor" value="outdoor" type="radio" name="indoor-outdoor"> Outdoor</label><br>
+                <label for="loving"><input id="loving" value="loving" type="checkbox" name="personality"> Loving</label>
+                <label for="lazy"><input id="lazy" value="lazy" type="checkbox" name="personality"> Lazy</label>
+                <label for="energetic"><input id="energetic" value="energetic" type="checkbox" name="personality"> Energetic</label><br>
+                <input type="text" placeholder="cat photo URL" required>
+                <button type="submit">Submit</button>
+                </form>
+                </main>
+
 
 ### Check Radio Buttons and Checkboxes by Default
+* with either the radio or checked attributes, you can set one or more to be default selected-this means the website visitor would see them as already selected for them and would have to uncheck them if they didn't want them selected
+* example:
+
+                <input type="radio" name="test-name" checked>
+
 * code assignement 
+
+                set the 1st of the radio buttons to be checked by default
+                set the 1st of the checkboxes to be checked by default 
+                
+                my solution:
+                  <form action="https://freecatphotoapp.com/submit-cat-photo">
+                  <label for="indoor"><input id="indoor" type="radio" name="indoor-outdoor" value="indoor" checked> Indoor</label>
+                  <label for="outdoor"><input id="outdoor" type="radio" name="indoor-outdoor" value="outdoor"> Outdoor</label><br>
+                  <label for="loving"><input id="loving" type="checkbox" name="personality" value="loving" checked> Loving</label>
+                  <label for="lazy"><input id="lazy" type="checkbox" name="personality" value="lazy"> Lazy</label>
+                  <label for="energetic"><input id="energetic" type="checkbox" name="personality" value="energetic"> Energetic</label><br>
+                  <input type="text" placeholder="cat photo URL" required>
+                  <button type="submit">Submit</button>
+                  </form>
+
 
 ### Nest Many Elements within a Single div Element
+* Div elements are used to next multiple things within HTML
+* there is a division element which is DIV 
+* DIV elements are very common in HTML
+* DIV needs a closing statement 
+* example:
+
+                open:  <div>
+                close: </div>
+
+
 * code assignement 
+
+                Nest each of your "Things Cats Love" and "Things Cats Hate" within a single DIV element
+                
+                my solution: 
+                <h2>CatPhotoApp</h2> 
+                <main>
+                <p>Click here to view more <a href="#">cat photos</a>.</p> 
+                <a href="#"><img src="https://bit.ly/fcc-relaxing-cat" alt="A cute orange cat lying on its back."></a> 
+                <div>
+                <p>Things cats love:</p>
+                <ul> 
+                <li>cat nip</li> 
+                <li>laser pointers</li> 
+                <li>lasagna</li> 
+                </ul>   <p>Top 3 things cats hate:</p>
+                  <ol> 
+                    <li>flea treatment</li>
+                    <li>thunder</li>
+                    <li>other cats</li>
+                  </ol> 
+                </div> 
+                <form action="https://freecatphotoapp.com/submit-cat-photo"> 
+                <label for="indoor"><input id="indoor" type="radio" name="indoor-outdoor" value="indoor" checked> Indoor</label>
+                <label for="outdoor"><input id="outdoor" type="radio" name="indoor-outdoor" value="outdoor"> Outdoor</label><br>
+                <label for="loving"><input id="loving" type="checkbox" name="personality" value="loving" checked> Loving</label> 
+                <label for="lazy"><input id="lazy" type="checkbox" name="personality" value="lazy"> Lazy</label> 
+                <label for="energetic"><input id="energetic" type="checkbox" name="personality" value="energetic"> Energetic</label><br> 
+                <input type="text" placeholder="cat photo URL" required>
+                <button type="submit">Submit</button>
+                </form>
+                </main>
 
 ### Declare the Doctype of an HTML Document
+* some HTML element need to be included in every HTML page. 
+* these are at the top of your document and tell your browser which version of HTML the page is using. 
+* HTML is an evolving language; as such it is updated regularly.
+* Example:
+
+                <!DOCTYLE..> tag on the first line
+                the ... part is the actual version of HTML or HTML5
+                such as
+                <!DOCTYPE html>
+                this element requires !
+                this element requires capital DOCTYPE
+
+                
+ * additionally, all of your page code needs to be wrapped in the HTML tags
+        
+        Open <html>
+        all of the content 
+        Close </html>
+        
+                        
+  * Example 
+  
+                <!DOCTYPE html>
+                <html>
+                <!-- Your HTML code goes here -->
+                </html>
+
 * code assignement 
 
+                add a DOCTYPE tag for HTML
+                open and close HTML tags
+                include an H1 element 
+                
+                my solution
+                
+                <!DOCTYPE html>
+                <html>
+                <h1>HTML Header</h1>
+                </html>
+
+       
+
 ### Define the Head and Body of an HTML Document
+* HTML pages can have yet another level of organization: HEAD and BODY elements
+* markup about the page would be included in the HEAD 
+* the page content is included within the BODY
+* METADATA elements such as link, meta, title, and style are generally used for SEO and are located within the HEAD element
+* example overall page layout 
+
+                <!DOCTYPE html>
+                <html>
+                <head>
+                        <!-- metadata elements -->
+                </head>
+                <body>
+                        <!-- page contents -->
+                </body>
+                </html>
+
+
 * code assignement 
-     
-     
-## Course Review
+
+                edit the given markup
+                add a head and a body 
+                the head element should only include the title
+                the body element should contain the H1 and P elements
+                
+                my solution: 
+                <!DOCTYPE html>
+                <html>
+                <head>
+                <title>The best page ever</title>
+                </head>
+                <body>
+                <h1>The best page ever</h1>
+                <p>Cat ipsum dolor sit amet, jump launch to pounce upon little yarn mouse, bare fangs at toy run hide in litter box until treats are fed. Go into a room to decide you didn't want to be in there anyway. I like big cats and i can not lie kitty ipsum dolor sit amet, shed everywhere shed everywhere stretching attack your ankles chase the red dot, hairball run catnip eat the grass sniff. Meow i could pee on this if i had the energy for slap owner's face at 5am until human fills food dish yet scamper. Knock dish off table head butt cant eat out of my own dish scratch the furniture. Make meme, make cute face. Sleep in the bathroom sink chase laser but pee in the shoe. Paw at your fat belly licks your face and eat grass, throw it back up kitty ipsum dolor sit amet, shed everywhere shed everywhere stretching attack your ankles chase the red dot, hairball run catnip eat the grass sniff.</p>
+                </body>
+                </html>
+   
+## Course Completion
+Upon completion of the course, you receie a "100% bar" scrolling to show you've completed everything in the HTML Basics coursework.  Additionally, you have a chance, if you haven't already taken it, to support the work Free Code Camp is doing. Further, you will see the [LEARN view](https://www.freecodecamp.org/learn) change to show you've completed this subsegment of the HTML course. You won't yet receive any type of certification(s) on your "profile" as you've not yet completed the entire learning HTML coursework, just the first basic step in the course. Additionally, the course creators recommend you continue your coding studies by [learning CSS](https://www.freecodecamp.org/learn/responsive-web-design/basic-css) and offer both [a link](https://www.freecodecamp.org/learn/responsive-web-design/basic-css) to that course content, and a pre-view of the upcoming lessons within that coursework so you can make a decision if you want to take a break for the day, or continue.  The HTML course can be done at your own pace (completed in one day or across several days/weeks). 
+
+![support-request-non-profit](https://github.com/EO4wellness/T-I-L/blob/main/HTML/images/freecodecamp.png)
+
+## Course Segment Review
 I already knew basic HTML so for me, this part of the course was *too basic* but, having said that, it was indeed very logical and easy to follow.  The only thing I think which may be difficult to a beginner is the interface.  For example, the instruction on the screen says to do "control + enter" to go to the next screen.  However, since the user interface is designed (very brilliant design, by the way) to look like a code editor (not a normal website interace) after you've switched screens it would be possible for some individuals, not to notice the screen changed. If I had not made an outline for taking notes about this course, for example, to which I could refer back to, I may not have noticed the topics were changing after I did the step as prompted.  Visually the screen looked nearly identical EXCEPT for that heading text--then as I read further down the page-I realized it was the next lesson, not the one I assumed (incorrectly) I didn't complete correctly for this website. 
 
 Havine said that, once you are used to this quirk in design, perhaps not working as you would have expected it to visually work, it is no big deal and isn't even difficult to navigate the website--but perhaps it would have been better, given that the majority of people are visual learners, to give people a heads-up the content is going to visually change as much in this course, as it would in other websites. I think the design is brilliant because it is a combo of what they will need to be doing to code, but still functional enough to be a website experience, not a coding experience exclusively. 
@@ -605,3 +780,7 @@ Is the course too basic, if you already know some HTML?  Yes and no.  Let me exp
 If you do not know anything at all about coding, you're going to take longer to work through these examples.  Here is why you should.  If you want to learn to code, this is a fabulous method.  By the time you are finished with this segment of code, you see practical application(s) of each of these HTML code elements, attributes, and tags. I've seen many posting on line for "help" because they are "stuck" on one or more of the code assignements.  While this could be very frustrating, and that is relatably so, this process of debugging what's gone wrong also helps you learn your errors. For example, the majority of times I coded my solutions for this course, upon the "Run the Tests" button, I was successfuly right away.  Hurray!  However, on the few times I didn't pass on to the next lesson right away, it was 100% of the time a typo on the > vs . key.  So now, after having practiced this coding session, in this course, in this lab space of their website, and using this equipment I know my typos tend to be in the close tags because I was typing too fast and the "shift" key wasn't where I thought it was while typing.  This can happen to anyone.  It is an error anyone can make.  However, it is specifically a common error I make.  Knowing this from doing my own debugging makes me look for that specific typo quickly and efficiently.  That's a great thing to know and its only obtained thru debugging. 
 
 The Free Code Camp is a non-profit.  As such, if you are able, they request you send them a donation to keep their work free to all.  This is a worthy cause.  If you are new to coding, web hosts are not free. The time it takes to write the function of this website, isn't minor.  This website continues to build content to help others learn to code and asks nothing in return other than the occasional request for donations. Your profile with this website can be public or private in any or all aspects (name, photo, details, educational paths, certifiations, etc.) 
+
+![segment-results](https://github.com/EO4wellness/T-I-L/blob/main/HTML/images/HTML_Frree-Code-Camp.jpg)
+
+[continue to CSS coursework notes and code examples](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/basic-css.md)

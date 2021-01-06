@@ -130,4 +130,45 @@ If the question starts with something other than the verb we use a much simpler 
 * Dych chi'n caru siocled? (Do you love chocolate?) 
 *RESULTS: Isn't it crazy how it is so human nature to make the SAME mistake, be confused about the same thing, and not recall it?  Doing well at recalling so much, but I frequently mix up that Like and Enjoy aren't the same word(s) in Welsh (like they are in any language????!!!!); Also, I'm having trouble hearing the place names correctly to type them/spell them correctly. Perhaps I should review those more frequently.  However, I suspect, I will just naturally pick them up over time.*  
 
+### 2021-01-06 Study Session
+* dyw hi ddim yma (she is not here) 
+* ydy e'n gwrando (is he listening)
+* Dw i eisiau gweithio ddydd Iau (I want to work on Thursday. )
+* Mae Morgan yn hoffi gwrando ar _y_ radio. (Morgan likes listening to the radio.)
+* Mae  e'n hoffi siocled. (He likes chocolate)
+* gwrando (listening)
+* gwrando ar (to listen to)
+* dych chi'n gwrando ar yn radio (Are you listening to the radio?)
+* Mae Megan yn hoffi fe. (Megan likes him.)
+* Mae Owen yn gweithio dydd Sadwrn (Owen is working on Saturday)
+* Mecanic ydy hi. (She is a mechanic)
+*Results: for some reason I kept leaving out the Y in the phrase gwrando ar y radio-likes listening to the radio.*
+
+* maen nhw'n hwylio heddiw. (they are sailing today.)
+* Dyn ni'n sgipio (we are skipping)
+* ydyn nhw'n mwynhau nofio. ydyn (do they enjoy swimming? yes.)
+* Mae e eisiau cau'r cwpwrdd. (He wants to close the cupboard.) 
+* ydyn nhw'n sglefrio heddiw. ydyn. (are they skating today? yes.)
+* Maen nhw'n cau'r drws. (they are closing the door. )
+* Mae Dylan yn agor y drws heddiw. (Dlyan is opening the door today.)
+* Ydy hi'n mwynhau? Ydy.(Does she enjoy sailing? Yes.)
+* Mae Megan yn agor drws y car. Megan is opening the car door. 
+* Dyn ni'n hwylio heno. (We 're sailing this evening.)
+
+* _Dydy e ddim yn chwerthin heddiw._ (He is not laughing today.) 
+* Mae dylan yn hoffi Castle-nedd. _(Dylan likes Neath)_
+* _gwenu_ (to smile) sounds like gwen-knee 
+* _sglefrio iâ_ (ice skating) sound like sk-la-fr-OO yah 
+* _dim smygu_ (no smoking) sounds like dim smig gee 
+* Ydyn nhw'n hoffi Castell-nedd? (Do they like Neath?) 
+* Ydy Morgan yn hoffi'r iâ (Does Morgan like the ice?)
+* Mae Dylan yn clywed y ci  (Dylan hears the dog.)
+* Dydy e ddim yn chwerthin heddiw. (He is not laughing today) 
+* Mae Owen y hoffi Manceinion. (Owen likes Manchester.)
+* Manceinion. (Manchester)
+* Mae e'n mwynhau dysgu cerddoriaeth. (He enjoys learning music.)
+
+* 
+
+
 
