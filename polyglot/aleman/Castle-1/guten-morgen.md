@@ -35,7 +35,7 @@ Voice 1: Das ist Salz!
         Voice 2: Anna, du bist nicht müde. Du bist total müde! Du brauschst viel Kaffee!
 
 
-## Quz: 
+## Quiz: 
 * Rainer is at home with his wife? T
 * Anna wants to know? where her English book is 
 * Rainer is asking if Anna? wants some coffee 
