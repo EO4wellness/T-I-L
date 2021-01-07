@@ -31,12 +31,47 @@
 * RESUME studies here: https://www.freecodecamp.org/learn/responsive-web-design/basic-css/change-the-color-of-text
 
 ### Change the Color of Text
+* to change the text color use the STYLE in the H2 element.
+* COLOR style property does this 
+* Example: 
+                to set the H2 text to dispaly as blue we would code:
+                <h2 style="color: blue;">CatPhotoApp</h2>
+                end all INLINE color attributes with a ; 
+                
 * Code Assignment:
+
+                Change this H2 element so its text is RED 
+                
+                MY CODE:
+                <h2 style="color: red;">CatPhotoApp</h2>
 
 ### Use CSS Selectors to Style Elements
-* Code Assignment:
+* CSS has 100s of properties which can be used to change the way an element looks.
+* our example above, of turning the H2 text to read is an example of inline CSS.
+* another method is to create a style block. 
+* style blocks open with <style> and close with </style>
+* within any style block, you can create a rule to change everything within the style block.
+* when creating such a rule we alway begin and end each rule with the curly brackets. those are the ones which look like this { and }
+* end each style's rules with a semicolon ; 
+* Code Assignment:      
+
+                Delete the H2 style attribute
+                instead use a CSS style block
+                add the needed CSS to turn all of the H2 elements blue. 
+                
+                MY CODE SOLUTION
+                
+                <style>
+                h2 {
+                color: blue;
+                }
+                </style>
+                <h2>CatPhotoApp</h2>
+
 
 ### Use a CSS Class to Style an Element
+* Resume Studies here 
+https://www.freecodecamp.org/learn/responsive-web-design/basic-css/use-a-css-class-to-style-an-element
 * Code Assignment:
 
 ### Style Multiple Elements with a CSS Class
