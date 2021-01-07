@@ -169,3 +169,19 @@ Der Geldautomat ist hier
 * neu (neu)
 *Results: Earned Level 4 on Directions skill set for Castle 1 today. 
 
+## 2021-01-07 Study Session 
+* Das Kino ist rechts. (The movie theater is on the right. )
+* Is der Supermarkt links oder rechts? (Is the Supermarket on the left or the right?)
+* der park ist links (the park is on the left)
+* die Backerei ist sehr gut (the bakery is very good)
+* ist die backerei rechts? (Is the bakery on the right?)
+* wo ist der Supermarkt (Where is the Supermarket?)
+*Perfect Party*
+
+* Der Geld automat ist hier. The ATM is here.
+* Ist das Hotel alt oder neu  (Is the hotel old or new?)
+* ja, die U-Bahnstation ist in der Nahe (Yes, the subway station is nearby)
+* Ja, die Bibliothek ist weit weg.  Yes, the library is far away
+* Die Universität in Berlin ist alt. The University in Berlin is old. 
+* I earned level 5 in the Directions, so now I've completed this skill set, with the exception of taking the final quiz on all of the skills in this skill set! 
+
