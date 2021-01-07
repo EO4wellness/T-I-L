@@ -8,8 +8,8 @@
 * [Restaurant](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/aleman/Castle-1/Restaurant.md) | Current Level: 5 of 5<br>
 * [Places](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/aleman/Castle-1/Places.md) | Current Level: 5 of 5<br>
 * [Jobs](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/aleman/Castle-1/Jobs.md) | Current Level: 5 of 5 earned 12-22-2020<br>
-* [Hobbies](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/aleman/Castle-1/Hobbies.md) | Current Level: 1 of 5<br>
-* [Directions](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/aleman/Castle-1/directions.md)  | Current Level: 2 of 5<br>
+* [Hobbies](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/aleman/Castle-1/Hobbies.md) | Current Level: 5 of 5<br>
+* [Directions](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/aleman/Castle-1/directions.md)  | Current Level: 5 of 5 earned 1-7-21<br>
 * Final Castle Test | Current Level: not yet attempted <br>
 
 # German Stories - Set 1:
