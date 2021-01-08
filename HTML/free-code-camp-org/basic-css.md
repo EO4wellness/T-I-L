@@ -70,15 +70,93 @@
 
 
 ### Use a CSS Class to Style an Element
-* Resume Studies here 
-https://www.freecodecamp.org/learn/responsive-web-design/basic-css/use-a-css-class-to-style-an-element
+* [Resumed Studies](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/use-a-css-class-to-style-an-element) on 2021-01-07
+* Classes are reusable styles 
+* Classes can be added to HTML elements 
+* Example 
+
+                <style> 
+                         .blue-text {
+                                 color: blue;
+                         }
+                </style>
+
+* here the style is called "blue-text"
+* class names begin with a period (dot) . 
+* while the code starts with a period, the actual class name does not include the perio 
 * Code Assignment:
+
+                inside a style element change the H2 selector to .red-text 
+                update th color's value from blue to red 
+                give the H2 element the CLASS attribute with a value of 'red-text' 
+                
+                My Solution:
+                <style>
+                  .red-text {color:red};          
+                  </style>
+                  <h2 class="red-text" >CatPhotoApp</h2>
+
 
 ### Style Multiple Elements with a CSS Class
+* Likewise a class, once defined, can apply to any HTML element. 
 * Code Assignment:
 
+                *Try this for yourself. Make the code we already have, to use this .red-text for the 1st paragraph's content. 
+                
+                
+                MY SOLUTION : 
+                <style>
+                .red-text {
+                color: red;
+                }
+                </style>
+                <h2 class="red-text">CatPhotoApp</h2>
+                <main>
+                <p class="red-text">Click here to view more <a href="#">cat photos</a>.</p>
+                  <a href="#"><img src="https://bit.ly/fcc-relaxing-cat" alt="A cute orange cat lying on its back."></a>
+                  <div>
+                  <p>Things cats love:</p>
+                  <ul>
+                  <li>cat nip</li>
+                  <li>laser pointers</li>
+                  <li>lasagna</li>
+                  </ul>
+                  <p>Top 3 things cats hate:</p>
+                      <ol>
+                            <li>flea treatment</li>
+                                  <li>thunder</li>
+                                        <li>other cats</li>
+                                            </ol>
+                   </div>
+                   <form action="https://freecatphotoapp.com/submit-cat-photo">
+                   <label><input type="radio" name="indoor-outdoor" checked> Indoor</label> 
+                   <label><input type="radio" name="indoor-outdoor"> Outdoor</label><br> 
+                   <label><input type="checkbox" name="personality" checked> Loving</label> 
+                       <label><input type="checkbox" name="personality"> Lazy</label>
+                           <label><input type="checkbox" name="personality"> Energetic</label><br>
+                           <input type="text" placeholder="cat photo URL" required>
+                           <button type="submit">Submit</button>
+                   </form>
+                   </main>
+
 ### Change the Font Size of an Element
+* use the FONT-SIZE css property to change the font size. 
+* the FONT-SIZE property is placed inside the < S T Y L E > tag 
+* example: 
+
+        h1 {
+        font-size: 30px;
+        }
+
+
 * Code Assignment:
+
+                inside your .red-text style tag, create an entry for the P elements which will set the font size to 16 pixels. 
+                note that's 16px 
+                
+                MY SOLUTON: 
+[Resume Studies here](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/change-the-font-size-of-an-element)
+
 
 ### Set the Font Family of an Element
 * Code Assignment:
