@@ -155,6 +155,19 @@
                 note that's 16px 
                 
                 MY SOLUTON: 
+                
+                
+                <style>
+  .red-text {
+    color: red;
+  }
+  p {
+    font-size: 16px;
+  }
+</style>
+
+               
+                
 [Resume Studies here](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/change-the-font-size-of-an-element)
 
 
