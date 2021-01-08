@@ -4,8 +4,8 @@
 When I first learn HTML coding it was using the Netscape (retired) browser, long before GUI, Google, or FB.  I learned it by visiting a page online which I liked, selecting "View Source" and reading the code.  A lot has changed since then. 
 
 ## Basics of HTML
-[basic HTML code snippets](https://github.com/EO4wellness/T-I-L/tree/main/HTML/Basic-Code)
-[HTML Template-Lets Get Started](https://github.com/EO4wellness/T-I-L/blob/main/HTML/Basic-Code/head.html)
+[basic HTML code snippets](https://github.com/EO4wellness/T-I-L/tree/main/HTML/Basic-Code)<br>
+[HTML Template-Lets Get Started](https://github.com/EO4wellness/T-I-L/blob/main/HTML/Basic-Code/head.html)<br>
 
 ## Examples 
 coming soon 
@@ -13,7 +13,7 @@ coming soon
 ## Learning HTML
 Here are some resources you can user to learn HTML:
 
-* [Free Code Camp](https://www.freecodecamp.org) - Visiting this site, you can get started, freely, using your GitHub credentials to log in and begin learning coding.  The Free Code Camp coursework is structured and progresses from beginning to more advanced topics, starting with HTML.  Unless you need to start at the "very beginning" (which teaches you, for example, what <H1>Text</H1> does) you can begin your studies with the approximately 300 hours of study needed to learn responsive website development skills including HTML, CSS, and HTML5. 
+* [Free Code Camp](https://github.com/EO4wellness/T-I-L/tree/main/HTML/free-code-camp-org) By visiting the [FreeCodeCamp Website](https://www.freecodecamp.org), you can get started, freely, using your GitHub credentials to log in and begin learning coding.  The Free Code Camp coursework is structured and progresses from beginning to more advanced topics, starting with HTML.  Unless you need to start at the "very beginning" (which teaches you, for example, what <H1>Text</H1> does) you can begin your studies with the approximately 300 hours of study needed to learn responsive website development skills including HTML, CSS, and HTML5. 
 
 * Projects to practice HTML & CSS skills. [list from @Ravinwashere twitter](https://twitter.com/ravinwashere/status/1343434835793100800)
 
