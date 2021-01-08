@@ -83,3 +83,16 @@ sounds matching practice
 * 僕 の 名 前 は 茂 で す。(My name is Shigeru)
 *Results: Earned level 1 in this skill set*
 
+### 2021-01-07 study session 
+* わたし   (私)
+* い い え、学 生 で は あ り ま せ ん。(No, I am not a student)
+* 私もイタリア人です (I am also Italian) 
+* い い え、中国 人ではありません。 (No, I am not Chinese.)
+* 私も学生です (I am also a student) 
+* いいえ、日本人ではありません。(No, I am not Japanese.)
+* 私も アメリカ人です (I am also American)
+* 私も ベトナム 人です (I am also Vietnamese.)
+* はい 私も 学 生 です (Yes, I am also a student.)
+* いいえ、私は学生じゃないです。 (No, I am not a student) 
+* いいえ、学 生 ではありません。(No, I am not a student)
+*Results:A perrfect party!*
