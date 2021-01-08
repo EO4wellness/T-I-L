@@ -10,7 +10,7 @@ V1:  Ciao!  Come stai?
 
 V1: Un'insalata. Non mangio la carne.
 
-   V2:  Sei vegetariana?
+      V2:  Sei vegetariana?
 
 V1: Sì
 
