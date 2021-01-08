@@ -101,3 +101,13 @@ I began this set of skills on 2021-01-05
 * Il cuoco cucina il cibo. (The cook cooks the food)
 *Results: Earned level 1 & Crown in Food*
 
+### PRACTICE SESSION 1: 2021-01-07
+* Il ragazzo ha un biscotto al cioccolato. (The boy has a chocolate cookie)
+* L'uomo mangia il gelato al cioccolato. (The man eats chocolate ice cream)
+* Lei beve latte lei non beve caffe. She drinks milk, she doesn't drink coffee.)
+* Lui mangia la crema al cioccolato. (He eats the chocolate cream)
+* Io mangio un biscotto al cioccolato.  (I eat a chocolate cookie.) 
+* La tazza (the cup) 
+* Io mangio crema al cioccolato. (I eat chocolate custard)
+* Io ho il gelato al caffe (I have the coffee ice cream)
+* 
