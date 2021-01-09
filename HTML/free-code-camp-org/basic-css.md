@@ -172,7 +172,29 @@
 
 
 ### Set the Font Family of an Element
+* to set the FONT FAMILY we use the font-family property
+* for example, to set the font family to Sans-serif you would use this code to set all H2 content to this font family
+
+        h2 {
+                font-family: sans-serif;
+           }
+
 * Code Assignment:
+
+        set all paragraphs to monospace
+        
+        My Code:
+        
+        <style> 
+        .red-text {
+        color: red;
+        }
+        p {
+        font-size: 16px;
+        font-family: monospace;
+        }
+        </style>
+
 
 ### Import a Google Font
 * Code Assignment:
