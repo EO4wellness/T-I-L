@@ -96,3 +96,14 @@ sounds matching practice
 * いいえ、私は学生じゃないです。 (No, I am not a student) 
 * いいえ、学 生 ではありません。(No, I am not a student)
 *Results:A perrfect party!*
+
+### 2021-01-08 Study session 
+* はなせ  ( 話せ )
+* は い、日 本 語 が 話 せ ま す。(Yes, I can speak Japanese)
+* 私 は 英 語 が 話 せ ま す。 (I can speak English)
+* 日本語が話せますか？(Can you speak Japanese?) 
+* 日本語が話せますか？ 
+* 私は日本語が話せます。 (I can speak Japanese.)
+* 英語は話せますか？ (Can you speak English?) 
+* 私は英語が話せます。(I can speak English) 
+* 英語が話せます？I can speak English) 
