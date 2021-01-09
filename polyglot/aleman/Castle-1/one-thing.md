@@ -81,7 +81,7 @@ du
       auch also 
       
       
-      ![result](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/aleman/Castle-1/ONE-Thing.jpg)
+![result](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/aleman/Castle-1/ONE-Thing.jpg)
 
 
 German Stories - Set 1:
