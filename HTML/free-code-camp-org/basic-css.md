@@ -197,7 +197,44 @@
 
 
 ### Import a Google Font
+* wasn't previously awware of google (or any other) font library prior to this lesson.  
+* this google find was significant enough for its own entry on the [T-I-L: Today I Learned readme](https://github.com/EO4wellness/T-I-L/blob/main/Google/README.md)
+* [Google Font Library](https://fonts.google.com/)
+* free library of web fonts which can be called upon in your CSS
+* such libraries are referenced using the font's URL
+* "import" the library font, and then apply it. 
+* reserach other font directories as google is blocked in some countries (where?) 
+* before the opening STYLE element add:
+
+                <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
+                
+* now use the linked by URL font from the font library simply by naming it (as you would any other font): font-family: FAMILY_NAME, GENERIC_NAME;
+* The GENERIC_NAME is optional, and is a fallback font in case the other specified font is not available. This is covered in later study materials.
+* fonts are CASE SENSITIVE 
+* font names need to be wrapped in quotes if there is a space in the name, but not if there aren't any spaces. . 
+
 * Code Assignment:
+
+                        Import LOBSTER font to your webpage 
+                        Use the element selector to set LOBSTER as the font-family for the H2 element 
+                        
+                        MY CODE: 
+                        
+                        <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
+                        <style>
+                        h2 {
+                        font-family: Lobster;
+                        }
+                        .red-text {
+                            color: red;
+                              }
+                        p {
+                            font-size: 16px;
+                                font-family: monospace;
+                           }
+                           </style>
+
+
 
 ### Specify How Fonts Should Degrade
 * Code Assignment:
