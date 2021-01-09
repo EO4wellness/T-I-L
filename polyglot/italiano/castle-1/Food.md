@@ -110,4 +110,14 @@ I began this set of skills on 2021-01-05
 * La tazza (the cup) 
 * Io mangio crema al cioccolato. (I eat chocolate custard)
 * Io ho il gelato al caffe (I have the coffee ice cream)
+
+### PRACTICE SESSION 1: 2021-01-08
+* E un piatto. (It is a plate)
+* Lui mangia il cibo. (He eats the food)
+* La ragazza mangia la frutta. (The girl eats fruit)
+*  Io mang_io_ frutta. (I eat fruit)
+* Lei mangia una banana. (She eats a banana)
+* Io mangio un fagiolo. (I eat a bean) 
+* Io mangio una carota.  (I eat a carrot)
+* Lui mangia la caramella.  (He eats the candy.)
 * 
