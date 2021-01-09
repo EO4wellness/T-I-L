@@ -7,7 +7,7 @@
 * [Places 1](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/gales/Castle-2/Places.MD) <br>
 * [Present 3](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/gales/Castle-2/Present3.md) <br>
 * [Wedi](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/gales/Castle-2/Wedi)<br>
-* Final Castle 2 Testing 
+* [Final Castle 2 Quiz](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/gales/Castle-2/Castle2-quiz.md)<br> 
 
 
 ![Castle2](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/gales/Castle-2/2021-01-02-finished-castle2.png)
