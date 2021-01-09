@@ -1,5 +1,5 @@
 # Castle 2
-* Questions<br>
+* [Questions](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/aleman/Castle-2/Questions.md) Start: 1-8-2021<br>
 * Market<br>
 * Weather<br>
 * Family 2<br>
