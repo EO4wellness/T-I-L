@@ -237,10 +237,44 @@
 
 
 ### Specify How Fonts Should Degrade
+* monospace, serif, and sans-serif are all generic font families
+* generic fonts are available in all browsers
+* if one font is not available, you can let the browser know to "degrate" to another specified font.
+* Example: you design the page in HELVETICA but need to specify the degrate to the default sans-serif if Helvetica isn't available. 
+* Example code:
+
+        p {
+                font-family: Helvetica, sans-serif;
+           }
+           
+ * these generic font families are NOT case sensitive
+ * generic fonts do not use quotes because they are CSS keywords
+
 * Code Assignment:
 
+                apply monospacce font to the H2 element \
+                comment out the "import" link from google 
+               
+                
+
+
 ### Size Your Images
+* CSS has a WIDTH property
+* just like with FONTS we use PX for Pixels 
+* Example: 500 pixels 
+
+                <style>
+                  .larger-image {
+                       width: 500px;
+                    }
+                </style?
+                    
+           
 * Code Assignment:
+
+                create a class called SMALLER-IMAGE 
+                use it to resite the image so it is only 100 px wide
+                
 
 ### Add Borders Around Your Elements
 * Code Assignment:
