@@ -297,10 +297,23 @@
 
 
 ### Add Rounded Corners with border-radius
+* The default border is square (sharp corners)
+* You can round the corners using the BORDER-RADIUS CSS property 
+* specify it in pixels.
+
 * Code Assignment:
 
+                specify the border-radius of 10px
+                
+
 ### Make Circular Images with a border-radius
+* the border radiius property can also be set as a percentage 
+
 * Code Assignment:
+
+                assign the cat photo a border-radious of 50%
+                NOTE: a border radius of 50% makes a circle 
+
 
 ### Give a Background Color to a div Element
 * Code Assignment:
