@@ -277,7 +277,24 @@
                 
 
 ### Add Borders Around Your Elements
+* CSS borders can all have properties such as STYLE, COLOR, and WIDTH
+* example: wants a 5 px boarder around an HTML element? Then code:
+        
+                <style>
+                         .thin-red-border {
+                                 border-color: red;
+                                 border-width: 5px;
+                                 border-style: solid;
+                         }
+                </style>
+
+
 * Code Assignment:
+
+        create a class called "thick-green-boarder
+        make the class 10 px solid and green 
+        apply this class to our cat photo 
+
 
 ### Add Rounded Corners with border-radius
 * Code Assignment:
