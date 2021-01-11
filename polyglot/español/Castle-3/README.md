@@ -1,5 +1,5 @@
 # Castle 3 Topics of Study:
-* Go for it! 
+* [Go for it!](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/espa%C3%B1ol/Castle-3/GO-for-it.md) 
 * [Weather](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/espa%C3%B1ol/Castle-3/Weather.md)
 * Stem Changes 
 * [Interest](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/espa%C3%B1ol/Castle-3/Interests.md) 
