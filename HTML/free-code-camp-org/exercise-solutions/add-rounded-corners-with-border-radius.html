@@ -4,12 +4,24 @@
     color: red;
   }
 
+  h2 {
+    font-family: Lobster, monospace;
+  }
+
   p {
     font-size: 16px;
     font-family: monospace;
   }
-  h2 {
-    font-family: Lobster;
+
+  .thick-green-border {
+    border-color: green;
+    border-width: 10px;
+    border-style: solid;
+  }
+
+  .smaller-image {
+    width: 100px;
+    border-radius: 10px;
   }
 </style>
 
@@ -17,7 +29,7 @@
 <main>
   <p class="red-text">Click here to view more <a href="#">cat photos</a>.</p>
 
-  <a href="#"><img src="https://bit.ly/fcc-relaxing-cat" alt="A cute orange cat lying on its back."></a>
+  <a href="#"><img class="smaller-image thick-green-border"  src="https://bit.ly/fcc-relaxing-cat" alt="A cute orange cat lying on its back."></a>
 
   <div>
     <p>Things cats love:</p>

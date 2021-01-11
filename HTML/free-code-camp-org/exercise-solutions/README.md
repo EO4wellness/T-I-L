@@ -6,37 +6,68 @@ All of the files in this folder are my original coding added to satisfy the Free
 # Exercises:
 
 ## Basic HTML and HTML5  ~ Course Code Solutions
-* Introduction to Basic HTML and HTML5 
-* Say Hello to HTML Elements
-* Headline with the h2 Element
-* Inform with the Paragraph Element
-* Fill in the Blank with Placeholder Text
-* Uncomment HTML
-* Comment out HTML
-* Delete HTML Elements
-* Introduction to HTML5 Elements 
-* Add Images to Your Website
-* Link to External Pages with Anchor Elements
-* Link to Internal Sections of a Page with Anchor Elements
-* Nest an Anchor Element within a Paragraph
-* Make Dead Links Using the Hash Symbol
-* Turn an Image into a Link
-* Create a Bulleted Unordered List
-* Create an Ordered List
-* Create a Text Field
-* Add Placeholder Text to a Text Field
-* Create a Form Element
-* Add a Submit Button to a Form
-* Use HTML5 to Require a Field
-* Create a Set of Radio Buttons
-* Create a Set of Checkboxes
-* Use the value attribute with Radio Buttons and Checkboxes
-* Check Radio Buttons and Checkboxes by Default
-* Nest Many Elements within a Single div Element
-* Declare the Doctype of an HTML Document
-* Define the Head and Body of an HTML Document
-* Course Completion
-* Finished coursework before I realized there was an easier way to save my code. 
+* [Introduction to Basic HTML and HTML5]
+
+* [Say Hello to HTML Elements](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/exercise-solutions/say-hello-to-html-elements.html)
+
+* [Headline with the h2 Element](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/exercise-solutions/headline-with-the-h2-element.html)
+
+* [Inform with the Paragraph Element](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/exercise-solutions/inform-with-the-paragraph-element.html)
+
+* [Fill in the Blank with Placeholder Text](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/exercise-solutions/fill-in-the-blank-with-placeholder-text.html)
+
+* [Uncomment HTML](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/exercise-solutions/uncomment-html.html)
+
+* [Comment out HTML](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/exercise-solutions/comment-out-html.html)
+
+* [Delete HTML Elements](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/exercise-solutions/delete-html-elements.html)
+
+* [Introduction to HTML5 Elements](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/exercise-solutions/)
+
+* [Add Images to Your Website](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/exercise-solutions/)
+
+* [Link to External Pages with Anchor Elements](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/exercise-solutions/)
+
+* [Link to Internal Sections of a Page with Anchor Elements](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/exercise-solutions/)
+
+* [Nest an Anchor Element within a Paragraph](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/exercise-solutions/)
+
+* [Make Dead Links Using the Hash Symbol](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/exercise-solutions/)
+
+* [Turn an Image into a Link](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/exercise-solutions/)
+
+* [Create a Bulleted Unordered List](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/exercise-solutions/)
+
+* [Create an Ordered List](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/exercise-solutions/)
+
+* [Create a Text Field](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/exercise-solutions/)
+
+* [Add Placeholder Text to a Text Field](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/exercise-solutions/)
+
+* [Create a Form Element](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/exercise-solutions/)
+
+* [Add a Submit Button to a Form](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/exercise-solutions/)
+
+* [Use HTML5 to Require a Field](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/exercise-solutions/)
+
+* [Create a Set of Radio Buttons](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/exercise-solutions/)
+
+* [Create a Set of Checkboxes](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/exercise-solutions/)
+
+* [Use the value attribute with Radio Buttons and Checkboxes](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/exercise-solutions/)
+
+* [Check Radio Buttons and Checkboxes by Default](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/exercise-solutions/)
+
+* [Nest Many Elements within a Single div Element](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/exercise-solutions/)
+
+* [Declare the Doctype of an HTML Document](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/exercise-solutions/)
+
+* [Define the Head and Body of an HTML Document](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/exercise-solutions/)
+
+* [Course Completion](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/exercise-solutions/)
+
+* Finished all of the above coursework before I realized there was an easier way to save my code. 
+
 
 
 ## Basic CSS ~ Course Code Solutions
@@ -61,21 +92,21 @@ All of the files in this folder are my original coding added to satisfy the Free
 [Import a Google Font](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/exercise-solutions/import-a-google-font.html)
 
 
-[Specify How Fonts Should Degrade]
+[Specify How Fonts Should Degrade](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/exercise-solutions/)
 
 
-[Size Your Images]
+[Size Your Images](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/exercise-solutions/)
 
 
-[Add Borders Around Your Elements]
-
-
-
-Add Rounded Corners with border-radius
+[Add Borders Around Your Elements](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/exercise-solutions/)
 
 
 
-Make Circular Images with a border-radius]
+[Add Rounded Corners with border-radius](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/exercise-solutions/add-rounded-corners-with-border-radius.html)
+
+
+
+[Make Circular Images with a border-radius]https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/exercise-solutions/make-circular-images-with-a-border-radius.html)
 
 
 Give a Background Color to a div Element
