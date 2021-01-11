@@ -1,5 +1,5 @@
-Dialects 1
-'Identification' sentences
+# Dialects 1
+## 'Identification' sentences
 
 When we want to say what or who someone is - their name, their occupation or whether they are male or female and so on, this is termed an 'identification sentence'.
 
@@ -82,3 +82,39 @@ Many other variants are also common, such as:
 A very big topic that this course can only skim!
 
 There are examples of several dialects here - https://museum.wales/articles/2011-03-29/The-Dialects-of-Wales/ Do not expect to be able to understand them yet, but you may pick up the variations in the various accents.
+
+## Study sessions:
+### 2021-01-11
+* Dewi Lingo ydy o (He is dewi Lingo)
+* Menyw yw Morgan, dim bachgen. (Morgan is a woman, not a boy)
+* Ydy hi eisiau afal? (Does she want an apple?)
+* Merch yw hi. (She is a girl)
+* Dyw Megan ddim yma.  (Megan is not here.)
+* Dynes (A woman)
+* Dynes yw'r nyrs newydd. The new nurse is a woman.
+* Owen yw e. (He is Owen)
+* A woman (Dynes) 
+* Hogan ysgol ydy hi. (She is a school girl.)
+* Hogyn ydy o. (He is a boy)
+* dyw'r ferch ddim yn hoffi'r bachgen. (The girl does not like the boy. )
+* Merch yw hi (she is a girl)
+* Menyw yw'r heddwas newydd (The new police officer is a woman.)
+
+* Caru (love)
+* Llefrith ( milk )
+* Ysgol (school )
+* Dach chi'n licio llefrith? (Do you like milk?)
+* Mae o'n licio coffi (He likes coffee)
+* Ydy nhw wedi dod â'r llaeth? (Have they brought the milk?)
+* shwmae. Morgan dych chi? (Hello, are you Morgan?)
+* Shwmae, Draig dw i. (Hi, I am a dragon)
+* S'mae, Megan.  Dach chi'n mynd i'r sinema heno? (Hi Megan.  Are ou going to the cinema this evening?)
+* Dw i'n yfed llaeth. ( I am drinking milk)
+* S'mae. Megan dw i. Pwy dach chi? (Hello, I am Megan.  Who are you?) 
+* Dydy o ddim yn licio yfed llefrith. (He doesn't like drinking milk)
+* Dych chi'n licio mis Tachwedd? (Do you like November?)
+* S'mae (hi)
+* Shwmae megan dw i. Pwy dych chi? (Hello, I am Megan.  Who are you?)
+* Mae o'n yfed llefrith (He is drinking milk) 
+*Results: Perfect Party! earned a crown and level 1, too. * 
+
