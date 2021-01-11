@@ -1,43 +1,16 @@
 # One Thing | Eine Sache 
 
 
-ANNOUNCER: Steffi
-und
-ihr
-Bruder
-Marvin
-sind
-zu
-Hause
-.
+ANNOUNCER: Steffi und ihr Bruder Marvin sind zu Hause.
 
-V1: Oh
-nein
-,
-ich
-brauche
-Brot
-für
-mein
-Sandwich
-.
+V1: Oh nein, ich brauche Brot für mein Sandwich.
 
-V2: Gehst
-du
-zum
-Supermarkt
-?
+    V2: Gehst du zum Supermarkt?
 
 
-V!: Ja
+V1: Ja
 
-V2: Oh,
-ich
-brauche
-auch
-eine
-Sache
-.
+    V2: Oh, ich brauche auch eine Sache.
 
 V1: Was brauchst du?
 
@@ -46,18 +19,17 @@ V1: Was brauchst du?
 
 V1: Gut
 
-V2: Danke! 
-V2: Und
-ich
-brauche
-auch
-Kaffee
-.
+        V2: Danke! 
+        V2: Und ich brauche auch Kaffee.
 
 V1: Ja.
-V2: Und Zucker. 
+
+        V2: Und Zucker. 
+        
 V1: Was?!
-V2: Und Milch.
+
+        V2: Und Milch.
+        
 V1: Hmm, Ich habe eine Idee.
 V1: Hier ist Geld, Marvin. Du gehst zum Supermarkt.
 V2: Varum?
