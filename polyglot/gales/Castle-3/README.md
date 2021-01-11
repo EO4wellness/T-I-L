@@ -1,5 +1,5 @@
 # Castle 3 
-* [Dialects 1](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/gales/Castle-3/Dialects-1.md)<br>
+* [Dialects 1](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/gales/Castle-3/Dialects-1.md)<br> Began Jan 9, earned level 1 Jan 11. 
 * [Extend](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/gales/Castle-3/Extend.md)<br>
 * May I?<br>
 * Colours<br>
