@@ -1,6 +1,6 @@
 # Castle 3 
 * [Dialects 1](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/gales/Castle-3/Dialects-1.md)<br>
-* Extend<br>
+* [Extend](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/gales/Castle-3/Extend.md)<br>
 * May I?<br>
 * Colours<br>
 * Numbers 2<br> 
