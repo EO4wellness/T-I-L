@@ -95,8 +95,10 @@ All of the files in this folder are my original coding added to satisfy the Free
 [Specify How Fonts Should Degrade](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/exercise-solutions/)
 
 
+[Size Your Images](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/exercise-solutions/add-borders-around-your-elements.html)
 
 
+[Add Borders Around Your Elements](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/exercise-solutions/add-borders-around-your-elements.html)
 
 
 
