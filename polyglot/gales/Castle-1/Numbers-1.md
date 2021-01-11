@@ -1,60 +1,5 @@
 # Numbers 1 
-Welsh 
-Castle 1
-Numbers 1
-2020-12-19 Study Session 
-Streak Day: 466
-
-2020-12-19
-
-# Words 
-* un (one)
-* dau (two)
-* tri (three) 
-* pedwar (four) 
-* pump (five)
-* chwech (six)
-* saith (seven) 
-* wyth (eight) 
-* naw (nine)
-* deg (ten) 
-* un deg un (11)
-* un deg dau (12)
-* un deg tri (13) 
-* un deg pedwar (14)
-* un deg pump (15)
-* tri deg un (31)
-* pedwar deg pump (45) 
-* athro (teacher)
-* afal (apple) 
-* aderyn (bird) 
-* ceffyl (horses) 
-
-# Phrases 
-* tri athro (three teachers) 
-* un deg pump, un deg dau (15, 12) 
-* un, tri, dau  (1, 3, 2)
-* un deg un, deg, un deg pump  (11, 10, 15)
-* naw aderyn (9 birds) 
-* naw caffyl (9 horses)
-* un deg un sgert (11 skirts) 
-* dau, pedwar, saith (2, 4, 7) 
-* un athro a saith desg (one teacher and seven desks)
-* pedwar cranc (four crabs) 
-* pedwar caffyl (four horses)
-* naw neidr (9 snakes) 
-* deg gŵydd (10 geese)
-* dau actor (2 actors) 
-* un deg dau actor (12 actors) 
-* naw ceffyl (9 horses) 
-
-
-# Sentences 
-* Dw i eisiau un deg un lemon.  (I want 11 lemons)
-* Dych chi'n prynu un deg pum desk?  (Are you busying 15 desks?) 
-* Dw i eisiau un deg pum afal.  (I want 15 apples) 
-* Dw i eisiau un deg dau afal.  (I want 12 apples) 
-
+Welsh ~ Castle 1 ~ Numbers 1
 
 # Numbers 
 There are two counting systems in Cymraeg: the decimal and vigesimal systems. During this course, you will learn both.
@@ -109,4 +54,77 @@ Ths type of change is called a 'soft mutation', and it is covered in more detail
 # Hyphens in numbers in English
 
 Normal English usage is to put a hyphen between two-part numbers - twenty-five, thirty-one, ninety-nine, etc. This avoids confusion between expressions such as 'thirty four-part complete kits' and 'thirty-four part-complete kits'.
+
+
+## STUDY SESSIONS: 
+### 2020-12-19 Study Session, Streak Day: 466
+
+### 2020-12-19
+WORDS 
+* un (one)
+* dau (two)
+* tri (three) 
+* pedwar (four) 
+* pump (five)
+* chwech (six)
+* saith (seven) 
+* wyth (eight) 
+* naw (nine)
+* deg (ten) 
+* un deg un (11)
+* un deg dau (12)
+* un deg tri (13) 
+* un deg pedwar (14)
+* un deg pump (15)
+* tri deg un (31)
+* pedwar deg pump (45) 
+* athro (teacher)
+* afal (apple) 
+* aderyn (bird) 
+* ceffyl (horses) 
+
+PHRASES 
+* tri athro (three teachers) 
+* un deg pump, un deg dau (15, 12) 
+* un, tri, dau  (1, 3, 2)
+* un deg un, deg, un deg pump  (11, 10, 15)
+* naw aderyn (9 birds) 
+* naw caffyl (9 horses)
+* un deg un sgert (11 skirts) 
+* dau, pedwar, saith (2, 4, 7) 
+* un athro a saith desg (one teacher and seven desks)
+* pedwar cranc (four crabs) 
+* pedwar caffyl (four horses)
+* naw neidr (9 snakes) 
+* deg gŵydd (10 geese)
+* dau actor (2 actors) 
+* un deg dau actor (12 actors) 
+* naw ceffyl (9 horses) 
+
+
+SENTENCES 
+* Dw i eisiau un deg un lemon.  (I want 11 lemons)
+* Dych chi'n prynu un deg pum desk?  (Are you busying 15 desks?) 
+* Dw i eisiau un deg pum afal.  (I want 15 apples) 
+* Dw i eisiau un deg dau afal.  (I want 12 apples) 
+
+## 2021-01-11 Time to Resore skill 
+* un tri dau  (1, 3, 2)
+* un deg pump, un deg dau (15, 12)
+* dau pedwar saith (2, 4, 7)
+* dau eliffant a saith llygoden (Two elephants and seven mice)
+* un athro a saith desg (one teacher and seven desks)
+* Saith llew. (7 lions)
+* Dw i ddim yn prynu'r pum desg (I am not buying the 5 desks)
+* un deg un, deg, un deg pump (11, 10, 15)
+* Dych chi'n prynu un deg pum desg? Are you buying 15 desks?) 
+* dw i eisiau un deg un lemon  ( i want 11 lemons)
+* deg gwydd (10 geese) 
+* dw i eisiau saith oren (I want seven oranges)
+* saith dafad (7 sheep)
+* dw i eisiau un deg pump afal (I want 15 apples) 
+* dau actor (2 actors)
+* dw i eisiau un deg dau afal (i want 12 apples)
+* un deg dau actor (12 actors)
+* un deg un, deg, un deg pump (11, 10, 15)
 
