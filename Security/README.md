@@ -26,6 +26,30 @@ Cybrary (training programs)
 * Spyware-covert monitoring, Harvests your browser info, steal credentials, screen captures, emails. 
 
 ## Analyze and Classify: Malware Lab Part 1.
+* There are Step-By-Step resources to walk through the lab(s). 
+* Search for the Analyze and Classify Malware Lab
+* Click on it and then click on LAUNCH (Ironically, I received an error message which didn't go away, no matter what I did, until i turned off my antivirus protection for the Cybrary site. 
+* Next, we follow the lab's step-by-step guide to walk through all of the lab learning points. 
+* First we create the bad files. 
+* Then we "binwalk" and use other tools to look for signatures, and understand the basics. 
 
+
+## Analyze and Classify: Malware Lab Part 2.
+*  Using the same file above, we go thru the lab guide starting with step 12. 
+*  We are going to hash the file and look for op codes. 
+* the has is the bit shown after running the command 
+
+## Rootkit (older) Lab (Part 1&2)
+* this is an older rootkit example in order to get the basics. 
+* search for ROOTKIT lab and then launch the lab. 
+* lab is a windows xp desktop 
+* launch the rootkit revealer 
+* run scan (if you have any liscensing just agree)
+* follow lab instructions--click each of the items off as you do them. 
+
+## What's next? 
+* Mobile Malware Analysis Fundamentals 
+* Intro to Python 
+* Intermediate Python 
 
 https://app.cybrary.it/immersive
