@@ -44,3 +44,21 @@ Additionally, I always found it fascinating at University, when the professors o
 
 ## Curious Facts
 Duolingo has several "leagues" and each week you either advance to the next level up, stay at the same level, or decline to a lower level. I've ben in each league and won advancement to each league, and I've also allowed myself to be demoted to all of the various levels.  I've won 1st place, 2nd place, and 3rd place once thru each league and now I'm not concerned about the leagues, other than it is a measure of how much time you've spent that week working on your language lessons. The leagues in order are: Bronze, Silver, Gold, Sapphire, Ruby, Emerald, Amethyst, Pearl, Obsidian and Diamond
+
+## Crowns:
+As of January 2021 
+
+    Current Number of Crowns Earned / Language Studied /  XP 
+    
+    255 Spanish 32,475 XP
+    101 German 10,305  XP
+    81 Welsh 9,170 XP
+    41 Japanese 7,332 XP
+    17 Italian 1,141 XP
+    12 Czech 775 XP
+    8 Dutch 605 XP
+    5 French 294 XP
+    4 Latin  228 XP
+    
+    3 Otro 275 XP
+
