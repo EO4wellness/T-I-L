@@ -50,4 +50,35 @@ I began this unit of study on Jan 8, 2021.
 * Guten Tag, wie ist Ihr Name? (Good afternoon, what is your name?)
 *Perfect Party* 
 
+### 2021-01-13 Study Sessions
+* Frau Jones, sprechen Sie Deutsch? (Ms. Jones, do you speak German?) 
+* Herr Jones, Sie sprechen Englisch und ich spreche Deutsch. (Mr. Jones, you speak English and I speak German.)
+* Englisch oder Deutsch? English or German? 
+* Nein, ich spreche kein Englisch. No I don't speak English. 
+* Entschuldigung, sprechen Sie Deutsch? Excuse me, do you speak German? 
+* Ich spreche kein Englisch aber ich spreche Deutsch. I don't speak English, but I speak German. 
+* Oh, ich spreche kein Deutsch. Oh, I don't speak German! 
+*Perfect Party*
+
+* die Poliztstin (Police)
+* die Kirche (church)
+* der Park (park)
+* Wo leben Sie, Frau Merkel? (Where do you live, Ms. Merkel?) 
+* Laben Sie in Deutschland Frau Merkel? (Do you livein Germany, Ms. Merkel?) 
+* Ja, ich lebe in Kanada. (Yes, I live in Canada)
+* Bist du Schuler, Max? (Are you a student, Max?)
+* Entschuldigung, wo lebst du, Anna? (Excuse me, where do you live, Anna?) 
+* Ich lebe in deutschland. (I live in Germany)
+* der Kunstler (artist)
+* das Museum (museum)
+* die Polizistin (police officer)
+* Sind Sie Anwalt, Herr Schiller? (Are you a laywer, Mr. Schiller)
+* Oh, Boris, kommst du aus Russland? (Oh, Borus, are you from Russia?)
+* Frau Garbo, kommen sie aus schweden? (Ms. Garbo are you from Sweden?)
+* Sind sie Anwaltin order Professorin, Frau Graf? (Are you a lawyer or professor Ms. Graf?)
+* Frau Klum sind Sie Anwaltin?  (Ms. Klum, are you a lawyer?) 
+* Kommst du aus Russland, Boris? (Are you from Russia, Boris?) 
+* Sind Sie Anwalt oder Arzt, Herr Musil? (Are you a lawyer or doctor, Mr. Musil?) 
+[Results: Earned level 1](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/aleman/Castle-2/Images/2021-01-13_earned-level1-101crowns.png)
+
 
