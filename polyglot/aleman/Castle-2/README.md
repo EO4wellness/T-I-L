@@ -8,7 +8,7 @@
 * Family 2<br>
 * Languages<br>
 * Leisure<br>
-* Plans<br>
+* Plans<br> 
 * Apartment<br>
 * Shopping<br>
 * Travel<br>
