@@ -53,7 +53,8 @@ If there's a vowel before ‑iendo, the verb ending becomes ‑yendo.
 * Sara no quiere dibjuar en la clase (Sara doesn't want to draw in class.)
 * ¿Porque estas bebiendo mi agua? ( Why are you drinking my water?)
 * Los ninos estan dibujando. (the children are drawing)
-*Results: [Earned Level 4](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/espa%C3%B1ol/Castle-3/2021-01-13_earned-next-level-school3.png) and 255 total crowns. 
+*Results: [Earned Level 4](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/espa%C3%B1ol/Castle-3/2021-01-13_earned-next-level-school3.png) and 255 total crowns.*  
+
 
 
 * ¿()
