@@ -100,3 +100,23 @@ Der Elefant ist sehr schön.  (The elephant is very beautiful)  <br>
 * Du bist eine Mause (you are a mouse)
 * Die Frau ist meine Mutter (The woman is my mother)
 *received a perfect party at the end of the review lesson.* 
+
+2021-01-13 Practice Session: 
+* Ich bin Karl.  (I am karl) 
+* Oh, nein es regnet heute. (it is raining today) 
+* Hallo wie gehts? (Hellow, how are you?)
+* Brot und Kase (bread and cheese)
+* Brot mit Kase (bread with cheese)
+* Wasser und Brot bitte (Water and Bread, please!)
+* Te mit Milch bitte (Tea with milk, please!)
+* Milch oder Wasser? (Milk or Water?)
+* Ja, die Eule ist klug und nett. (Yes, the owl is smart and nice.)
+* Es geht, danke. (I am all right, thank you)
+* Milch und Kaffee bitte! (Milk and coffee, please!)
+* Das Sandwich is super, danke! (The sandwich is great, thank you! 
+* Nein, ich koche nie. (No. I never cook. )
+* Ja, natürlich (yes, of course)
+* Nein, ich male nie. (No I never paint)
+* Die Wurst ist lecker danke. The sausage is delicious thank you 
+* Ja, du bist meine Tochter. Yes, you are my daughter! 
+
