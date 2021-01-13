@@ -107,3 +107,29 @@ sounds matching practice
 * 英語は話せますか？ (Can you speak English?) 
 * 私は英語が話せます。(I can speak English) 
 * 英語が話せます？I can speak English) 
+
+### 2021-01-13 Study Sessions 
+* き  ( 気 )
+* げんき ( 元気 ) 
+* 英 語 と 日 本 語 が 話 せ ま す。 (I can speak english and japanese)
+*  はい、もちろんです。 Yes of course 
+* はい、もちろん。 Yes, of course. 
+* ジョンさん、お元気ですか？  john, how are you? 
+* もちろんです。 Of course. 
+* 田中先生は日本語と英語が話せます。Professor Tanaka can speak Japanese and english 
+* ええ  Yes 
+* もちろん元気です。 Of course I am well.
+* ええ  もちろんです Yes, of course. 
+* なまえ (Name) 
+* なまえ  (名前)
+* な (名)
+* あ の (Um) sounds like ah-no
+* お 名 前 は 何 で す か (what is your name?)
+* あの、お名前は何ですか？ (Um, what is your name?)
+* お名前は何ですか？ 
+* マリアさんはスペイン語が話せます。 (Maria can speak spanish)
+* あ の すみません Um excuse me
+* こんにちは、お名前は何ですか？ (Hello, what is your name?)
+* 何人 で す か How many people are there? 
+* フランス語を話せますか？ Can you speak french ? 
+* ジョンさんはイタリア語が話せます。 (John can speak Italian) 
