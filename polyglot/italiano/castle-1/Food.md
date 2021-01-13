@@ -120,4 +120,39 @@ I began this set of skills on 2021-01-05
 * Io mangio un fagiolo. (I eat a bean) 
 * Io mangio una carota.  (I eat a carrot)
 * Lui mangia la caramella.  (He eats the candy.)
-* 
+
+### PRACTICE SESSION: 2021-01-13
+* Il manzo (The Beef )
+* La colazione (The breakfast)
+* Una ciotola (A bowl)
+* la bottiglia (the bottle) 
+*  La donna ha il burro (the woman has the butter)
+*  Loro benvono birra (they drink beer)
+* Io ho la torta. (I have the cake)
+* Nel burro (in the butter)
+* Il cuoco ha formaggio nel piatto. (The cook has cheese on the plate)
+* Io mangio pollo. (I eat chicken)
+* Io sono il cuoco. (I am the cook)
+* Io mangio il formaggio (I eat the cheese)
+* La ragazza mangia l'uovo. (The girl eats the egg)
+* Lei mangia pesce. She eats fish.
+* Il pesce è la cena. The fish is the dinner. 
+* Birra è una bevanda  (Beer is a beverage) 
+* La donna ha una forchetta. (The woman has a fork)
+* Voi mangiate il pane. (You eat the bread)
+* Io mangio l'uva. (I eat the grapes)
+* L'aglio (the garlic)
+* La donna mangia il pollo fritto. (The woman eats the fried chicken.)
+* Noi mangiamo (We eat)
+* Lui ha acqua nel bicciere. (He has water in the glass)
+* L'aglio è nel piatto. (the garlic is on the plate)
+* lA CREMA AL CICCOLATO BOLLE. (the chocolate cream boils)
+* Io cucino pesce. I cook fish.
+* Io taglio la mela. I cut the apple. 
+* Il cuoco taglia il manzo. The cook cuts the beef. 
+* Le doone mangiano il pane. The woman eat bread. 
+* Il ragazzo cucina il cibo. The boy cooks the food. 
+* Io taglio la torta. I cut the cake. 
+*Perfect Party-Level up food, level2*
+
+
