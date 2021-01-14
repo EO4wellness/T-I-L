@@ -213,6 +213,8 @@ Studied several lessons today 12-7-2020 in the ND
 * [Data Visualization Course](https://www.coursera.org/specializations/data-visualization)<br>
 * https://50reactprojects.com/
 * https://github.com/jwasham/coding-interview-university
+* react: https://nialljoemaher.hashnode.dev/a-collection-to-learn-react-hooks
+* https://leetcode.com/explore/learn/card/binary-search/138/background/971/
 
 
 ### WIKI
