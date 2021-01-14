@@ -32,13 +32,13 @@ It's the same in Spanish!
     Estos son mis libros.   |   These are my books.
     Estos libros son míos.  | These books are mine.
 
-##  U
-before a noun                |   without/after a noun
-mi(s)                        |   mío(s) / mía(s)
-tu(s)                        |   tuyo(s) / tuya(s)
-su(s)                        |   suyo(s) / suya(s)
-nuestro(s)                   |   nuestro(s)
-nuestra(s)                   |   nuestra(s)
+##  Usage
+        before a noun                |   without/after a noun
+        mi(s)                        |   mío(s) / mía(s)
+        tu(s)                        |   tuyo(s) / tuya(s)
+        su(s)                        |   suyo(s) / suya(s)
+        nuestro(s)                   |   nuestro(s)
+        nuestra(s)                   |   nuestra(s)
 
 
 
