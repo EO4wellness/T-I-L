@@ -10,7 +10,7 @@
 * Czech - DUO STATS - 12 Crowns 
 * Latin - DUO STATS - 2 Crowns 
 * French - DUO STATS - 3 Crowns 
-* Other - DUO STATS 3 Crowns - Mondly - Drops 
+* Other - DUO STATS 3 Crowns - Mondly - [Drops](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/la-otra/images/2021-01-14-progress.png) 
 
 ## [Log](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/la-otra/logs)
 
