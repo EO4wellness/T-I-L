@@ -106,7 +106,7 @@ All of the files in this folder are my original coding added to satisfy the Free
 
 
 
-[Make Circular Images with a border-radius]https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/exercise-solutions/make-circular-images-with-a-border-radius.html)
+[Make Circular Images with a border-radius](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/exercise-solutions/make-circular-images-with-a-border-radius.html)
 
 
 Give a Background Color to a div Element
