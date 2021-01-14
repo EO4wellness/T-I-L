@@ -420,7 +420,7 @@ with IDs you always use a # in front of the ID names.
 
                 give the blue box a margin of 40px on its top and left sides but only 20 at its bottom and right sides 
 
-### Use Clockwise Notation to Specify the Padding of an Element
+### {Use Clockwise Notation to Specify the Padding of an Element}(https://www.freecodecamp.org/learn/responsive-web-design/basic-css/use-clockwise-notation-to-specify-the-padding-of-an-element) resumne next study session here
 * Code Assignment:
 
 ### Use Clockwise Notation to Specify the Margin of an Element
