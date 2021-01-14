@@ -22,3 +22,5 @@ When studying Spanish, the need for key-board shortcuts arises.  <br>
         ¿ Alt + 0191
         « Alt + 0171
         » Alt + 0187
+
+á  Á é  É  í  Í   ó   Ó   ú  Ú  ñ  Ñ ü  Ü ¿ ¡  
