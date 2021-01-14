@@ -379,16 +379,46 @@ with IDs you always use a # in front of the ID names.
                 
 
 ### Adjust the Margin of an Element
+* margins control the amount of space between any element's border and the nearest surrounding elements 
 * Code Assignment:
+
+        given the starting code, change the margin of the blue box to match that of the red box
+        to start with the margin of red box is 20 px and to start with the margin of the blue box is 10 px 
 
 ### Add a Negative Margin to an Element
+* the element's margin controls the amount of space between an element's border and the surrounding elements. 
+* when an element's margin is set to a negative value, the element grows larger. 
+
 * Code Assignment:
+
+                set the margin to a negative vblaue 
 
 ### Add Different Padding to Each Side of an Element
+* CSS allows you to control the padding of all four individual sides of an element.  
+* this padding control is achieved by the following properties 
+* padding-top
+* padding-right
+* padding-bottom
+* padding-left 
+
 * Code Assignment:
 
+                give the blue box a padding of 40 on its top and left sides
+                give 20 px on the bottom and right sides 
+
+
 ### Add Different Margins to Each Side of an Element
+* likewise you can control the margin an all four sides of any element. 
+* this control is achieved via setting the following properties
+
+                margin-top
+                margin-right
+                margin-bottom
+                margin-left 
+
 * Code Assignment:
+
+                give the blue box a margin of 40px on its top and left sides but only 20 at its bottom and right sides 
 
 ### Use Clockwise Notation to Specify the Padding of an Element
 * Code Assignment:
