@@ -316,16 +316,67 @@
 
 
 ### Give a Background Color to a div Element
+* set any element's background color with the BACKGROUND-COLOR property
+* Example:
+
+                .green-background {
+                background-color: green;
+                }
+
+
+
 * Code Assignment:
+
+                create the silver-background class
+                assign this class to your div element 
+                
 
 ### Set the id of an Element
+* HTML elements can have classes
+* they can also have and ID attribute 
+* we will be learning more about uses of IDs in JavaScript (later in the course)
+* for now, know it is best practice to have each ID unique so that each element has one ID attribute 
+* Example:
+
+        <h2 id="cat-photo-app">
+
 * Code Assignment:
+
+
+        in the form element, made the ID cat-photo-form 
+        
 
 ### Use an id Attribute to Style an Element
+* like classes, you can style ID attributes with CSS 
+* ID is not reusable
+* ID should only be used for one element 
+* ID is higher in importance than a class 
+* if an element has both a class and an ID, the ID will be applied and the class ignored
+* example: 
+
+                #cat-photo-element {
+                background-color: green;
+                }
+* note: recall with a style element you always use a . in front of the style name.  
+with IDs you always use a # in front of the ID names. 
+
 * Code Assignment:
 
+                give the form with the ID attribute of cat-photo-form
+                a green background 
+
+
 ### Adjust the Padding of an Element
+* for a while, the next code assignments won't be using the cat photo app.  
+* we will return to the app a bit later. 
+* HTML elements tend to be rectangles. 
+* properties which control the space that surrounds HTML elements: Padding, Border, Margin
+* Pading: amount of space between the elements content and its border.
+*
 * Code Assignment:
+
+                Change th Padding of the BLUE box to match the RED box
+                
 
 ### Adjust the Margin of an Element
 * Code Assignment:
