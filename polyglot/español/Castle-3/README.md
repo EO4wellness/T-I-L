@@ -9,7 +9,7 @@
 * [Interest 2](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/espa%C3%B1ol/Castle-3/Interests2.md) 
 * Groceries 
 * [Requests](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/espa%C3%B1ol/Castle-3/Requests.md) 
-* Routines 3 
+* [Routines 3](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/espa%C3%B1ol/Castle-3/Routines.md) 
 * [To Like](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/espa%C3%B1ol/Castle-3/To-Like.md) 
 * [School 3](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/espa%C3%B1ol/Castle-3/School-3.md) (level 3 completed)
 * Shopping 3 (level 1 completed) 
