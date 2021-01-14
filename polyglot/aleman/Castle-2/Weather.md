@@ -50,7 +50,7 @@ I don't record every lesson session, but below are many of them, recording my le
 * Oh nein, es regent stark. (Oh now, it is raining hard.)
 * Es schneit stark. (It is snowing hard)
 * Wie ist das Wetter im Winter? (How is the weather in the winter?)
-*Results: Perfect Party*
+*Results: Perfect Party*<br>
 
 * der Frühlig (the spring)
 * die Wasserflasche (water bottle) 
@@ -63,7 +63,7 @@ I don't record every lesson session, but below are many of them, recording my le
 * Es _ist_ oft bewölkt im Frühling. (Iti s often cloudy in the spring) 
 * Es ist heute neblig. (It is foggy today.)
 * Es ist neblig heute. (It is foggy today) 
-
+*Results: Missed "ist" in translation* <br>
 * der Sommer (summer)
 * Sonnencreme (sunscreen, suntan lotion) 
 * Der Elefant wandert immer im Winter. (The elphant always hikes in the winter.) 
@@ -73,7 +73,7 @@ I don't record every lesson session, but below are many of them, recording my le
 * Ich wandere im Sommer und im Frühling. (I hike in the summer and in the spring)
 * Es ist warm im Sommer. (It is warm in the summer.)
 * Meine Schwester wandert. (My sister hikes)
-*Perfect Party* 
+*Perfect Party* <br>
 ![level1](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/aleman/Castle-2/Images/2021-01-13_earned-level1-101crowns.png)
 
 ## Study Session 
