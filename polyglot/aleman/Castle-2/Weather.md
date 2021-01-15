@@ -76,4 +76,13 @@ I don't record every lesson session, but below are many of them, recording my le
 *Perfect Party* <br>
 ![level1](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/aleman/Castle-2/Images/2021-01-13_earned-level1-101crowns.png)
 
+## 2021-01-15 Study Session 
+* Wie ist das Wetter in Berlin? (HOw is the weather in Berlin?)
+* Oh, ist es heuter soonig? (Oh, is it sunny today?)
+* Ist es heute bewölkt? (Is it cloudy today?)
+* Wie ist das Wetter heute?  (How is the weather today?)
+*Perfect Party!*
+
 ## Study Session 
+
+
