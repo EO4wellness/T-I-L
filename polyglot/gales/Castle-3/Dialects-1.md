@@ -118,3 +118,19 @@ There are examples of several dialects here - https://museum.wales/articles/2011
 * Mae o'n yfed llefrith (He is drinking milk) 
 *Results: Perfect Party! earned a crown and level 1, too. * 
 
+### 2021-01-15
+* Are they working in Bangor now? Ydan nhw'n gweithio ym Mangor rwan?
+* Rwan  Now 
+*  Are you a boy?  Hogyn wyt ti?
+*  Dach chi'n hoffi'r hogan? Do you like the girl?
+*  A boy Bachgen 
+*  Merch dw i I am a girl.
+*  hogan a hogyn a girl and a boy 
+*  Morgan is a boy.  Bachgen ydy Morgan. 
+*  Dach chi'n gweithio ym Mangor? Do you work in Bangor?
+*  merch (a girl)
+*  Dw i'n gwisgo crys nawr. (I am wearing a shirt now)
+*  four boys (pedwar bachgen)
+*Perfect Party!*
+
+
