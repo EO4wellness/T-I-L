@@ -11,6 +11,8 @@ My language studies of Slovakian aren't too serious, as Duolingo (or another fre
 # Daily Lesson Template 
 
      # Today's Terms: <br>
+      á, ä, č, ď, é, í, ĺ, ľ, ň, ó, ô, ŕ, š, ť, ú, ý, ž
+      
       ## Slovak | English <br>
         * S | (E) <br>
         * S | (E) <br>
