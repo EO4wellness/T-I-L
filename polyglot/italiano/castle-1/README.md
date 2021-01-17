@@ -3,8 +3,8 @@
 [Basics 2](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/italiano/castle-1/Basics-2.md)<br>
 [Phrases](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/italiano/castle-1/Phrases) this skill set completed [Jan 4, 2021](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/italiano/castle-1/2021-01-04-earned-level5-skill3.png)<br>
 [Food](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/italiano/castle-1/Food.md)<br>
-[Flirting] Started 1-15-21; Completed 1-16-21
-[Idioms] Started 1-15-21; Completed 1-16-21
+[Flirting] Started 1-15-21; Completed 1-16-21<br>
+[Idioms] Started 1-15-21; Completed 1-16-21<br>
 Plurals<br>
 Animals<br>
 Food 2 <br>
