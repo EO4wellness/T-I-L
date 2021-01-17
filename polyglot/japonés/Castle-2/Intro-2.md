@@ -133,3 +133,16 @@ sounds matching practice
 * 何人 で す か How many people are there? 
 * フランス語を話せますか？ Can you speak french ? 
 * ジョンさんはイタリア語が話せます。 (John can speak Italian) 
+
+### 2021-01-17 Study Session 
+* しげる  (茂)
+* ぼく (僕)
+* 僕は英語が話せます。 ( I can speak English)
+* 僕の名前は茂です。(My name is Shigeru) 
+* 私の名前は田中さくらです。(My name is Sakura Tanaka.) 
+* さくらさんは日本語が話せます。(Miss Sakura can speak Japanese.)
+* 私の名前は本田さくらです。My name is Sakura Honda) 
+* 茂さんは学生です。(Shigeru is a student)
+* 僕の名前は茂です。 (My hname is Shigeru) 
+*Results: Earned Level 2*
+![level2]()
