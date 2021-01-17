@@ -1,5 +1,5 @@
 # Castle 3 
-* Hallo<br>
+* [Hallo](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/aleman/Castle-3/Hallo.md)<br>
 * [Accusative](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/aleman/Castle-3/Accusative.md)<br>
 * Converse<br>
 * Animal<br>
