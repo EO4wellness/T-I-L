@@ -1,4 +1,7 @@
 # Castle 2
+* As Japanese takes longer to learn, than other alphabetical-based lanagues (at least for me), I'm going slowly.
+* I'm reviewing Castle 1 daily and trying to review ALL of Castle 1 lessons (as these are the basic sounds/characters)
+* Then, I'm attempting to study one new lesson of Castle 2 a day, but sometimes I only do the review of Castle 1 without the new lessons.
 * Started studying the Castle 2 topics on January 1st, 2021
 * [2021 Log of Studies](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/japon%C3%A9s/logs/2021_log.md) 
 
