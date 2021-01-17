@@ -39,3 +39,16 @@ In today's study session, while I didn't get the "Ms." wrong, I had a hard time 
 
 ### 2021-01-06 Study Session 
 matching of sounds 
+
+### 2021-01-17 Study Session 
+Restoration Session of Skill set 
+* はじめまして、本田です。 (nice to meet you, I'm Honda)
+* は じ め ま し て、ジ ョ ン で す。(Nice to meet you, I am John.)
+*  はじめまして、マリア で す。 (Nice to meet you, I am Maria) 
+* 中村さんは先生です。(Ms. Nakamura is a teacher)
+* はじめまして、田中です。 (Nice to meet you. I am Tanaka.)
+* 中村さんは学生です。 (Ms. Nakamura is a student) 
+* 本田さんは先生です。 (Mr. Honda is a teacher)
+* なかむら  ( 中村) 
+
+
