@@ -114,7 +114,5 @@ I declined.  I enjoy the practice.
 * Die Sonnencreme ist hier. The sunscreen is here.
 * Es ist warm. It is warm. 
 * Ich wandere im Sommer und im Frühling. I hike in the summer and in the spring. 
-
-
-Results: perfect party. earned level 2
+*Results: perfect party. earned level 2* <br>
 ![Results Today](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/aleman/Castle-2/Images/2021-01-16-earned_weather-level2.png)
