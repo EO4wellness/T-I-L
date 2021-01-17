@@ -440,10 +440,26 @@ These four values work like a clock: top, right, bottom, left, and will produce 
 * Code Assignment:
 
 ### Understand Absolute versus Relative Units
-* Code Assignment:
+
+
+The last several challenges all set an element's margin or padding with pixels (px). Pixels are a type of length unit, which is what tells the browser how to size or space an item. In addition to px, CSS has a number of different length unit options that you can use.
+
+The two main types of length units are absolute and relative. Absolute units tie to physical units of length. For example, in and mm refer to inches and millimeters, respectively. Absolute length units approximate the actual measurement on a screen, but there are some differences depending on a screen's resolution.
+
+Relative units, such as em or rem, are relative to another length value. For example, em is based on the size of an element's font. If you use it to set the font-size property itself, it's relative to the parent's font-size.
+
+Note: There are several relative unit options that are tied to the size of the viewport. They are covered in the Responsive Web Design Principles section.
+
+* Code Assignment: Change the padding in the red box to 1.5 em
 
 ### Style the HTML Body Element
+Every has a body. 
+
 * Code Assignment:
+                body {
+                  background-color: black;
+                  }
+
 
 ### Inherit Styles from the Body Element
 * Code Assignment:
