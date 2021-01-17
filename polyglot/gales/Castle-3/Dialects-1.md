@@ -134,3 +134,17 @@ There are examples of several dialects here - https://museum.wales/articles/2011
 *Perfect Party!*
 
 
+### 2021-01-16
+* Dewi Lingo yw e. (He is Dewi Lingo)
+* _Pwy ydy o. (Who is he?)_
+* Pwy yw hi, y ferch yn y car? (Who is the girl in the car?) 
+* Dynes ydy'r meddyg?  (Is the doctor a woman?) 
+* Dyw'r ferch ddim yn hoffi'r bachgen. (The girl does not like the boy.) 
+* Owen yw e. (He is ownen)
+* Menyw yw Morgan dim bachgen. (Morgan is a woman, not a boy) 
+* Ydy hi eisiau afal. Does she want an apple? 
+* _Dydy Megan ddim yma. Megan is not here._
+* Ffermwr da ydy o. Is he a good farmer? 
+* _Merch ysgol yw hi. She is a schoolgirl_
+* Dynes (a woman)
+* 
