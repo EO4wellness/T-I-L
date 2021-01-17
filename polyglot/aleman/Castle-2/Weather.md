@@ -60,10 +60,11 @@ I don't record every lesson session, but below are many of them, recording my le
 * Es ist oft neblig. (It is often foggy) 
 * Wandern sie oft, Herr Musil? (Do you hike often, Mr. Musil?)
 * Wandern Sie Frau Graf? (Do you hike, Ms. Graf?)
-* Es _ist_ oft bewölkt im Frühling. (Iti s often cloudy in the spring) 
+* Es _ist_ oft bewölkt im Frühling. (It is often cloudy in the spring) 
 * Es ist heute neblig. (It is foggy today.)
 * Es ist neblig heute. (It is foggy today) 
 *Results: Missed "ist" in translation* <br>
+
 * der Sommer (summer)
 * Sonnencreme (sunscreen, suntan lotion) 
 * Der Elefant wandert immer im Winter. (The elphant always hikes in the winter.) 
@@ -83,6 +84,37 @@ I don't record every lesson session, but below are many of them, recording my le
 * Wie ist das Wetter heute?  (How is the weather today?)
 *Perfect Party!*
 
-## Study Session 
+
+## 2021-01-16 Study Sessions 
+Today's challenge question was to translate "How much does the umbrella cost" correctly into German: 
+* Wie viel kostet ein Regenschirm? 
+after which I was given a "Perfect Party" and invited to skip this skill set and go to the next level. 
+I declined.  I enjoy the practice. 
 
 
+* Wie ist das Wetter im Winter? (HOw is the weather in Winter)
+* Es ist jetzt schön. (It is beautiful now.) 
+* Mein schal ist schön. (My scarf is beautiful)
+* Oh nein, es regnent stark. (Oh no, it is raining hard.) 
+* Es ist jetzt sonnig. (It is sunny now)
+* Es schneit stark. (It is snowing hard.) 
+* Ist es immer kalt im Winter. (Is it always cold in winter?)
+* Es ist oft bewölkt in Früling. (it is often cloudy in the spring.)
+* Wondern _Sie_ oft, Herr Musil? (Do you hike often, Mr. Musil?) 
+* Die Wasserflasche ist hier (The water bottle is here)
+* Wo ist meine Wasserflasche?  (Where is my water bottle?)
+* Oh sie wandern nie Frau Graf?  (Oh, you never hike, Ms. Graf?)
+* Es ist manchmal kalt im frühling (It is sometimes cold in the spring)
+* es ist neblig heuter. (It is foggy today)
+* Wanderst du, Anna? (Do you hike, Anna?) 
+* Mein bruder wandert im Sommer. (My brother hikes in the summer)
+* Es ist warm im Sommer. (it is warm in the summer)
+* Wo ist die Sonnencreme? (Where is the sunscreen?)
+* Ich wandere im Sommer (I hike in the summer)
+* Die Sonnencreme ist hier. The sunscreen is here.
+* Es ist warm. It is warm. 
+* Ich wandere im Sommer und im Frühling. I hike in the summer and in the spring. 
+
+
+Results: perfect party. earned level 2
+![Results Today](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/aleman/Castle-2/Images/2021-01-16-earned_weather-level2.png)
