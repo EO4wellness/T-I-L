@@ -1,9 +1,9 @@
-January 2021 I'll begin studies of Castle 2
-
-2021 Log of studies 
+# Castle 2
+* Started studying the Castle 2 topics on January 1st, 2021
+* [2021 Log of Studies](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/japon%C3%A9s/logs/2021_log.md) 
 
 # Study Topics:
-* [Intro 2](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/japon%C3%A9s/Castle-2/Intro-2.md) | Start Date: 01-01-2021; Completion Date: 
+* [Intro 2](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/japon%C3%A9s/Castle-2/Intro-2.md) | Start Date: 01-01-2021; Level 2: 1/17/21;  Completion Date: 
 * Katakana 3 | Start Date: 
 * Food 1 | Start Date: 
 * Time  | Start Date: 
