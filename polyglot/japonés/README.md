@@ -32,7 +32,7 @@ coming soon
 
 ## Progress: 
 [x] [Castle 1](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/japon%C3%A9s/Castle-1)  | Completed Dec, 2020. <br>
-[ ] [Castle 2]  | Not started<br>
+[ ] [Castle 2]  | Started: 1/1/21; <br>
 [ ] [Castle 3]  | Not started<br>
 [ ] [Castle 4]  | Not started<br>
 [ ] [Castle 5]  | Not started<br>
