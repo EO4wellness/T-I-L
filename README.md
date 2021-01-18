@@ -216,6 +216,8 @@ Studied several lessons today 12-7-2020 in the ND
 * https://github.com/jwasham/coding-interview-university
 * react: https://nialljoemaher.hashnode.dev/a-collection-to-learn-react-hooks
 * https://leetcode.com/explore/learn/card/binary-search/138/background/971/
+* [How to Learn Code from your Home](https://techcrunch.com/2012/08/21/5-ways-to-learn-code-from-the-comfort-of-your-own-browser/)
+* [Women Who Code Member Resources](https://www.womenwhocode.com/resources)
 
 
 ### WIKI
