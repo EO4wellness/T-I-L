@@ -462,9 +462,11 @@ Every has a body.
 
 
 ### Inherit Styles from the Body Element
+This segment is all about the coding assignment. 
 * Code Assignment:
 
 ### Prioritize One Style Over Another
+This assignement is primarily taught by trying some code to see what happens. 
 * Code Assignment:
 
 ### Override Styles in Subsequent CSS
