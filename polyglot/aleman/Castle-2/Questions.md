@@ -82,3 +82,12 @@ I began this unit of study on Jan 8, 2021.
 [Results: Earned level 1](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/aleman/Castle-2/Images/2021-01-13_earned-level1-101crowns.png)
 
 
+### 2021-01-18 Study Session
+* Sind Sie Frau Merkel? (Are you Ms. Merkel)
+* Herr Brecht, sind Sie Professor? (Mr. Brecht, are you a professor?)
+* Ja, Frau Merkel ist Kanzlerin. (Yes, Ms. Merkel is the chancellor)
+* Frau Merkel ist Kanzierin. (Ms. Merkel is the chancellor.)
+* Sind Sie Professor Herr Schiller. (Are you a professor, Mr. Schiller?)
+*Perfect Party!*
+
+
