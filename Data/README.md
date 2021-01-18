@@ -143,6 +143,7 @@ If the target value is larger - continue to search on the right.
 
 C++
 
+'
 class Solution {
   public:
   int search(vector<int>& nums, int target) {
@@ -156,10 +157,11 @@ class Solution {
     return -1;
   }
 };
-  
+'  
   
 JAVA 
 
+'
 class Solution {
   public int search(int[] nums, int target) {
     int pivot, left = 0, right = nums.length - 1;
@@ -172,9 +174,11 @@ class Solution {
     return -1;
   }
 }
+'
 
 PYTHON
 
+'
 class Solution:
     def search(self, nums: List[int], target: int) -> int:
         left, right = 0, len(nums) - 1
@@ -187,6 +191,7 @@ class Solution:
             else:
                 left = pivot + 1
         return -1
+'
         
 Complexity Analysis
 
