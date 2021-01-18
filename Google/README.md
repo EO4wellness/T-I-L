@@ -9,5 +9,7 @@
 * While on the page, for the first time ever, they have a blue pop-out box which offers: [More Info](https://web.dev/variable-fonts/) or to dismiss the message. 
 ![Google-Font-Libraries-Exist](https://github.com/EO4wellness/T-I-L/blob/main/Images/2021-01-09_TIL-Google-Font-Library.jpg)
 
+For more information and resources, not just hosted by Google, about fonts and the use of fonts in coding and design elements, head on over to my [T-I-L Wiki Design-Fonts](https://github.com/EO4wellness/T-I-L/wiki/Design-Fonts) artcicle.
+
 ##  More Google discoveries pending future study sessions on other days....
 
