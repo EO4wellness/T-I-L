@@ -462,13 +462,22 @@ Every has a body.
 
 
 ### Inherit Styles from the Body Element
+This segment is all about the coding assignment. 
 * Code Assignment:
 
 ### Prioritize One Style Over Another
+This assignement is primarily taught by trying some code to see what happens. 
 * Code Assignment:
 
 ### Override Styles in Subsequent CSS
 * Code Assignment:
+
+        assign two conflicting classes to the same element 
+        (in this case the element is H1 and pint-text and blue-text
+        to do so use the format of 
+        class="class1 class2"
+        
+        What happens? WHy? Note: It doesn't matter which order the classes are listed in the HTML element. However, the order of the class declarations in the <style> section is what is important. The second declaration will always take precedence over the first. Because .blue-text is declared second, it overrides the attributes of .pink-text
 
 ### Override Class Declarations by Styling ID Attributes
 * Code Assignment:

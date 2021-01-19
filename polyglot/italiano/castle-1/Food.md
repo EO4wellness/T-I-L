@@ -155,4 +155,5 @@ I began this set of skills on 2021-01-05
 * Io taglio la torta. I cut the cake. 
 *Perfect Party-Level up food, level2*
 
-
+### 2021-01-19
+Completed one new study session<br>
