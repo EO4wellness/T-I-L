@@ -1,9 +1,8 @@
 # T-o-C Images:
-* [Earned Level 5 of Castle 1 Basics 1 French on Duo 1-13-2021](2021-01-13-earned crown-french.png)
-* [Earned Level 5 Castle 1 Basics 1 Duo French Course](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/la-otra/images/french/2021-01-21-French-Castle1-skil1-earned-level4.png)
+* [Earned Level 5 of Castle 1 Basics 1 French on Duo 1-13-2021](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/la-otra/images/french/2021-01-21-French-Castle1-skil1-earned-level4.png)
+* [Earned Level 5 Castle 1 Basics 1 Duo French Course](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/la-otra/images/french/2021-01-13-earned%20crown-french.png)
 
-## translations: 
-
+## some of my course translations: 
 * un croissant et une orange | a croissant and an orange 
 * une femme et une fille | a woman and a girl 
 * une femme et un homme | a woman and a man 
