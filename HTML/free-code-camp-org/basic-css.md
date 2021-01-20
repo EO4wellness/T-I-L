@@ -480,15 +480,59 @@ This assignement is primarily taught by trying some code to see what happens.
         What happens? WHy? Note: It doesn't matter which order the classes are listed in the HTML element. However, the order of the class declarations in the <style> section is what is important. The second declaration will always take precedence over the first. Because .blue-text is declared second, it overrides the attributes of .pink-text
 
 ### Override Class Declarations by Styling ID Attributes
+* browsers read CSS from top to bottom
+* browsers read CSS in the order from which they were declared
+* in the event of a conflic, the browser will display which ever CSS declaration came last
+* using two obvious element classes such as blue-text and pink-text proves this to us.  if we declare the classes in the order pink (first) and (blue) last, no matter what order we place the class in the element (H1 in our example here in class or any other such element in our HTML) no matter if within that element we place our class as equal to blue text or pink or both, the text is still going to display as BLUE because it was declared last in the '<style></style>' portion of the page. 
+* ID attributes can and do also override Class Declarations
+* Example: 
+
+                #brown-text {
+                        color: brown;
+                }
+
+
+
 * Code Assignment:
+
+                to see how this works, leave the class code as is
+                which include the preior class declarations of pint-text and blue-text
+                likewise, leave the pink and blue class in the H1 element
+                add an ID of '#orange-text' 
+                also apply the orange-text ID to the H1 element 
+
 
 ### Override Class Declarations with Inline Styles
+* In CSS, ID declarations override CLASS declarations, irregardless of where they are declared in your style element of your CSS
+* Inline styles also override CDSS 
+* inline styles are written 
+
+        <h1 style="color: green;">
+
 * Code Assignment:
+
+        leaving the class code as it is with the 
+        blue text and pink text in your H1 element
+        next, add an inline style to your H1 element
+        to make it WHITE 
+
 
 ### Override All Other Styles by using Important
+* Inline styles will override all CSS declarations in your style element. 
+* in modern coding, we often use CSS libraries. 
+* libraries save time (such as those included in WordPress themes)
+* however, libraries can also override your own design elements
+* therefore, you need to know when to selectively override the library
+in order to accomplish your design(s)
+* when you absolutely need to be sure an element uses specific CSS use !IMPORTANT
+* example of !important coding in use:
+
+                color: red !important; 
+
 * Code Assignment:
 
-### Use Hex Code for Specific Colors
+### [Use Hex Code for Specific Colors](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/use-hex-code-for-specific-colors)
+
 * Code Assignment:
 
 ### Use Hex Code to Mix Colors
