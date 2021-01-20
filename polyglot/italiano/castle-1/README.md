@@ -5,7 +5,7 @@
 [Food](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/italiano/castle-1/Food.md)<br>
 [Flirting](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/italiano/castle-1/Flirting.md) Started 1-15-21; Completed 1-16-21<br>
 [Idioms](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/italiano/castle-1/Idioms.md) Started 1-15-21; Completed 1-16-21<br>
-Plurals<br>
+[Plurals](#)Started: 1-20-21 first lesson; <br>
 Animals<br>
 Food 2 <br>
 Possession <br>
