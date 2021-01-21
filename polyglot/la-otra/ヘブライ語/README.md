@@ -6,7 +6,8 @@
 * I tried duoligo.  
 * Again, failure. 
 * Finally, I learned the sounds in Mondly who allows translitration to english letters! 
-* 
+* Mondly is really more of a vocabulary and "sounds" or "speaking" tool than a learning to read tool. 
+* DuoLingo's course requires reading and writing skill set--which I'm still acquiring. 
 
 # STUDY RESOURCES:
 Primarily I've been following these resources to study: 
