@@ -4,7 +4,7 @@ after watching a movie where Czech was being spoken in some of the movie
 and I thought I understood a few words. 
 
 ## Skill Sets 
-* [Hello!](#)
+* [Hello!](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/la-otra/Czech/Castle1/Hello.md)
 * Masculine
 * Feminine 
 * Neuter 
