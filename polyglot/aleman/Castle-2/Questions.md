@@ -100,3 +100,8 @@ I began this unit of study on Jan 8, 2021.
 * Herr bergman, kommen Sie aus Schweden? (Mr. Bergman, are you from Sweden?) 
 * Oh, Boris, kommst du aus Russland?  (Oh, Boris, are you from Russia?)
 *Results: Perfect Party! 
+
+![level2 earned 2021-01-21](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/aleman/Castle-2/Images/2021-01-21_earned-level-2-castle-2-questions.png)
+
+### 2021-01-22 Study Session
+* 
