@@ -91,3 +91,12 @@ I began this unit of study on Jan 8, 2021.
 *Perfect Party!*
 
 
+### 2021-01-21 Study Session
+* Entschuldigung, sind sie Anwältin? (Excuse me, are you a (female) lawyer?)
+* Sind Sie Anwalt oder Arzt, Herr Musil? (Are you a (male) lawyer or (male) doctor, Mr. Musil?) 
+* Kommst du aus Russland, Boris?  (Are you from Russia, Boris?) 
+* Sind Sie Anwältin oder Professorin Frau Graf? (Are you a lawyer or Professor, Ms. Graf?) 
+* Bist du Künstler Max?  (Are you an (male) artist, Max?) 
+* Herr bergman, kommen Sie aus Schweden? (Mr. Bergman, are you from Sweden?) 
+* Oh, Boris, kommst du aus Russland?  (Oh, Boris, are you from Russia?)
+*Results: Perfect Party! 
