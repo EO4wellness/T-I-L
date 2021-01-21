@@ -7,7 +7,7 @@ and I thought I understood a few words.
 * [Hello!](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/la-otra/Czech/Castle1/Hello.md)
 * [Masculine](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/la-otra/Czech/Castle1/Masculine.md)
 * [Feminine](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/la-otra/Czech/Castle1/Feminine.md) 
-* Neuter 
+* [Neuter](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/la-otra/Czech/Castle1/Neuter.md) 
 * To be Sg. 
 * To be pl. 
 * Questions 1
