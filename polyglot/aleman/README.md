@@ -17,7 +17,10 @@ More than a year ago, I started learning German on the Duolingo platform. This R
 -[ ] [Castle 5](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/aleman/Castle-5/README.md)<br> 
 
 # Study Topics: 
-See various Castles for more detail(s). 
+* See various Castles for more detail(s) on my DuoLingo Studies.  
+* I've been learning, periodically, by listening to German-based podcasts on Spotify.  
+* Neighbors, friends, nearby family, and coworkers over the years have spoken German around me so while I'm starting from zero knowledge of German, during my studies, there are random words I already know how to spell and what they mean.  I have no understanding of the grammar or other rules, prior to beginning my studies. In terms of "hearing" a language, German, Arabic, and Check/slovak are the ones I've heard spoken the most frequently and have some "intuitive" sense, like I do with German, about what's being said, some of the time. 
+* With Mondly, I began my German studies on November 16, 2020. Missed a few days in December 2020, but otherwise have been consistently studying daily. January, 2021, should I not miss any days of study this month, will be my first MONTHLY quiz, as with Mondly, you cannot miss one day in any given week, to earn the weekly quiz; and you must have earned 4 weekly quizzes to earn the monthly quiz. 
 
 # German Keyboard 
 Unless you have your computer set to type in German, likely, during the course of your German-language studies, you will discover your English keyboard is missing more than a few characters.  What can you do? Here are the ASCII codes of what to type to get the current German letters into your text document.
