@@ -1,16 +1,16 @@
 # Language Studies:
 * STATS as of Jan 2021 (updated later) 
-* Spanish -  DUO STATS - 254 Crowns - Also studying with Mondly 
-* German - DUO STATS - 101 Crowns  - Also studying with Mondly 
-* Welsh - DUO STATS - 80 Crowns -not studying elsewhere. 
-* Slovak  - Only studying with Mondly 
+* Spanish -  DUO STATS - 254 Crowns + Mondly 
+* German - DUO STATS - 101 Crowns  + Mondly 
+* Welsh - DUO STATS - 80 Crowns 
+* Slovak  - Only Mondly 
 * Japanese - DUO STATS - 41 Crowns 
-* Italian - DUO STATS -
+* Italian - DUO STATS - 0 Crowns 
 * Dutch - DUO STATS - 7 Crowns 
 * Czech - DUO STATS - 12 Crowns 
 * Latin - DUO STATS - 2 Crowns 
 * French - DUO STATS - 3 Crowns 
-* ヘブライ語 - DUO STATS 3 Crowns - Mondly - [Drops](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/la-otra/images/2021-01-14-progress.png) 
+* ヘブライ語 - DUO STATS 3 Crowns - Mondly - Drops
 
 ## [Log](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/la-otra/logs)
 
