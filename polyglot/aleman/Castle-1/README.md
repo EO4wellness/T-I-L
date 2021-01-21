@@ -10,7 +10,7 @@
 * [Jobs](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/aleman/Castle-1/Jobs.md) | Current Level: 5 of 5 earned 12-22-2020<br>
 * [Hobbies](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/aleman/Castle-1/Hobbies.md) | Current Level: 5 of 5<br>
 * [Directions](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/aleman/Castle-1/directions.md)  | Current Level: 5 of 5 earned 1-7-21<br>
-* Final Castle Test | Current Level: Completed Jan 2021 <br>
+* Final Castle Test | Current Level: Completed Jan 8, 2021 <br>
 
 # German Stories - Set 1:
 * [Guten Morgen!](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/aleman/Castle-1/guten-morgen.md)
