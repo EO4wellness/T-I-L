@@ -69,3 +69,19 @@ Unless mentioned explicitly below, each letter in Czech is simply pronounced ind
 ## Study sessions:
 ###  2021-01-20 Study Session 
 Time to review this previously finished skill set. 
+* Ano, dobrou noc. | Yes. Good night. 
+* Diky | Thanks! 
+* Dobré odpoledne. | Good afternoon 
+* Hezký víkend! | Have a nice weekend. 
+* On je hezký. | He is handsome. 
+* Dobrou noc! | Good night. 
+* Díky, ahoj! | Thanks, bye! 
+* další noc | another night 
+* hezký muž | handsome man 
+* špatný večer | bad evening 
+* Dobrý den, děkuji! | Hello, thank you. 
+* Dobrý večer! | Good evening 
+* Ahoy, dobrou noc | Bye, good night! 
+* špatné odpoledne | bad afternoon 
+* Ano, dobrý večer! | Yes, good evening. 
+* Děkuji, na shledanou. | Thank you, goodbye 
