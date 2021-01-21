@@ -23,4 +23,4 @@ Course Outline:
 * Object Oriented Programming (26 units)
 * Functional Porgramming (24 units)
 * Intermediate algorithm Scripting (21 units)
-* JavaScript Algorithms and Data Structures Projects 
+* JavaScript Algorithms and Data Structures Projects (5 units) 
