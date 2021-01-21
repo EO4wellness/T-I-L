@@ -1,20 +1,20 @@
-## Basic JavaScript (111 units)
+## 01 Basic JavaScript (111 units)
 
-## ES6 (31 units) 
+## 02 ES6 (31 units) 
 
-## Regular Expressions (33 units) 
+## 03 Regular Expressions (33 units) 
 
-## Debugging (12 units)
+## 04 Debugging (12 units)
 
-## Basic Data Structures (20 units)
+## 05 Basic Data Structures (20 units)
 
-## Basic Algorithm Scripting (16 units)
+## 06 Basic Algorithm Scripting (16 units)
 
-## Object Oriented Programming (26 units)
+## 07 Object Oriented Programming (26 units)
 
-## Functional Porgramming (24 units)
+## 08 Functional Porgramming (24 units)
 
-## Intermediate algorithm Scripting (21 units)
+## 09 Intermediate algorithm Scripting (21 units)
 
-## JavaScript Algorithms and Data Structures Projects (5 units) 
+## 10 JavaScript Algorithms and Data Structures Projects (5 units) 
 
