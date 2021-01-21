@@ -15,3 +15,6 @@ By Czech_Rep._-_Bohemia,_Moravia_and_Silesia_III.png: *Czech_Rep._-_Bohemia,_Mor
 ## [Images](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/la-otra/Czech/Images)
 
 ## [Castle 1](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/la-otra/Czech/Castle1) 
+
+### Repo Navigation 
+[Readme](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/la-otra/Czech/README.md) | [Castle 1](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/la-otra/Czech/Castle1) | [Study Logs](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/la-otra/Czech/study-log) | [Images](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/la-otra/Czech/Images)
