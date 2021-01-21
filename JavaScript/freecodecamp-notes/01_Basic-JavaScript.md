@@ -17,7 +17,7 @@
 
 
 ### Coding assignment:  
-[Write one comment of each type.](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-exercises/comment-your-javascript-code.txt)
+[Write one comment of each type.](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-exercises/01.1_comment-your-javascript-code.txt)
 
 
 ## Declare JavaScript Variables
