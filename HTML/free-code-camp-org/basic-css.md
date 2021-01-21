@@ -532,13 +532,46 @@ in order to accomplish your design(s)
 * Code Assignment:
 
 ### [Use Hex Code for Specific Colors](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/use-hex-code-for-specific-colors)
+* hexadecimal is the long form 
+* hex code is the short form
+* hex(adecimal) code ways to represent color. 
+* when using numbers in every day life, we use decimals or base 10. 
+* hexadecimals are base 16 numbers. 
+* hex has 16 disctinct symbols (like decimals)
+* there are 0-9, A, B, C D, E, F
+* hex is 0 to F
+* Want more info? [Look here](https://en.wikipedia.org/wiki/Hexadecimal).
+* In CSS, we can use Hex to represent colors. 
+* There are two each for Red (R) green (G) and Blue (B) 
+* #000000 is black (and is also the lowest possible value 
+* you can find out more about [the RGB color system here](https://en.wikipedia.org/wiki/RGB_color_model). 
+
+        Example:
+        
+        body {
+                color: #000000;
+             }
 
 * Code Assignment:
 
 ### Use Hex Code to Mix Colors
+with the 6 hexadecimal digits to represent color
+two each from R (red) G (green) and B (blue)
+we can make 16 million other colors 
+
+Orange:  Pure red, mixed with some green, but no blue
+#FFA500
+
+Digit zero 0 is the lowest number in hex code. 
+Zero represents the complete absence of color.
+
+The Digit F is the highest number in hex code colors.
+It represents the maximum possible brightness. 
+
+
 * Code Assignment:
 
-### Use Abbreviated Hex Code
+### [Use Abbreviated Hex Code](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/use-abbreviated-hex-code)
 * Code Assignment:
 
 ### Use RGB values to Color Elements
