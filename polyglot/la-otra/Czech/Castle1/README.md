@@ -6,7 +6,7 @@ and I thought I understood a few words.
 ## Skill Sets 
 * [Hello!](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/la-otra/Czech/Castle1/Hello.md)
 * [Masculine](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/la-otra/Czech/Castle1/Masculine.md)
-* Feminine 
+* [Feminine](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/la-otra/Czech/Castle1/Feminine.md) 
 * Neuter 
 * To be Sg. 
 * To be pl. 
