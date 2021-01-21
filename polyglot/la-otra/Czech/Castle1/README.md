@@ -8,7 +8,7 @@ and I thought I understood a few words.
 * [Masculine](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/la-otra/Czech/Castle1/Masculine.md)
 * [Feminine](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/la-otra/Czech/Castle1/Feminine.md) 
 * [Neuter](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/la-otra/Czech/Castle1/Neuter.md) 
-* To be Sg. 
-* To be pl. 
+* [To be Single](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/la-otra/Czech/Castle1/To-Be-Singluar.md) 
+* [To be plural](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/la-otra/Czech/Castle1/To%20Be%20Plural.md) 
 * Questions 1
 * Plural 
