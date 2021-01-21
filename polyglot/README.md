@@ -2,6 +2,9 @@
 The road to code is not built in one day.<br>
 **The road to polyglot, likewise, is not built in one day.**<br> 
 _with both skill sets, consistent practice pays off in the long run_
+and that, my friend, is what this section of my Today I Learned is all about
+...plus it gives me a chance to pracice my GIT (somedays) and GITHUB (Other days) skills
+and . . . my mark down and other skills 
 
 
 ## Favorite Language Learning Tools
@@ -59,6 +62,5 @@ As of January 2021
     8 Dutch 605 XP
     5 French 294 XP
     4 Latin  228 XP
-    
     3 Otro 275 XP
 
