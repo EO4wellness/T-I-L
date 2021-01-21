@@ -1,3 +1,27 @@
-    # Basic JavaScript 
-	
-	Nav: Basic JavaScript | ES6 | Regular Expressions |  Debugging | Basic Data Structures | Basic Algorithm Scripting |  Object Oriented Programming | Functional Porgramming | Intermediate algorithm Scripting | JavaScript Algorithms and Data Structures Projects
+# Basic JavaScript 
+    
+## Comment Your JavaScript Code 
+* Comments in JavaScript are either one line or multiple lines. 
+* a one line comment follows this formatting:
+
+		// This is a one-line comment
+		
+* a multiple line comment always begins wwith "/*" and ends with "*/"
+
+		/* this is a 
+		multiple line
+		comment */
+		
+* The best practice when writing comments is to use them often within your code. 
+* Comments help others (on your team), yourself (debugging), and your future self figure out what each portion of code was intended to do and why you're doing it. 
+
+
+### Coding assignment:  
+Write one comment of each type. 
+
+
+## Declare JavaScript Variables
+
+
+
+Nav: Basic JavaScript | ES6 | Regular Expressions |  Debugging | Basic Data Structures | Basic Algorithm Scripting |  Object Oriented Programming | Functional Porgramming | Intermediate algorithm Scripting | JavaScript Algorithms and Data Structures Projects
