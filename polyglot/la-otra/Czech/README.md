@@ -1,6 +1,7 @@
 # CZECH LANGUAGE STUDIES 
 * started studying Czech language at DuoLingo during the fall of 2020.  
 * I occasionally study a lesson or review this language, too. 
+* Below is an image and its attribute from [the Wikipidia article](https://en.wikipedia.org/wiki/Czech_Republic) about the Czech Republic, its history, its people, its language 
 
 ![Wiki-Czech-Image](https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Czech_Rep._-_Bohemia%2C_Moravia_and_Silesia_III_%28en%29.png/1920px-Czech_Rep._-_Bohemia%2C_Moravia_and_Silesia_III_%28en%29.png)
 
