@@ -1,4 +1,5 @@
 # CZECH LANGUAGE STUDIES 
+* This repo is a log of all of my studies in learning a bit of the Czech language and a bit about this region of the world where it is spoken.
 * started studying Czech language at DuoLingo during the fall of 2020.  
 * I occasionally study a lesson or review this language, too. 
 * Below is an image and its attribute from [the Wikipidia article](https://en.wikipedia.org/wiki/Czech_Republic) about the Czech Republic, its history, its people, its language 
