@@ -183,6 +183,7 @@ Studied several lessons today 12-7-2020 in the ND
 *  Another Python resource https://www.w3schools.com/python/python_for_loops.asp 
 *  Women Who Code shared this resources today on LinkedIn and I want to remember to followup with it--take notes and study it--when I return to studying Python in the near future. [Women Who Code Data Visualization with Python](https://youtu.be/wvDbLhconLU) youtube tutorial.
 *  Read an article about "learning" any coding takes practice and challenging one's self.  Here is [one such idea along those lines](https://renanmf.com/python-project-guessing-game/).
+* learning resource https://inventwithpython.com/beyond/  
 	
 ### Server 
 * Maintenance (November 20, 21, 22 2020) 
