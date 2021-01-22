@@ -146,3 +146,26 @@ sounds matching practice
 * 僕の名前は茂です。 (My hname is Shigeru) 
 *Results: Earned Level 2*
 ![level2]()
+
+### 2021-01-21 Study Session 
+* げんき  ( 元気 )
+* き  ( 気 )
+* お元気ですか？ ( How are you? )
+* ジョンさんは英語と日本語が話せます。 (John can speak English and Japanese.)
+* はい、もちろん . Yes, of course. 
+* もちろん です.  Of course. 
+* 英語と日本語が話せます。 I can speak English and Japanese. 
+* ええ 元気です。 Yes, i am fine. 
+* もちろん元気です。 (Of course I am well.)
+* ええ、元気です。(Yes, I am fine.) 
+* お元気ですか？ (How are you?) 
+* 田中 先生 は日本語と 英語が話せます。(Professor Tanaka can speak Japanese and English.)
+
+* なまえ  名前 
+* お名前は何ですか？ What is your name? 
+* マリアさんはスペイン語が話せます。 Maria can speak Spanish.
+* フランス語を話せますか (Can you speak French?) 
+* あの お名前は  Um, what is your name?
+* ジョンさんはイタリア語が話せます。 John can speak Italian 
+* あの、お名前は何ですか？ Um, what is your name? 
+*  あの、すみません。 Um, excuse me. 
