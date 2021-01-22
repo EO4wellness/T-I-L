@@ -157,3 +157,15 @@ I began this set of skills on 2021-01-05
 
 ### 2021-01-19
 Completed one new study session<br>
+
+### 2021-01-21
+* La ragazza mangia la frutta. |  The girl eats fruit. 
+* Lei mangia cibo | She eats food. 
+* Lea mangia il cibo | She eats (the) food
+* Lui mangia un fagiolo.  | He eats a bean.
+* Una carota | a carrot 
+* Lui mangia una banana | He eats a banana. 
+* Io mangio una banana. | I eat a banana. 
+* Lui mangia una caramella. | He eats a candy. 
+* Io ho un piatto.  | I have a plate. 
+*Perfect Party!* 
