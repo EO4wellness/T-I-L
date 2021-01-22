@@ -33,10 +33,38 @@ JavaScript is one of the 3 languages all web developers must learn:
         In this example JavaScript changes the value of the src (source) attribute 
         of an <img> tag:
         
-        [Code] 
+        [Code](https://www.w3schools.com/code/tryit.asp?filename=GMWH1H9NZ7J9)
         
+* JavaScript can Change HTML Styles (CSS)
+
+      Example:
+      document.getElementById("demo").style.fontSize = "35px"; 
       
+      [Code](https://www.w3schools.com/code/tryit.asp?filename=GMWGWHQ5QB2W)
+
+* JavaScript Can Hide HTML Element
+Hiding HTML elements can be done by changing the display style:
+
+         Example
+         document.getElementById("demo").style.display = "none"; )
+         
+         [Code](https://www.w3schools.com/code/tryit.asp?filename=GMWH2H6G3QVJ)
+         
+* JavaScript Can Show HTML Elements
+Showing hidden HTML elements can also be done by changing the display style:
+
+         Example
+         document.getElementById("demo").style.display = "block"; 
+         
+         [Code](https://www.w3schools.com/code/tryit.asp?filename=GMWH46SR4YUS)
+         
+
 ## Did You Know?
 JavaScript and Java are completely different languages, both in concept and design.
 JavaScript was invented by Brendan Eich in 1995, and became an ECMA standard in 1997.
 ECMA-262 is the official name of the standard. ECMAScript is the official name of the language. 
+
+
+ . . . end 2021-01-22 Study session, resume next studies here: 
+
+# [JavaScript Where To](https://www.w3schools.com/js/js_whereto.asp)
