@@ -169,3 +169,15 @@ Completed one new study session<br>
 * Lui mangia una caramella. | He eats a candy. 
 * Io ho un piatto.  | I have a plate. 
 *Perfect Party!* 
+
+### 2021-01-22 Study Session 
+* Il manzo (The beef)
+* Il gelato non è una colazione. (Ice cream is not a breakfast.)
+* una ciotola (a bowl)
+* Io bevo la birra (I drink beer)
+* La donna ha il burro. (The woman has the butter)
+* La torta (the cake)
+* Il burro (the butter)
+* La bottiglia (the bottle)
+*Earned 500 DAYS of consequtive study* 
+
