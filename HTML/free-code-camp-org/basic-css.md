@@ -694,4 +694,7 @@ It represents the maximum possible brightness.
 
 Finished this portion of the Reponsive Design course 1/23/2021. 
 
+
+![Course-Section-Completed](https://github.com/EO4wellness/T-I-L/blob/main/HTML/images/2021-01-23-BasicCSS-Completed.jpg)
+
 next - [applied visual design](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/Applied-Visual-Design.md)
