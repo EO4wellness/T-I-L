@@ -572,7 +572,26 @@ It represents the maximum possible brightness.
 * Code Assignment:
 
 ### [Use Abbreviated Hex Code](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/use-abbreviated-hex-code)
+* since HEX code allows for more than 16 million colors, some designers get overwhelmed. 
+* you can also shorten it. 
+* Example: 
+
+        #FF0000
+        (which is hex code for red)
+        can be shortened to:
+        #F00 
+* Shorten hex code gives on digit for red, one for green, and one for blue. 
+* Using shortened hex, provides for 4,000 colors
+* #FF0000 and #F00 is exactly the same color in any browser display. 
+
 * Code Assignment:
+
+                Use the following hex codes to color each word in the style to the correct color. 
+                COLOR           Short Hex Code 
+                CYAN            #0FF
+                GREEN           #0F0
+                RED             #F00
+                Fuchsia         #F0F 
 
 ### Use RGB values to Color Elements
 * Code Assignment:

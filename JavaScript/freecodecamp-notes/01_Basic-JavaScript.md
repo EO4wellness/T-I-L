@@ -18,10 +18,43 @@
 
 ### Coding assignment:  
 [Write one comment of each type.](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-exercises/01.1_comment-your-javascript-code.txt)
+* End of 2021-01-21 Study Session 
 
+## [Declare JavaScript Variables](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/declare-javascript-variables)
+* DATA - is anything which is meaningful to the computer. 
+* JavaScript has 8 different data types.
+*  JavaScripte Data Types:
 
-## Declare JavaScript Variables
+	undefined
+	null
+	boolean
+	string
+	symbol
+	bigint
+	number 
+	object 
+* STRINGS - are collections of characters 
+* A mathematical operation can be performed on a number, but not on a string.
+* VARIABLES - allow computers to store and manipulate data in a dynamic way.
+* Computers use a label to point to the data, rather than using the data its self.
+* All 8 of the data types can be stored in a variable. 
+* Variables are similar to the "X" or "Y" variables used in mathematics.
+* Variables are a simple name which represent the data we want to refer to
+* Computer variables are different than math variables as they can store different values at different times.
+* We declare or create a JavaScript variable by butting the keyword "VAR" in front of it. 
 
+	Example:
+	var ourName; 
+	
+* The above Example code creates a VARIABLE called OurName
+* In JavaScript we end statements with semicolons, as shown in the example above
+* VARIABLE names can be made up of numbers, letters, $ or _
+* VARIABLE names cannot contain spaces or start with a number 
 
+	Code Assignment: Use VAR to create a variable called mnName
+	
+* End of 2021-01-22 Study Session 
+	
+[Storing Values with the Assignment Operator](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/storing-values-with-the-assignment-operator)
 
 Nav: [Basic JavaScript](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/01_Basic-JavaScript.md) | [ES6](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/02_ES6.md) | [Regular Expressions](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/03_Regular-Expressions.md) |  [Debugging](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/04_Debugging.md) | [Basic Data Structures](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/05_Basic-Data-Structures.md) | [Basic Algorithm Scripting](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/06_Basic-Algorithm-Scripting.md) |  [Object Oriented Programming](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/07_Object-Oriented-Programming.md) | [Functional Porgramming](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/08_Functional-Porgramming.md) | [Intermediate algorithm Scripting](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/09_Intermediate-Algorithm-Scripting.md) | [JavaScript Algorithms and Data Structures Projects](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/10_JavaScript-Algorithms-and-Data-Structures-Projects.md)

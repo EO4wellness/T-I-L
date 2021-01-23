@@ -5,6 +5,9 @@ An outline of my journey to learn JavaScript
 * FreeCode Camp - Introduction to JavaScript
 [link to course](#)
 [link to my course notes & code](#)
+* W3Schools
+[link to course](https://www.w3schools.com/js/default.asp)
+[link to my course notes & code samples](#)
 
 ## Introduction to JavaScript:
 JavaScript is a high-level programming language that all modern web browsers support. It is also one of the core technologies of the web, along with HTML and CSS that you may have learned previously. This section will cover basic JavaScript programming concepts, which range from variables and arithmetic to objects and loops.
