@@ -1,4 +1,5 @@
 # Greetings 
+* Began Study of Lesson: 1-24-2021. 
 
 
 ## Salve(te)!
