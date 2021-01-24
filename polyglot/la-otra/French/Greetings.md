@@ -1,4 +1,8 @@
-# Hello there!
+# GREETINGS:
+* Began studying Greetings 1-24-2021
+
+
+## Hello there!
 * Like in English, some French greetings depend on the time of day. 
 
      Bonjour!  Good morning/Good afternoon
