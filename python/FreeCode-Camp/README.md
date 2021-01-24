@@ -90,7 +90,7 @@ coursework with FreeCodeCamp.
 * ease of learning it 
 * the programs are short
 * early learner: syntax errors (part of programming woes) 
-* > > > is known as the 3 cheveron prompt and it means Python is asking you, "What next?"
+* `> > >` is known as the 3 cheveron prompt and it means Python is asking you, "What next?"
 * to see the 3 cheveron prompt you should (have) 
 
       installed python
