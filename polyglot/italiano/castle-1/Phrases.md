@@ -96,8 +96,27 @@ Greetings
 * Per favore. No. (Please. No.)
 Results: Perfect Party. 
 
-* ()
-* ()
-* ()
-* ()
-* ()
+
+### 2021-01-24 Restore Skill Set: 
+* Prego! (You are welcome!)
+* Grazie, Ciao. (Thank you, bye.)
+* No. spiacente. (No, sorry.)
+* Grazie. Prego. (Thanks.  You are welcome.)
+* Ciao (Hello)
+* Arrivederci, buonanotte. (Goodbye, good night.)
+* grazie, arrivederci (Thanks, bye)
+* Buonanotte, Chiara. (Good night Chiara)
+* Grazie Sofia (Thanks Sofia)
+* Ciao Davide (Goodbye Davide)
+* Arrivederci Gianluca (Goodbye Gianluca.)
+* Buongiorno Anna (Good morning Anna)
+* Buongiorno mario (good morning mario)
+* Buongiorno (Good morning)
+* Buonsera, Sofia (Good evening, Sofia)
+* Buonsera Gianluca (Good evening, Gianluca. )
+* Arrivederci Chiara. (Goodbye Chiara.) 
+* Si io sono l'uomo. (Yes, I am the man)
+* Grazie. Prego. (thank you. you are welcome)
+*  Buonanotte Chiara, good night Chiara. 
+
+
