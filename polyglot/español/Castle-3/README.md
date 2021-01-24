@@ -19,7 +19,7 @@
 * Chit Chat (level 1 completed)
 * Directions (level 1 completed)
 * [Objects](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/espa%C3%B1ol/Castle-3/Objects.MD) started 1-3-2021
-* [Memories](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/espa%C3%B1ol/Castle-3/Memories.md) (level 1 completed)
+* [Memories](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/espa%C3%B1ol/Castle-3/Memories.md) (level 2 completed)
 * Farm (level 1 completed) 
 * Weekend (level 1 completed) 
 * Vacation (level 1 completed) 
