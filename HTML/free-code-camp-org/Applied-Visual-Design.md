@@ -5,10 +5,24 @@
 * Beginning this study of portion of the Design course on Jan 24, 2021. 
 
 ## Introduction to the Applied Visual Design Challenges
-* Code Assignment 
+* Visual Design is a broad topic in web development. 
+* Visual design encompasses: graphics, typography, color theory, animation, and apge layout all intended to deliver content (the site's message)
+( 
+most web content provides the users with information 
+\
 
 ## Create Visual Balance Using the text-align Property
-* Code Assignment 
+* Text is often a larger part of the web content. 
+* CSS has many options how to align text. 
+* 
+
+    text-alight propery 
+    text-align: justify 
+    text-align: center;
+    text-align: left; 
+
+* Code Assignment alight H4 to center 
+      justify the P tag
 
 ## Adjust the Width of an Element Using the width Property
 * Code Assignment 
