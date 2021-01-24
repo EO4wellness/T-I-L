@@ -76,4 +76,26 @@ Watch out for spelling changes in the main part of the verb, like lese and liest
 This skill is already completed from previous activity, before DUO updated the course and made
 this portion of it, Castle 3. 
 
+### 2021-01-24 Restoration Session 
+* Ihr habt drei Äpfel. (You have 3 apples)
+* Die Bücher sind _rot_. (The books are red)
+* Sie lesen eine Zeitung. (They read a newspaper) 
+* Der junge leist eine Zeitung. (The boy reads a newspaper)
+* Sie isst einen Apfel. (She eats an apple)
+* Du trinkst die Milch. (You drink the milk) 
+* Der Junge isst einen Apfel. The boy eats an apple.
+* Du trinkst das Wasser. (You drink the water)
+* Ihr habt Hosen. (You have pants)
+* Ich trinke du trinkst. I am drinking. YOu are drinking.
+* Das Kind isst einen Apfel. (The child is eating an apple. )
+* Du leist die Zeitung. You are reading the newspaper. 
+* Ein Mann liest. A man is reading.
+* Die Bücher sind _neu_. The books are new
+* Ein Mann liest eine Zeitung. A man reads a newspaper. 
+* Wir lesen  die Bücher. We read the books. 
+* Sie lesen Bücher. They read books. 
+* Sie lesen Zeitungen. They read newspapers. 
+* Habt ihr einen Hund? Do you have a dog. 
+* Die Bücher sind gut. The books are good. 
+
 
