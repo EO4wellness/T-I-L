@@ -1,6 +1,8 @@
 # Applied Visual Design
-* next segment after [Basic CSS](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/basic-css.md) studies
+* This is part 3 of the Responsive Web Design Certification FreeCode Camp program. 
+* this is the next segment after [Basic CSS](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/basic-css.md) studies
 * this segment has 52 skills within it 
+* Beginning this study of portion of the Design course on Jan 24, 2021. 
 
 ## Introduction to the Applied Visual Design Challenges
 * Code Assignment 

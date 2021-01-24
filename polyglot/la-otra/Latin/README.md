@@ -12,7 +12,7 @@
 
 [Jan 14, 2021 earned level 4](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/la-otra/images/latin/2021-01-13-earned%20crown%20and%20next%20level%20up.png)
 
-
+[Jan 23, 2021 earned level 5](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/la-otra/Latin/Images/2021-01-23_Level-5-Latin.png)
 
 
 ## Some of my Translations | Transcription of Dictations 
@@ -29,3 +29,12 @@
 * Is est Marcus. | He is Marcus. 
 * Puer studet in urbe. | Puer in urbe studet | The boy studies in the city. 
 * Marcus dormit sed non scribit. Marcus sleeps, but does not write. 
+* Soror studet. | The sister studies.
+* Is est pater. | He is a father. 
+* Quis est mater? | Who is the mother? 
+* Frater domi dormit. | The brother is sleeping at home. 
+* Mater scribit et frater domi dormit. | The mother writes and the brother sleeps at home. 
+* Pater non dormit. | The father does not sleep. 
+* Soror in urbe studet _or_ Soror studet in urbe | The sister studies in the city. 
+
+

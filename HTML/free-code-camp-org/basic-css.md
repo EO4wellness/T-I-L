@@ -572,36 +572,129 @@ It represents the maximum possible brightness.
 * Code Assignment:
 
 ### [Use Abbreviated Hex Code](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/use-abbreviated-hex-code)
+* since HEX code allows for more than 16 million colors, some designers get overwhelmed. 
+* you can also shorten it. 
+* Example: 
+
+        #FF0000
+        (which is hex code for red)
+        can be shortened to:
+        #F00 
+* Shorten hex code gives on digit for red, one for green, and one for blue. 
+* Using shortened hex, provides for 4,000 colors
+* #FF0000 and #F00 is exactly the same color in any browser display. 
+
 * Code Assignment:
+
+                Use the following hex codes to color each word in the style to the correct color. 
+                COLOR           Short Hex Code 
+                CYAN            #0FF
+                GREEN           #0F0
+                RED             #F00
+                Fuchsia         #F0F 
 
 ### Use RGB values to Color Elements
-* Code Assignment:
+* Within in CSS, there is still yet another way to code colors into the design.
+* Instead of using Hex Code, you can use RGB values.
+* RGB values are coded in the following manner:
+
+                rgb(0,0,0)
+                for example is the code for black (none of the 3 colors are present)
+                
+                rgb(255, 255, 255)
+                for example is the code for white (all of the colors are fully present) 
+ * with RGB color codes, you specifigy the brightness of each color with a number between 0 (zero) and 255 (two-hundered fifty five).
+ * Example: Coding for ORANGE body background
+ 
+                body {
+                background-color: rgb(255, 165, 0);
+                }
+
+
+* Code Assignment:  Replace the current HEX code in this CSS to change the body element's background from red to black
 
 ### Use RGB to Mix Colors
+* like Hex Code, there are the same number of possible color combinations in RGB
+* also like Hex code, you ocan mix color by using combintations of different values
+* examples 
+
+        COLOR           |       RGB 
+        Blue                    rgb(0, 0, 225)
+        Red                     rgb(255, 0, 0)
+        Orchid                  rgb(218, 112, 214)
+
+
 * Code Assignment:
 
 ### Use CSS Variables to change several elements at once
-* Code Assignment:
+* CSS Variables are a quick way to change many CSS style properites at once by changing only one value. 
+* with CSS you can create a variable and assign a color to it. 
+* to make a variable name, simply put two hypehns before the name of the variable
+
+* Code Assignment:  illustrating this point, change the colors as listed in the assignment 
 
 ### Create a custom CSS Variable
+* after declaring a variable, you can assign its value to other CSS properties by referencing the name you gave the variable. 
+
 * Code Assignment:
 
 ### Use a custom CSS Variable
-* Code Assignment:
+* once you've created a CSS Variable, you can apply it to several different elements.
+
+* Code Assignment: use the CSS variable provided to turn the penquin's body from "black" to "grey" using the CSS Variable 
 
 ### Attach a Fallback value to a CSS Variable
-* Code Assignment:
+* fallbacks are available with colors, but they don't increase compatability, as they do not work on ALL browsers. 
+* IE (Internet Explorer) is one such browser which will not work with fallback colors) 
+* The fall back value is used to display if a browser cannot find your variable 
+* this can be useful for debugging code (our assingment for this section shows a debugging "typo" application of this concept. 
+* Example:
+
+                background: var(--penguin-skin, black);
+
+* Code Assignment: It looks like there is a problem with the variables supplied to the .penguin-top and .penguin-bottom classes. Rather than fix the typo, add a fallback value of black to the background property of the .penguin-top and .penguin-bottom classes.
 
 ### Improve Compatibility with Browser Fallbacks
-* Code Assignment:
+* CSS coders often run into browser compatability issues eventually
+* PARSE-PARSING: Parsing, syntax analysis, or syntactic analysis is the process of analyzing a string of symbols, either in natural language, computer languages or data structures, conforming to the rules of a formal grammar. The term parsing comes from Latin pars, meaning part. (Wiki definition, course uses the word but doesn't define it)
+* When a browser parses the CSS of a webpage, it ignores any properties it doesn't recognize or support. 
+* For example, if you use a CSS variable to assign a background color on a site, Internet Explorer will ignore the background color because it does not support CSS variables.
+* In that case, the browser will use whatever value it has for that property.
+*  If it can't find any other value set for that property, it will revert to the default value, which is typically not ideal.
+* This means that if you do want to provide a browser fallback, it's as easy as providing another more widely supported value immediately before your declaration. That way an older browser will have something to fall back on, while a newer browser will just interpret whatever declaration comes later in the cascade.
+
+
+* Code Assignment: It looks like a variable is being used to set the background color of the .red-box class. Let's improve our browser compatibility by adding another background declaration right before the existing declaration and set its value to red.
 
 ### Inherit CSS Variables
-* Code Assignment:
+* When creating a CSS variable, it is available to be used inside the selector in which it was created. 
+* it is also available inside any of the selector's descendants. 
+* to make use of inheritance, CSS variables are often defined in the element. 
+* " :root " is a pseudo-class selector that matches the root element of the document. 
+* this is uaully the HTML element. 
+* by creating variables in ":root" they will always be available globally and can be accessed from any other selector within the stylesheet. 
+
+* Code Assignment: Define a variable named --penguin-belly in the :root selector and give it the value of pink. You can then see that the variable is inherited and that all the child elements which use it get pink backgrounds.
 
 ### Change a variable for a specific area
-* Code Assignment:
+* CSS variables created in ROOT are available for the whole page. 
+* then you can over write these variables by settin them again within any specific element(s) of choice. 
+
+* Code Assignment: Change the value of --penguin-belly to white in the penguin class.
 
 ### Use a media query to change a variable
-* Code Assignment:
+* The course could be improved here if it included more information about a concept it is presenting. 
+* This course is supposed to be the very beginner introduction to using CSS.  
+* This portion of the lesson starts out saying how we can simplify "Media Queries" 
+* Only problem is, they haven't yet introduced the concept of Media Queries.  If I didn't already know what a Media Query is, I'd be lost at this portion of the lesson. 
+* Here is a link to examplain [Media Queries](https://www.w3schools.com/cssref/css3_pr_mediaquery.asp)
+* Media Queries are used to tailer the display of a webpage differently to desktops, verses laptops, versus tablets, verses mobile phones. 
+
+* Code Assignment:  use this concept to have a differnt display for normal browsers vs mobile devices 
+
+Finished this portion of the Reponsive Design course 1/23/2021. 
+
+
+![Course-Section-Completed](https://github.com/EO4wellness/T-I-L/blob/main/HTML/images/2021-01-23-BasicCSS-Completed.jpg)
 
 next - [applied visual design](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/Applied-Visual-Design.md)
