@@ -96,3 +96,27 @@ You may also meet ...o... (of) with a number and the plural noun, especially wit
 * gwenyn (bee)
 * Dw i'n hoffi'r teigr a'r arth (I like the tiger and the bear.)
 * Dw i'n mwynhau gwylio'r gwenyn (I enjoy watching the bees)
+
+
+### 2021-01-24 Restore Skill Set Session 
+* Dw i ddim yn hoffi'r anifail. (I do not like the animal)
+* Dych chi eisiau mwnci? (Do you want a monkey? )
+* Dych chi eisiau prynu _cwningen_? (Do you want to buy a rabit) 
+* Copyn a morfil. (A spider and a whale)
+* Dych chi eisiau mwnci a lleww? Ydw! 
+* Dych chi'n hoffi'r anifail? (Do you like the animal? 
+* Naw neidr. Nine snakes 
+* Dych chi'n hoffi'r blaidd?  Do you like the wolf?
+* Dw i'n hoffi'r blaidd. I like the wolf. 
+* Dw i ddim yn hoffi pryfed. I do not like insects.
+* Dych chi eisiau copyn. Ydw. Do you want a spider? Yes. 
+* Dych chi'n hoffi pryfed? Do you like insects?
+* Dych i'n gwylio'r blaidd a'r neidr. I am watching the wolf and the snake. 
+* neidr a snake 
+* cwningen Dylan Dylan's rabbit 
+* copyn spider 
+* Dw i'n hoffi bwyta pryfed. I like eating insects 
+* Siarc shark 
+* Dych chi eisiau cwningen? Do you want a rabbit?
+* Dw i ddim eisiau crwban diolch. I don't want a tortoise, thank you. 
+<br>
