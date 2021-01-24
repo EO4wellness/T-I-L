@@ -1,5 +1,5 @@
 # Greetings 
-* Began Study of Lesson: 1-24-2021. 
+* [Began Study](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/la-otra/Latin/Greetings.md#2021-01-24) of this Lesson: 1-24-2021. 
 
 
 ## Salve(te)!
