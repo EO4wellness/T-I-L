@@ -38,3 +38,5 @@
 
 # Results
 * 2021-01-23: Completed a lesson of French Castle 1 Greetings and received a Perfect Party for not making any mistakes. 
+
+Nav: Next lesson: [Greetings](#)
