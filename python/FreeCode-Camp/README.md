@@ -11,7 +11,10 @@ coursework with FreeCodeCamp.
 * _Python for Everybody_ includes 56 lessons: 
 
 
-# Upcoming Lessons
+# Course Lessons: 
+* Began course 1/24/2021
+
+
 ##  [Introduction: Why Program?](https://github.com/EO4wellness/T-I-L/tree/main/python/FreeCode-Camp)
 * computers want to do things for us. 
 * all tech basically does nothing until you tell it what to do.
@@ -80,7 +83,10 @@ coursework with FreeCodeCamp.
 * Python is translated into machine language.
 * it sends machine language to the memory to be able to answer the "what's next" question over and over again
 * the CPU produces a lot of heat 
-* https://www.py4e.com
+* instructor recommended a video which is no longer available. i searched for a similar one.
+* [YouTube video CPU heatsink removed](https://youtu.be/Xf0VuRG7MN4)
+* [Laptop Harddrive](https://www.youtube.com/watch?v=p-JJp-oLx58)
+* [Free-Online Course Textbook](https://www.py4e.com)
 * QUIZ: Where are you programs stored when they are running?  Memory.  
 
 ## [Introduction: Python as a Language](https://youtu.be/0QeGbZNS_bY)
