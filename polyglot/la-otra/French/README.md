@@ -17,7 +17,7 @@
 * Tu es Alice? Are you Alice? 
 * Tu es un cheval? | Are you a horse? 
 * un chat et un garcon | a cat and a boy 
-* Un garcon manges une orange | A boy is eating an orange. 
+* Un garcon mange une orange | A boy is eating an orange. 
 * un chat et un chien | a cat and a dog 
 * un chien et un cheval | a dog and a horse 
 * C'est un chien. | It is a dog. 
