@@ -39,4 +39,4 @@
 # Results
 * 2021-01-23: Completed a lesson of French Castle 1 Greetings and received a Perfect Party for not making any mistakes. 
 
-Nav: Next lesson: [Greetings](#)
+Nav: Next lesson: [Greetings](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/la-otra/French/Greetings.md)
