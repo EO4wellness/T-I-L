@@ -37,4 +37,4 @@
 * Pater non dormit. | The father does not sleep. 
 * Soror in urbe studet _or_ Soror studet in urbe | The sister studies in the city. 
 
-
+Nav: Next Lesson: [Greetings](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/la-otra/Latin/Greetings.md)
