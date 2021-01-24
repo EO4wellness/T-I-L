@@ -87,3 +87,28 @@ I traveled to Italy eight years ago.
 * En mi niaje a España probé comidas interesantes. (On my trip to Spain, I tried interesting foods.) 
 
 Results: Perfect Party! 
+<br>
+
+### 2021-01-24
+* I met many fun people. Conocí a mucha gente divertida. 
+* Conocí a muchas personas en mi viaje. I met a lot of people on my trip. 
+* Estuve en Mexico hace mucho tiempo. I was in Mexico a long time ago. 
+* Aprendí sobre el arte europeo. (I learned about European art)
+* No conociste a mi amigo español. (You didn't meet my Spanish friend.)
+* ¿Cuándo estuviste en California? (When were you in California?)
+* ¿Qué aprendiste en tu viaje a Francia? (What did you learn on your trip to France?)
+* Estuve en muchos lugares diferents.  (I was in a lot of different places.)
+* Aprendí mucho sobre Guatemala. (I learned a lot about Guatemala.) 
+* ¿Dónde estuviste la semana pasada? (Where were you last week?)
+* ¿Aprendiste japonés en tu viaje? (Did you learn Japanese on your trip?)
+* Yo aprendi espanol en Mexico. (I learned Spanish in Mexico) 
+* ¿Conociste a mucha gente en tu viaje?  Did you  meet a lot of people on your trip?
+* ¿Tu conociste a la familia de manuel? Did you meet Manuel's family?
+* Lo conocí hace mucho tiempo. I met him a long time ago.
+* ¿Donde aprendiste esa canción bonita? Where did you learn that pretty song?
+* ¿En qué parte de México estabas? What part of Mexico where you in? 
+* Fui a españa hace mucho tiempo. I went to Spain a long time ago. 
+* Ayer, estuve en Madrid. Yesterday, I was in Madrid.
+* En que parte de mexico estiviste?  What part of Mexico were you in? 
+*Results-Earned level 2!*
+![level2](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/espa%C3%B1ol/Castle-3/2021-01-24_earned-level2-memories.png)
