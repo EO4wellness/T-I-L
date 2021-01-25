@@ -17,7 +17,8 @@ DuoLingo has an online English/Japanese dictionary.  They don't have "wellness" 
 * [Katakana 1](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/japon%C3%A9s/Castle-1/Katakana1.md)
 * [Katakana 2](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/japon%C3%A9s/Castle-1/Katakana2.md)
 * [Katakana 3](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/japon%C3%A9s/Castle-2/Katakana%203.md)
-* these sounds are also practice, in a format only available on the mobile/app version of DuoLingo 
+* these sounds are also available to practice, in a format only available on the mobile/app version of DuoLingo. <br>
+  I regularly practice on the app all of the sounds, as well as review sounds, and learn new ones. 
 
 ## Kanji 
 coming soon 
