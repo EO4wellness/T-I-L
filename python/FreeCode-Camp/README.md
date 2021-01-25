@@ -154,12 +154,39 @@ coursework with FreeCodeCamp.
     
     End of 1/24-2021 study session.
     
-## Variables, Expressions, and Statements
+## [Variables, Expressions, and Statements](https://youtu.be/nELR-uyyrok)
 * [Resume Studies-next session here](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/variables-expressions-and-statements)
+* Continuing by studying the basic building blocks of Python. 
+* CONSTANTS- fixed values
+* fixed values can be in the form of numbes, letters, or strings.
+* they are called constants becuase their value doesn't change
+* string constants can use single or double quotes such as "Hello World" or 'Hello World' 
+* RESERVED WORDS - 
+* Variables - allocate a place in memory and give it a name 
+* We control variables by the assignment statement. 
+* Variables hold one value. 
+* we can change the variable
+* Rules for making Variable names:
+        
+        Must start with a letter
+        tend to reserve underscores for python 
+        case sensitive 
+        start with a letter then use numbers and letters 
+* Mnemonic Variable Names 
+* we get to choose so we can use them to have meaning
+* choose variable names which help us understand what is going on 
+* sentences or lines 
+* print is a function which is built into Python 
+* Assignment Statement has an arrow nature.
+* PYthon values the entire right side befor parking it on the left 
+* the right side is an expression
+* once the expression is evaluated, it becomes the new value to the left 
+* QUIZ: What is the symbol used in an assignment statement? A: =
+* End of 1/25/2021 Study Session 
 
 
 ## Intermediate Expressions
-* 
+* [Resume lesson](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/intermediate-expressions)
 
 
 ## Conditional Execution
