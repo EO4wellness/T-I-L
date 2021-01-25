@@ -8,15 +8,16 @@ DuoLingo has an online English/Japanese dictionary.  They don't have "wellness" 
 ## Next Learning Steps: 
 * [Thank You forms](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/japon%C3%A9s/thank-you-forms.md) 
 * [Greetings](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/japon%C3%A9s/greetings.md) 
-
-
-Castle 1 Quiz --> 100% --> Earned Dec 20,2020.<br>
+* Castle 1 Quiz --> 100% --> Earned Dec 20,2020.<br>
 ![Castle 1 Quiz](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/japon%C3%A9s/images/2020-12-20_japaneese_check-point-1-duolingo.png)
+* Castle 2 --> Began Jan, 2021<br>
 
 
 ## Katakana
-coming soon 
-
+* [Katakana 1](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/japon%C3%A9s/Castle-1/Katakana1.md)
+* [Katakana 2](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/japon%C3%A9s/Castle-1/Katakana2.md)
+* [Katakana 3](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/japon%C3%A9s/Castle-2/Katakana%203.md)
+* these sounds are also practice, in a format only available on the mobile/app version of DuoLingo 
 
 ## Kanji 
 coming soon 
