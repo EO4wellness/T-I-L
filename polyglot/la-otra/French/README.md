@@ -40,3 +40,6 @@
 * 2021-01-23: Completed a lesson of French Castle 1 Greetings and received a Perfect Party for not making any mistakes. 
 
 Nav: Next lesson: [Greetings](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/la-otra/French/Greetings.md)
+
+### Polyglot Nav
+[Czech](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/la-otra/Czech) |  [Dutch](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/la-otra/Dutch) |  [French](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/la-otra/French) |  [Latin](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/la-otra/Latin) |  [ヘブライ語](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/la-otra/%E3%83%98%E3%83%96%E3%83%A9%E3%82%A4%E8%AA%9E) |  More? . . . time will tell  
