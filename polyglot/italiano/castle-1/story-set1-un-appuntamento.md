@@ -55,4 +55,6 @@ V3: Ciao! Sei Daniele? Io sono Gabriella.
         ha | has
         Cosa | what?
         
-![Stories-Appuntamento](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/italiano/castle-1/2021-01-07-Stories-Appuntamento.png)
+        
+
+![Stories-Appuntamento](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/italiano/castle-1/images/2021-01-07-Stories-Appuntamento.png)
