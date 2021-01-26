@@ -45,6 +45,14 @@ Additionally, I always found it fascinating at University, when the professors o
 * [TypeIt](https://www.typeit.org/) 
 * [Template](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/template.md)
 
+    
+      (German) ß ä Ä ö Ö ü Ü  
+      (Slovak) á ä č ď é í ĺ ľ ň ó ô ŕ š ť ú ý ž
+      (Spanish) á Á é É í Í ó Ó ú Ú ñ Ñ ü Ü  ¡ !    ¿ ?    « »
+      (Welsh) â ê î ô û  ŵ  ŷ
+      (Italian) À È É Ì	 Ò  Ù	à è  é  ì  ò  ù  
+    
+
 ## Curious Facts
 Duolingo has several "leagues" and each week you either advance to the next level up, stay at the same level, or decline to a lower level. I've ben in each league and won advancement to each league, and I've also allowed myself to be demoted to all of the various levels.  I've won 1st place, 2nd place, and 3rd place once thru each league and now I'm not concerned about the leagues, other than it is a measure of how much time you've spent that week working on your language lessons. The leagues in order are: Bronze, Silver, Gold, Sapphire, Ruby, Emerald, Amethyst, Pearl, Obsidian and Diamond
 
