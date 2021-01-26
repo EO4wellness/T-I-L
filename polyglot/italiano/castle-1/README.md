@@ -17,13 +17,20 @@ Castle 1-Final Quiz <br>
 * One Thing 
 * Surprise! 
  
- # Story Set 2 (unlocked 1/4/2021)
- * In the Museum 
- * Honeymoon 
- * The Red Jacket 
- * The Exam 
+# Story Set 2 (unlocked 1/4/2021)
+* In the Museum 
+* Honeymoon 
+* The Red Jacket 
+* The Exam 
+
+# Story Set 3 (unlocked 1/26/2021)
+* A Little Bit of Money 
+* Saturday Night
+* The Stranger 
+* The Dance Class 
+
  
- *The next set of stories unlocks at 20 crowns earned.*
+ *The next set of stories unlocks at [25 crowns] earned.*
 
 # Stories Progress <br>
 ### Earning Them:
@@ -35,4 +42,7 @@ Castle 1-Final Quiz <br>
 
 * 2021-01-04 Unlocked the second set of stories for this language.  The next story gates requires 20 crowns before unlocking the next story set.  I currently have 15 crowns in Italian.
 ![Stories-set2](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/italiano/castle-1/2021-01-04-italian-unlock-stories.png)
+
+* 2021-01-26 Unlocked the third set of stories for this language. 
+![Stories-set3](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/italiano/castle-1/images/2021-01-26-unlocked-new-stories.jpg)
 
