@@ -1,10 +1,17 @@
-# Scholarship
+# HYBRID CLOUD ENGINEER: 
+Nanodegree Program - Nutanix Scholarship Fall 2020-Spring 2021
+Nav: Repo ReadMe | Section 1 | Section 2 | Section 3 | Section 4 | Section 5 | Section 6 | Section 7 
+
+## Scholarship
 Spring of 2020 I enrolled in a scholarshp opportunity at Udacity.  I won a seat within the Nutanix Hybrid Cloud Engineer Nanodegree program for both the phase 1 and phase 2 portions of the scholarship. Below is a chronical of my learning and projects for this nanodegree course. 
 
 ## Link to Free Course - [Hybrid Cloud Fundamentals](https://www.udacity.com/course/hybrid-cloud-fundamentals--ud0321)
 
-Course Outline: On-Premises Private Cloud Automation
-Lesson 1: Managing Multiple Cluster and Workload Resources
+
+### Course Outline: 
+* On-Premises Private Cloud Automation
+
+* Lesson 1: Managing Multiple Cluster and Workload Resources
 
     Prism Element vs. Prism Central
     Understanding Prism Central
@@ -15,7 +22,7 @@ Lesson 1: Managing Multiple Cluster and Workload Resources
     Prism Self Service
     Prism Central: Image Management
 
-Lesson 2: Calm Automation for Application Lifecycle Management
+* Lesson 2: Calm Automation for Application Lifecycle Management
 
     Calm basics
     VM IaaS for Self-Service IT
@@ -25,7 +32,7 @@ Lesson 2: Calm Automation for Application Lifecycle Management
     Calm RBAC
     The Nutanix Marketplace
 
-Lesson 3: Creating and Publishing a Single VM Blueprint
+* Lesson 3: Creating and Publishing a Single VM Blueprint
 
     The Importance of Calm Blueprints and Marketplace Publishing
     Publishing Your Own Application Blueprints
@@ -35,7 +42,7 @@ Lesson 3: Creating and Publishing a Single VM Blueprint
     Managing Blueprints
     Working with the Marketplace Manager
 
-Lesson 4: Creating and Publishing a Multi-VM Calm Blueprint
+* Lesson 4: Creating and Publishing a Multi-VM Calm Blueprint
 
     Lesson Overview
     Calm Blueprint Lifecycle: Cloning a Blueprint
@@ -52,7 +59,7 @@ Lesson 4: Creating and Publishing a Multi-VM Calm Blueprint
     Load Balancers
     Creating a Multi-VM Calm Blueprint
 
-Lesson 5: Calm Automation for a Three-Tier Web Application with Lifecycle Management
+* Lesson 5: Calm Automation for a Three-Tier Web Application with Lifecycle Management
 
     MySQL Database Server Administration
     Orchestration Dependencies Across Services
@@ -60,8 +67,10 @@ Lesson 5: Calm Automation for a Three-Tier Web Application with Lifecycle Manage
     Calm Orchestration and Macros
     Load Balancers
 
-Course Outline: Public and Hybrid Cloud Management
-Lesson 1: Strategies for Hybrid Cloud Design
+* Course Outline: Public and Hybrid Cloud Management
+
+
+* Lesson 1: Strategies for Hybrid Cloud Design
 
     Infrastructure Provider Strategies
     Pets vs Livestock for Scalability
@@ -77,7 +86,7 @@ Lesson 1: Strategies for Hybrid Cloud Design
     Runbooks
     Prism Central APIs
 
-Lesson 2: Working with a Public Cloud Infrastructure Provider
+* Lesson 2: Working with a Public Cloud Infrastructure Provider
 
     Public Cloud Overview
     Understanding Amazon Web Services
@@ -90,7 +99,7 @@ Lesson 2: Working with a Public Cloud Infrastructure Provider
     VPC
     Elastic IPs and DNS
 
-Lesson 3: Implementing Hybrid Cloud Scalability and Deployment Choice
+* Lesson 3: Implementing Hybrid Cloud Scalability and Deployment Choice
 
     Adding an AWS Provider to Calm
     Scalability and Global Load Balancing Considerations
@@ -101,7 +110,7 @@ Lesson 3: Implementing Hybrid Cloud Scalability and Deployment Choice
     Multiple Application Profiles
     Application Profile Best Practices
 
-Lesson 4: Hybrid Cloud Governance
+* Lesson 4: Hybrid Cloud Governance
 
     Managing Costs in a Hybrid Cloud Environment
     Elements of a Cost Optimization Solution
@@ -119,3 +128,7 @@ Lesson 4: Hybrid Cloud Governance
     Budget Alerts
     Custom Reports
 
+
+# HYBRID CLOUD ENGINEER: 
+Nanodegree Program - Nutanix Scholarship Fall 2020-Spring 2021
+Nav: Repo ReadMe | Section 1 | Section 2 | Section 3 | Section 4 | Section 5 | Section 6 | Section 7 
