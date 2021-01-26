@@ -6,8 +6,8 @@
 [Flirting](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/italiano/castle-1/Flirting.md) Started 1-15-21; Completed 1-16-21<br>
 [Idioms](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/italiano/castle-1/Idioms.md) Started 1-15-21; Completed 1-16-21<br>
 [Plurals](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/italiano/castle-1/Plurals.md) Started: 1-20-21<br>
-[Animals](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/italiano/castle-1/Animals.md)Started: 1-26-21<br>
-[Food 2](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/italiano/castle-1/Food2.md)Started: 1-26-21 <br>
+[Animals](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/italiano/castle-1/Animals.md) Started: 1-26-21<br>
+[Food 2](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/italiano/castle-1/Food2.md) Started: 1-26-21 <br>
 [Possession](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/italiano/castle-1/Possession.md) <br>
 Castle 1-Final Quiz <br>
 
