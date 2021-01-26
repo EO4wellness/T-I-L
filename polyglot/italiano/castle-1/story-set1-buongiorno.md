@@ -60,6 +60,6 @@ QUIZ:
           with sugar |  zuccherata 
          Senza   | without 
     
-    ![Good-Morning](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/italiano/castle-1/2021-01-04-Stories-Buongiorno.png)
     
+![Good-Morning](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/italiano/castle-1/images/2021-01-04-Stories-Buongiorno.png)
 
