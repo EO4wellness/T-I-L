@@ -1,14 +1,14 @@
 # Castle 1 Progress <br>
 [Basics 1](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/italiano/castle-1/Basics-1.md)<br>
 [Basics 2](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/italiano/castle-1/Basics-2.md)<br>
-[Phrases](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/italiano/castle-1/Phrases) this skill set completed [Jan 4, 2021](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/italiano/castle-1/2021-01-04-earned-level5-skill3.png)<br>
+[Phrases](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/italiano/castle-1/Phrases.md) this skill set completed [Jan 4, 2021](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/italiano/castle-1/2021-01-04-earned-level5-skill3.png)<br>
 [Food](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/italiano/castle-1/Food.md)<br>
 [Flirting](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/italiano/castle-1/Flirting.md) Started 1-15-21; Completed 1-16-21<br>
 [Idioms](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/italiano/castle-1/Idioms.md) Started 1-15-21; Completed 1-16-21<br>
-[Plurals](#)Started: 1-20-21 first lesson; <br>
-Animals<br>
-Food 2 <br>
-Possession <br>
+[Plurals](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/italiano/castle-1/Plurals.md) Started: 1-20-21 first lesson; <br>
+[Animals](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/italiano/castle-1/Animals.md)<br>
+[Food 2](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/italiano/castle-1/Food2.md) <br>
+[Possession](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/italiano/castle-1/Possession.md) <br>
 Castle 1-Final Quiz <br>
 
 # Story Set 1
