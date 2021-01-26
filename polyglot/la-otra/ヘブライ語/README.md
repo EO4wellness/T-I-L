@@ -24,3 +24,7 @@ This section is an ongoing record of study begining Jan 20th, 2021.
 * Drops: My current study streak is 35 days of study in a row and with Drops I know 186 Words so far. 
 
 ![Current-mondly-stats](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/la-otra/%E3%83%98%E3%83%96%E3%83%A9%E3%82%A4%E8%AA%9E/Images/2021-01-21_mondly_stats.png)
+
+
+### Polyglot Nav
+[Czech](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/la-otra/Czech) |  [Dutch](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/la-otra/Dutch) |  [French](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/la-otra/French) |  [Latin](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/la-otra/Latin) |  [ヘブライ語](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/la-otra/%E3%83%98%E3%83%96%E3%83%A9%E3%82%A4%E8%AA%9E) |  More? . . . time will tell  
