@@ -31,5 +31,5 @@
 
 
 ### NOTES:
-In the future, I've always wanted to learn: Greek, Arabic, Hindi. 
+In the future, I've always wanted to learn: Greek, Arabic, Hindi. Also, briefly, when Duo offered klingon as a study language, I began studying Klingo.  I was successful at passing several of the beginner levels; however, I removed the stats and the course from my list of studied languages as the course wasn't yet developed enough to get the bugs out.  Beta testing is wonderful, but at this time, I'm learning enough other topics, that I'm holding off on Klingon for now. . . 
 
