@@ -26,8 +26,14 @@
 
 :large_blue_circle: [2021](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/la-otra/study-log/2021-log.md)
 
-:large_blue_circle: [2020](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/la-otra/study-log/2020-log.md)
+:large_blue_circle: [2020](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/la-otra/study-log/2020-log.md) (these are primarily all with the ヘブライ語 coursework)
 
+*Deleting this section-moving it to each individual language folder*
+not moved yet: 
+* 2021-01-13 Day 27 Drops streak times 2 study session and 1 Lesson Duo. Czech lesson; [Latin Level up](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/la-otra/images/latin/2021-01-13-earned%20crown%20and%20next%20level%20up.png); earned crown in french lessons for today. <br>
+* 2021-01-12 Day 26 Drops streak, did a bew frnech lesson for the 490 day duo streak today <br>
+* 2021-01-10 days studying drops in a row 24, studied all of the other languages I'm doing a duo to restore my skill sets such as check and latin.<br>
+* 2021-01-06 177  began and earned level one in Latin at DUO.  <br>
 
 
 ### NOTES:
