@@ -30,7 +30,7 @@ Castle 1-Final Quiz <br>
 * The Dance Class 
 
  
- *The next set of stories unlocks at [25 crowns] earned.*
+ *The next set of stories unlocks at [25 crowns](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/italiano/castle-1/images/2021-01-26_story-set-crown-gate.png) earned.*
 
 # Stories Progress <br>
 ### Earning Them:
