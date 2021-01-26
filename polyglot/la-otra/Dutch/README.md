@@ -7,3 +7,5 @@
 :cheese:  2021-01-13 New Duo Lesson: [Dutch-negatives](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/la-otra/images/dutch/2021-01-13-dutch-course.png) <br> 
 :cheese:  2021-01-10 Completed 1 new lesson in Dutch.<br>
 
+### Polyglot Nav
+[Czech](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/la-otra/Czech) |  [Dutch](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/la-otra/Dutch) |  [French](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/la-otra/French) |  [Latin](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/la-otra/Latin) |  [ヘブライ語](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/la-otra/%E3%83%98%E3%83%96%E3%83%A9%E3%82%A4%E8%AA%9E) |  More? . . . time will tell  
