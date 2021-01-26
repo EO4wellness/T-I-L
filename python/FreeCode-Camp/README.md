@@ -185,9 +185,48 @@ coursework with FreeCodeCamp.
 * End of 1/25/2021 Study Session 
 
 
-## Intermediate Expressions
+## [Intermediate Expressions](https://youtu.be/dKgUaIa5ATg) 
 * [Resume lesson](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/intermediate-expressions)
+* In this lesson we are focusing on Expressions. 
+* Expressions are a bit more complicated calculations. 
+* Expressions are usually calculated on the right-hand side of an assignment statement.
+* Computers lack mathematical symbols. 
+* We are limited in computers and tech to the keyboard and what is available on it.  
+* This goes back in time to the 1960s.
+* Operators 
 
+        Operator                Operation
+        +                       Addition 
+        -                       Subtraction 
+        *                       Multiplication 
+        /                       Division 
+        **                      Power of 
+        %                       Remainder 
+                                Integer Division Modulo Operator 
+                                
+        Examples:
+        >>> xx = 2
+        >>> xx = xx + 2
+        >>>print (xx)
+        4
+        
+        >>> yy = 440 * 12
+        >>> print (yy)
+        >>> 5280
+        
+        >>> zz = yy / 1000
+        >>> print (zz)
+        5.28
+        
+        >>> jj=23
+        >>> kk = jj % 5
+        >>> print (kk)
+        3
+        
+        (module opperator is super useful for RANDOM)
+        
+* Operator Precedence. Order of Evaluation 
+* When we string operators together, python 
 
 ## Conditional Execution
 * 
