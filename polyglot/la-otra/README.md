@@ -13,14 +13,14 @@
       Spanish     |  DUO STATS - 254 Crowns   | Daily Mondly Studies 
       German      |  DUO STATS - 101 Crowns   | Daily Mondly Studies 
       Welsh       |  DUO STATS - 80 Crowns    |
-      Slovak      |   ~not available~         | Daily Mondly Studies 
+      Slovak      |  ~not available on duo~   | Daily Mondly Studies 
       Japanese    |  DUO STATS - 41 Crowns    |
       Italian     |  DUO STATS - 0 Crowns     |
       Dutch       |  DUO STATS - 7 Crowns     |
       Czech       |  DUO STATS - 12 Crowns    |
       Latin       |  DUO STATS - 2 Crowns     |
       French      |  DUO STATS - 3 Crowns     |
-      ヘブライ語   |  DUO STATS 3 Crowns       | Dao;u Mondly Studies  | Drops (generally x 2 study sessions + bonus time)
+      ヘブライ語   |  DUO STATS - 3 Crowns     | Daily Mondly Studies  | Drops (generally x 2 study sessions + bonus time)
 
 ## [Log](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/la-otra/logs)
 
