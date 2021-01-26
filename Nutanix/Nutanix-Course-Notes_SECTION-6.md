@@ -4,7 +4,7 @@ Udacity Nanodegree Program - Nutanix Scholarship Fall 2020-Spring 2021<br>
 
 
 # SECTION 6 
-
+![part6](https://github.com/EO4wellness/T-I-L/blob/main/Nutanix/Images/Part6.jpg)
 
 # HYBRID CLOUD ENGINEER: 
 Udacity Nanodegree Program - Nutanix Scholarship Fall 2020-Spring 2021<br>
