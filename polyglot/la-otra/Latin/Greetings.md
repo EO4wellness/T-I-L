@@ -128,4 +128,30 @@ minime    no, not at all
 * Salve, quid tibi est nomen? | Hello. What is your name? 
 * Salve, mihi nomen est Marcus. | Hello, my name is Marcus. 
 * Salvete, Marce et Livia. | Hello Marcus and Livia. 
-* 
+
+
+### 2021-01-26
+* Male me habeo (I feel poorly: which is British English for I'm not feelilng well.) 
+* Livia se bene habet. (Livia feels well)
+* Me bene habeo (I am well)
+* Quomodo te habes?  (How are you doing?) 
+* Quomodo femina se habet? (How does the woman feel?) 
+* stephanus bene se habet (Stephanus feels well)<br>
+*Challenge Questions*<br>
+* Quomodo te habes Marce?  (How are you doing, Marcus?)
+* Livia male se habet (my answer) or another acceptible translation is: Livia se male habet. (Livia feels poorly.)<br>
+![Result-of-this-study-session](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/la-otra/Latin/Images/2021-01-26-results.png)
+<br>
+* Roma est in Italia. (Rome is in Italy)
+* Minime! Marcus domi dormit. (No! Marcus sleeps at home.) 
+* Ubi Marcus dormit? (Where does Marcus sleep?)
+* Ita, nomen mihi est Livia. (Yes, my name is Livia)
+* Habitasne in urbe? (Do you live in the city?) 
+* Ita, ego in urbe habito. (Yes, I live in the city)
+``as a side note to this translation, it was a sound file of a woman speaking the sentence and I was to translate it into English while listening to her speak.  The ironic thing was, when ever the woman recorded the sound file for this lesson, there was an ambulance or police sound loudly screaming in the background, as well as other "in the city" types of sounds!  To funny! ``
+<br>
+*Challenge Questions*<br>
+* Romae habito.  (I live in Rome)
+* In Italia habitatis. (You live in Italy) 
+*Results: unlocked Where and Plurals lessons; Didn't yet start them, however.  Earned a crown. Unlocked level 1 in Greetings.*<br>
+![level](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/la-otra/Latin/Images/2021-01-26-level2-latin-greetings.jpg)
