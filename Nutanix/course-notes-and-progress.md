@@ -1,21 +1,32 @@
-HYBRID CLOUD ENGINEER
-Nanodegree Program 
+# HYBRID CLOUD ENGINEER
+* Nanodegree Program 
+* Attending program on Scholarship 
 
-# SECTION 1: Welcome to Hybrid Cloud Engineer (100% Completed, November, 2020) 
+![Section1](https://github.com/EO4wellness/T-I-L/blob/main/Nutanix/Images/Hybrid-Cloud-Engineer.png)
+
+
+# SECTION 1:
+Welcome to Hybrid Cloud Engineer (100% Completed, November, 2020) 
+
 
 ## Lesson 1.1 Welcome to Udacity. 
-by Sebastian Thurn | Founder | Udacity 
-"Tech is transforming the world--from artificial intellegence, to cloud, to mobile.  If you are curious about it...we are the team that is on your side. ..to make you successful." 
+* by Sebastian Thurn | Founder | Udacity 
+* "Tech is transforming the world--from artificial intellegence, to cloud, to mobile.  If you are curious about it...we are the team that is on your side. ..to make you successful." 
 
-## Lesson 1.2 The Udacity Experience by Danielle Barcelona | Manager, Student Support | Udacity 
-Introduction to how it all works within this platform. 
+
+## Lesson 1.2 The Udacity Experience
+* by Danielle Barcelona | Manager, Student Support | Udacity 
+* Introduction to how it all works within this platform. 
+* Download all course materials and transcripts of videos, as needed. 
+
 
 ## Lesson 1.3 Meet Your Instructors.
 		Cees Van Eeijk | Senior Education Manager | Nutanix 
 		Mark Lavi | Principal Dev Ops Advocate | Nutanix 
 
+
 ## Lesson 1.4 How to Succeed 
-Fabulous overview of success in completing a nanodegree, as well as setting goals for career, etc. 
+* Fabulous overview of success in completing a nanodegree, as well as setting goals for career, etc. 
 		* Goals 
 		* Habit Development 
 		* Accountability 
@@ -26,29 +37,152 @@ Fabulous overview of success in completing a nanodegree, as well as setting goal
 		* Break it down into smaller segments 
 		* Debugging 
 		* Support 
+		* https://youtu.be/hVwUijsLKzw 
+
 
 ## Lesson 1.5 Carrer Chat With Your Instructors. 
 * Current and Future Career Potential 
 * GitHub
 * Establish a Digital Portfolio 
+* Desirable skill set: any automation skills sets
+* Showcase your skills 
+* Shocase your projects in public repo (sample code, blueprints, digital portfolio)
+* Once you have your own skill set developed, focuson contribute to other's projects 
 
+
+## Lesson 2 Konwledge, Community, and Careers
+This section is to help the student become familiar with the process of earning a Udacity Nanodegree. 
+
+
+## 2.1 What it Takes: 
+* perserverance
+* dedication
+* focus on your goals 
+* self-paced, self-starter 
+* discussion of what successful completion looks like 
+* don't quit-continue until you finish 
+
+
+## 2.2 Getting Help:
+* CLICK "HELP" from within your program dashboard. 
+* Technical Mentor Support (Knowledge Platofrm) - likely you're not the first person to ask the question, so search for answers first.
+* Peer Chat - encouraging and great links to LinkedIn, Events, GitHub and projects. . . even new start ups. 
+* Career Support - fabulous resource; take advantage of it! 
+* General Account Help - when something goes wrong, people are available to help (so far I've never needed to use this aspect of the account) 
+
+
+## 2.3 Knowledge: 
+* Knowledge is a Technical assistance platform. 
+* You can search for answers to the questions other students in your program have had & answered. 
+* There are technical mentors ready to answer any/all new questions 
+* See the Knowledge screen for areas to search existing questions and answers; ask a new question, or filter for project-specific qustions and answers. 
+* email and url addresses given for help (not published here) 
+* How to ask GREAT questions: 
+	Ask Spcific Questions - Ask one question per topic unless you have multiple related questions 
+	Provide Details and Links - What did you try?  What helped, what didn't.  Describe the error message(s) or issues in details, as well as the steps to get there. 
+	Start with a Clear Question Title - it is the intro--so phrase it well for your topic 
+	Share Code Correctly - Use the "code block" to share the code so it doesn't turn to markup or text. 
+	Finding out Erros - if your question is about the error message or a stack trace you've received, include the entire message.  If need be, use a GIST, Paste on Pastebin, or other link to the error message. 
+	Avoid Screenshots of Code or Error Messages - Avoid screen shots of error messages or of code.  They are often hard to read and the text from a screenshot cannot be easily copied to help debug your code. 
+	Answer - If you solve the problem with an answer you've received, kinly mark it "Accepted Answer' to help other future students with the same question/issues. Up vote answers which helped you (even if you aren't the person who asked the original question) 
+	Another Mentor.  No everyone connects with everyone else.  If you still need help, even after receiving your answer, pick the Another Mentor" option to have a fresh set of eyes look at the issue(s).
+
+
+## 2.4 Student Hub: 
+* student hub provides collaboration with other students. 
+* Don't be shy about sharing and visiting LinkedIn links. begin building a network of like-minded professionals you can turn to. 
+* Don't over look peer project specific channels for help and interaction(s).
+* You can also directly message anyone in the student hub. 
+
+
+## 2.5 Career services: 
+* this valuable service can help if your goal is seeking a new career, learning new skills for your current employment, or just exploring potential new outcomes in the tech industry 
+* career services can provide specific feedback 
+* industry professionals can also offer feedback 
+* accessed thru your student dashboard under the "career" channel 
+* there are [career events](https://www.udacity.com/events) 
+
+
+![Section2](https://github.com/EO4wellness/T-I-L/blob/main/Nutanix/Images/Part-2.png)
 
 # SECTION 2: Modern Private Cloud Infrastructure (100% Completed, November, 2020)
+* This portion of the course encompasses the following Lessons 1-7, as outlined below.
+* THis portin of the course includes a project to highlight what you know and have learned. 
 
-# SECTION 3: Intro to Private and Hybrid Cloud Automation 
-## Lesson 1: Intro to Private and Hybrid Cloud Automation 
+
+## 1. Introduction to Nutanix Hybrid Cloud: 
+* meet our instructor 
+* view course prerequisites 
+
+
+## 2. Journey to the Modern Hybrid Cloud: 
+* walk thru the evolutions which have taken place in tech 
+* see how legacy tech resulted in the hybrid cloud of today 
+
+
+## 3. Introduction to Nutanix HCI: 
+* HCI stands for hyperconverged infrastructure.
+* find out what HCI is and what it does
+* get a look at Nutanix HCI 
+
+
+## 4. Hybrid Cloud Security:  
+* what security standards to Hybrid Cloud Engineers need to follow
+* what considerations are built into platforms using the Security Development Life Cycle? 
+
+
+## 5. Networking:
+* Hybrid cloud networking has both physical and virtual components. 
+* Physical networking
+* Virtual netowkring
+* Networking Typologies
+* how to work with VLANs
+
+## 6. Managing VM in the Hybrid Cloud: 
+* take a close look at what a VM (Virtual Machine) is
+* find out what tasks you can perform with a VM 
+
+## 7. Data Protection: 
+* Take a look at where Data Protection is at today. 
+* See how Nutanix Hybrid Cloud configures Data Protection 
+
+
+## Project: 
+* Private Cloud Web Application Infrastructure - Use Nutanix to design a private cloud solution for a key reenue generator and e-commerce web application 
+* See GIT project repo for more project details 
+
+
+![Section3](https://github.com/EO4wellness/T-I-L/blob/main/Nutanix/Images/Part3.png)
+
+
+# SECTION 3: Intro to Private and Hybrid Cloud Automation:
+* This is a basic video introduction into the exciting concepts and projects we will be working on studying in the remaining portion of this Nanodegree from our instructor's unique poiont of view. Exciting! 
+
+
+## Lesson 1: Intro to Private and Hybrid Cloud Automation; 
+* as outlined below. 
+
+
 ## Lesson 1.1  Meet your Instructor: Mark Lavi 
-## Lesson 1.2 Prerequisites 
+* Mark has a love of this topic and is a great instructor--passing along his decades of experience, as well as industry knowledge, and enthusiasm too. 
+
+
+## Lesson 1.2 Prerequisites: 
 * Command Line 
 * VM Experiences 
 * On Premise or Public Cloud 
 * Web server familiarity 
 * Basic DB and SQL 
 
-## Lesson 1.3 Intro to Private and Hybrid Cloud Automation 
+
+## Lesson 1.3 Intro to Private and Hybrid Cloud Automation:  
 * Increasing complexity and scale. 
+* Automate repetative tasks reduces error AND increases productivity 
+* Work loads and requirements change quickly 
+* Tech needs to change quickly too--but it is complex and prone to error. 
 * Stream line apps and dev ops. 
 * Automation alone is not the solution to rein in costs or assist in the  managment of infrastructure at scale.
+
 
 ## Lesson 1.4 DevOps and Digital Transformation 
 * DevOps movement spawned from lean manufacturing philosophy and the agile software movement. 
