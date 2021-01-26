@@ -17,13 +17,20 @@ Castle 1-Final Quiz <br>
 * One Thing 
 * Surprise! 
  
- # Story Set 2 (unlocked 1/4/2021)
- * In the Museum 
- * Honeymoon 
- * The Red Jacket 
- * The Exam 
+# Story Set 2 (unlocked 1/4/2021)
+* In the Museum 
+* Honeymoon 
+* The Red Jacket 
+* The Exam 
+
+# Story Set 3 (unlocked 1/26/2021)
+* A Little Bit of Money 
+* Saturday Night
+* The Stranger 
+* The Dance Class 
+
  
- *The next set of stories unlocks at 20 crowns earned.*
+ *The next set of stories unlocks at [25 crowns] earned.*
 
 # Stories Progress <br>
 ### Earning Them:
