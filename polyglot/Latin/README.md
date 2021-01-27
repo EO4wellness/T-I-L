@@ -1,7 +1,7 @@
 # [TOC Images:](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/Latin/Images)
 
 
-[Jan 6, 2021 earned Latin level 1 and Diamon league-top league in Duo](#)
+[Jan 6, 2021 earned Latin level 1 and Diamond league-top league in Duo](#)
 
 
 [Jan 8, 2021 earned level 2](#)
