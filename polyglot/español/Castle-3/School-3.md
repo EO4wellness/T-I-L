@@ -56,6 +56,6 @@ If there's a vowel before ‑iendo, the verb ending becomes ‑yendo.
 *Results: [Earned Level 4](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/espa%C3%B1ol/Castle-3/2021-01-13_earned-next-level-school3.png) and 255 total crowns.*  
 
 
-
-* ¿()
+Completed this skill set at the 2021-01-27 Study session 
+![completed-skill-set](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/espa%C3%B1ol/Castle-3/Images/2021-01-27_earned-level-5-school3-castle3.png)
 
