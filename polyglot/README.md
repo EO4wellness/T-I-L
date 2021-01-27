@@ -18,6 +18,7 @@ and . . . my mark down and other skills
 -[x] Slovak | Eslovaco | [T-I-L](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/eslovaco)<br> 
 -[x] Japaneese | Japonés | [T-I-L](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/japon%C3%A9s)<br>
 -[x] Italian | Italiano | [T-I-L](https://github.com/EO4wellness/T-I-L/tree/86669610db441e8521adeaccb15eaaa3b04d6310/polyglot/italiano)<br> 
+-[X] Latin  | Latín     | [T-I-L](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/Latin),br>
 -[x] Other | Otra | [T-I-L](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/la-otra) | [Czech](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/la-otra/Czech) | [Dutch](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/la-otra/Dutch) | [French](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/la-otra/French) | [Latin](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/la-otra/Latin) | [ヘブライ語](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/la-otra/%E3%83%98%E3%83%96%E3%83%A9%E3%82%A4%E8%AA%9E) | More? . . . time will tell  
 
 
