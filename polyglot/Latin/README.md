@@ -18,9 +18,9 @@
 * As of Jan 26, 2021, I've moved it to its own folder, not included within the "other" languages portion of the Polyglot repo. 
 
 ## Course of Study:
-1. [Castle-1](#)
-2. [Castle-2](#)
-3. [Castle-3](#)
+1. [Castle-1](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/Latin/Castle-1)
+2. [Castle-2](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/Latin/Castle-2)
+3. [Castle-3](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/Latin/Castle-3)
 
 
 ### Polyglot Nav
