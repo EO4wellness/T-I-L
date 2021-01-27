@@ -1,3 +1,7 @@
+![Map-in-Latin](https://www.nationsonline.org/maps/Pieter-van-den-Keere-worldmap.jpg)
+*This image is: Antique Map of the World. World Map "Nova Totius Terrarum Orbis Geographica Ac Hydrographica Tabula a Pet Kaerio " You are free to use this map for educational purposes, please refer to the [Nations Online Project](https://www.nationsonline.org/oneworld/map/antique-world-map.htm) .*
+
+
 # Latin 
 * Course link: https://www.duolingo.com/learn 
 * This course is unique because, of course, it is of a "dead language" as it is known. 
