@@ -8,7 +8,7 @@
         Started: Jan 6, 2021
         Completed
 
-* [Greetings](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/la-otra/Latin/Greetings.md)
+* [Greetings](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/Latin/Castle-1/Greetings.md)
 
         Started: Jan 24, 2021
         Level 1: Jan 26, 2021
