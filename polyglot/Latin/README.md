@@ -1,5 +1,7 @@
-![Map-in-Latin](https://www.nationsonline.org/maps/Pieter-van-den-Keere-worldmap.jpg)
-*This image is used with permission and is an example of anciety historical pieces writen in Latin: "Antique Map of the World. World Map "Nova Totius Terrarum Orbis Geographica Ac Hydrographica Tabula a Pet Kaerio " You are free to use this map for educational purposes, please refer to the [Nations Online Project](https://www.nationsonline.org/oneworld/map/antique-world-map.htm)."*
+## Course of Study:
+1. [Castle-1](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/Latin/Castle-1)
+2. [Castle-2](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/Latin/Castle-2)
+3. [Castle-3](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/Latin/Castle-3)
 
 
 # Latin 
@@ -22,10 +24,8 @@
 * As of Jan 26, 2021, I've moved it to its own folder, not included within the "other" languages portion of the Polyglot repo. 
 * These thoughts are my own, based on my studies at University.  If the topic interests you, and you are reading this, why not check out [Wiki's Latin article](https://en.wikipedia.org/wiki/Latin) for a very basic overview.
 
-## Course of Study:
-1. [Castle-1](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/Latin/Castle-1)
-2. [Castle-2](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/Latin/Castle-2)
-3. [Castle-3](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/Latin/Castle-3)
+![Map-in-Latin](https://www.nationsonline.org/maps/Pieter-van-den-Keere-worldmap.jpg)
+*This image is used with permission and is an example of anciety historical pieces writen in Latin: "Antique Map of the World. World Map "Nova Totius Terrarum Orbis Geographica Ac Hydrographica Tabula a Pet Kaerio " You are free to use this map for educational purposes, please refer to the [Nations Online Project](https://www.nationsonline.org/oneworld/map/antique-world-map.htm)."*
 
 ### Images: 
 [Overall](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/Latin/Images) | [Castle 1](#) | [Castle 2](#) | [Castle 3](#)
