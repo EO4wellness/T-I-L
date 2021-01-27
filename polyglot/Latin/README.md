@@ -1,43 +1,26 @@
-# [TOC Images:](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/Latin/Images)
+# Latin 
+* Course link: https://www.duolingo.com/learn 
+* This course is unique because, of course, it is of a "dead language" as it is known. 
+* However, as Latin was spoken for such a LONG time, historically speaking, and by such a large group of scholarly people groups, it still has value to study.
+* Latin is especially useful in learning history and reading source documents.
+* the Latin language, in effect, spilled into other cultures. 
+* It is FUN to learn 
+* This course is also unique because it is entirely spoken, for the sound files, by real people who are not native Latin speakers. 
+* The fluency of the speakers gives you the sense, if they did it, I can too! 
+* Duo course quirks:
+    There are Latin Duolingo Events in the Duo calendar 
+    There is a Latin-English Translation Dictionary 
+    There is a Duo interface to see the words you've learned and how often you've practice them. 
+    (as of Jan 26-2021 i've learned 50 words in Latin)
+    There aren't any "Stories" be unlocked in this Latin course on Duo 
+    There are only 3 Castles to the entire course 
+* Prior to 1/26/2021, this Latin course was within the "OTHER" languages studied section on GitHub.  
+* As of Jan 26, 2021, I've moved it to its own folder, not included within the "other" languages portion of the Polyglot repo. 
 
-
-[Jan 6, 2021 earned Latin level 1 and Diamond league-top league in Duo](#)
-
-
-[Jan 8, 2021 earned level 2](#)
-
-
-[Jan 13, 2021 earned level 3](#)
-
-
-[Jan 14, 2021 earned level 4](#)
-
-[Jan 23, 2021 earned level 5](#)
-
-
-## Some of my Translations | Transcription of Dictations 
-* Stephanus non est femina. | Stephanus is not a woman. 
-* Tu es Marcos. | You are Marcus. 
-* Quis est Marcus?  | Who is Marcus? 
-* Tu femina non est, sed puella es. | You are not a woman but you are a girl. 
-* Corinna non est puella, sed femina. | Corinna is not a girl, but a woman. 
-* Quis dormit. | Who sleeps?
-* Femina dormit | The woman is sleeping. 
-* Ea domi dormit. | She sleeps at home. 
-* Femina studet et scribit. |The woman studies and writes. 
-* Puer dormit in urbe. [or duo told me it could also be translated as: Puer dormit in urbe. ] | The boy sleeps in the city. 
-* Is est Marcus. | He is Marcus. 
-* Puer studet in urbe. | Puer in urbe studet | The boy studies in the city. 
-* Marcus dormit sed non scribit. Marcus sleeps, but does not write. 
-* Soror studet. | The sister studies.
-* Is est pater. | He is a father. 
-* Quis est mater? | Who is the mother? 
-* Frater domi dormit. | The brother is sleeping at home. 
-* Mater scribit et frater domi dormit. | The mother writes and the brother sleeps at home. 
-* Pater non dormit. | The father does not sleep. 
-* Soror in urbe studet _or_ Soror studet in urbe | The sister studies in the city. 
-
-Nav: Next Lesson: [Greetings](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/la-otra/Latin/Greetings.md)
+## Course of Study:
+1. [Castle-1](#)
+2. [Castle-2](#)
+3. [Castle-3](#)
 
 
 ### Polyglot Nav
