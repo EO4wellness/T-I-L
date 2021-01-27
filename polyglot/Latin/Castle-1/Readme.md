@@ -18,7 +18,7 @@
         Unlcoked: Jan 26, 2021
         Started: Pending 
 
-* [PLurals](#)
+* [PLurals](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/Latin/Castle-1/Plurals.md)
 
         Unlcoked: Jan 26, 2021
         Started: Pending 
