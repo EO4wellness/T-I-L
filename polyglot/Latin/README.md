@@ -1,5 +1,5 @@
 ![Map-in-Latin](https://www.nationsonline.org/maps/Pieter-van-den-Keere-worldmap.jpg)
-*This image is: Antique Map of the World. World Map "Nova Totius Terrarum Orbis Geographica Ac Hydrographica Tabula a Pet Kaerio " You are free to use this map for educational purposes, please refer to the [Nations Online Project](https://www.nationsonline.org/oneworld/map/antique-world-map.htm) .*
+*This image is used with permission and is an example of anciety historical pieces writen in Latin: "Antique Map of the World. World Map "Nova Totius Terrarum Orbis Geographica Ac Hydrographica Tabula a Pet Kaerio " You are free to use this map for educational purposes, please refer to the [Nations Online Project](https://www.nationsonline.org/oneworld/map/antique-world-map.htm)."*
 
 
 # Latin 
