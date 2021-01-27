@@ -3,7 +3,10 @@
 
 # Castle 1 - course of study
 
-* [Intro](#) 
+* [Intro](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/Latin/Castle-1/Intro.md) 
+
+        Started: Jan 6, 2021
+        Completed
 
 * [Greetings](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/la-otra/Latin/Greetings.md)
 
@@ -13,16 +16,22 @@
 * [Where](#) 
 
         Unlcoked: Jan 26, 2021
-        Started:
+        Started: Pending 
 
 * [PLurals](#)
 
         Unlcoked: Jan 26, 2021
-        Started:
+        Started: Pending 
         
 
 * [School](#)
 
+        Unlcoked: Pending 
+        Started: Pending 
+
 * [Parents](#)
+
+        Unlcoked: Pending 
+        Started: Pending 
 
 [CASTLE 1 - Final Quiz](*) 
