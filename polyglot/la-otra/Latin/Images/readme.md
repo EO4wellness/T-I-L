@@ -1,7 +1,7 @@
 # Images T-O-C:
 
 
-[Jan 6, 2021 earned Latin level 1 and Diamon league-top league in Duo](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/la-otra/images/latin/2021-01-06-latin-level-1.png)
+[Jan 6, 2021 earned Latin level 1 and Diamond league-top league in Duo](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/la-otra/images/latin/2021-01-06-latin-level-1.png)
 
 
 [Jan 8, 2021 earned level 2](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/la-otra/images/latin/2021-01-08_latin-crown2-earned-level2.png)
