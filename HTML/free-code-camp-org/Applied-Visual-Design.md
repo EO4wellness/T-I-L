@@ -34,6 +34,12 @@ most web content provides the users with information
 * Code Assignment 
 
 ## Use the u Tag to Underline Text
+* the U tag is used when you want underlined text
+* primarily used to show that some section of text is important or should be remembeed 
+* U tag - the browser applies the CSS of 
+        text-decoration: underline; 
+        to the element 
+        
 * Code Assignment 
 
 ## Use the em Tag to Italicize Text

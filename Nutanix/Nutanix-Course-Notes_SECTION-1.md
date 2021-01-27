@@ -26,8 +26,13 @@ Welcome to Hybrid Cloud Engineer (100% Completed, November, 2020)
 
 
 ## Lesson 1.3 Meet Your Instructors.
-		Cees Van Eeijk | Senior Education Manager | Nutanix 
-		Mark Lavi | Principal Dev Ops Advocate | Nutanix 
+		Cees Van Eeijk | 
+		Senior Education Manager | 
+		Nutanix 
+		
+		Mark Lavi | 
+		Principal Dev Ops Advocate | 
+		Nutanix 
 
 
 ## Lesson 1.4 How to Succeed 

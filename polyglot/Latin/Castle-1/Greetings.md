@@ -167,3 +167,12 @@ minime    no, not at all
 *Results: unlocked Where and Plurals lessons; Didn't yet start them, however.  Earned a crown. Unlocked level 1 in Greetings.*<br>
 ![level](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/la-otra/Latin/Images/2021-01-26-level2-latin-greetings.jpg)
 
+### 2021-01-27 Study Session 
+* Quid agit Livia? (How is Livia?)
+* Salvete, Livia et Corinna!  (Hello, Livia and Corinna?
+* Salvete, Marce et Livia. (Hello Marcus and Livia )
+* Salve, quid tibi est nomen? (Hello, what is your name?)
+* Nomen mihi non est Corinna. (My name is Corinna.
+* Quid ei est nomen? What is his name?
+* Salve, quis es tu? (Hello, who are you?)
+
