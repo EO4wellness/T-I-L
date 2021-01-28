@@ -16,8 +16,8 @@ Skill set opened for study: 2021-01-28
 * Velisne vinum rubrum. (Would you like red wine?)
 * Velisne vinum (Would you like wine?) 
 
-### Results 
+### Results: *Perfect party!*
 ![results](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/Latin/Castle-2/Images/2021-01-28_Market-first-study-session.png)
 
 
-*Perfect party!*
+
