@@ -11,7 +11,7 @@
 [Possession](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/italiano/castle-1/Possession.md) <br>
 Castle 1-Final Quiz <br>
 
-# Story Set 1
+# Story Set 1 (completed 1/28/2021)
 * [Good Morning](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/italiano/castle-1/story-set1-buongiorno.md)
 * [A Date](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/italiano/castle-1/story-set1-un-appuntamento.md) 
 * [One Thing](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/italiano/castle-1/story-set1-una-cosa.md) 
