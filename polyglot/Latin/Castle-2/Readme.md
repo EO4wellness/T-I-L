@@ -8,7 +8,8 @@
 * [Market](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/Latin/Castle-2/Market.md) 
     
         Skill set open to study: 2021-01-28
-        Started: 
+        Started: 2021-01-28
+        Level 1: 2021-01-28 
         
 
 * [Travels](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/Latin/Castle-2/Travels.md)
