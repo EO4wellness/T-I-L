@@ -104,10 +104,9 @@ in foro 	in the forum/market
 * panis decem nummis constat. (The breast costs ten coins)
 * Quaeso da mihi olivas. (Please give me the olives)
 * Crustulum constat quattuor nummis. (A cookie costs four coins.)
-### Results: *Perfect party!*
+### Results: *Perfect party!* and *Earned Level One*
 ![results](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/Latin/Castle-2/Images/2021-01-28_Market-first-study-session.png)
 
-*Earned Level One*
 ![level1](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/Latin/Castle-2/Images/2021-01-28_earned-Level1-Market-Castle2.png)
 
 
