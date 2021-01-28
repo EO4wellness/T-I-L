@@ -1,5 +1,5 @@
 ## Course of Study:
-1. [Castle-1](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/Latin/Castle-1) 
+1. [Castle-1](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/Latin/Castle-1) | 
    2021-01-28-Today I took and passed the [Castle 1 Final Quiz before doing most of the lessons!](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/Latin/Images/2021-01-28_took-and-passed-latin-quiz-today-with-a-perfect-score.png)  Wow!  
 2. [Castle-2](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/Latin/Castle-2)
 3. [Castle-3](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/Latin/Castle-3)
