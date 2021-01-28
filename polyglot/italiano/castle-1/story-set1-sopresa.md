@@ -14,9 +14,9 @@ V1: Ho una sorpresa!  (I have a surprise.)
 
       V2: Ecco, anch'io devo dirti una cosa. (Well, I must also tell you something.) 
       
-V1: La mia amica e molto simpatica. (My friend is very nice)
-V1: E una studentessa di economica. (She is a business student)
-V1: Si chiama Sonia. (Her name is Sonia) 
+V1: La mia amica e molto simpatica. (My friend is very nice)<br>
+V1: E una studentessa di economica. (She is a business student)<br>
+V1: Si chiama Sonia. (Her name is Sonia) <br>
 
       V2: Mamma, devo...  (Mom, I must....) 
 
@@ -26,7 +26,7 @@ Narattor: Una donna entra nel ristorante. (A woman enteres into the restaurant.)
 
               V3: Ciao, tesoro!  (Hello sweetheart)
 
-V1: Tesoro? 
+V1: Tesoro? (Sweetheart?) 
 
         V2: Ciao, Carla.  Mamma...
 
@@ -34,12 +34,12 @@ V1: Tesoro?
     
 V1: Antonio?! 
 
-                V3: Come va? (How are you?
-                V3: sono Carla!  La moglie di Antonio.
+                V3: Come va? (How are you?)
+                V3: sono Carla!  La moglie di Antonio. (My name is Carla. I am ANtonio's wife.)
 
 V1: Moglie?! (Wife) 
 
-      V2:  Sorpresa!  (Surprise) 
+      V2:  Sorpresa!  (Surprise!) 
       
  
       
