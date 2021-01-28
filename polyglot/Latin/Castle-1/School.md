@@ -65,3 +65,15 @@ scribo 	I write 	(scribere, 3rd. conj.) 	scrib-
 # Study Sessions 
 Unlocked and began studying this topic on Jan 28, 2021.
 
+* discipulus (student)
+* magister (teacher)
+* viri (men)
+* Ego quinque discipulas habeo. (I have five students)
+* Quis est magistra mae? (Who is my teacher)
+* Discipulos habeo. (I have students)
+* Corinna magistrum habet. (Corinna has a teacher)
+* Livia est discipula (Livia is a student)
+* Ubi discipuli sunt?  Where are the students? 
+* Corinna discit Latinam (Corinna learns Latin) 
+* Magistra Corinna litteras latinis legit. (Teacher Corinna reads Latin literature)
+* Earned Level 1
