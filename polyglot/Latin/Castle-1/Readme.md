@@ -12,22 +12,26 @@
 
         Started: Jan 24, 2021
         Level 1: Jan 26, 2021
+        Level 3: Jan 28, 2021
 
 * [Where](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/Latin/Castle-1/Where.md) 
 
         Unlcoked: Jan 26, 2021
-        Started: Pending 
+        Started: Jan 27, 2021
+        Level 1: Jan 28, 2021
+        
 
 * [PLurals](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/Latin/Castle-1/Plurals.md)
 
         Unlcoked: Jan 26, 2021
-        Started: Pending 
+        Started: Jan 27, 2021
+        Level 1: Jan 28, 2021
         
 
 * [School](#)
 
-        Unlcoked: Pending 
-        Started: Pending 
+        Unlcoked: Jan 28, 2021
+        Started: Jan 28, 2021
 
 * [Parents](#)
 
