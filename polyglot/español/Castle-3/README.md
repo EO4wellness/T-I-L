@@ -11,7 +11,7 @@
 * [Requests](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/espa%C3%B1ol/Castle-3/Requests.md) 
 * [Routines 3](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/espa%C3%B1ol/Castle-3/Routines.md) 
 * [To Like](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/espa%C3%B1ol/Castle-3/To-Like.md) 
-* [School 3](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/espa%C3%B1ol/Castle-3/School-3.md) (level 3 completed)
+* [School 3](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/espa%C3%B1ol/Castle-3/School-3.md) Completed [Jan 27, 2021](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/espa%C3%B1ol/Castle-3/Images/2021-01-27_earned-level-5-school3-castle3.png)
 * Shopping 3 (level 1 completed) 
 * Plans (level 1 completed)
 * Tasks (level 1 completed)
