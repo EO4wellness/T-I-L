@@ -1,22 +1,58 @@
 # Latin - DuoLingo
-
+[Castle1](#) | [Castle2-This Page](#) | [Castle3](#)
 
 # Castle 2 - Course of Study
+* Topic Skill Set of Study | Link to Study Notes | Progress with Specific kill Set 
 
-* Market 
 
-* Travels
+* [Market](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/Latin/Castle-2/Market.md) 
+    
+        Skill set open to study: 2021-01-28
+        Started: 
+        
 
-* Plurals 2 
+* [Travels](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/Latin/Castle-2/Travels.md)
+    
+        Skill set open to study: 2021-01-28
+        Started: 
+        
 
-* Work 
+* [Plurals 2](#) 
+    
+        Skill set open to study: 2021-01-28
+        Started: 
+        
 
-* Routines 
+* [Work](#) 
+    
+        Skill set open to study: 2021-01-28
+        Started: 
+    
 
-* Emotions 
+* [Routines](#) 
+    
+         Skill set open to study: 2021-01-28
+        Started: 
+    
 
-* Food 
+* [Emotions](#) 
+    
+        Skill set open to study: 2021-01-28
+        Started: 
+    
 
-* Time 
+* [Food](#) 
+    
+        Skill set open to study: 2021-01-28
+        Started: 
+    
+
+* [Time](#) 
+    
+        Skill set open to study: 2021-01-28
+        Started: 
+    
 
 ## Castle 2 - Final Quiz 
+
+
