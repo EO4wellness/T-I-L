@@ -5,13 +5,13 @@
 * Topic Skill Set of Study | Link to Study Notes | Progress with Specific kill Set 
 
 
-* [Market](#) 
+* [Market](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/Latin/Castle-2/Market.md) 
     
         Skill set open to study: 2021-01-28
         Started: 
         
 
-* [Travels](#)
+* [Travels](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/Latin/Castle-2/Travels.md)
     
         Skill set open to study: 2021-01-28
         Started: 
