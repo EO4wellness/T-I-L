@@ -28,7 +28,7 @@
         Level 1: Jan 28, 2021
         
 
-* [School](#)
+* [School](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/Latin/Castle-1/School.md)
 
         Unlcoked: Jan 28, 2021
         Started: Jan 28, 2021
