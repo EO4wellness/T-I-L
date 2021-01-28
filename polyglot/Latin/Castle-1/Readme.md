@@ -34,7 +34,7 @@
         Started: Jan 28, 2021
         Level 1: Jan 28, 2021
 
-* [Parents](#)
+* [Parents](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/Latin/Castle-1/Parents.md)
 
         Unlcoked: Jan 28, 2021
         Started: Jan 28, 2021 
