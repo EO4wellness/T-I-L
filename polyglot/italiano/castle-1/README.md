@@ -15,7 +15,9 @@ Castle 1-Final Quiz <br>
 * [Good Morning](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/italiano/castle-1/story-set1-buongiorno.md)
 * [A Date](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/italiano/castle-1/story-set1-un-appuntamento.md) 
 * [One Thing](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/italiano/castle-1/story-set1-una-cosa.md) 
-* Surprise! 
+* [Surprise!](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/italiano/castle-1/story-set1-sopresa.md)
+
+![completed-jan-2021](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/italiano/castle-1/images/2021-01-28-completed-story-set1-italian.jpg)
  
 # Story Set 2 (unlocked 1/4/2021)
 * In the Museum 
