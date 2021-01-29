@@ -25,33 +25,72 @@ most web content provides the users with information
       justify the P tag
 
 ## Adjust the Width of an Element Using the width Property
-* Code Assignment 
+* CSS can be adjusted by using a WIDTH property.
+* Width values can be either relative length or aboslute length.
+* An example of relative length is using "em" 
+* An example of absolute length is PX or Pixels
+* You can set the width to a percentage (absolute length) of the parent element it is in 
+* Example code: 
+
+        img {
+            width: 220 px;
+        }
+        
+
+* Code Assignment: set the width property to the FULL CARD class element to 245 pixels.
 
 ## Adjust the Height of an Element Using the height Property
-* Code Assignment 
+* like width, above, you can also set the height.
+* this can be set within CSS
+* Example:
+
+        img {
+            height: 20px;
+        }
+
+* Code Assignment: add height property to the H4 tag and set it to 25 pixels. 
+
 
 ## Use the strong Tag to Make Text Bold
-* Code Assignment 
+* Use the STRONG tag to make text appear bold. 
+* BOLD text is often used to draw attention to text
+* BOLD text generally symbolizes it is important.
+* thus, don't over use it
+* with the STRONG tag, the browser applies CSS of 
+font-weight: bold; to the element 
+* Code Assignment: wrap a strong tag around "Stanford University" inside the "p" tag. 
 
 ## Use the u Tag to Underline Text
 * the U tag is used when you want underlined text
 * primarily used to show that some section of text is important or should be remembeed 
 * U tag - the browser applies the CSS of 
         text-decoration: underline; 
-        to the element 
-        
-* Code Assignment 
+        to the element
+* Avoid use of the U element when and where it could be confused as a link. 
+* Code Assignment : Wrap the U tag around the trext "Ph.D. students"
 
 ## Use the em Tag to Italicize Text
-* Code Assignment 
+* If you need to emphasize text, you can use the EM tag.
+* Text with the EM tag will display as italicized.
+* the browser applies CSS of 'font-style: italic;' to the element 
+* Code Assignment: wrap an em tag around the contents within the P tags
 
 ## Use the s Tag to Strikethrough Text
-* Code Assignment 
+* strikethrough text is when a horizontal line cuts across the text characters. 
+* it is often used to strike out old information, or show what's changed (such as edits, or when a deadline has passed).
+* use the S tag to cause strikethrough text
+* the browser applies CSS of 'text-decoration: line-through'
+* Code Assignment: but the S tag around Google in the H4 element.  Then add "Alphabet" beside it. 
 
 ## Create a Horizontal Line Using the hr Element
-* Code Assignment 
+* use the HR tag to add a horizontal line
+* the line will run across the width of its containing element
+* this may indicate a change in topic
+* it can also be used graphically to make a visually distinction between groups of content. 
+* an HR tag is SELF closing
+* Code Assignment: Add an HR tag underneath the H4 element 
 
-## Adjust the background-color Property of Text
+## [Adjust the background-color Property of Text](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/adjust-the-background-color-property-of-text)
 * Code Assignment 
 
 ## Adjust the Size of a Header Versus a Paragraph Tag
