@@ -91,7 +91,19 @@ font-weight: bold; to the element
 * Code Assignment: Add an HR tag underneath the H4 element 
 
 ## [Adjust the background-color Property of Text](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/adjust-the-background-color-property-of-text)
-* Code Assignment 
+* you can add "background-color" to any element holding text to emphasize the text. 
+* this uses RGBA () 
+* the other color formats we previously learned, to rreview, are HEX coses or RGB ()
+* RGBA stands for:
+    
+        r=red
+        g=green
+        b=blue
+        a=alpha/level of opacity 
+* RGB values, to review, can range from 0 to 255.
+* alpha value can range from 1 (fully opaque, which is a solid color) to 0 (which is fully trnasparent, or see-thru)
+* RGBA is good to use because you can let some of the background show thru by adjusting the "A" or opacity/transparency levels.
+* Code Assignment-make the text stand out more by adjusting thre bacground-color of the H4 element to rgba value 
 
 ## Adjust the Size of a Header Versus a Paragraph Tag
 * Code Assignment 
