@@ -43,3 +43,20 @@ All three will also be seen with a final -f, although it is rarely pronounced in
     Mae Dewi yn aros gartre heddiw. - Dewi is staying at home today.
     Mae Sioned yn cerdded adre. - Sioned is walking home.
     *Mae Sioned yn cyrraedd adref erbyn saith o'r gloch fel arfer. - Sioned usually gets home by seven o'clock.
+
+# Study Sessions 
+I began studying this skill set topic on 1/31/2021
+
+## 2021-01-31
+* Dych chi eisiau diod? Ydw. (Are you thirsty? Yes.)
+* Dw i eisiau mynd adre. (I want to go home.)
+* Dw i ddim eisiau diod heddiw. (I am not thirsty today)
+* Dw i eisiau bwyd. (I am hungry)
+* Rwyt ti eisiau cath. You want a cat
+* Are you hungry?  Wyt ti eisiau bwyd 
+* Dwyt ti ddim yn yfed lemonade. You are not drinking lemonade.
+* Wyt ti eisiau afal ac oren. Do you want an apple and an orange.
+* lemoned (lemonade)
+* Mae hi'n mynd adre (She is going home)
+* YOu do not want tea. Dwyt ti ddim eisiau te
+* Dydy Owen ddim yn mynd adre. Owen is not going home.

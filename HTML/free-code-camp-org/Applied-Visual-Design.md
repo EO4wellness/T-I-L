@@ -105,10 +105,27 @@ font-weight: bold; to the element
 * RGBA is good to use because you can let some of the background show thru by adjusting the "A" or opacity/transparency levels.
 * Code Assignment-make the text stand out more by adjusting thre bacground-color of the H4 element to rgba value 
 
-## Adjust the Size of a Header Versus a Paragraph Tag
-* Code Assignment 
+## [Adjust the Size of a Header Versus a Paragraph Tag](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/adjust-the-size-of-a-header-versus-a-paragraph-tag)
+* Best design practice, includes the text of any header (so namely, H1 tru H6) should be larger than the font size of the paragraph tags in your document. 
+* following this design principle, helps to make your design visiually able to be understood more easily, as well as lends its seslf to better read-a-bility 
+* use the FONT-SIZE property to adjust the size of the text in an element.
+* Code Assignment: To make the heading significantly larger than the paragraph, change the FONT-SIZE of the H4 tag to 27 pizels. 
 
-## Add a box-shadow to a Card-like Element
+## [Add a box-shadow to a Card-like Element](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/add-a-box-shadow-to-a-card-like-element)
+* the BOX-SHADOW property applies one or more shadows to an element.
+* the 'box-shadow' proeprty takes values for:
+        
+        offset-x (how far to push the shadow horizontally from the element)
+        offset-y (how far to push the shadow vertically from the element)
+        blur-radius 
+        spread-radius
+        color
+* the 'box-shadow' property values are considered in the exact above order 
+* multiple box-shadows can be created using commas to seperate the various properties of each of the different box-shadow elements. 
+* Example: 
+
+        box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+
 * Code Assignment 
 
 ## Decrease the Opacity of an Element
