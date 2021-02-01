@@ -62,6 +62,7 @@ As of January 2021
 
     Current Number of Crowns Earned / Language Studied /  XP 
     
+    Beginning Jan 2021
     255 Spanish 32,475 XP
     101 German 10,305  XP
     81 Welsh 9,170 XP
@@ -72,4 +73,18 @@ As of January 2021
     5 French 294 XP
     4 Latin  228 XP
     3 Otro 275 XP
+
+    Beginning Feb 2021
+    262 Spanish 33,469 XP
+    106 German 10,694  XP
+    45 Japanese 9,569 XP
+    82 Welsh 9,502 XP
+    26 Italian 2,129 XP
+    18 Latin  1,017 XP
+    12 Czech 810 XP
+    9 Dutch 699 XP
+    7 French 441 XP
+    3 Otro 288 XP
+    0 Greek 15 XP 
+
 
