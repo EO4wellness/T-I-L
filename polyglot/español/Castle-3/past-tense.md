@@ -45,3 +45,54 @@ and <br>
 * Yo no abri esa ventana | I didn't open that window. 
 * 
 
+## 2021-02-02 Study Session:
+* Yo disfrute la comida anoche. | I enjoyed the food last night. 
+* ella miro 
+* Tu aprendiste muchos bailes espanoles?  Te interesa aprender bailes mexicanos? 
+* Did you already go out with Pedro?  Tu ya saliste con pedro?
+* Yo no abri aquella botella de vino.  No la necesito abrir. 
+* ABRIR
+* yo abri 
+* tu abriste
+* ella abrio 
+* Yo comi y hable con mi papa ayear. I ate and spoke with my dad yesterday. 
+* Juan visita a sus abuelos todos los veranos. Juan visito a sus abuelos el verano pasado. 
+* Te gusta probar comidas diferentes? Tu probaste muchas comidas diferentes anoche?
+* MIRAR
+* nosotros miramos 
+* usted miro
+* ustedes miraron 
+* ¿bebiste los vinos italianos? did you drink the italian wines?
+* Ellos conocieron a mis padres. tu quieres conocer a mis padres?
+* Camila miro la tele anoche. Ella quiere mirar un a pelicula ahora. 
+* Nosotros bebimos cafe en el desayuno. tu quieres beber algo? 
+* Donde comraste esos zapatos? Quiero comprar los mismos. 
+* ABRIR
+* nosotros abrimos 
+* usted abrio 
+* ustedes abrieron 
+* Ana quiere beber un cafe con azucar. Ana bebio un cafe con azucar. 
+* Yo no abri aquella botella de vino. No la necesito abrir. 
+* Hoy yo compro manzanas. Ayer yo compre bananas. 
+* beber, ella bebe, ella bebió (to drink, she drinks, she drank) 
+* Hoy los ninos abren muchos regalos. Ayer los ninos abrieron muchos regalos. 
+* vivir, tu vives, tu viviste (to live, you live, you lived)
+* Hoy yodisfruto la comida mexicana. Ayer you disfrute la comida francesa. 
+* estudiar, ellos estudian, ellos estudiaron
+* Yo vivi dos anos en Mexico pero ahora vivo en los Estados Unidos. 
+* Hoy Juan visita a sus padres. Ayer Juan visito a sus padres. 
+* Las vacas limpiaron la granja ayer. | THe cows cleaned the farm yesterday. 
+* Ahora yo aprendo espanol. El ano pasado yo aprendi ingles. 
+* Anna lavo su ropa ayer. 
+* Por que no abriste las ventanas Pedro? Tu nunca abres las ventanas. 
+* Hoy nosotros comemos pescado. Ayer nosotros comimos pollo. 
+* Sara miro mis photos anoche. Fernanda mira mis fotos ahora. 
+* Ayer su perro escribio una carta para ella. Ahora ella escribe una carta para su perro. 
+* Ayer tu no escribiste mucho. Yesterday you didn't write a lot. 
+* tu bebiste cafe, tu bebes aqua
+* vivir, tu vives, tu viviste
+* estudia, ellos estudian, ellos estudiaron 
+* Ahora yo aprendo espanol. El ano pasado yo aprendi ingles. 
+* Earned LEVEL 1
+
+
