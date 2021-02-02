@@ -33,3 +33,43 @@
 * Sono farfalle. They are butterflies.
 *Perfect Party* 
 
+### 2021-02-01 Study Session 
+* Io non mangio gli animali. (I do not eat animals)
+* Io ho i pesci. (I have fish or I have the fish)
+* Noi leggiamo i giornali. (We read the newspapers)
+* Io leggo libri. (I read books)
+* Le gatte mangiano pane. (The cats eat bread)
+* Loro leggono i giornali. (They read the newspapers)
+* L cavalli mangiano.  (The horses eat)
+* La ragazza ha i piatti 
+*
+* Gli insetti (the insects)
+* I gatti bevono latte. (The cats drink milk)
+* Gli uccelli mangiano frutta. (The birds eat fruit)
+* le bottiglie | the bottles 
+* i bicchieri | the glasses 
+* La donna mangia mele. (The woman eats apples)
+* Il cuoco ha le bottiglie.  (The cook has the bottles)
+* Loro sono cuochi. (They are cooks)
+* 
+* Le mucche (the cows)
+* Gli elefanti (the elephants)
+* Le farfalle sono insetti (Butterflies are insects)
+* i biscotti | the cookies 
+* ho i polli | i have the chickens 
+* le torte | the cake 
+* le banane | the bananas 
+* Sono biscotti al cioccolato (They are chocolate cookies)
+* 
+* Lei ha le forchette (SHe has the forks)
+* Le caramelle sono nel piatto. (The candies are on the plate)
+* Non sono caramelle. (They are not candies)
+* La donna scrive ai ragazzi. (The woman writes to the boys)
+* Lui legge ai ragazzi (He reads to the boys)
+* Io mangio i panini. (I eat the sandwiches)
+* I cani bevono l'acqua. The dogs drink the water
+* Non sono forchette. (They are not forks)
+* Earned Level 2 Plurals and several Perfect Parties 
+
+![Earmed-level2](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/italiano/castle-1/images/2021-02-01-earned-level2-plurals.jpg)
+
