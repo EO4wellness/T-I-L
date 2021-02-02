@@ -26,7 +26,7 @@
 * Shopping (level 4 completed)
 * Which One? (level 1 completed)
 * Nature (level 1 completed)
-* Past Tense 1 (level 1 started)
+* [Past Tense 1](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/espa%C3%B1ol/Castle-3/past-tense.md) (level 1 started)
 * Travel 5 (level 1 completed)
 * School 4 (level 1 completed)
 * History (level 1 completed)
