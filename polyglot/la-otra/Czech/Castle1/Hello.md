@@ -85,3 +85,20 @@ Time to review this previously finished skill set.
 * špatné odpoledne | bad afternoon 
 * Ano, dobrý večer! | Yes, good evening. 
 * Děkuji, na shledanou. | Thank you, goodbye 
+
+### 2021-02-01 Study Session:
+* Hezký víkend! | Have a nice weekend. 
+* Ano, dobrý večer. Yes, good evening. 
+* Dobrou noc! | GOod night. 
+* Ne ja jsem Zofie. |  No, I am Zofie.
+* Ano, ahoy!  | Yes, hi. 
+* Ano, dobry den.  Yes, hello. 
+* Dobre odpoledne!  | Good afternoon. 
+* Dalsi noc | Another night. 
+* Na shledanou!  See you soon. 
+* Ona je žena, ne stroj. She is a woman, not a machine. 
+* Hezky hrad.  | Pretty castle. 
+* Děkuji, na shledanou. | Thank you, goodbye 
+* Děkuji dobrou noc. 
+* Ne, Matěj jsem já. | No, I Matej.
+* Na shledanou, děkuji. Good bye thank you. 
