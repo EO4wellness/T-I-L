@@ -4,6 +4,7 @@
 
 # Study Log: 
 
+:cheese: 2021-02-02: [Basics 1](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/la-otra/Dutch/study-sessions/2021-02-02.md) review session<br> 
 :cheese: 2021-01-27: Reviewed <br>
 :cheese:  2021-01-16 restored Basics 1 Castle 1 Dutch <br>
 :cheese:  2021-01-13 New Duo Lesson: [Dutch-negatives](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/la-otra/images/dutch/2021-01-13-dutch-course.png) <br> 
