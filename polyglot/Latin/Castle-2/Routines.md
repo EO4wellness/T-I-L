@@ -57,4 +57,14 @@ interdum 	sometimes
 # Study Sessions:
 
 ## 2021-02-01
-* 
+* Ego paedagogum in urbe visito. (I visit the tutor in the city.)
+* Cliens librum nostrum habet. (THe client has our book)
+* Patronum in foro visito. (I visit the patron in the market)
+* Paedagogi dormiunt. The tutors sleep. 
+* Patronus cum paedagogo est. (The patron is with the tutor)
+* Clientes salutationes faciunt. (The clients visit the patreons)
+* In tabernal non dormis. (You do not sleep in the shop).
+* Patronum in foro visito. (I visit the patron in the market)
+* In taberna non dormis.  (YOu do not sleep in the shop) 
+* Cliens salutationem facit. The client visits the patron)
+* Clientes salutationes faciunt. (The clients visit the patrons)
