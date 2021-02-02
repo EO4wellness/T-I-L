@@ -46,4 +46,29 @@ Below is a log of my study sessions in this section of the course.
 * ロサンゼルス Los Angeles 
 *Perfect Party! Acing Skill!<br>
 
-
+## 2021-02-02 Study Session:
+* ユ 	[jɯ]
+* ニヨ   [nyo]
+* ゴ 	[go]
+* カ 	[ka]
+* ホ 	[ho]
+* シカゴ  (Chicago) 
+* ストックホルム (Stockholm)
+* ニューヨーク (New York) 
+* RESULTS: [Perfect Party!](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/japon%C3%A9s/Castle-2/Images/2021-02-02Perfect-Party.png)
+* 
+* ヌ 	[nɯ]
+* カンヌ (Cannes) 
+* ケニア (Kenya)
+* アルゼンチン (Argentina)
+* RESULTS: [Perfect Party!](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/japon%C3%A9s/Castle-2/Images/2021-02-02.jpg)
+* [ACE of skill offer](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/japon%C3%A9s/Castle-2/Images/2021-02-02_Katakana3-ACE.png) (skipped this offer, I want to earn it myself)
+* 
+* レ 	[ɾe]
+* ヴ ェ ネ ツ ィ ア (Venice) 
+* コ ロ ン ビ ア (Colombia) 
+* ブエノスアイレス (Buenos Aires)
+* カタカナ (Katakana)
+* RESULT: [Perfect Party!](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/japon%C3%A9s/Castle-2/Images/2021-02-02-perfecto.png)
+* [Earned Level 3](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/japon%C3%A9s/Castle-2/Images/2021-02-02_Earned-level3-Katakana.png)
+![Level3](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/japon%C3%A9s/Castle-2/Images/2021-02-02_Earned-level3-Katakana.png)
