@@ -124,3 +124,7 @@ Sometimes the Welsh name includes the "y" (the) and that is not reflected in the
 * Dych chi'n hoffi'r Fenni? (Do you like Abergavenny?)
 Earned Level 5: 2020-12-31
 ![Level5](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/gales/Castle-2/2020-12-31-earned-level-5-places-Castle2.png)
+
+### 2021-02-01 Restore Skill Set Study Session
+100% Successful! 
+
