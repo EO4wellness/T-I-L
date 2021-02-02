@@ -67,3 +67,22 @@ RESULT: like I often do in coding, I made a few typos this time around.  Nothing
 Earned Castle 4 for this skill set today (Dec 30, 2020) 
 
 
+### Review Skill Set Session 
+2021-02-01<br>
+* Ja ich schwimme sehr gut. Yes I swim really well. 
+* Du spielst nie Schach. You never play chess. 
+* Ich spiele Du spielst I play you play 
+* Ich spiele sehr gut klavier. I play the piano really well. 
+* du schwimmst you swim 
+* Du spielst sehr gut Klavier. YOu play the piano really well. 
+* schwimmst du?  do you swim?
+* Das Kind spielt. The child is playing.  
+* ich schwimme i swim
+* Der Hund spielt. The dog is playing. 
+* Ja, mein Bruder schwimmt oft. Yes, my brother swims often.  
+* Schwimmst du oft? Do you swim often?  
+* Meine schwester schwimmt oft. My sister swims often. 
+* De Vogel spielt. The bird is playing. 
+* Meine Katze schwimmt nie. My cat never swims. 
+* Ich schwimme du schwimmst 
+Perfect <br>
