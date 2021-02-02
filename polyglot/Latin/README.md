@@ -4,6 +4,8 @@
 2. [Castle-2](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/Latin/Castle-2)
 3. [Castle-3](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/Latin/Castle-3)
 
+## Study Log:
+[Study Log](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/Latin/study-log/2021-Feb.md)
 
 # Latin 
 * Course link: https://www.duolingo.com/learn 
