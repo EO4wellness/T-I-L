@@ -85,4 +85,7 @@ Earned Castle 4 for this skill set today (Dec 30, 2020)
 * De Vogel spielt. The bird is playing. 
 * Meine Katze schwimmt nie. My cat never swims. 
 * Ich schwimme du schwimmst 
-Perfect <br>
+
+
+![perfect](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/aleman/study-sessions/2021-Feb/2021-02-01-study-session-hobbies-castle-1.png)
+

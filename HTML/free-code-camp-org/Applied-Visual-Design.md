@@ -128,13 +128,30 @@ font-weight: bold; to the element
 
 * Code Assignment 
 
-## Decrease the Opacity of an Element
-* Code Assignment 
+## [Decrease the Opacity of an Element](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/decrease-the-opacity-of-an-element)
+* use the 'opacity' CSS proterty to adjust opacity 
+* this property can also adjust transparency of an item. 
+* A value of 1 is opaque, which isn't transparent at all.
+* A value of 0.5 is half see-through.
+* A value of 0 is completely transparent.
+* Code Assignment : set opacity of the anchor tags to 0.7 using LINKS class to slect them. 
 
-## Use the text-transform Property to Make Text Uppercase
-* Code Assignment 
+## [Use the text-transform Property to Make Text Uppercase](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/use-the-text-transform-property-to-make-text-uppercase)
+* TEXT-TRANSFORM property in CSS
+* convenient way to make certain text on the page is consisten
+* 'text-transform' values change
 
-## Set the font-size for Multiple Heading Elements
+        VALUE               RESULT 
+        lowercase           "transform me"
+        uppercase           "TRANSFORM ME"
+        capitalize          "Transform Me"
+        initial             Use the default value 
+        inherit             Use the 'text-transform' value from the parent element 
+        none                Default: Use the original text
+    
+* Code Assignment: Make H4 uppercase via the Text-Transform proerty.
+
+## [Set the font-size for Multiple Heading Elements](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/set-the-font-size-for-multiple-heading-elements)
 * Code Assignment 
 
 ## Set the font-weight for Multiple Heading Elements

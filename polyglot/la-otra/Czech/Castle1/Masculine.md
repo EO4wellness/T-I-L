@@ -65,3 +65,18 @@ This skill also includes two more examples of the final consonant devoicing, whe
 
     The "b" at the end of "chléb" gets pronounced as its devoiced mate "p", making the word sound like "chlép".
     The "ž" at the end of "muž" gets pronounced as its devoiced mate "š", making the word sound like "muš" (moosh).
+
+
+## Study Sessions:
+
+### 2021-02-01
+* jiný stroj (different machine)
+* jiny mus (different man)
+* starý stroj (old machine)
+* mlady mus (young man)
+* starý člověk (old person)
+* mlady strom (young tree)
+* Practiced lesson with a perfect score.
+
+![Perfect-Score](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/la-otra/Czech/Images/2021-02-02-Czech.jpg)
+

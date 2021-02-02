@@ -28,3 +28,22 @@ Below is a log of my study sessions in this section of the course.
 * Began Katakana 3 today: Jan 25, 2021. 
 * Earned level 1: Jan 25, 2021. 
 ![level1](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/japon%C3%A9s/Castle-2/Images/2021-01-25_earned-castle2-Katakana3-level-1.png)
+
+## 2021-02-01:
+*  バ 	[ba]
+*  ソ 	[so] (dash to the top is "mm")
+*  ク 	[kɯ]
+* ソ ウ ル {Seoul)
+* アムステルダム Amsterdam
+* バンクーバー Vancouver 
+*PERFECT PARTY! 
+* 
+* モ 	[mo]
+* ボ 	[bo]
+* ゼ 	[ze] 
+* ボ ス ト ン (Boston)
+* モスクワ Moscow
+* ロサンゼルス Los Angeles 
+*Perfect Party! Acing Skill!<br>
+
+
