@@ -152,13 +152,29 @@ font-weight: bold; to the element
 * Code Assignment: Make H4 uppercase via the Text-Transform proerty.
 
 ## [Set the font-size for Multiple Heading Elements](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/set-the-font-size-for-multiple-heading-elements)
-* Code Assignment 
+* FONT-SIZE proerpty is used to specify how large the text is for any given element. 
+* helps with visual consistency of the page. 
+* you can set H1 thru H6 to balance the heading styles. 
+* Code Assignment: In the style tags, set the font-size of the:
 
-## Set the font-weight for Multiple Heading Elements
-* Code Assignment 
+    h1 tag to 68px.
+    h2 tag to 52px.
+    h3 tag to 40px.
+    h4 tag to 32px.
+    h5 tag to 21px.
+    h6 tag to 14px.
 
-## Set the font-size of Paragraph Text
-* Code Assignment 
+
+
+## [Set the font-weight for Multiple Heading Elements](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/set-the-font-weight-for-multiple-heading-elements)
+* there is a FONT-SIZE which can be also set, like FONT-WEIGHT was
+
+* Code Assignment: Set the various elements of the H1 thru H6 tags to the weights specified in the exercise. 
+
+## [Set the font-size of Paragraph Text](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/set-the-font-size-of-paragraph-text)
+* FONT-SIZE isn't just limited to headings.
+* in CSS FONT-SIZE can be added to any element containing text. 
+* Code Assignment: change font-size for the paragraph to 16 px. 
 
 ## Set the line-height of Paragraphs
 * Code Assignment 
