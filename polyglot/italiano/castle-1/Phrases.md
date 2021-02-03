@@ -117,6 +117,23 @@ Results: Perfect Party.
 * Arrivederci Chiara. (Goodbye Chiara.) 
 * Si io sono l'uomo. (Yes, I am the man)
 * Grazie. Prego. (thank you. you are welcome)
-*  Buonanotte Chiara, good night Chiara. 
+* Buonanotte Chiara, good night Chiara. 
+
+### 2021-02-03 Restore Skill Set:
+* Buongiorno Mario (Good morning, Mario)
+* Prego! (You are welcome)
+* Buongiorno, Sofia. (Good morning, Sofia)
+* Grazie, ciao. (Thank you, bye.)
+* Si, per favore!  (Yes, please)
+* Grazie!  Prego. (Thank you.  You are welcome.)
+* Si, spiacente. (Yes. Sorry.)
+* Buonanotte Chiara. Good night. Chiara. 
+* Buonasera Giorgio. Good evening, Giorgio.
+* no.  Spiacente. No.  Sorry. 
+* Good-bye!  Arrivederci  or Ciao! 
+* Prego! Buonosera. You're welcome, good evening.
+* Good-bye!  Ciao! 
+* Si io sono l'uomo. Yes, I am the man.
+* Buonanotte Pietro. 
 
 
