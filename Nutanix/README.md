@@ -10,6 +10,7 @@ Spring of 2020 I enrolled in a scholarshp opportunity at Udacity.  I won a seat 
 
 
 ## Course Outline: 
+[Syllabus](https://github.com/EO4wellness/T-I-L/blob/main/Nutanix/Syllabus.md)
 
 ### On-Premises Private Cloud Automation
 
