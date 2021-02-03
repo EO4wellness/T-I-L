@@ -122,3 +122,25 @@ Try recording your voice saying the same words and then playing it back to compa
 * Dych chi'n mwynhau gwylio'r dail yn cwympo yn yr hydref?  (Do you enjoy watching the leaves fall in the autumn?)
 * Dych chi hoffi mis Tachwedd?  (Do you like November?) 
 * Dych chi'n gweithio ynghanol mis Mai? (Are you working in the middle of May?)
+
+### Restoration Session: 2021-02-03
+* Dw i'n hoffi'r gwanwyn.  (I like spring)
+* Dych chi'n gwisgo cot ym mis Gorffennaf. (Do you wear a coat in July?) 
+* Dw i'n mwynhau gweld y dial yn yr haf. (I enjoy seeing the leaves in the summer)
+* mis awst a mis medi  (August and September)
+* Dw i'n gwisgo cot ym mis Mawrth a mis Ebrill. (I wear a coat in March and April.)
+* mis Mehefin (June)
+* yn haf (the summer)
+* Dych chi'n hoffi'r gwanwyn?  Ydw.  (Do you like the spring? Yes.)
+* Dw i ddim yn hoffi mynd i Abertawe yn mis Rhagfyr. (I don't like going to Swansea in December)
+* Tymor yn haf (the summer term)
+* Mis Mawrth a mis Ebrill (March and April)
+* mis Gorffennaf (July) 
+* Dw i ddim yn gwisgo dillad gaeaf yn yr haf. (I do not wear winter clothes in the summer)
+* Dych chi'n hoffi mis Rhagfyr? Do you like December ? 
+* Dw i ddim yn gwisgo dillad gaeaf ym mis Gorffennaf. I do not wear winter clothes in July. 
+* Dych chi'n mynd i Aberdaron ym mis Rhagfyr? Are you going to Aberdaron in December  
+* Mis medi, mis ebrill, mis ionawr. September, April, January 
+* Mis Mai a mis mehefin May and June 
+* Dych chi eisiau prynu crys newydd ym mis Mehefin. (Do you want to buy a new shirt in June?)
+* 
