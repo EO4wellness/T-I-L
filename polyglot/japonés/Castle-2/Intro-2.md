@@ -169,3 +169,39 @@ sounds matching practice
 * ジョンさんはイタリア語が話せます。 John can speak Italian 
 * あの、お名前は何ですか？ Um, what is your name? 
 *  あの、すみません。 Um, excuse me. 
+
+### 2021-02-03 Study Session 
+* はなせ   話せ
+* 英語 は 話せ ますか？ | Can you speak English?
+* 私 は 英語 が 話せ ます。 | I can speak English.
+* はい (yes s/l 'hi') 
+* はい、日本語が話せます。 | Yes, I can speak Japanese.
+* 日本語 が 話せ ますか？ | Can you speak Japanese? 
+* 英語 が 話せ ます。 | I can speak English. 
+* 私は 日本語 が 話せ ます。| I can speak Japanese. 
+* 
+* げんき    元気 
+* き        気
+* ジョン さん は 英語 と 日本語 が 話せ ます。 
+John can speak English and Japanese. 
+* と    (and)
+* 英語   (English) 
+* 日本語 (Japanese) 
+* ジョンさん、お元気ですか？ | John, how are you? 
+* もちろん元気です。   | Of course I am well. 
+* もちろんです。       | Of course I am. 
+* Maria, how are you?
+
+         My Solution: マリア, お元気ですか？
+         Another correct solution:  マリアさん、お元気ですか？
+* え え。  (Yes)
+* はい   (Yes) 
+* 田中 先生 は日本語と英語が話せます。  | Professor Tanaka can speak Japanese and English. 
+* 英 語 と 日 本 語 が 話 せ ま す。 | I can speak English and Japanese. 
+* Yes, of course. 
+
+        My Solution: え え もちろん
+        Another correct Solution: はい、もちろんです。
+* え え、元 気 で す。 | Yes, I am good. 
+* お元気ですか？  | How are you? 
+  
