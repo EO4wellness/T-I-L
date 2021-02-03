@@ -43,3 +43,23 @@
 * ¿Cuándo llamas a tu hermano? (When do you call your brother? )<br> 
 * Mis padres conocen Alemania. (My parents know Germany.)<br>
 * Algunos niños no conocen la ciudad. (Some children don't know the city. or Some children aren't familiar with the city.)<br>
+
+### 2021-02-02 Restoration of skill set
+* Usualmente ayudamos a mamá en la mañana | Usually we help Mom in the morning.
+* No conozco a todo el mundo en esta fiesta. | I don't know everybody at this party. 
+* Nosotros amamos a nuestros padres. | We love our parents. 
+* Esta tienda, ya lo conozco. | This store, I already knew it. 
+* Ellos can a conocer lugares differentes. | They are goingt o get to know different places. 
+* Las ninas quieren conocer a la maestra nueva. | The girls want to meet the new teacher. 
+* Ellos ensenan espanol a mi hijo. | They are teaching Spanish to my son. 
+* Me interesa conocer otros museos. I am interested in getting to know other museums.
+* El nino quiere ayudar a la maestra. | The boy wants to help the teacher.  
+* Duo ayuda a los estudiantes de espanol. | Duo helps students of Spanish. 
+* Nosotros ensanamos Frances a Juan. | We are teaching French to Juan. 
+* La nina ensena espanol a su abuelo. | The girl is teaching her grandfather Spanish. 
+* Necesito ayudar a mis hermanos. | I need to help my brothers.  Another solution:  I need to help my siblings. 
+* La chica conoce algunas ciudades de Alemania. | The girl is famililar with some cities in Germany. 
+* Yo quiero visitar esos pueblos bonitos. | I want to visit those beautiful towns. 
+* Tu ayudas a tu mama todos los dias.  | Do you help your mom every day?
+* Jorge is going to visit his brothers.  | Jorge va a visitar a sus hermanos. 
+* Yo siempre ayudo a mis padres. | I always help my parents 
