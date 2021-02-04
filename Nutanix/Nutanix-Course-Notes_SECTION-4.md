@@ -970,35 +970,128 @@ Additional Optional Reading
 
 2.15 Quiz: Calm Providers 
 
+        Which of the following infrastructure providers does Calm Support: 
+        
+        My Answer:  AWS; Azure; AHV
+        
+        2. What are the steps you need to follow to create and configure a provider in calm?
+        
+        Navigate to the settings page
+        Click providers
+        click add provider 
+        name your profider
+        select the type and configure the provider 
+        
+        
 2.16 Calm: Projects 
+* Set of users or groups with a common set of requirements who need to use specific structure/function 
+* Calm Projects include: 
+        the roles assosicated with each of its members (or departments)
+        the networks they can use 
+        infrastructure to deploy unto
+        usage limits (optional)
+ * Projects are within Calm on their own menu
+ * Additional Optional Reading
+[Calm Projects Overview](https://portal.nutanix.com/page/documents/details?targetId=Nutanix-Calm-Admin-Operations-Guide-v3_0_0:nuc-components-projects-intro-c.html)
+[Projects Configuration](https://portal.nutanix.com/page/documents/details?targetId=Nutanix-Calm-Admin-Operations-Guide-v3_0_0:nuc-project-configuration.html)
+* Configure a Project in Calm:
+    1. Click on PROJECTS in the sidebar 
+    2. Click create a new project 
+    3. Specify general settings (users, groups, roles, quotas)
+    4. Configure the environment 
+    5. Save the completed project. 
+
 
 2.17 Quiz: Calm Projects 
 
+        QUiz included (above) ordering of what you do to set up a project. 
+        
+        The environement of a Project specifies the VM configurations that are used when launching a pre-seeded blueprint from the Marketplace. 
+
 2.18 Calm: Role-Based Access Control
+* Built in user roles:
+        Project Admin
+        Developer 
+        Consume
+        Operators 
+*  [Roles and Responsibilities](https://portal.nutanix.com/page/documents/details?targetId=Nutanix-Calm-Admin-Operations-Guide-v271:nuc-roles-responsibility-matrix-c.html)
+* Progressive set of capabilites defined by pre-set roles.
 
 2.19 Quiz Calm RBAC 
 
+Study the table of Calm Roles and Access/Permissions available here and then answer the following question.
+
+You have been assigned some blueprint creation work in Nutanix Calm. Based on the way your tasks have been explained to you, you understand that you need to be able to:
+
+    Create, update, and launch blueprints
+    Delete blueprints if necessary
+    Clone blueprints from the marketplace
+    Delete applications if needed
+
+What is the minimum level of permissions and the associated role that you will need to perform these tasks? When choosing the role, apply the principle of least privilege. That is, choose the role that grants you the bare minimum permissions that you need to perform your work.
+
+My Answer:  Developer
+That’s correct! The lowest possible role in the hierarchy that has the permissions you need for all of your tasks is Developer.
+
 2.20 Workspace Warmup
+Reserve Space.  "Your workspace has been reserved! Please continue to the next page."
 
 2.21 The Nutanix Marketplace 
+* Common platform for publishers and consumers. 
+* Provides a set of pre-seeded application blueprints available to be used
+* provides everything you need to get started with a new application
+* one way of thinking about it is blueprints are 'recipes' for new apps 
+* select your blueprint, view it, view the details, or deploy it. 
+* there is a filter to help you narrow your search 
+* single-click "clone" to modify settings 
+* deploy 
 
 2.22 Quiz: The Nutanix Marketplace 
 
+Which of the following activities can you perform in the Marketplace?
+
+
+View Application Details
+Clone Blueprints 
+Search for application 
+Launch application 
+
+
+You are consulting for the IT Department of a large outsourcing company. As part of their digital transformation and modernization efforts, the IT team is investing in technologies that enable self-service for their users, as well as several other automation efforts. They are already running Nutanix and have very recently introduced application automation via Calm to their portfolio of capabilities.
+
+
+However, they’re stuck on the self-service portion of their activities. While they’re now starting to create Calm blueprints to make apps available to users, they haven’t yet decided on a distribution mechanism. Presently, they are discussing leveraging their internal engineering team to build a custom web portal for them, to which they can upload these Calm blueprints and make them available for their internal users to download and work with.
+
+Do you agree with their approach?
+
+
+A:  No, they should be using Calm instead.  Since their already creating blueprints in Calm, publishing to the marketplace is the easiest way to enable self-service. 
+
+
 2.23 Exercise: Create a Calm Project 
+following on-screen instructions within Nutanix virtual login
+
 
 2.24 Exercise Solution: Create a Calm Project 
+video of the above tasks 
 
 2.25 Exercise: Publish Blueprint to Marketplace 
+a Nutanix lab
 
 2.26 Exercise: Solution: Publish Blueprint to Marketplace 
+video of the above tasks 
 
 2.27 Exercise: Launch a Blueprint 
+a Nutanix lab
 
 2.28 Exercise Solution: Launch Blueprint 
+video of the above tasks 
 
 2.29 Exercise Delete an Application 
+a Nutanix lab
 
 2.30 Exercise Solution: Deleting Applications 
+video of the above tasks 
 
 2.31 Glossary
 Glossary
@@ -1027,8 +1120,11 @@ Role-Based Access Control (RBAC) - Role-Based Access Control lets you define dif
 2.32 Lesson Conclusion 
 
 ## Lesson 3: Creating and Publishing a single VM Blueprint 
+
 ## Lesson 4: Creating and Publishing a multi-VM Blueprint 
+
 ## Lesson 5: Calm Automation for a 3-Tier Web Application 
+
 ## Project: Private cloud SaaS: 3-tier Web application 
 
 # HYBRID CLOUD ENGINEER: 
