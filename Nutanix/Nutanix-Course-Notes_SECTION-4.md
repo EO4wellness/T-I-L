@@ -505,21 +505,462 @@ To assign a category value to one or more entities, such as cluster, VM, image, 
 * If this is configured and working properly, after doing so, you will see a green text message stating: "Your workspace has been reserved! Please continue to the next page."
 
 1.21 Image Management 
+* Prism Image Management
+* Needs to provide benefits of:
+    - Hand-Free Replication 
+    - Upload directly 
+* inventory of images 
+* images are in the ISO format (or vdsk) 
+* To find Image Management:
+
+            Login --> Dashboardh --> Viritual Infrastructure --> Images 
+            View a directory of existing images 
+            can add an image from an URL
+            description 
+            policy where it will be consumed / used 
+            mark its categories 
+            place on a culture (specific), all or some clusters as needed 
+            then it populates in the image directory 
+* Intro to Image Manaement 
+* Direct Image Upload (ISO) 
+* UPload from a Remote Server (cloud) 
+* Modifying an Image
+        
+        To modify an image:
+        Go to Images.
+        Select the image you want to modify.
+        Select Update Image from the Action pull-down menu.
+        Make the desired changes.
+        Click Save.
+        
+        To delete an image, select the target image and then select Delete from the Action pull-down menu. 
+
+* Import Images 
+To import images:
+
+    Go to Images.
+    Click the import Images button.
+    Select Import type. a. To import all images from all registered clusters, click All Images. b.To import all images from a selection of registered clusters, click Images On a Cluster, and then select the clusters. c. To import specific images from a given cluster, click the Select Images link provided for the cluster. Select the images that you want to import and click Done. d. Repeat this step for all the clusters from which you want to import images.
+    To begin the import, click Save.
+    
+    Prism Central imports the metadata of the selected images and marks the images as read-only entities on the clusters.
+    
+* Image Management - in Nutanix the process has been optimized to make it quicker 
+* Additional Optional Reading
+    [Image Management](https://portal.nutanix.com/page/documents/details?targetId=Prism-Central-Guide-Prism-v5_17%3Amul-images-manage-pc-c.html)
+    [Nutanix Just Made AHV Image Management Painless](https://next.nutanix.com/blog-40/nutanix-just-made-ahv-image-management-painless-33144)
+
+
 1.22 Quiz: Image Management 
+
+        1. What happens when an image is imported to prism central? 
+        
+        My Answer:  Prisim Central importa the metadata of the selected images and marks the images as read-only entries on the clusters. 
+        
+        That’s right! When an image is imported to Prism Central, it imports the metadata of the selected images and marks the images as read-only entities on the clusters.
+        
+        2.  Which image upload method helps you overcome image file size limitations of modern browsers? 
+        My Answer: Uploading an image from a remote server. 
+        
+        That’s right! Uploading an image from a remote server helps you overcome file size limitations.
+        
+        3. An administrator wants to upload a 4 GB image file from a workstation. The administrator navigates to the Add Image page and then clicks the Add Image button. He then navigates to the location of the image, selects the image of his choice and clicks Open. The image upload fails. What could be the possible reason and how can it be fixed? 
+        
+        Most modern browsers impose file size limitations that affect this upload method.  If you must upload images larger than 2 GB, then you must upload the images from a remote server. 
+        
+        That’s right! When uploading an image file of size larger than 2 GB, you have to upload it from a remote server.
+
 
 1.23 Using Udacity Workspaces with Nutanix
 * This section was _HIGHLIGHTED_ during Orientation as being super improtant to understand and follow the instructions within it.  
 * Further, so far, every question I've seen any other students ask within the Student Hub, includes "refer back to this lesson" as part of (or entirely as) the answer to the student question(s). 
 * The entire lesson is a DEMO of how the Nutanix workspaces work within the Udacity classroom workspaces. 
+* Nutanix Frame - a virtual desktop service with a Windows 10 Desktop configured to do everything we need to do in Prism. 
+* Lab only lives for 4 hours.  SAVE FREQUENTLY! 
+* To save to your student workspace, go to the virtual windows 10 in the lab. 
+    go to "desktop"
+    then go to WORKSPACE 
+    
+    or
+    
+    this PC
+    desktop
+    workspace 
+    
+    SAVE your work
+    then "close session"
+    to navigate away 
+    
+    BLUEPRINT: 
+    
+    Navigate with the ENTITIES menu 
+    to Services
+    then CALM 
+    
+    the second menu icon from the top is "BLUEPRINTS"
+    click on it
+    find yours
+    select it with the check box
+    select the download
+    leave default
+    submit your project 
+    
+    when working on the exercises--SAVE them
+    when submitting your project blueprint DO NOT SAVE THEM
+    leave them default for the project submission 
+    https://youtu.be/Pxmbm1FZ9FY
 
+    
 
 1.24 Exercise: Image Management
+* Booting up Virtual Machine 
+
 1.25 Exercise Solution: Image Management
+* A set of instructions to follow until completion in the lab. 
+
 1.26 Glossary 
+Jump to content
+Email for accessibility support
+Lesson 1: Managing Multiple Cluster and Workload Resources
+
+1. Course Overview
+2. Lesson Overview
+3. The Big Picture
+4. Intro to Cluster & Workload Mgmt.
+5. Prism Element vs. Prism Central
+6. Quiz: Prism Element vs. Prism Central
+7. Understanding Prism Central
+8. Quiz: Understanding Prism Central
+9. Prism Central and Governance
+10. Quiz: Prism Central and Governance
+11. Identity Management
+12. Quiz: Identity Management
+13. Exercise: Identity Management
+14. Role-Based Access Control
+15. Quiz: Role-Based Access Control
+16. Categories
+17. Quiz: Categories
+18. Prism Central Projects
+19. Quiz: Prism Central Projects
+20. Workspace Warmup
+21. Image Management
+22. Quiz: Image Management
+23. Using Udacity Workspaces with Nutanix
+24. Exercise: Image Management
+25. Exercise Solution: Image Management
+26. Glossary
+
+    27. Lesson Conclusion
+
+    Mentor Help
+    Ask a mentor on our Q&A platform
+
+Glossary
+Glossary of Key Terms in this Lesson
+
+Authentication
+
+    Authentication is about verifying a user's identity against a trusted source of truth like Active Directory or any other IDP (Identity Provider).
+
+Authorization
+
+    After a user has been authenticated, authorization determines what permissions/access they have, and what they are allowed or not allowed to do.
+
+Categories
+
+    Categories are used to define groups of entities in which policies and enforcement are applied.
+
+Image management
+
+    A Prism Central feature that enables you to upload images to clusters and maintain an inventory of the images on them.
+
+Image service
+
+    Ensures that uploaded images are saved to a cluster, and copied to additional clusters whenever you need them, on-demand.
+
+IT governance
+
+    IT governance is an element of corporate governance, intended at enhancing the overall administration of IT and reaping improved value from investment in information and technology.
+
+Prism Central
+
+    The Nutanix scale-out control plane to manage multiple joined Nutanix clusters and provide advanced management capabilities from a single pane of glass web console.
+
+Project
+
+    A project defines a set of Active Directory with a common set of requirements or a common function, such as a team of people collaborating on an engineering project.
+
+Quota
+
+    A quota specifies a usage limit on an infrastructure resource (compute, memory, or storage) for the project.
+
+Role-Based Access Control (RBAC)
+
+    Role-Based Access Control ensures that only specified individuals get access to the data they should have access to and all access, requests, and grants are fully auditable.
+
+
 1.27 Lesson Conclusion
+To summarize, Prism Central manages multiple clusters across different locations and Prism Element manages an individual cluster. Prism is rich with various features that help to achieve IT governance.
+
+In order to manage multiple clusters and workloads Prism supports:
+
+    User authentication to authorize user’s identity.
+    Role-Based Access Control to ensure right users have access to the right resources.
+    Categories to define groups of entities for which policies and enforcement can be applied.
+    Prism Self Service to create projects without IT intervention.
+    Image management to manage images from a centralized location.
+
 
 
 ## Lesson 2: Calm Automation for Application Lifecycle Management 
+* In this lesson, we will automate VM workloads with Calm proviers, projects, and blueprints
+* We will use Marketplace and Marketplace managager. 
+
+2.1 Lesson Overview 
+* CALM Automation 
+* Prism Central lays the foundation for Automation 
+* other Nutanix products – Karbon, for containers; Era, for databases; Prism Pro, a license that adds machine learning, analytics, and advanced automation to Prism – are all closely integrated with Prism
+* Nutanix Calm automates application deployment and simplifies lifecycle management
+* centerpiece of this Private Cloud Automation course – a product called Nutanix Calm. 
+* Calm answers the growing challenge of enterprise application management, a problem that IT teams across the world have been wrestling with for years
+* learning about providers, projects, role-based access control, and marketplace publishing. 
+
+2.2 Growing Need for Simplication 
+* 2019 Vanson Bourne survey highlights how important Automation is
+* survey of 2650 IT personnel surveyd 
+* Is automating IT operations important to enterprises?  98% Yes.  56% extremely important! 
+* increased complexity 
+* growing complexity 
+* Growing challenges in app management 
+* Fragmented ownership - knowledge sillos. No one can help anyone else. 
+* Automate Mundane IT Tasks
+* Free up IT Time
+* Focus on: Cloud-line experience on-prem, conpetitive differentiation, strategic planning 
+* enabling the private cloud experinece to happen 
+* obsticals : popularity of hybrid models introduces management challenges 
+
+
+2.3 Intro to Application Management 
+* Blueprints are the HEART of CALM
+* Blueprints model business processes, infrastructure, operations, and governance 
+* Unify IT silos 
+* blueprints can be exported as a JSON file 
+* blueprints can be shared between people and departments 
+* common practice for blueprints to be placed under revision control 
+* public CALM blueprints freely available in my public Git repos 
+* Calm blueprints are software artifacts 
+
+
+2.4 What is Nutanix Calm? 
+* The basic Nutanix stack, as we've seen and studied so far is:
+
+        One-Click Operations 
+        Native Virtualization (AHV)
+        Server   Data Protection   Storage 
+        Networking 
+        
+ * Calm takes the previous studied Nutanix basic stack and adds the CALM portion atop of it. 
+ * This includes: Multi-Cloud Management and Application Automation
+ 
+ 
+        Multi-Cloud Management
+        Application Automation
+        One-Click Operations 
+        Native Virtualization (AHV)
+        Server   Data Protection   Storage 
+        Networking 
+* New CALM features rolling out in fall 2020. 
+* Application Automation and Multi-Cloud mangaement means:
+* Application Automation consists of 3 capabilities: app-centric automation & lifecycle management, policy-based governance, and self-service provisioning 
+* Multi-cloud managment includes abstracting applications from cloud infrastructure, deploying and managing applications on any cloud, and visibility and control of public, private, and hybrid cloud consumption 
+
+* Access CALM from Prism Central 
+
+            Logged in
+            Click on menu icon at top right 
+            Select Services 
+            Click on Calm 
+            
+* Automation products integrate easily with Prism. 
+* Within Prism, once opened by menu selection calm has its own icons.  
+* In order from top to bottom, the CALM icons are:
+        
+        Marketplace 
+        Blueprints
+        Applications
+        Library 
+        Runbooks
+        Endpoints
+        Settings
+        Marketplace Manager 
+        projects 
+        
+* Additional Reading: 
+[Nutanix Calm: Application Centric Automation](https://www.nutanix.com/content/dam/nutanix/resources/datasheets/ds-calm-application-centric-automation.pdf)
+[Introducing Nutanix Calm Video](https://youtu.be/afagsdg9Lpk)
+[App Centric Infrastructure for Any Cloud](https://www.nutanix.com/blog/app-centric-infrastructure-cloud)
+
+
+
+2.5 Quiz: What is Nutanix Calm? 
+
+        1.  Which of the following statements are true about Nutanix Calm?
+            __ Calm treats aplications as complete entities.
+            __ Calm provides sophisticated application security for enterprise-grade applications 
+            __ Calm optimizes aplication deployments and enables you to control and contain cloud spend.
+            __ Calm automates how applications are created, consumed, governed.
+            
+         My Answers:  Calm treats aplications as complete entities. and Calm automates how applications are created, consumed, governed.
+         
+         That’s right! A big part of Calm is application automation, and this is achieved by treating applications as complete entities. Calm eliminates the need for IT teams to manually deploy apps when they are requested, and automates those activities instead.
+
+        2. How is Nutanix Calm accessed?
+        
+        My Answer: Thru Prism Central 
+        
+        That’s right! Like most Nutanix products, Calm integrates with Prism Central so that you can manage everything from a single pane of glass.
+        
+        
+        3. You are working with the Senior IT Manager of a large financial services company, helping her and her team modernize their IT infrastructure. One of the items on their list - and yours - is to introduce some amount of automation to the ecosystem to reduce the company’s dependence on IT for manual, cumbersome tasks.
+        Because they are already running Nutanix, one of the applications that you have been evaluating is Nutanix Calm. After some study, you make a presentation of your findings to the IT Manager. She is interested, but having spent many years working with traditional, 3-tier architecture, she is concerned about adding another brand new piece of software with a brand new interface (and its own potential nuances) to the ones that her team is already working with.
+        Every new piece of specialized software requires specialized skills to use and she does not want to have to hire new team members exclusively to use one new product, especially when she isn’t yet confident of the benefits it will bring.
+        How do you respond to her concern?
+        
+        My Answer:  Calm integrates with and follows the same user interface (UI) design as Nutanix Prism. since the team is already running Nutanix, Calms user interface will be instantly familiar to them.  Calm doesn't add a new interface, it adds on functions to the existing interface. 
+
+        
+
+2.6 Exercise: Enable Nutanix Calm 
+
+        Log in to Nutanix Prism
+        Click on the ? in the upper left-hand corner 
+        Select the drop down menu for "New in Prism central" 
+        from there select "Enable App Management" 
+        Click Enable 
+        Click Save 
+        Monitor TASKS (blue circle next to ? in the upper right hand menu) 
+
+
+2.7 Workspace Warmup 1 
+* "Your workspace has been reserved! Please continue to the next page." 
+
+2.8 Generate an SSH Key Pair 
+* VM Iaas for Self-Serive IT
+* 3 Considerations: 
+        VMs
+        Security
+        Multiple cloud platoforms 
+* Linux-Unix like 
+* Linus has multiple distributions available.  For class we're using CENTOS
+* Community Enterprice Operating Systems (CentOS) 
+* Open source license 
+* Compatible with RedHat 
+* Has support community 
+* SSH (secure shell)
+* SSH is a form of public key authentication 
+* SSH vs passwords provides cryptographic strength that even long passwords don't offer. 
+* passwords are too weak and exploitable source for criminal and bot activities 
+* SSH is a KEY PAIR 
+* As such SSH has 2 parts 
+* SSH 2 parts are the PUBLIC key and the PRIVATE key 
+* A public key is distributed to a server 
+* though the public key, is public, it can only be access by a user having the coordinating private key
+* SSH encrypts data in transit anywhere on the network 
+* whereas private keys, because they remind with a user, serve as proof of the user's identity
+* Cloud-init provides dynamic, secure config 
+* Cloud-init is the industry standard for multi distirbution method of cross platform linux installation 
+* Cloud-init is also bare-metal friendly
+* Cloud-init can identify the host infrastructre provider during boot, read metadata, and initalize the OS 
+* We will use Cloud-init to create user account
+
+2.9 Quiz SSH Key Pairs 
+
+        1. What is a Linux distribution?
+        My Answer:  A complete Linux System 
+        
+        2. SSH key pairs involve two keys, namely....
+        My Answer: A public key and a private key. 
+        
+        That’s correct! The public key is used by the server to encrypt data, and the private key is used by the user to authenticate with the server.
+        
+        
+
+2.10 Exercise: Generate an SSH Key Pair
+
+            Access Lab 
+            Start Streaming 
+            
+
+2.11 Exercise Solution: Generate an SSH Key Pair 
+* followed the instructions, exactly, to do the steps involved. 
+* then watched this video showing these same steps 
+* returned to the exercise above "worksapce" to verify the key pair generated were saved
+* they were saved to the work folder 
+
+2.12 [Components of Calm Governance](https://classroom.udacity.com/nanodegrees/nd321/parts/89c29bc4-dd70-45d6-9d93-0b1e18d73ca2/modules/c617ce84-4be2-4b11-a90a-b25e2feb2ed3/lessons/93aa28ce-2260-4179-b871-58a82b57adf1/concepts/8825821d-409e-48b0-a861-49f495417f07)
+
+2.13 Quiz: Components of Calm Governance 
+
+2.14 Calm: Providers 
+
+2.15 Quiz: Calm Providers 
+
+2.16 Calm: Projects 
+
+2.17 Quiz: Calm Projects 
+
+2.18 Calm: Role-Based Access Control
+
+2.19 Quiz Calm RBAC 
+
+2.20 Workspace Warmup
+
+2.21 The Nutanix Marketplace 
+
+2.22 Quiz: The Nutanix Marketplace 
+
+2.23 Exercise: Create a Calm Project 
+
+2.24 Exercise Solution: Create a Calm Project 
+
+2.25 Exercise: Publish Blueprint to Marketplace 
+
+2.26 Exercise: Solution: Publish Blueprint to Marketplace 
+
+2.27 Exercise: Launch a Blueprint 
+
+2.28 Exercise Solution: Launch Blueprint 
+
+2.29 Exercise Delete an Application 
+
+2.30 Exercise Solution: Deleting Applications 
+
+2.31 Glossary
+Glossary
+
+Blueprint - Blueprints are essentially recipes for applications. These recipes encompass application architecture and Infrastructure choices, provisioning and deployment steps, application binaries, command steps, monitoring endpoints, remediation steps, licensing and monetization, and policies. Every time a blueprint is executed it results in an application.
+
+Calm - See: Nutanix Calm, below.
+
+CentOS - A Linux distributable. For more information, see: Linux, below.
+
+Cloud-init - Cloud-init is the industry standard multi-distribution method for cross-platform cloud instance initialization. It is supported across all major public cloud providers, provisioning systems for private cloud infrastructure, and bare-metal installations.
+
+Linux - Linux belongs to the family of Unix-like operating systems. It was written by Linus Torvalds and has the features that are typical of a modern Unix OS. To use Linux, you need to download a distributable, which is a complete Linux system.
+
+Marketplace The Marketplace is a common platform for both the publisher and the consumer, and provides you with the ability to provision an application instantly.
+
+Nutanix Calm - Nutanix Calm is a software product that provides advanced application-level orchestration that transforms how IT teams manage applications and support the business. Fully integrated into the Nutanix platform, Calm delivers a powerful, common management framework that can be simultaneously leveraged by multiple IT teams to rapidly create and deliver applications.
+
+Project - A project defines a set of Active Directory groups with a common set of requirements or a common structure and function, such as a team of engineers collaborating on a product. The project also specifies the roles to associate with its members, networks that they can use, infrastructure to deploy onto, and (optionally) usage limits on infrastructure resources.
+
+Providers - Providers are cloud service providers, bare-metals, or existing machines that you can use to deploy, monitor, and govern your applications.
+
+Role-Based Access Control (RBAC) - Role-Based Access Control lets you define different roles in an organization and assign permissions accordingly.
+
+
+2.32 Lesson Conclusion 
+
 ## Lesson 3: Creating and Publishing a single VM Blueprint 
 ## Lesson 4: Creating and Publishing a multi-VM Blueprint 
 ## Lesson 5: Calm Automation for a 3-Tier Web Application 
