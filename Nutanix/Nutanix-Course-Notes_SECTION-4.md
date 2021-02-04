@@ -898,10 +898,75 @@ In order to manage multiple clusters and workloads Prism supports:
 * they were saved to the work folder 
 
 2.12 [Components of Calm Governance](https://classroom.udacity.com/nanodegrees/nd321/parts/89c29bc4-dd70-45d6-9d93-0b1e18d73ca2/modules/c617ce84-4be2-4b11-a90a-b25e2feb2ed3/lessons/93aa28ce-2260-4179-b871-58a82b57adf1/concepts/8825821d-409e-48b0-a861-49f495417f07)
+* 4 Main Capabilities are Components of Calm Governance 
+    1. Providers - Public and Private cloud service providers 
+    2. Projects - defines a set of users and/or groups  with a common set of requirements
+    3. Role-Based Access control - RBAC define different roles within the organization and assign permissions appropriately.  
+    4. Marketplace Publishing - built in version control. 
+* RBAC
+
+        Marketplace (publish, clone, provision)
+        Blueprint (create, update, clone, delete, launch)
+        Applications (manage, edit, create)
+        Projects (add, update, assign resources)
+        User (add, change, remove, roles)
+
 
 2.13 Quiz: Components of Calm Governance 
 
+        1. Why is it necessary to configure a Provider in Calm? 
+        My Answer: A configured Provider allows Calm to manage applications using the provider's virtualization resources. 
+        
+        That’s right! Configuring a provider allows Calm to use the associated infrastructure’s resources when provisioning apps.
+        
+        2. What sort of information does a Calm project specify? 
+        
+        My Answer: Roles of members in a project; Infrastructure Usage limits; infrastructure resources that project members can use. 
+        
+        That’s right! A project allows members of a group with common requirements to collaborate; it defines the resources that members have access to; and it can also optionally specify usage limits that project members must adhere to.
+        
+        3.  What is the Marketplace? 
+        
+        My Answer:  A collection of application blueprints.
+        
+        That’s correct! The Marketplace provides users with a collection of blueprints that they can use to deploy an application.
+        
+
 2.14 Calm: Providers 
+* Public and Private service providers. 
+* Supported Providers include: 
+    Nutanix AHV
+    Nutanix VMWare
+    AWS
+    Gov Cloud 
+    Azure 
+    Google Cloud Platform
+    Nutanix Xi
+    Kubernetes 
+    VMWare vSphere
+    ESXi
+    Nutanix Karbon
+    GKE 
+    
+ * You can use any / all Providers to deploy, monitor, or govern your applications 
+ * You need to use one or more of the providers, configure it, and us it to create a blueprint.
+ * Nutanix AHV is native to 'what you get in box" with Nutanix.
+ * Providers have their own section under --> Main left-hand menu --> serices --> providers 
+ 
+ Configuring New Service Providers
+
+At a very high level, to add a new service provider, you need to:
+
+    Navigate to the Settings page in Calm.
+    Click Providers at the top of the screen. By default, the Settings page opens on the General tab.
+    Click + Add Provider.
+    Name your provider and select the Type from the drop down menu.
+
+You will then be required to provide configuration information specific to the type of provider you have selected.
+
+Additional Optional Reading
+[Providers Configuration](https://portal.nutanix.com/page/documents/details?targetId=Nutanix-Calm-Admin-Operations-Guide-v3_0_0:nuc-providers-configuration.html)
+
 
 2.15 Quiz: Calm Providers 
 
