@@ -891,9 +891,13 @@ In order to manage multiple clusters and workloads Prism supports:
             Start Streaming 
             
 
-2.11 Exercise Solution: Generate an 
+2.11 Exercise Solution: Generate an SSH Key Pair 
+* followed the instructions, exactly, to do the steps involved. 
+* then watched this video showing these same steps 
+* returned to the exercise above "worksapce" to verify the key pair generated were saved
+* they were saved to the work folder 
 
-2.12 Components of Calm Governance 
+2.12 [Components of Calm Governance](https://classroom.udacity.com/nanodegrees/nd321/parts/89c29bc4-dd70-45d6-9d93-0b1e18d73ca2/modules/c617ce84-4be2-4b11-a90a-b25e2feb2ed3/lessons/93aa28ce-2260-4179-b871-58a82b57adf1/concepts/8825821d-409e-48b0-a861-49f495417f07)
 
 2.13 Quiz: Components of Calm Governance 
 
