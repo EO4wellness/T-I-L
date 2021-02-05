@@ -71,3 +71,14 @@ Americanus 	American 	-us, -a, -um
 multi 	many 	-i, -ae, -a (plural)
 quid 	what, which 	3rd, neut.
 quot 	how many 	
+
+
+## 2021-02-05 Study Session 
+* Luvenius Novi Eboraci habitat. (The young man lives in New York)
+* Novum Eboracum non est in California (New York is not in CA)
+* Noven Eboracum est urbs Americana. (New York is an American city)
+* Marcus est Americanus. (Marcus is American)
+* Novum Eboracum in California non est. (New York is not in California)
+* Num est urbs.  (Surley itis not a city)
+
+
