@@ -177,13 +177,49 @@ font-weight: bold; to the element
 * Code Assignment: change font-size for the paragraph to 16 px. 
 
 ## Set the line-height of Paragraphs
-* Code Assignment 
+* CSS offers LINE-HEIGHT peropty
+* this changes the hieght of each line in a block of text 
+* changes the amount of vertical space that each line of text gets.
+* Code Assignment: add a 'line-height' propertyt to the P tag and set it to 25 px. 
 
 ## Adjust the Hover State of an Anchor Tag
-* Code Assignment 
+* this is use of a "pseudo-class"
+* a psuedo-class is a keyword that can be added to selectors in order to select a specific state of the element.
+* as an example, an anchor tag, can be changes for its hover state using the :hover pseudo-class selector
+* Example:  this use of a HOVER psuedo class selector within an anchor changes the color of the link.
+
+            a:hoover {
+                color: red;
+            }
+            
+* Code Assignment: the code editor has a css rule to style all A tags black. Add a rule so that when the user hoevers over the a tag, the color is blue.  
 
 ## Change an Element's Relative Position
-* Code Assignment 
+* CSS treats HTML as its own box. 
+* Generally, this is referred to as the CSS Box MOdel.
+* Block level items automatically start on a new line. (Think Headings, paragraphs, divs)
+* Inline items sit within the surrounding content (like images or spans)
+* the default layout of elements is called the nromal flow of the document. 
+* however, this normal flow cna be overwriden. 
+* when an element's position is set to RELATIVE it allows you to specify how CSS should move it relative to its current position. 
+this pairs with offset properties of left or right, top or bottom. 
+* these are expressed in how many pixels or percentages or ems to move the item away from where it was normally positioned in the normal flow. 
+* Example to move a paragraph 10 pixels away from the bottom
+
+            p {
+                position: relative;
+                bottom: 10px;
+            }
+* changing an element's position to relative does not remove it from the normal flow.  
+* the other elements around it, still behave as if that item were in its default position. 
+* positioning gives you a lot of flexibility in the visual layout of a page. 
+* even if your page looks differently, you need to still keep in mind the normal HTML (without the positioning adjustments) needs to make sense as many webpage visitors use text read outloud due to visual impairment (assistive devices like screen readers) 
+* Code Assignment: change th epoisition of the H2 tag to relative and use CSS to offset move it 15 pixels away from the top of where it sits in the normal flow.
+
+
+![100th-lesson](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/2021-02-06-completed-100-lessons.jpg)
+
+This completes my first 100 lessons with FreeCode Camp.
 
 ## Move a Relatively Positioned Element with CSS Offsets
 * Code Assignment 

@@ -185,3 +185,13 @@ Der Geldautomat ist hier
 * Die Universität in Berlin ist alt. The University in Berlin is old. 
 * I earned level 5 in the Directions, so now I've completed this skill set, with the exception of taking the final quiz on all of the skills in this skill set! 
 
+
+## 2021-02-06 Restoration of Skill Set 
+* Die Universitat in Berlin ist alt. (The university in Berlin is old)
+* Eine Universitat und ein park  (a uniservity and a park)
+* Ist die Universitat groß?  (Is the uniservity big?)
+
+
+*Perfect Score!  The rest of the review in this lesson consistent of sound files speaking on syllable and then selecting how that sound was spelled in letters (it didn't include whole sentences or words)*<br>
+
+
