@@ -49,3 +49,15 @@ tres 	three 	tres, tres, tria (plural)
 quattuor 	four 	indeclinable
 quinque 	five 	indeclinable
 quot 	how many 	indeclinable
+
+
+# Study Sessions:
+
+## 2021-02-06
+* My daughters and your brothers are sleeping. 
+Filiae meae et fratres tui dormiunt.
+* Filii mei non dormiunt. (My sons do not sleep)
+*  Fratres mei dormiunt. (My brothers sleep)
+*  Ubi dormiunt filii tui? or Ubi filii tui dormiunt. (Where do your sons sleep?) 
+* Filiae meae in urbe dormiunt or Filiae meae dorminunt in urbe. (My daughters sleep in the city)
+* 515 Day Streak
