@@ -214,7 +214,9 @@ this pairs with offset properties of left or right, top or bottom.
 * the other elements around it, still behave as if that item were in its default position. 
 * positioning gives you a lot of flexibility in the visual layout of a page. 
 * even if your page looks differently, you need to still keep in mind the normal HTML (without the positioning adjustments) needs to make sense as many webpage visitors use text read outloud due to visual impairment (assistive devices like screen readers) 
-* Code Assignment: change th epoisition of the H2 tag to relative and use CSS to offset move it 15 pixels away from the top of where it sits in the normal flow. 
+* Code Assignment: change th epoisition of the H2 tag to relative and use CSS to offset move it 15 pixels away from the top of where it sits in the normal flow.
+
+
 ![100th-lesson](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/2021-02-06-completed-100-lessons.jpg)
 
 This completes my first 100 lessons with FreeCode Camp.
