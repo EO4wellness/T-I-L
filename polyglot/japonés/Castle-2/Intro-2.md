@@ -205,3 +205,19 @@ John can speak English and Japanese.
 * え え、元 気 で す。 | Yes, I am good. 
 * お元気ですか？  | How are you? 
   
+  
+## Study Session 2021-02-06
+* ぼく  (僕)
+* しげる  (茂)
+* さくらさんは日本語が話せます。(Miss Sakura can speak Japanese.)
+* 僕 の名前は田中茂です。 (My name is _Shigeru_ Tanaka)
+* Miss Sakura, how are you? さくらさん、お元気ですか？
+* 僕の名前は本田茂です。  My name is Shigeru Honda
+* 僕の名前は本田さくら。  My name is Sakura Honda. also could be 私の名前は本田さくらです。 
+* 僕の名前は茂です。 My name is Shigeru 
+* 私の名前は田中さくらです。 My name is Sakura Tanaka. 
+* 茂さんは学生です。Mr Shigeru is a student. 
+* はい、私のものです。 Yes, it is mine. 
+* はい、私のです。 Yes, it is mine. 
+* 僕は英語が話せます  I can speak English 
+* さくらさんは先生です。
