@@ -222,10 +222,13 @@ this pairs with offset properties of left or right, top or bottom.
 This completes my first 100 lessons with FreeCode Camp.
 
 ## Move a Relatively Positioned Element with CSS Offsets
-* Code Assignment 
+* CSS offsets of TOP, BOTTOM, LEFT, or RIGHT tell the browser how far to offest an item relative to where it would have been in the normal flow of the page. 
+* if you are offsetting an element away from a given spot (effectively in th opposit direction) 
+* Code Assignment: Use CSS offsets to move the H2 15 pixels to the R and 10 pixels up. 
 
-## Lock an Element to its Parent with Absolute Positioning
-* Code Assignment 
+## [Lock an Element to its Parent with Absolute Positioning](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/lock-an-element-to-its-parent-with-absolute-positioning)
+* 
+* Code Assignment: Lock the #searchbar element to the top-right of its section parent by declaring its position as absolute. Give it top and right offsets of 5o px each. 
 
 ## Lock an Element to the Browser Window with Fixed Positioning
 * Code Assignment 
