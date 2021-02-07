@@ -85,7 +85,7 @@ Further information about learning Welsh is here
 
 ## Restore Skill Set Sessions:
 
-2020-12-31
+### 2020-12-31
 * Ydw. Dw i eisiau pêl.  (Yes, I want a ball)
 * Dych chi eisiau pêl? (Do you want a ball?)
 * Dych chi eisiau cyri moron? (Do you want a [carrot curry](https://www.food.com/recipe/carrot-curry-87646)?) 
@@ -114,3 +114,30 @@ Further information about learning Welsh is here
 * Dw i hoffi reis. (I like rice.)
 * Ydw. dw i eisiau reis. (Yes, I want rice.)
 
+
+### 2021-02-07
+* curi (a curry)
+* _Rwyt ti_ eisiau cawl a bara. (You want soup and bread?)
+* Dych chi eisiau bacwn. (Do you want bacon?) 
+* Dych chi eisiau cyri moron? (Do you want a carrot curry?)
+* y tatws (the potoatoes)
+* Dych chi eisiau mel, hefyd? (Do you want honey too?) 
+* Dw i'n hoffi pasta (I like pasta)
+* Dw i eisiau cryi moron. (I want a carrot curry.)
+* Dw i'n prynu car bore dydd Mawrth. (I am buying a car on Tuesday morning)
+* Dych chi eisiau moron? (Do you want carrots)
+* Dych chi eisiau tost, hefyd? (Do you want toast too?) 
+* Dych chi eisiau cawl moron? (Do you want carrot soup)
+* Dim diolch, dw i ddim eisiau pasta. (No thanks, I don't want pasta)
+* Dw i eisiau tatws a bacwn. (I want potatoes and bacon)
+* Dych chi eisiau _dysgu_ Cymraeg, hefyd? (Do you want to learn Welsh, too?)
+* Dw i eisiau bacwn. (I want some bacon)
+* Dych chi eisiau cawl tatws? (Do you want potato soup?)
+* Maen nhw'n clywed y car. (They hear the car.)
+* Mae Megan yn agor drws y car. (Megan is opening the car door.)
+* Ywd, dw i eisiau pasta. (Yes, I want pasta)
+* Rwyt ti (you want)
+* prynu (buy) 
+* agor (open) 
+* hefyd (too) 
+* dysgu (learn) s/l desk-key 
