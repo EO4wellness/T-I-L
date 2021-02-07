@@ -120,3 +120,28 @@ You may also meet ...o... (of) with a number and the plural noun, especially wit
 * Dych chi eisiau cwningen? Do you want a rabbit?
 * Dw i ddim eisiau crwban diolch. I don't want a tortoise, thank you. 
 <br>
+
+### 2021-02-27 Restoration skill set 
+* seven pigs (saith mochyn) 
+* Dolffin a morfil (a dolphin and a whale)
+* bees (gwenyn)
+* arth (a bear)
+* the owl (y dylluan)
+* Dych chi'n hoffi'r teigr yn y swyddfa? (Do you like the tiger in the office?)
+* Dw i'n mwynhau gwylio'r pili-pala. (I am enjoying watching the butterfly)
+* pum arth (5 bear)
+* gafr (goat)
+* wyth gafr (8 goats) 
+* saith gafr (7 goats)
+* Dw i'n hoffi'r pili-pala. (I like the butterfly)
+* Dw i'n hoffi'r dylluan. (I like the owl) 
+* carw a gwydd (a deer and a goose)
+* gwenynen (a bee)
+* gwenyn (bees) 
+* Dw i'n gwylio'r dolffin a chwe morfil. (I am watching the dolphin and six whales)
+* arth megan (Megan's bear)
+* Dych chi'n licio'r dylluan? (Do you like the owl?)
+* teigr (tiger)
+* swnci (monkey)
+* neidr (snake)
+
