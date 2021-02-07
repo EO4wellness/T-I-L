@@ -92,3 +92,28 @@ Further information about learning Welsh is at http://www.duolingo.com/comment/1
 * bore Mawrth (Tuesday morning)
 * prynhawn dydd marth (Tuesday afternoon)
 * dydd Sadwrn dydd Sul dydd iau (saturday, sunday, thursday)
+
+### 2021-02-07
+* prynhawn dydd llun (Monday afternoon)
+* prynhawn dydd llun a bore dydd mawrth (Monday afternoon and Tuesday morning)
+* dw i'n hoffi dydd llun (I like Monday)
+* Dw i'n hoffi dydd mawrth. (I like tuesday)
+* Dych chi'n hoffi dydd Gwener. (Do you like Friday)
+* dydd iau a dydd gwener (thrusday and friday) 
+* Dych chi'n hoffi dydd sul (do you like Sunday)
+* prynhawn dydd iau (Thursday afternoon)
+* bore dydd sul (sunday morning)
+* prynhawn dydd mawrth (tuesday afternoon)
+* prynhawn dydd sadwrn (saturday afternoon)
+* Dydd Mawrth a dydd Llun (Tuesday and Monday )
+* dydd Sadwrn dydd sul dydd iau (saturday, sunday, thursday)
+* prynhawn sul (sunday afternoon)
+* dydd iau a dydd gwener (thursday and friday)
+* bore dydd sadwrn (saturday morning) 
+* dw i'n hoffi dydd Mawrth (I like Tuesday)
+* Dych chi'n hoffi dydd Mercher. (Do you like Wednesday) 
+* Prynhawn dydd llun a bore dydd Mawrth  ( Monday afternoon and Tuesday morning)
+* dydd Mercher (wednesday)
+* Results:
+
+![perfect-party](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/gales/Castle-2/2021-02-07-perfect-party-restoration-skill-set.png)
