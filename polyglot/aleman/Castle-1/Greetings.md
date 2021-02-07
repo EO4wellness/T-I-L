@@ -9,7 +9,8 @@ Lots of German words have a silent _h_. This silent _h_ makes the vowel before i
 * es g_eh_t, auf Wieders_eh_en (as in “day”)
 * S_oh_n (as in “zone”) 
 
-### Skill Review Session 2020-12-29
+# STUDY SESSIONS
+## Skill Review Session 2020-12-29
 * OK Danke. (Okay, thanks.)
 * Bis bald, Vater! (See you soon, Father!)
 * Guten Morgen Spinne auf Wiedersehen Fliege. (Good morning, spider, goodbye, fly!)
@@ -23,3 +24,19 @@ Lots of German words have a silent _h_. This silent _h_ makes the vowel before i
 * Bis bald. (See you soon!)
 * Es tut mir leid.  (Sorry)
 *Had spelling errors on Wiedersehen, Wie Geht's, and willkommen*
+
+
+## Skill Review Session 2021-02-07 
+* Super! Prost!  (Great! Cheers!) 
+* Guten Abend (Good evening)
+* Guten Abend, wie geht's? (Good evening, how are you?) 
+* Es tut mir leid!  (I am sorry) 
+* Guten Morgan, Duo.  (Good morning, Duo)
+* Guten Morgen Spinne auf Wiedersehen Fliege. (Good morning, spider, goodbye, fly!)
+* OK, es tut mir leid. (Okay, I am sorry.)
+* Bis bald! (See you soon)
+* Bis bald, Vater! (See you soon, Father!)
+* Guten Abend, Anna (Good evening)
+* Auf Wieders_e_hen!  (Goodbye!)
+* Bis bald, Mutter! (See you soon, Mother. )<br>
+*Forgot the word Prost and its meaning.  Still working on spelling of Wiedersehen*<br>
