@@ -227,14 +227,25 @@ This completes my first 100 lessons with FreeCode Camp.
 * Code Assignment: Use CSS offsets to move the H2 15 pixels to the R and 10 pixels up. 
 
 ## [Lock an Element to its Parent with Absolute Positioning](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/lock-an-element-to-its-parent-with-absolute-positioning)
-* 
+* like "relative" we also have "absolute" for the CSS position property 
+* absolute locks the element in place relative to its parent container. 
+* unlike relative position, absolute position removes the element from the normal flow of the document. 
+* items surrounding an absolute position element, ignore the absolute element. 
+* One nuance with absolute positoning is that it is locked relative to its closest positioned ancestor.  
+*  If you forget to add a position rule to the parent item, (this is typically done using position: relative;), the browser will keep looking up the chain and ultimately default to the body tag.
 * Code Assignment: Lock the #searchbar element to the top-right of its section parent by declaring its position as absolute. Give it top and right offsets of 5o px each. 
 
-## Lock an Element to the Browser Window with Fixed Positioning
-* Code Assignment 
+## [Lock an Element to the Browser Window with Fixed Positioning](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/lock-an-element-to-the-browser-window-with-fixed-positioning)
+* Fixed Position is another layout style CSS offers. 
+* Fixed positionin is a type of absolute positioning that locks an element relative to the brower window. 
+* Fixed positioning is used with the CSS offest properties
+* Fixed positioning removes an element from the normal flow. 
+* One key difference between the FIXED and ABSOLUTE positions is that an element with a fixed position will not more when the website visitor scrolls. 
+* Code Assignment The navigation bar in the code is labeled with an id of navbar. Change its position to fixed, and offset it 0 pixels from the top and 0 pixels from the left. After you have added the code, scroll the preview window to see how the navigation stays in place.
 
-## Push Elements Left or Right with the float Property
-* Code Assignment 
+## [Push Elements Left or Right with the float Property](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/push-elements-left-or-right-with-the-float-property)
+
+* Code Assignment: The given markup would work well as a two-column layout, with the section and aside elements next to each other. Give the #left item a float of left and the #right item a float of right. 
 
 ## Change the Position of Overlapping Elements with the z-index Property
 * Code Assignment 
