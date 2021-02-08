@@ -111,7 +111,7 @@ New Vocabulary - Lesson 4
 * Hodie patrem nostrum visito.  (Today, I visit our father)
 * Hodie templum sacrum mihi placet. (Today the sacred temple pleases me) 
 * Vates ad aram it. (The bard goes to the alter)
-* Earned Level 2
+* Earned Level 1
 
-![level2](#)
+![level1](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/Latin/Castle-2/Images/2021-02-08-earned-level2-castle2-routines.png)
 
