@@ -30,10 +30,10 @@
         Started: 
     
 
-* [Routines](#) 
+* [Routines](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/Latin/Castle-2/Routines.md) 
     
          Skill set open to study: 2021-01-28
-        Started: 
+         Started: 
     
 
 * [Emotions](#) 
