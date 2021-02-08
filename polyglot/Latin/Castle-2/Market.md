@@ -1,33 +1,37 @@
 # Market 
 Skill set opened for study: 2021-01-28
 
-Market
-I would like
 
-In English we use the phrase would like when requesting something politely (in a shop, restaurant etc.). In Latin, however, we need a special verb form to express this. You would use velim in such situation.
-Subject 	Verb
-ego 	velim
-tu 	velis
-is, ea 	velit
-nos 	velimus
-vos 	velitis
-ii, eae 	velint
+## "I would like"
+* In English, we use the phrase "would like" when requesting something politely (in a shop, restaurant etc.). 
+* In Latin, however, we need a special verb form to express this. 
+* You would use velim in such situation.
+* Note: (Velim is the subjunctive of velle, volo, to want. For now, you don't need to remember this information.)
+* Example: 
 
-(Velim is the subjunctive of velle, volo, to want. For now, you don't need to remember this information.)
-Da mihi vinum!
+            __Subject__ 	    __Verb__
+            ego 	        velim
+            tu 	            velis
+            is, ea 	        velit
+            nos 	        velimus
+            vos 	        velitis
+            ii, eae 	    velint
+            
 
-We have encountered mihi, tibi and ei earlier in the course. (Nomen mihi est...) These words respectively mean to me, to you (sg), and to him/her.
 
-This is the indirect object, which is in the dative case. You can find the indirect object by asking the question "To/For whom?".
+## Da mihi vinum!
+* We have encountered mihi, tibi and ei earlier in the course. (Nomen mihi est...) 
+* These words respectively mean to me, to you (sg), and to him/her.
+* This is the indirect object, which is in the dative case. 
+* You can find the indirect object by asking the question "To/For whom?".
+*  Example:
 
-Example:
+          I give the book to him. To whom ? -> to him
+          I am sending you an email. To whom? -> (to) you
+          Give me the wine! To whom? -> (to) me
 
-    I give the book to him. To whom ? -> to him
-    I am sending you an email. To whom? -> (to) you
-    Give me the wine! To whom? -> (to) me
 
-Imperative (singular)
-
+## Imperative (singular)
 Da mihi panem! - Give me the bread!
 
 The verb in this sentence, da, is an imperative. This verb mood is used for commands (when you want to tell someone they must do something). Command sentences do not have a subject.

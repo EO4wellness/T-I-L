@@ -61,3 +61,36 @@ Filiae meae et fratres tui dormiunt.
 *  Ubi dormiunt filii tui? or Ubi filii tui dormiunt. (Where do your sons sleep?) 
 * Filiae meae in urbe dormiunt or Filiae meae dorminunt in urbe. (My daughters sleep in the city)
 * 515 Day Streak
+
+## 2021-02-08
+* Where do your sons live?  | Ubi habitant filii tui?
+* Puellae in Italia sunt. | The girls are in Italy. 
+* Ubi student filii tui | Where do your sons study? 
+* Feminae dormiunt.  THe women sleep.
+* Filiae tuae habitant Romae. | Your daughters live in Rome.
+* Filiae meae domi student. | My daughters study at home. 
+* Filiae tuae in Italia habitant. | Your daughters live in Italy
+* 517 Day Study Streak. 
+
+### 2021-02-08 Study Session:
+* Quinque feminae domi dormiunt. (Five women are sleeping at home.)
+* puellae (girls) 
+* puella (girl)
+* feminae (women)
+* femina (woman)
+* duo viri student. (The two men study)
+* Pueri sunt Romae. (The boys are in Rome) 
+* Duo peuri et duae puellae student. (Two boys and two girls study) 
+* 
+* Quattuor feminae dormiunt. (Four women sleep) 
+* Ubi sunt sorores tuae?  (Where are your sisters?)
+* Suntne tres feminae?  (Are there three women?)
+* Quot sorores habet Corinna?  (How many sisters does Corinna have?)
+* Multae puellae dormiunt. (Many girls sleep) 
+* Suntne feminae domi? (Are the women at home?) 
+* pueri (boys)
+* puer (boy)
+* Quattuor pueri et multae puellae dormiunt. (Four boys and many girls sleep.) 
+* Perfect score. 
+* Earned level 2. 
+
