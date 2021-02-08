@@ -61,3 +61,15 @@ Filiae meae et fratres tui dormiunt.
 *  Ubi dormiunt filii tui? or Ubi filii tui dormiunt. (Where do your sons sleep?) 
 * Filiae meae in urbe dormiunt or Filiae meae dorminunt in urbe. (My daughters sleep in the city)
 * 515 Day Streak
+
+## 2021-02-08
+* Where do your sons live?  | Ubi habitant filii tui?
+* Puellae in Italia sunt. | The girls are in Italy. 
+* Ubi student filii tui | Where do your sons study? 
+* Feminae dormiunt.  THe women sleep.
+* Filiae tuae habitant Romae. | Your daughters live in Rome.
+* Filiae meae domi student. | My daughters study at home. 
+* Filiae tuae in Italia habitant. | Your daughters live in Italy
+* 517 Day Study Streak. 
+
+
