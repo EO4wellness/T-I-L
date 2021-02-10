@@ -11,7 +11,6 @@ By Czech_Rep._-_Bohemia,_Moravia_and_Silesia_III.png: *Czech_Rep._-_Bohemia,_Mor
 
 
 ## [Study Logs](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/la-otra/Czech/study-log)
-* [2021-Jan](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/la-otra/Czech/study-log/2021-Jan.md)
 
 ## [Images](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/la-otra/Czech/Images)
 
