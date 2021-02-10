@@ -91,7 +91,7 @@ Time to review this previously finished skill set.
 * Ano, dobrý večer. Yes, good evening. 
 * Dobrou noc! | GOod night. 
 * Ne ja jsem Zofie. |  No, I am Zofie.
-* Ano, ahoy!  | Yes, hi. 
+* Ano, ahoj!  | Yes, hi. 
 * Ano, dobry den.  Yes, hello. 
 * Dobre odpoledne!  | Good afternoon. 
 * Dalsi noc | Another night. 
@@ -102,3 +102,18 @@ Time to review this previously finished skill set.
 * Děkuji dobrou noc. 
 * Ne, Matěj jsem já. | No, I Matej.
 * Na shledanou, děkuji. Good bye thank you. 
+
+
+### 2021-02-09 Restoration of Skill-Set Study Session:
+* Ano, prosím. Yes, please. 
+* Ne! No
+* Na shledanou! Goodbye. 
+* Dobré odpoledne! (good afternoon) 
+* Hezký víkend! (Have a good weekend)
+* Ano, dobrou noc.  Yes.  Good night.
+* Dobré odpoledne. (good afternoon)
+* Ahoj, dobrou noc! (Bye, good night)
+* Na shledanou! (Good bye)
+* Ano, dobrou noc. (Yes, good night.)
+* Dobré odpoledne! (good afternoon)
+* Ano dobry den. (Yes, hello)
