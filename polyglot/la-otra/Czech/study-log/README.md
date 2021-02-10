@@ -6,6 +6,7 @@
 
 # Study Log: 
 
+:beers: 2021-02-09: [Basics 1 Restored](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/la-otra/Czech/Castle1/Hello.md)<br>
 :beers: 2021-02-02: Compelted 1 new lesson in "Masculine" skill set <br>
 :beers: 2021-02-01: Reviewed "Hello!" and studied "Masculine" <br>
 :beers: 2021-01-27: Reviewed "Hello" <br> 

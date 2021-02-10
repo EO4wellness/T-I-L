@@ -244,16 +244,26 @@ This completes my first 100 lessons with FreeCode Camp.
 * Code Assignment The navigation bar in the code is labeled with an id of navbar. Change its position to fixed, and offset it 0 pixels from the top and 0 pixels from the left. After you have added the code, scroll the preview window to see how the navigation stays in place.
 
 ## [Push Elements Left or Right with the float Property](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/push-elements-left-or-right-with-the-float-property)
-
+* there is also a positioning tool called FLOAT
+* the FLOAT property of an element bypasses normal positioning
+* float pushes the content either to the left or the right of its containing parent element 
+* it is commonly used with the WIDTH property to speciify how much of the horizontal space the floated element requires. 
 * Code Assignment: The given markup would work well as a two-column layout, with the section and aside elements next to each other. Give the #left item a float of left and the #right item a float of right. 
 
-## Change the Position of Overlapping Elements with the z-index Property
-* Code Assignment 
+## [Change the Position of Overlapping Elements with the z-index Property](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/change-the-position-of-overlapping-elements-with-the-z-index-property)
+* if elements are positioined to overlap (from position: aboslute | relative | fixed | or sticky) the element cooming later int he HTML markup will by default appear on the top of the other elements. 
+* the Z-INDEX property element moves it higher in the stack than those with lower values. 
+* Code Assignment: Add a z-index property to the element with the class name of first (the red rectangle) and set it to a value of 2 so it covers the other element (blue rectangle).
 
 ## Center an Element Horizontally Using the margin Property
-* Code Assignment 
+* to center a block element horizontally, the MARGIN value can be used
+* setting MARGIN to auto will center it
+* this method works for images as well 
+* by default, images are inline
+* images can be changed to block elements when you set the DISPLAY poperty to BLOCK 
+* Code Assignment: Center the div on the page by adding a margin property with a value of auto.
 
-## Learn about Complementary Colors
+## [Learn about Complementary Colors](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/learn-about-complementary-colors)
 * Code Assignment 
 
 ## Learn about Tertiary Colors
