@@ -1,3 +1,6 @@
+![france](https://upload.wikimedia.org/wikipedia/commons/d/d8/Notre-Dame_de_Paris-France.JPG)
+_photo credit: [Gilbert Bochneck](https://commons.wikimedia.org/wiki/File:Notre-Dame_de_Paris-France.JPG)_ 
+
 # T-O-C Images:
 * [Earned Level 5 of Castle 1 Basics 1 French on Duo 1-13-2021](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/la-otra/images/french/2021-01-21-French-Castle1-skil1-earned-level4.png)
 * [Earned Level 5 Castle 1 Basics 1 Duo French Course](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/la-otra/images/french/2021-01-13-earned%20crown-french.png)
