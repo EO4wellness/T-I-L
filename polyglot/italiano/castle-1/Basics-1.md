@@ -73,3 +73,22 @@
 * Tu mangi il pane. (You eat the bread)
 * Io mangio una mela (I eat an apple)
 
+## Restore 2021-02-09
+* I drink | io bevo 
+* un ragazzo | a boy 
+* tu mangi | you eat 
+* tu sei una ragazza | you are a girl 
+* la mela | the apple 
+* Tu sei un ragazzo. Io sono un uomo. (You are a boy; I am a man)
+* io sono un ragazzo. (I am a boy) 
+* Bevo l'acqua. (I drink the water)
+* Tu bevi (you drink)
+* Tu sei un ragazzo. (You are a boy)
+* Io bevo (I drink)
+* You eat THE apple.  Tu mangi la mela
+* La donna mangia la mela. The woman eats the apple. 
+* Tu sei una donna. You are a woman
+* Io sono una donna. I am a woman.
+* Tu bevi You drink 
+* Bevi acqua You drink water 
+
