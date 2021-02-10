@@ -60,3 +60,16 @@ I began studying this skill set topic on 1/31/2021
 * Mae hi'n mynd adre (She is going home)
 * YOu do not want tea. Dwyt ti ddim eisiau te
 * Dydy Owen ddim yn mynd adre. Owen is not going home.
+
+## 2021-02-09 Study Session:
+* Dych chi eisiau gweld y car newydd?  (Do you want to see the new car?) 
+* Sut dych chi, Eleri Lingo?  (How are you Eleri Lingo?) 
+* Sut dych chi, Gareth?  Wedi blino! (How are you, Gareth. Tired!)
+* Mr Lingo dych chi?  (Are you Mr. Lingo?)
+* Dydy Megan ddim eisiau mefus. (Megan does not want strawberries) 
+* Sut dych chi, Sioned?  (How are you, Sioned?)
+* Mae hi eisiau yfed dŵr. (She wants to drink water.)
+* Dydy hi ddim yn hoffi Mr Lingo (She does not like Mr Lingo)
+* Mae Mr Lingo eisiau gweld y car newydd. (Mr Lingo wants to see the new car)
+* Mae hi eisiau mynd adre. (She wants to go home)
+* 
