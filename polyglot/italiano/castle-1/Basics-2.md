@@ -61,4 +61,26 @@
 ![progress](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/italiano/castle-1/2020-12-29-finished-level.png)
 
 
+## 2021-02-10 Restore Skill set
+* Noi siamo donne.  (We are women)
+* Voi leggete il libro.  (You read the book)
+* Scrivi. (You write)
+* Noi scriviamo, voi scrivete. (We write.  You write)
+* We write (Noi scriviamo)
+* Noi siamo uomini. (We are men)
+* You write (Scrivete)
+* Voi leggete (You read)
+* Siamo donne. (We are women)
+* voi scrivete un libro (you write a book)
+* Tu leggi un libro. (You read a book)
+* Noi scriviamo un libro (We write a book)
+* Voi leggete un libro (You read a book)
+* Tu leggi un libro. (You read a book)
+* Tu scrivi (You write)
+* Tu leggi il libro. (You read the book)
+* Loro sono donne. (THey are women)
+* Tu scrivi il libro. (You write the book)
+* Sono ragazze (They are girls) or Loro sono ragazze.
+* Siamo ragazze. (We are girls) or Noi siamo ragazze. 
+* Perfect Party! 
 
