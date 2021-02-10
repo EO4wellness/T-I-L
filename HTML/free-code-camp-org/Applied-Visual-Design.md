@@ -264,10 +264,36 @@ This completes my first 100 lessons with FreeCode Camp.
 * Code Assignment: Center the div on the page by adding a margin property with a value of auto.
 
 ## [Learn about Complementary Colors](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/learn-about-complementary-colors)
-* Code Assignment 
+* Color theory has an important impact within design. 
+* only the basics are covered in this course. 
+* other information is available as this is a deep topic. 
+* changing the colors make the websie look very differently even with the same content
+* a lot of thought can go into the color palette which best matches the content. 
+* one tool is the color wheel
+* it can help us visualize how the colors relate to one another
+* in the color wheel, the hues closer in relationship are nearer to one another.
+* the colors farther away are less similar in hue.
+* completmentary colors "cancel" each other out when combined. 
+* complementary colors combined are generally grey. 
+* side-by-side complementary colors have the most vibrant contrast.
+* examples of complementary colors and their HEX code
+    
+            red (#FF0000) and cyan (#00FFFF)
+            green (#00FF00) and magenta (#FF00FF)
+            blue (#0000FF) and yellow (#FFFF00)
+
+* the HEB colors are differeent complementary colors schemes than the outdated RYB color model used in elementary schools. 
+* modern color theory uses the additive RGB model
+and the substractive CMY model 
+* more info: https://en.wikipedia.org/wiki/Color_model 
+* online there are many color picking tools. 
+* Color can convey powerful messages. 
+* however, color alone should not be the only way to communicate the message, as there are visually impared websie visitors.
+* more info on the visually impared later on 
+* Code Assignment " Change the background-color property of the blue and yellow classes to their respective colors. Notice how the colors look different next to each other than they do compared against the white background. 
 
 ## Learn about Tertiary Colors
-* Code Assignment 
+* Code Assignment
 
 ## Adjust the Color of Various Elements to Complementary Colors
 * Code Assignment 
