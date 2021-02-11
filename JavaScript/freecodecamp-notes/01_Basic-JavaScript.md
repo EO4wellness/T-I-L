@@ -92,7 +92,7 @@
 * now myNum and myVar both have the value of 5 associated with them
 * CODE ASSIGNMENT: Assign the contents of a to b
 
-## [Initializing Variables with the Assignement Operator](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/initializing-variables-with-the-assignment-operator}
+## [Initializing Variables with the Assignement Operator](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/initializing-variables-with-the-assignment-operator)
 * While in the above examples, we didn't declare a variable and set its intial value, this isn't the most common practice. 
 * Generally when variables are declared, we also set their value all in the same step. 
 * CODE ASSIGNEMENT: Define a variable _a_ with _var_ and initialize it to the value of _9_
