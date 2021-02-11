@@ -74,8 +74,7 @@
 * The above example code creates a variable named myVar
 * it then assigns 5 to the myVar variable 
 * if myVar occurs anywhere else in the code, it will now treat it as if it were 5 (unless it is changed)
-*	CODE ASSIGNEMENT:
-		assign the value 7 to the variable a 
+* CODE ASSIGNEMENT: assign the value 7 to the variable a 
 
 
 ## [Assigning the Value of One Variable to Another](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/assigning-the-value-of-one-variable-to-another)
@@ -93,7 +92,7 @@
 * now myNum and myVar both have the value of 5 associated with them
 * CODE ASSIGNMENT: Assign the contents of a to b
 
-##[Initializing Variables with the Assignement Operator](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/initializing-variables-with-the-assignment-operator}
+## [Initializing Variables with the Assignement Operator](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/initializing-variables-with-the-assignment-operator}
 * While in the above examples, we didn't declare a variable and set its intial value, this isn't the most common practice. 
 * Generally when variables are declared, we also set their value all in the same step. 
 * CODE ASSIGNEMENT: Define a variable _a_ with _var_ and initialize it to the value of _9_
@@ -104,6 +103,9 @@
 * NaN means Not a Number 
 * if you concatenate a string with an UNDEFINED variable, you will get a literal string of "undefined"
 * CODE ASSINGMENT: Initialize the 3 variables a, b, and c, with 5, 10, and "I am a" respectively, so that they will not be undefined. 
+
+
+_End of 2021-02-12 Study Session_
 
 ## [Understanding Case Sensitivity in Variables](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/understanding-case-sensitivity-in-variables)
 *
