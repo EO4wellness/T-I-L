@@ -43,3 +43,15 @@ cotidie 	daily
 
 # Study Sessions:
 Unlocked this section of the course on Jan 28, 2021. Began studying this skill set after unlocking it.
+
+## 2021-02-11
+* Matrem severam habes. (You have a strict mother)
+* Patrem benignum habeo. (I have a kind father.)
+* Matrem servamus (We save mother)
+* Illa quoquoe est mater. (She is also a mother)
+* Marcus quoquo patrem servat. (Marcus also saves father)
+* Ille est pater benignus. (He is a kind father)
+* Servat me et servo illum. also acceptable as:
+  Ille me servat et ego illum servo. 
+  means: He saves me and I save him. 
+* 

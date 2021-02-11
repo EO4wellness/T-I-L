@@ -13,11 +13,11 @@ An outline of my journey to learn JavaScript
 ## Introduction to JavaScript:
 JavaScript is a high-level programming language that all modern web browsers support. It is also one of the core technologies of the web, along with HTML and CSS that you may have learned previously. This section will cover basic JavaScript programming concepts, which range from variables and arithmetic to objects and loops.
 
-### Free Code Camp course
+## Free Code Camp course
 * It is recommended this course will take 300 hours to complete. 
 * Course Name: JavaScript Algorithms and Data Structures Certification
 
-Course Outline: 
+### Course Outline: 
 * [Basic JavaScript](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/Basic-JavaScript.md) (111 units)
 * [ES6](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/ES6.md) (31 units) 
 * [Regular Expressions](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/Regular-Expressions.md) (33 units) 
@@ -28,5 +28,25 @@ Course Outline:
 * [Functional Porgramming](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/Functional-Porgramming.md) (24 units)
 * [Intermediate algorithm Scripting](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/Intermediate-Algorithm-Scripting.md) (21 units)
 * [JavaScript Algorithms and Data Structures Projects](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/JavaScript-Algorithms-and-Data-Structures-Projects.md) (5 units) 
+
+
+## Udacity
+* Before begining the "Today I Learned (TIL)" repo, I already had a Udacity-specific repo.  
+* I decided to maintain both. 
+* [Udacity studies and related Codes](https://github.com/EO4wellness/leary-leerie/tree/master/JavaScript)
+
+### Course Outline: 
+* [ReadMe](https://github.com/EO4wellness/leary-leerie/tree/master/JavaScript)
+* [Lesson 1](https://github.com/EO4wellness/leary-leerie/blob/master/JavaScript/Lesson1.md)
+* [Lesson 2](https://github.com/EO4wellness/leary-leerie/blob/master/JavaScript/Lesson2.md)
+* [Lesson 3](https://github.com/EO4wellness/leary-leerie/blob/master/JavaScript/Lesson3.md)
+* [Lesson 4](https://github.com/EO4wellness/leary-leerie/blob/master/JavaScript/Lesson4.md)
+* [Lesson 5](https://github.com/EO4wellness/leary-leerie/blob/master/JavaScript/Lesson5.md)
+* [Lesson 6](https://github.com/EO4wellness/leary-leerie/blob/master/JavaScript/Lesson6.md)
+* [Lesson 7](https://github.com/EO4wellness/leary-leerie/blob/master/JavaScript/Lesson7.md)
+* [Code Library](https://github.com/EO4wellness/leary-leerie/blob/master/JavaScript/code%20samples/Readme.md)
+
+## W3Schools 
+* 
 
 Nav: [Basic JavaScript](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/01_Basic-JavaScript.md) | [ES6](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/02_ES6.md) | [Regular Expressions](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/03_Regular-Expressions.md) |  [Debugging](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/04_Debugging.md) | [Basic Data Structures](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/05_Basic-Data-Structures.md) | [Basic Algorithm Scripting](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/06_Basic-Algorithm-Scripting.md) |  [Object Oriented Programming](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/07_Object-Oriented-Programming.md) | [Functional Porgramming](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/08_Functional-Porgramming.md) | [Intermediate algorithm Scripting](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/09_Intermediate-Algorithm-Scripting.md) | [JavaScript Algorithms and Data Structures Projects](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/10_JavaScript-Algorithms-and-Data-Structures-Projects.md)

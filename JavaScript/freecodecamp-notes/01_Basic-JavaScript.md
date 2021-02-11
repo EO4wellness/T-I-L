@@ -74,10 +74,525 @@
 * The above example code creates a variable named myVar
 * it then assigns 5 to the myVar variable 
 * if myVar occurs anywhere else in the code, it will now treat it as if it were 5 (unless it is changed)
-*	CODE ASSIGNEMENT:
-		assign the value 7 to the variable a 
+* CODE ASSIGNEMENT: assign the value 7 to the variable a 
 
 
 ## [Assigning the Value of One Variable to Another](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/assigning-the-value-of-one-variable-to-another)
+* once a variable's value is assigned using the ASSIGNEMENT OPERATOR, you can assign the value of that variable to another variable.
+* Example Code of Concept: 
+			var myVar;
+			myVar = 5;
+			var myNum;
+			myNum = myVar;
+			
+* this sample code beings by declaring myVar but doesn't give it any value.
+* next, the declared variable (myVar) is given the value of 5
+* then a new variable named myNum is declared.  again it is not yet given any value.
+* then myNum is given the value of myVar (which is 5)
+* now myNum and myVar both have the value of 5 associated with them
+* CODE ASSIGNMENT: Assign the contents of a to b
+
+## [Initializing Variables with the Assignement Operator](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/initializing-variables-with-the-assignment-operator)
+* While in the above examples, we didn't declare a variable and set its intial value, this isn't the most common practice. 
+* Generally when variables are declared, we also set their value all in the same step. 
+* CODE ASSIGNEMENT: Define a variable _a_ with _var_ and initialize it to the value of _9_
+
+## [Understanding Uninitialized Variables](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/understanding-uninitialized-variables)
+* When ever a variable is declared in JavaScript, it begins with an initial value of UNDEFINED.
+* If you attempt to do a mathematical operation on an UNDEFINED variable, your result will be NaN
+* NaN means Not a Number 
+* if you concatenate a string with an UNDEFINED variable, you will get a literal string of "undefined"
+* CODE ASSINGMENT: Initialize the 3 variables a, b, and c, with 5, 10, and "I am a" respectively, so that they will not be undefined. 
+
+
+_End of 2021-02-12 Study Session_
+
+## [Understanding Case Sensitivity in Variables](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/understanding-case-sensitivity-in-variables)
+*
+* CODE ASSIGNMENT: 
+
+## [Understanding Case Sensitivity in Variables](#)
+*
+* CODE ASSIGNMENT: 
+
+## [Add Two Numbers with JavaScript](#)
+*
+* CODE ASSIGNMENT: 
+
+## [Subtract One Number from Another with JavaScript](#)
+*
+* CODE ASSIGNMENT:
+
+## [Multiply Two Numbers with JavaScript](#)
+*
+* CODE ASSIGNMENT:
+
+
+## [Divide One Number by Another with JavaScript](#)
+*
+* CODE ASSIGNMENT:
+
+
+## [Increment a Number with JavaScript](#)
+*
+* CODE ASSIGNMENT:
+
+
+## [Decrement a Number with JavaScript](#)
+*
+* CODE ASSIGNMENT:
+
+
+## [Create Decimal Numbers with JavaScript](#)
+*
+* CODE ASSIGNMENT:
+
+
+## [Multiply Two Decimals with JavaScript](#)
+*
+* CODE ASSIGNMENT:
+
+## [Divide One Decimal by Another with JavaScript](#)
+*
+* CODE ASSIGNMENT:
+
+
+## [Finding a Remainder in JavaScript](#)
+*
+* CODE ASSIGNMENT:
+
+
+## [Compound Assignment With Augmented Addition](#)
+*
+* CODE ASSIGNMENT:
+
+## [Compound Assignment With Augmented Subtraction](#)
+*
+* CODE ASSIGNMENT:
+
+
+## [Compound Assignment With Augmented Multiplication](#)
+*
+* CODE ASSIGNMENT:
+
+
+## [Compound Assignment With Augmented Division](#)
+*
+* CODE ASSIGNMENT:
+
+
+## [Declare String Variables](#)
+*
+* CODE ASSIGNMENT:
+
+
+## [Escaping Literal Quotes in Strings](#)
+*
+* CODE ASSIGNMENT:
+
+
+## [Quoting Strings with Single Quotes](#)
+*
+* CODE ASSIGNMENT:
+
+
+## [Escape Sequences in Strings](#)
+*
+* CODE ASSIGNMENT:
+
+
+## [Concatenating Strings with Plus Operator](#)
+*
+* CODE ASSIGNMENT:
+
+
+## [Concatenating Strings with the Plus Equals Operator](#)
+*
+* CODE ASSIGNMENT:
+
+
+## [Constructing Strings with Variables](#)
+*
+* CODE ASSIGNMENT:
+
+
+## [Appending Variables to Strings](#)
+*
+* CODE ASSIGNMENT:
+
+
+## [Find the Length of a String](#)
+*
+* CODE ASSIGNMENT:
+
+
+## [Use Bracket Notation to Find the First Character in a String](#)
+*
+* CODE ASSIGNMENT:
+
+
+## [Understand String Immutability](#)
+*
+* CODE ASSIGNMENT:
+
+
+## [Use Bracket Notation to Find the Nth Character in a String](#)
+
+*
+* CODE ASSIGNMENT:
+
+## [Use Bracket Notation to Find the Last Character in a String](#)
+
+*
+* CODE ASSIGNMENT:
+
+## [Use Bracket Notation to Find the Nth-to-Last Character in a String](#)
+*
+* CODE ASSIGNMENT:
+
+## [Word Blanks](#)
+
+*
+* CODE ASSIGNMENT:
+
+## [Store Multiple Values in one Variable using JavaScript Arrays](#)
+*
+* CODE ASSIGNMENT:
+
+## [Nest one Array within Another Array](#)
+*
+* CODE ASSIGNMENT:
+
+## [Access Array Data with Indexes](#)
+*
+* CODE ASSIGNMENT:
+
+## [Modify Array Data With Indexes](#)
+*
+* CODE ASSIGNMENT:
+
+## [Access Multi-Dimensional Arrays With Indexes](#)
+*
+* CODE ASSIGNMENT:
+
+## [Manipulate Arrays With push()](#)
+*
+* CODE ASSIGNMENT:
+
+## [Manipulate Arrays With pop()](#)
+Not Passed
+## [Manipulate Arrays With shift()](#)
+*
+* CODE ASSIGNMENT:
+
+## [Manipulate Arrays With unshift()](#)
+*
+* CODE ASSIGNMENT:
+
+## [Shopping List](#)
+*
+* CODE ASSIGNMENT:
+
+## [Write Reusable JavaScript with Functions](#)
+*
+* CODE ASSIGNMENT:
+
+## [Passing Values to Functions with Arguments](#)
+*
+* CODE ASSIGNMENT:
+
+## [Global Scope and Functions](#)
+*
+* CODE ASSIGNMENT:
+
+## [Local Scope and Functions](#)
+*
+* CODE ASSIGNMENT:
+
+## [Global vs. Local Scope in Functions](#)
+*
+* CODE ASSIGNMENT:
+
+## [Return a Value from a Function with Return](#)
+*
+* CODE ASSIGNMENT:
+
+## [Understanding Undefined Value returned from a Function](#)
+*
+* CODE ASSIGNMENT:
+
+## [Assignment with a Returned Value](#)
+
+*
+* CODE ASSIGNMENT:
+
+## [Stand in Line](#)
+*
+* CODE ASSIGNMENT:
+
+## [Understanding Boolean Values](#)
+
+*
+* CODE ASSIGNMENT:
+
+## [Use Conditional Logic with If Statements](#)
+*
+* CODE ASSIGNMENT:
+
+## [Comparison with the Equality Operator](#)
+*
+* CODE ASSIGNMENT:
+
+## [Comparison with the Strict Equality Operator](#)
+*
+* CODE ASSIGNMENT:
+
+## [Practice comparing different values](#)
+*
+* CODE ASSIGNMENT:
+
+## [Comparison with the Inequality Operator](#)
+*
+* CODE ASSIGNMENT:
+
+## [Comparison with the Strict Inequality Operator](#)
+*
+* CODE ASSIGNMENT:
+
+## [Comparison with the Greater Than Operator](#)
+*
+* CODE ASSIGNMENT:
+
+## [Comparison with the Greater Than Or Equal To Operator](#)
+*
+* CODE ASSIGNMENT:
+
+## [Comparison with the Less Than Operator](#)
+*
+* CODE ASSIGNMENT:
+
+## [Comparison with the Less Than Or Equal To Operator](#)
+*
+* CODE ASSIGNMENT:
+## [Comparisons with the Logical And Operator](#)
+*
+* CODE ASSIGNMENT:
+
+## [Comparisons with the Logical Or Operator](#)
+*
+* CODE ASSIGNMENT:
+
+## [Introducing Else Statements](#)
+*
+* CODE ASSIGNMENT:
+
+## [Introducing Else If Statements](#)
+*
+* CODE ASSIGNMENT:
+
+## [Logical Order in If Else Statements](#)
+*
+* CODE ASSIGNMENT:
+
+
+## [Chaining If Else Statements](#)
+*
+* CODE ASSIGNMENT:
+
+
+## [Golf Code](#)
+*
+* CODE ASSIGNMENT:
+
+
+## [Selecting from Many Options with Switch Statements](#)
+*
+* CODE ASSIGNMENT:
+
+
+## [Adding a Default Option in Switch Statements](#)
+*
+* CODE ASSIGNMENT:
+
+
+## [Multiple Identical Options in Switch Statements](#)
+*
+* CODE ASSIGNMENT:
+
+
+## [Replacing If Else Chains with Switch](#)
+*
+* CODE ASSIGNMENT:
+
+
+## [Returning Boolean Values from Functions](#)
+*
+* CODE ASSIGNMENT:
+
+
+## [Return Early Pattern for Functions](#)
+*
+* CODE ASSIGNMENT:
+
+
+## [Counting Cards](#)
+*
+* CODE ASSIGNMENT:
+
+
+## [Build JavaScript Objects](#)
+*
+* CODE ASSIGNMENT:
+
+
+## [Accessing Object Properties with Dot Notation](#)
+*
+* CODE ASSIGNMENT:
+
+
+## [Accessing Object Properties with Bracket Notation](#)
+*
+* CODE ASSIGNMENT:
+
+
+## [Accessing Object Properties with Variables](#)
+*
+* CODE ASSIGNMENT:
+
+
+## [Updating Object Properties](#)
+*
+* CODE ASSIGNMENT:
+
+
+## [Add New Properties to a JavaScript Object](#)
+*
+* CODE ASSIGNMENT:
+
+
+## [Delete Properties from a JavaScript Object](#)
+*
+* CODE ASSIGNMENT:
+
+
+## [Using Objects for Lookups](#)
+*
+* CODE ASSIGNMENT:
+
+
+## [Testing Objects for Properties](#)
+*
+* CODE ASSIGNMENT:
+
+
+## [Manipulating Complex Objects](#)
+*
+* CODE ASSIGNMENT:
+
+
+## [Accessing Nested Objects](#)
+*
+* CODE ASSIGNMENT:
+
+
+## [Accessing Nested Arrays](#)
+*
+* CODE ASSIGNMENT:
+
+
+## [Record Collection](#)
+*
+* CODE ASSIGNMENT:
+
+
+## [Iterate with JavaScript While Loops](#)
+*
+* CODE ASSIGNMENT:
+
+
+## [Iterate with JavaScript For Loops](#)
+*
+* CODE ASSIGNMENT:
+
+
+## [Iterate Odd Numbers With a For Loop](#)
+Not Passed
+## [Count Backwards With a For Loop](#)
+*
+* CODE ASSIGNMENT:
+
+
+## [Iterate Through an Array with a For Loop](#)
+*
+* CODE ASSIGNMENT:
+
+
+## [Nesting For Loops](#)
+*
+* CODE ASSIGNMENT:
+
+
+## [Iterate with JavaScript Do...While Loops](#)
+*
+* CODE ASSIGNMENT:
+
+
+## [Replace Loops using Recursion](#)
+*
+* CODE ASSIGNMENT:
+
+
+## [Profile Lookup](#)
+*
+* CODE ASSIGNMENT:
+
+
+## [Generate Random Fractions with JavaScript](#)
+*
+* CODE ASSIGNMENT:
+
+
+## [Generate Random Whole Numbers with JavaScript](#)
+*
+* CODE ASSIGNMENT:
+
+
+## [Generate Random Whole Numbers within a Range](#)
+*
+* CODE ASSIGNMENT:
+
+
+## [Use the parseInt Function](#)
+*
+* CODE ASSIGNMENT:
+
+
+## [Use the parseInt Function with a Radix](#)
+*
+* CODE ASSIGNMENT:
+
+
+## [Use the Conditional (Ternary) Operator](#)
+*
+* CODE ASSIGNMENT:
+
+
+## [Use Multiple Conditional (Ternary) Operators](#)
+*
+* CODE ASSIGNMENT:
+
+
+## [Use Recursion to Create a Countdown](#)
+*
+* CODE ASSIGNMENT:
+
+
+## [Use Recursion to Create a Range of Numbers](#)
+*
+* CODE ASSIGNMENT:
+
+
+
+
 
 Nav: [Basic JavaScript](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/01_Basic-JavaScript.md) | [ES6](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/02_ES6.md) | [Regular Expressions](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/03_Regular-Expressions.md) |  [Debugging](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/04_Debugging.md) | [Basic Data Structures](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/05_Basic-Data-Structures.md) | [Basic Algorithm Scripting](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/06_Basic-Algorithm-Scripting.md) |  [Object Oriented Programming](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/07_Object-Oriented-Programming.md) | [Functional Porgramming](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/08_Functional-Porgramming.md) | [Intermediate algorithm Scripting](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/09_Intermediate-Algorithm-Scripting.md) | [JavaScript Algorithms and Data Structures Projects](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/10_JavaScript-Algorithms-and-Data-Structures-Projects.md)
