@@ -292,8 +292,35 @@ and the substractive CMY model
 * more info on the visually impared later on 
 * Code Assignment " Change the background-color property of the blue and yellow classes to their respective colors. Notice how the colors look different next to each other than they do compared against the white background. 
 
-## Learn about Tertiary Colors
-* Code Assignment
+## [Learn about Tertiary Colors](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/learn-about-tertiary-colors)
+* color is created by combining different amounts of RED, GREEN, and BLUE.
+* this works the same with computer monitors and devices too, only in the digital realm, it is combining light vs. other media (paint, crayons,etc)
+* thus it is known as the RGB additive color model 
+* Red (R), green (G) and blue (B) are called PRIMARY COLORS.
+* Mixing two PRIMARY colors creates SECONDAR COLORS.  
+* The SECONDARY colors are: CYAN, MAGENTA, and YELLOW.
+* CYAN is made by combining G+B
+* MAGENTA is made by combining R+B
+* YELLOW is made by combining R+G
+* SECONDARY COLORS happen to be COMPLEMENTAARY COLORS to PRIMARY colors. 
+* Complementary colors are opposite to the primary color on the color wheel. 
+* TERTIARY colors are the result of combining a primary color with one of its secondary color neighbors. 
+
+            EXAMPLE:
+
+            red (primary) + yellow (secondary)
+            = orange (tertiary)
+            
+* there are many methods of combining harmonious combinatins for design. 
+* Split-Complementary Color Scheme uses tertiary colors. 
+  Base color
+  + two colors adjacent to its complement 
+* Here are three colors created using the split-complement scheme:
+                Color	Hex Code
+                orange	#FF7F00
+                cyan	#00FFFF
+                raspberry	#FF007F  
+* Code Assignment: Change the background-color property of the orange, cyan, and raspberry classes to their respective colors. Make sure to use the hex codes and not the color names.
 
 ## Adjust the Color of Various Elements to Complementary Colors
 * Code Assignment 
