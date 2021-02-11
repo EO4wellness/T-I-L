@@ -52,5 +52,16 @@ and other similar words work the same!
               
 # Study Sessions:
 
-## First Study Session 
-* 
+## First Study Session 2-11-2021
+* der Opa (grandfather)
+* Mein Bruder hat einen Sohn. (My brother has a son)
+* Mein Opa liebt meinen Mann. (My grandpa loves my husband)
+* Mein Opa liebt meinen Vater. (My grandpa loves my father)
+* Ich lebe in Frankreich. (I live in France)
+* Mein Vater liebt deinen Opa. (My father loves your grandpa)
+* Er liebt deinen Bruder. (He loves your brother)
+* Mein Onkel hat einen Sohn. (My uncle has a son)
+* Mein Opa liebt meinen Vater. (My grandpa loves my father)
+* Er liebt deinen Bruder. (He lvoes your brother.) 
+
+![perfect](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/aleman/Castle-2/Images/2021-02-11-family.jpg)
