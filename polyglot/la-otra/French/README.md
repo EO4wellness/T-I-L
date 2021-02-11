@@ -11,7 +11,7 @@ _photo credit: [Gilbert Bochneck](https://commons.wikimedia.org/wiki/File:Notre-
 * [Greetings](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/la-otra/French/Greetings.md)
 * [Basics 2](#)
 * [People](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/la-otra/French/people.md)
-* [Travel](#)
+* [Travel](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/la-otra/French/Travel.md)
 * [Flirting](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/la-otra/French/Flirting.md)
 * [Idioms](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/la-otra/French/Idioms.md)
 * 
