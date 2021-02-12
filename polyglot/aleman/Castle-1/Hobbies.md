@@ -67,6 +67,21 @@ RESULT: like I often do in coding, I made a few typos this time around.  Nothing
 Earned Castle 4 for this skill set today (Dec 30, 2020) 
 
 
+## 2021-01-02 Study Session 
+* Nein, meine Eule malt nie. (No my owl never paints.)
+* Meine Schwester schwimmt oft. (MY sister siwms often)
+* Maltst du immer?  (Do you always paint?)
+* Der bar kocke nie. (The bear never cooks)
+* Meine Mutter kocht wirklich gut. (My mother cooks really well)
+* Gustav malt sehr gut. (Gustav paints really well.)
+* du spielst, ich spiele (you play, i play)
+* Die Eule spielt immer Schach. (The owl always plays chess.)
+* Du spieltst sehr gut Klavier. (You play the piano really well)
+* Mein Bruder spielt manchmal Klavier. (My brother sometimes plays the piano)
+* Du Spielst nie Schach. (You never play chess)
+Results:  I earned level 5 in the German Castle 1 Hobbies skill set thru today's study session.  Also, I unlocked new "storeis" in German. 
+
+
 ### Review Skill Set Session 
 2021-02-01<br>
 * Ja ich schwimme sehr gut. Yes I swim really well. 
