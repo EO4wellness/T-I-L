@@ -44,7 +44,7 @@ Did you notice that ‑er at the end of a word is pronounced like uh? Give it a 
 * Tee mit Milch, bitte (Tea with milk, please)
 * Die Rechnung, bitte!  (The check, please)
 * Kaffee mit Milch, bitte (Coffee with Milk, please)
-* Entschuldigung, wo ist der Kellner? (Excuse me, where is the waiter? )
-* Hier ist die Rchnung. (Here is the check)
+* Entschuldigung, wo ist der Kellner? (Excuse me, where is the waiter?)
+* Hier ist die Rechnung. (Here is the check)
 
 ![Perfect-Score](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/aleman/Castle-1/2021-02-12-restaurant.jpg)
