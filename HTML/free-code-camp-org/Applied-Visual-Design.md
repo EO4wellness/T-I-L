@@ -322,8 +322,12 @@ and the substractive CMY model
                 raspberry	#FF007F  
 * Code Assignment: Change the background-color property of the orange, cyan, and raspberry classes to their respective colors. Make sure to use the hex codes and not the color names.
 
-## Adjust the Color of Various Elements to Complementary Colors
-* Code Assignment 
+## [Adjust the Color of Various Elements to Complementary Colors](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/adjust-the-color-of-various-elements-to-complementary-colors)
+* complementary colors can make each other appear more virbrant when placed side by side
+* overuse can be jarring, however. 
+* the vibrancy can also sometimes make the text hard to read
+* one color is usually dominant and the other used to simply bring attention to certain content on the page
+* Code Assignment This page will use a shade of teal (#09A7A1) as the dominant color, and its orange (#FF790E) complement to visually highlight the sign-up buttons. Change the background-color of both the header and footer from black to the teal color. Then change the h2 text color to teal as well. Finally, change the background-color of the button to the orange color.
 
 ## Adjust the Hue of a Color
 * Code Assignment 
