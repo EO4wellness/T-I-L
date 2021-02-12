@@ -82,4 +82,33 @@ How many apples are in your kitchen?
 
 ![earned-level1](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/aleman/Castle-2/Images/2021-02-10_earned-market-level1.png) 
 
+## 2021-02-12 Study Session:
+* vier, funf, sechs (4, 5, 6)
+* (7, 6, 5) sieben sechs funf 
+* Wie viel? (How much?)
+* Das Sandwich _kostet wirklich_ sieben Euro! (The sandwich really costs seven euros!)
+* sechs, funf, vier, drei (6,5,4,3)
+* Wie viel kostet die Wurst. (How much does the sausage cost?)
+* Wie viel?  (How much)
+* Der Kaffee kostet wirklich funf Euro. (The coffee really costs 5 euros)
 
+
+* sieben acht neun (7,8,9)
+* Drei Kilo Tomaten bitte. Three kilograms of tomatoes, please 
+* acht Kilo Orangen (8 kilograms of oranges)
+* drei Tomaten, vier Tomaten (3 tomoates, 4 tomatoes)
+* Der Doner kostet zwei Euro. (The doner kebab costs two euros)
+* Das Sandwich Kostet neun Euro. (The sandwich costs nine euros)
+
+![Perfect-Score](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/aleman/Castle-2/Images/2021-02-12-market.jpg)
+
+* Zwei Kilo Kartoffeln, bitte. (Two kilograms of potatoes please)
+* zwei kilo Kartoffeln (two kilos of potoatoes)
+* Drei Kilo Erdbeeren bitte. (3 kilograms of strawberries, please)
+* Gern geschehen. (You're welcome)
+* Zehn Euro (10 euros)
+* Ja, vielen Dank. (Yes, thank you very much)
+* Aucht Kilo Erdbeeren. (8 kilos of strawberries)
+* Only errors in this study session were in transcribing spelling of sounds heard.
+
+![Level2-earned](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/aleman/Castle-2/Images/2021-02-12-earned-level2-market.jpg)
