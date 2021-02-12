@@ -1,8 +1,10 @@
-# Images/Flashcards
+# Study Helps 
 * Flashcards
 * Other Images 
+* Cut-N-Paste Greek Letters
 
 # STUDY LOG: 
+* 2021-02-12 Ongoing study ABCs
 * Earned [Level 1-ABCs] 2021-02-02 Study Session 
 
 
