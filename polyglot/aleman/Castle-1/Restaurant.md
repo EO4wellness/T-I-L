@@ -30,3 +30,21 @@ Did you notice that ‑er at the end of a word is pronounced like uh? Give it a 
 * Der Tee ist kalt. (The tea is cold.) 
 *Received a Perfect Party at the end of the lesson.*
 
+## 2021-02-12 Restore Skill Set
+* Salat mit Käse (salad with cheese)
+* Ist der Salad lecker (Is the salad delcious)
+* der Salat (the salad)
+* der Käse (the cheese)
+* die Pizza (the pizza)
+* Die Wurst ist lecker, danke! (The sausage is delicious, thank you!)
+* Heir ist die Wurst. (Here is the sausage)
+* Wo ist der Kellner? (Where is the waiter)
+* Brot mit Käse (Bread with Cheese)
+* Der Kellner ist net. (The waiter is nice)
+* Tee mit Milch, bitte (Tea with milk, please)
+* Die Rechnung, bitte!  (The check, please)
+* Kaffee mit Milch, bitte (Coffee with Milk, please)
+* Entschuldigung, wo ist der Kellner? (Excuse me, where is the waiter? )
+* Hier ist die Rchnung. (Here is the check)
+
+![Perfect-Score](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/aleman/Castle-1/2021-02-12-restaurant.jpg)
