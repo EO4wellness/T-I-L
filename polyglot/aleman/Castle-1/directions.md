@@ -169,6 +169,19 @@ Der Geldautomat ist hier
 * neu (neu)
 *Results: Earned Level 4 on Directions skill set for Castle 1 today. 
 
+## 2021-01-03
+* der Markt und der Bahnhof (the market and the train station)
+* Ja, der Taxistand ist da drüben (Yes, the taxi stand is over there.)
+* Wo ist der Park? (Where is the park)
+* der park ist da drüben. (The park is over there.)
+* Der Taxistand ist hier. (The Taxi stand is here)
+* Ist der Bahnhof da drüben? (Is the train station over there?)
+* _Taxistand_ (taxi stand) |Duo marks this an error if you don't have the "space" in your English translations. 
+* _da drüben_ (over there) | it is an error to drop the "da" part of this phrase. 
+*Results: working on resolving the above two highlighted errors*
+
+
+
 ## 2021-01-07 Study Session 
 * Das Kino ist rechts. (The movie theater is on the right. )
 * Is der Supermarkt links oder rechts? (Is the Supermarket on the left or the right?)
