@@ -21,7 +21,9 @@ DuoLingo has an online English/Japanese dictionary.  They don't have "wellness" 
   I regularly practice on the app all of the sounds, as well as review sounds, and learn new ones. 
 
 ## Kanji 
-coming soon 
+* Kanji is introduced during the study of TIME
+* Kanji [time notes](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/japon%C3%A9s/Castle-2/Time.md)
+* DuoLingo introduces Kanji and then test if you recognize it in the other format(s). 
 
 
 ## Basic Words: 
