@@ -13,3 +13,12 @@
 * Je n'en crois pas mes yeux! (I cannot believe my eyes)
 * Les absents ont toujours tort. ( The absent are always in the wrong)
 * Ca va, ca vient. (Easy come, easy go)
+
+## 2021-02-12
+* Mieux vaut tard que jamais. (Better late than never)
+* Il y a de bonnes choses a manger, si le coeur vous en dit! (There are good things to eat, if you feel like it.)
+* Ce type ne t'arrive pas a la cheville, crois-moi! (This guy does not play in the same league as you, believe me.)
+* Toutes les bonnes choses ont une fin. (All good things come to an end.)
+* Le monde appartient a ceux qui se levent tot. (The early bird catches the worm)
+* Suave qui peut! (Run for your life.)
+* Perfect score. 521 Day study streak. 
