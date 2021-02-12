@@ -1,8 +1,10 @@
-# Images/Flashcards
-* Flashcards
-* Other Images 
+# Study Helps 
+* [Flashcards](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/la-otra/Greek/Images/Flash-Cards)
+* [Other Images](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/la-otra/Greek/Images) 
+* [Greek Letters](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/la-otra/Greek/Greek-Type-Helps.md) | a cut-n-paste keyboard tool & prounciation guide
 
 # STUDY LOG: 
+* 2021-02-12 Ongoing study ABCs
 * Earned [Level 1-ABCs] 2021-02-02 Study Session 
 
 
