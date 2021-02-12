@@ -1,15 +1,15 @@
 # German Castle 1:
-* [Basics 1](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/aleman/Castle-1/welcome.md) | Current Level: 5 of 5<br>
-* [Family](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/aleman/Castle-1/Family.md) | Current Level: 5 of 5<br>
-* [Basics 2](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/aleman/Castle-1/welcome.md) | Current Level: 5 of 5<br>
-* [Greetings](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/aleman/Castle-1/Greetings.md) | Current Level: 5 of 5<br>
-* [Idioms](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/aleman/Castle-1/Idioms.md) | Current Level: All<br>
-* [Flirting](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/aleman/Castle-1/Flirting.md) | Current Level: All<br>
-* [Restaurant](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/aleman/Castle-1/Restaurant.md) | Current Level: 5 of 5<br>
-* [Places](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/aleman/Castle-1/Places.md) | Current Level: 5 of 5<br>
-* [Jobs](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/aleman/Castle-1/Jobs.md) | Current Level: 5 of 5 earned 12-22-2020<br>
-* [Hobbies](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/aleman/Castle-1/Hobbies.md) | Current Level: 5 of 5<br>
-* [Directions](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/aleman/Castle-1/directions.md)  | Current Level: 5 of 5 earned 1-7-21<br>
+* [Basics 1](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/aleman/Castle-1/welcome.md) | Current Level: Completed Studies<br>
+* [Family](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/aleman/Castle-1/Family.md) | Current Level: Completed Studies<br>
+* [Basics 2](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/aleman/Castle-1/welcome.md) | Current Level: Completed Studies<br>
+* [Greetings](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/aleman/Castle-1/Greetings.md) | Current Level: Completed Studies<br>
+* [Idioms](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/aleman/Castle-1/Idioms.md) | Current Level: Completed Studies<br>
+* [Flirting](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/aleman/Castle-1/Flirting.md) | Current Level: Completed Studies<br>
+* [Restaurant](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/aleman/Castle-1/Restaurant.md) | Current Level: Completed Studies<br>
+* [Places](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/aleman/Castle-1/Places.md) | Current Level: Completed Studies<br>
+* [Jobs](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/aleman/Castle-1/Jobs.md) | Current Level: Completed Studies<br>
+* [Hobbies](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/aleman/Castle-1/Hobbies.md) | Current Level: Completed Studies<br>
+* [Directions](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/aleman/Castle-1/directions.md)  | Current Level: Completed Studies<br>
 * [Final Castle Test | Current Level: Completed Jan 8, 2021](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/aleman/Castle-1/Castle1-Quiz.md) <br>
 
 # German Stories - Set 1:
