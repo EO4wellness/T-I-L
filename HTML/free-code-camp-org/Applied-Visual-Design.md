@@ -329,16 +329,68 @@ and the substractive CMY model
 * one color is usually dominant and the other used to simply bring attention to certain content on the page
 * Code Assignment This page will use a shade of teal (#09A7A1) as the dominant color, and its orange (#FF790E) complement to visually highlight the sign-up buttons. Change the background-color of both the header and footer from black to the teal color. Then change the h2 text color to teal as well. Finally, change the background-color of the button to the orange color.
 
-## Adjust the Hue of a Color
-* Code Assignment 
+## [Adjust the Hue of a Color](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/adjust-the-hue-of-a-color)
+* Colors have charcteristics including: Hue, Saturation, Lightness
+* CSS3 introduced the hsl() property 
+* the 'hsl()' property is yet another an alternative way to pick a color by stating the hue, saturation, and lightness characteristics
+* hue is the angle of th ecolor if it is placed in a circle on a color wheel.  
+* all hue values range between 0 and 360 
+* saturation is the amount of grey in a color.
+* a fully saturated color has NO grey in it at all
+* a minimally saturated color is nearly entirely grey
+* saturation is measured as a precentage
+* 100% saturation is a fully saturated color (no grey)
+* lightness is the amount of white or black in a color.
+* lightness is measured in percentage
+* lightness of 0% is black
+* lightness of 100% is white 
+* Examples of hls()
 
-## Adjust the Tone of a Color
-* Code Assignment 
+        Color	HSL
+        red	    hsl(0, 100%, 50%)
+        yellow	hsl(60, 100%, 50%)
+        green	hsl(120, 100%, 50%)
+        cyan	hsl(180, 100%, 50%)
+        blue	hsl(240, 100%, 50%)
+        magenta	hsl(300, 100%, 50%)
+        
+* Code Assignment: Change the background-color of each div element based on the class names (green, cyan, or blue) using hsl(). All three should have full saturation and normal lightness.
 
-## Create a Gradual CSS Linear Gradient
-* Code Assignment 
+## [Adjust the Tone of a Color](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/adjust-the-tone-of-a-color)
+* using *hsl( )* also makes it easy to adjust the tone of any color. 
+* mixing white with a pure hue creates a tint of that base color.
+* adding black makes a shade of the base color. 
+* recall in our HSL code, the S stands for saturation and the L stands for lightness, respectively. 
+* the saturation % changes the amount of grey
+* the lightness percent determins how much white or black is in any given color. 
+* this is useful when you have a base hue you like, but need different variations of it.
+* Code Assignment: All elements have a default background-color of transparent. Our nav element currently appears to have a cyan background, because the element behind it has a background-color set to cyan. Add a background-color to the nav element so it uses the same cyan hue, but has 80% saturation and 25% lightness values to change its tone and shade.
 
-## Use a CSS Linear Gradient to Create a Striped Element
+## [Create a Gradual CSS Linear Gradient](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/create-a-gradual-css-linear-gradient)
+* CSS also provides the ability to use color transitions. 
+* these transitions are known as GRADIENTS
+* to use this, set the BACKGROUND property's LINEAR-GRADIENT() function
+* the general syntax is:
+        
+        bacground: linear-
+        gradient (gradient_direction, color1, 
+        color2, color3,...);
+        
+* in the general syntax example, the first argument specifies the direction from which the color transition starts
+* this can be stated in degrees
+* 90deg makes a horizontal gradient (from left to right)
+* 45 deg makes a diagonal gradient (from bottom left to top right)
+* the remaining arguments in the syntax example specify the ORDER of the COLORS to be used in creating the gradient. 
+* Code Example:
+
+            background: linear-gradient(90deg, red, 
+            yellow, rgb(204,204, 255));
+            
+* Code Assignment: Use a linear-gradient() for the div element's background, and set it from a direction of 35 degrees to change the color from #CCFFFF to #FFCCCC. 
+
+## [Use a CSS Linear Gradient to Create a Striped Element](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/use-a-css-linear-gradient-to-create-a-striped-element)
+*
+*
 * Code Assignment 
 
 ## Create Texture by Adding a Subtle Pattern as a Background Image
