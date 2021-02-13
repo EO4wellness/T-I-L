@@ -1,4 +1,4 @@
-# Applied Visual Design
+# [Applied Visual Design](https://www.freecodecamp.org/learn)
 * This is part 3 of the Responsive Web Design Certification FreeCode Camp program. 
 * this is the next segment after [Basic CSS](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/basic-css.md) studies
 * this segment has 52 skills within it 
@@ -11,10 +11,10 @@
 most web content provides the users with information 
 \
 
-## Create Visual Balance Using the text-align Property
+## [Create Visual Balance Using the text-align Property](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/create-visual-balance-using-the-text-align-property)
 * Text is often a larger part of the web content. 
 * CSS has many options how to align text. 
-* 
+* Example: 
 
     text-alight propery 
     text-align: justify 
@@ -24,7 +24,7 @@ most web content provides the users with information
 * Code Assignment alight H4 to center 
       justify the P tag
 
-## Adjust the Width of an Element Using the width Property
+## [Adjust the Width of an Element Using the width Property](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/adjust-the-width-of-an-element-using-the-width-property)
 * CSS can be adjusted by using a WIDTH property.
 * Width values can be either relative length or aboslute length.
 * An example of relative length is using "em" 
@@ -39,7 +39,7 @@ most web content provides the users with information
 
 * Code Assignment: set the width property to the FULL CARD class element to 245 pixels.
 
-## Adjust the Height of an Element Using the height Property
+## [Adjust the Height of an Element Using the height Property](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/adjust-the-height-of-an-element-using-the-height-property)
 * like width, above, you can also set the height.
 * this can be set within CSS
 * Example:
@@ -51,7 +51,7 @@ most web content provides the users with information
 * Code Assignment: add height property to the H4 tag and set it to 25 pixels. 
 
 
-## Use the strong Tag to Make Text Bold
+## [Use the strong Tag to Make Text Bold](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/use-the-strong-tag-to-make-text-bold)
 * Use the STRONG tag to make text appear bold. 
 * BOLD text is often used to draw attention to text
 * BOLD text generally symbolizes it is important.
@@ -60,7 +60,7 @@ most web content provides the users with information
 font-weight: bold; to the element 
 * Code Assignment: wrap a strong tag around "Stanford University" inside the "p" tag. 
 
-## Use the u Tag to Underline Text
+## [Use the u Tag to Underline Text](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/use-the-u-tag-to-underline-text)
 * the U tag is used when you want underlined text
 * primarily used to show that some section of text is important or should be remembeed 
 * U tag - the browser applies the CSS of 
@@ -69,20 +69,20 @@ font-weight: bold; to the element
 * Avoid use of the U element when and where it could be confused as a link. 
 * Code Assignment : Wrap the U tag around the trext "Ph.D. students"
 
-## Use the em Tag to Italicize Text
+## [Use the em Tag to Italicize Text](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/use-the-em-tag-to-italicize-text)
 * If you need to emphasize text, you can use the EM tag.
 * Text with the EM tag will display as italicized.
 * the browser applies CSS of 'font-style: italic;' to the element 
 * Code Assignment: wrap an em tag around the contents within the P tags
 
-## Use the s Tag to Strikethrough Text
+## [Use the s Tag to Strikethrough Text](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/use-the-s-tag-to-strikethrough-text)
 * strikethrough text is when a horizontal line cuts across the text characters. 
 * it is often used to strike out old information, or show what's changed (such as edits, or when a deadline has passed).
 * use the S tag to cause strikethrough text
 * the browser applies CSS of 'text-decoration: line-through'
 * Code Assignment: but the S tag around Google in the H4 element.  Then add "Alphabet" beside it. 
 
-## Create a Horizontal Line Using the hr Element
+## [Create a Horizontal Line Using the hr Element](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/create-a-horizontal-line-using-the-hr-element)
 * use the HR tag to add a horizontal line
 * the line will run across the width of its containing element
 * this may indicate a change in topic
@@ -176,13 +176,13 @@ font-weight: bold; to the element
 * in CSS FONT-SIZE can be added to any element containing text. 
 * Code Assignment: change font-size for the paragraph to 16 px. 
 
-## Set the line-height of Paragraphs
+## [Set the line-height of Paragraphs](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/set-the-line-height-of-paragraphs)
 * CSS offers LINE-HEIGHT peropty
 * this changes the hieght of each line in a block of text 
 * changes the amount of vertical space that each line of text gets.
 * Code Assignment: add a 'line-height' propertyt to the P tag and set it to 25 px. 
 
-## Adjust the Hover State of an Anchor Tag
+## [Adjust the Hover State of an Anchor Tag](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/adjust-the-hover-state-of-an-anchor-tag)
 * this is use of a "pseudo-class"
 * a psuedo-class is a keyword that can be added to selectors in order to select a specific state of the element.
 * as an example, an anchor tag, can be changes for its hover state using the :hover pseudo-class selector
@@ -194,7 +194,7 @@ font-weight: bold; to the element
             
 * Code Assignment: the code editor has a css rule to style all A tags black. Add a rule so that when the user hoevers over the a tag, the color is blue.  
 
-## Change an Element's Relative Position
+## [Change an Element's Relative Position](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/change-an-elements-relative-position)
 * CSS treats HTML as its own box. 
 * Generally, this is referred to as the CSS Box MOdel.
 * Block level items automatically start on a new line. (Think Headings, paragraphs, divs)
@@ -221,7 +221,7 @@ this pairs with offset properties of left or right, top or bottom.
 
 This completes my first 100 lessons with FreeCode Camp.
 
-## Move a Relatively Positioned Element with CSS Offsets
+## [Move a Relatively Positioned Element with CSS Offsets](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/move-a-relatively-positioned-element-with-css-offsets)
 * CSS offsets of TOP, BOTTOM, LEFT, or RIGHT tell the browser how far to offest an item relative to where it would have been in the normal flow of the page. 
 * if you are offsetting an element away from a given spot (effectively in th opposit direction) 
 * Code Assignment: Use CSS offsets to move the H2 15 pixels to the R and 10 pixels up. 
@@ -255,7 +255,7 @@ This completes my first 100 lessons with FreeCode Camp.
 * the Z-INDEX property element moves it higher in the stack than those with lower values. 
 * Code Assignment: Add a z-index property to the element with the class name of first (the red rectangle) and set it to a value of 2 so it covers the other element (blue rectangle).
 
-## Center an Element Horizontally Using the margin Property
+## [Center an Element Horizontally Using the margin Property](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/center-an-element-horizontally-using-the-margin-property)
 * to center a block element horizontally, the MARGIN value can be used
 * setting MARGIN to auto will center it
 * this method works for images as well 
@@ -400,7 +400,7 @@ and the substractive CMY model
 * if two consequeutive color stops are the same color, the transitional effect isn't noticed
 * Code Assignment: Make stripes by changing the repeating-linear-gradient() to use a gradient angle of 45deg, then set the first two color stops to yellow, and finally the second two color stops to black. 
 
-## Create Texture by Adding a Subtle Pattern as a Background Image
+## [Create Texture by Adding a Subtle Pattern as a Background Image](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/create-texture-by-adding-a-subtle-pattern-as-a-background-image)
 * one way to add texture and interest to a bacground of a site. 
 * doing so adds interests.
 * the pattern must be stuble
@@ -457,7 +457,7 @@ and the substractive CMY model
 *
 * Code Assignment: Manipulate the square element in the editor to create the moon shape. First, change the background-color to transparent, then set the border-radius property to 50% to make the circular shape. Finally, change the box-shadow property to set the offset-x to 25px, the offset-y to 10px, blur-radius to 0, spread-radius to 0, and color to blue.
 
-## Create a More Complex Shape Using CSS and HTML
+## [Create a More Complex Shape Using CSS and HTML](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/create-a-more-complex-shape-using-css-and-html)
 * Code Assignment 
 
 ## Learn How the CSS @keyframes and animation Properties Work
