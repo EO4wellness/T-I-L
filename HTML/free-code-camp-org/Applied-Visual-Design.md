@@ -389,27 +389,73 @@ and the substractive CMY model
 * Code Assignment: Use a linear-gradient() for the div element's background, and set it from a direction of 35 degrees to change the color from #CCFFFF to #FFCCCC. 
 
 ## [Use a CSS Linear Gradient to Create a Striped Element](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/use-a-css-linear-gradient-to-create-a-striped-element)
-*
-*
-* Code Assignment 
+* there is a function of REPEATING-LINEAR-GRADIENT()
+* this function works similarly to the LINEAR-GRADIENT() function.
+* one major difference is this new function we are studying now repeats its self! 
+* the _repeating-linear-gradient()_ function allows us to specify a LOT of different values, but we will start just looking at angle value and color
+*  the angle value is the direction of the gradient
+* color stops are like width values. 
+* color stops mark where a transition takes place.
+* color stops are giving with a percentage or a number of pixels 
+* if two consequeutive color stops are the same color, the transitional effect isn't noticed
+* Code Assignment: Make stripes by changing the repeating-linear-gradient() to use a gradient angle of 45deg, then set the first two color stops to yellow, and finally the second two color stops to black. 
 
 ## Create Texture by Adding a Subtle Pattern as a Background Image
-* Code Assignment 
+* one way to add texture and interest to a bacground of a site. 
+* doing so adds interests.
+* the pattern must be stuble
+* the key is BALANCE 
+* it is eay to OVERDO or UNDERDO this design feature 
+* use an URL() function to add the texture or background image by URL 
+* Code Assignment: Using the url of https://cdn-media-1.freecodecamp.org/imgr/MJAkxbh.png, set the background of the whole page with the body selector.
 
-## Use the CSS Transform scale Property to Change the Size of an Element
-* Code Assignment 
+## [Use the CSS Transform scale Property to Change the Size of an Element](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/use-the-css-transform-scale-property-to-change-the-size-of-an-element)
+* you can change the scale of an element within CSS 
+* to do so, use the TRANSFORM property 
+* use the scale() function within the transform property 
+* Example:
 
-## Use the CSS Transform scale Property to Scale an Element on Hover
-* Code Assignment 
+            p {
+            transform: scale(2);
+            }
 
-## Use the CSS Transform Property skewX to Skew an Element Along the X-Axis
-* Code Assignment 
 
-## Use the CSS Transform Property skewY to Skew an Element Along the Y-Axis
-* Code Assignment 
+* Code Assignment: Increase the size of the element with the id of ball2 to 1.5 times its original size.
 
-## Create a Graphic Using CSS
-* Code Assignment 
+## [Use the CSS Transform scale Property to Scale an Element on Hover](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/use-the-css-transform-scale-property-to-scale-an-element-on-hover)
+* TRANSFORM property has a variety of functions that let you scale, move, rotate, skew, etc. your elements 
+* when using the Psudo class such as :hover with transform, it allows you to quickly add interactivity to your elements/page design 
+* NOTE: apply transform to a DIV element will also affect any child elements condainted in the div
+* Example:
+
+        p:hover {
+        transform: scale(2.1);
+        }
+
+
+* Code Assignment: Add a CSS rule for the hover state of the div and use the transform property to scale the div element to 1.1 times its original size when a user hovers over it. 
+
+
+## [Use the CSS Transform Property skewX to Skew an Element Along the X-Axis](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/use-the-css-transform-property-skewx-to-skew-an-element-along-the-x-axis)
+* The next function of the transform property is skewX(), which skews the selected element along its X (horizontal) axis by a given degree.
+* The following code skews the paragraph element by -32 degrees along the X-axis.
+* Example: 
+
+            p {
+            transform: skewX(-32deg);
+            }
+
+
+* Code Assignment: Skew the element with the id of bottom by 24 degrees along the X-axis by using the transform property. 
+
+## [Use the CSS Transform Property skewY to Skew an Element Along the Y-Axis](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/use-the-css-transform-property-skewy-to-skew-an-element-along-the-y-axis)
+* Given that the skewX() function skews the selected element along the X-axis by a given degree, it is no surprise that the skewY() property skews an element along the Y (vertical) axis.
+* Code Assignment: Skew the element with the id of top -10 degrees along the Y-axis by using the transform property.
+
+## [Create a Graphic Using CSS](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/create-a-graphic-using-css)
+* 
+*
+* Code Assignment: Manipulate the square element in the editor to create the moon shape. First, change the background-color to transparent, then set the border-radius property to 50% to make the circular shape. Finally, change the box-shadow property to set the offset-x to 25px, the offset-y to 10px, blur-radius to 0, spread-radius to 0, and color to blue.
 
 ## Create a More Complex Shape Using CSS and HTML
 * Code Assignment 
