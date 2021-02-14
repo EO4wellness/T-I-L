@@ -54,4 +54,14 @@ Unlocked this section of the course on Jan 28, 2021. Began studying this skill s
 * Servat me et servo illum. also acceptable as:
   Ille me servat et ego illum servo. 
   means: He saves me and I save him. 
-* 
+
+## 2021-02-14
+*  Pater eorum est senilis. (Their father is aged.)
+*  Cotidie mater sacrificat. (Mother sacrifices daily)
+*  Vir pius sacrificat. (A dutiful man sacrifices)
+*  Maritus cotidie sacrificat. (The husband sacricies daily)
+*  Pater eius cotidie sacrificat. (His father sacricies daily) 
+*  Ubi sunt sepulchra. (Where are the graves?)
+*  Quot sepulchra sunt?  (How many graves are there?)
+
+![earned-crown-level2](#)
