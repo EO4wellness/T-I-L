@@ -7,9 +7,8 @@
 ## Introduction to the Applied Visual Design Challenges
 * Visual Design is a broad topic in web development. 
 * Visual design encompasses: graphics, typography, color theory, animation, and apge layout all intended to deliver content (the site's message)
-( 
 most web content provides the users with information 
-\
+
 
 ## [Create Visual Balance Using the text-align Property](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/create-visual-balance-using-the-text-align-property)
 * Text is often a larger part of the web content. 
@@ -453,11 +452,6 @@ and the substractive CMY model
 * Code Assignment: Skew the element with the id of top -10 degrees along the Y-axis by using the transform property.
 
 ## [Create a Graphic Using CSS](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/create-a-graphic-using-css)
-* 
-*
-* Code Assignment: Manipulate the square element in the editor to create the moon shape. First, change the background-color to transparent, then set the border-radius property to 50% to make the circular shape. Finally, change the box-shadow property to set the offset-x to 25px, the offset-y to 10px, blur-radius to 0, spread-radius to 0, and color to blue.
-
-## [Create a More Complex Shape Using CSS and HTML](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/create-a-more-complex-shape-using-css-and-html)
 * use different selectors and proerpties to make interesting shapes, using CSS.
 * use the BOX-SHADOW property
 * this is use to create a "shadow" box of another element
@@ -465,9 +459,14 @@ and the substractive CMY model
 * create a round object by setting the value to 50%
 * box-shadow property can use the vlaues of offset-x, offsety, blur-radius, spread-radius, color (in this order)
 * blur-radius and Spread-radius are optional. 
+* Code Assignment: Manipulate the square element in the editor to create the moon shape. First, change the background-color to transparent, then set the border-radius property to 50% to make the circular shape. Finally, change the box-shadow property to set the offset-x to 25px, the offset-y to 10px, blur-radius to 0, spread-radius to 0, and color to blue.
+
+## [Create a More Complex Shape Using CSS and HTML](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/create-a-more-complex-shape-using-css-and-html)
+* follow instructions to make heart shape using CSS 
 * Code Assignment 
 
-## Learn How the CSS @keyframes and animation Properties Work
+## [Learn How the CSS @keyframes and animation Properties Work](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/learn-how-the-css-keyframes-and-animation-properties-work)
+* 
 * Code Assignment 
 
 ## Use CSS Animation to Change the Hover State of a Button
