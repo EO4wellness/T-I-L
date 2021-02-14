@@ -176,3 +176,19 @@ minime    no, not at all
 * Quid ei est nomen? What is his name?
 * Salve, quis es tu? (Hello, who are you?)
 
+## 2021-02-14 Restoration Skill set 
+* Quid agit Livia?  (How is Livia?)
+* Quid agit Stephanus? (How is Stephanus?)
+* Livia quomodo tu te habes? (Livia how are you doing?)
+* Salve, Marce. Hello, Marcus
+* Me male habeo. I feel poorly 
+* Romae habitas. You live in Rome. 
+* Livia, quomodo tu te habes? Livia, how are you doing? 
+* Salve quis es tu? Hello, who are you? 
+* Ita, ego roma habito. Yes, I live in rome.
+* Minime, Marcus domi dormit. No. Marcus sleeps at home.
+* Minime, in urbe non habito. No I do not live in the city.
+* Quomodo me habeo?  HOw am i doing? 
+* Ubi habitatis. Where do you live? 
+* Vos Romae habitatis. You livein rome
+
