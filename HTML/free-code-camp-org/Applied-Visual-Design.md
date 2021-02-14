@@ -462,16 +462,30 @@ and the substractive CMY model
 * Code Assignment: Manipulate the square element in the editor to create the moon shape. First, change the background-color to transparent, then set the border-radius property to 50% to make the circular shape. Finally, change the box-shadow property to set the offset-x to 25px, the offset-y to 10px, blur-radius to 0, spread-radius to 0, and color to blue.
 
 ## [Create a More Complex Shape Using CSS and HTML](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/create-a-more-complex-shape-using-css-and-html)
-* follow instructions to make heart shape using CSS 
-* Code Assignment 
+* Code Assignment: Transform the element on the screen to a heart. In the heart::after selector, change the background-color to pink and the border-radius to 50%.  Next, target the element with the class heart (just heart) and fill in the transform property. Use the rotate() function with -45 degrees.  Finally, in the heart::before selector, set its content property to an empty string.
+
 
 ## [Learn How the CSS @keyframes and animation Properties Work](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/learn-how-the-css-keyframes-and-animation-properties-work)
-* 
-* Code Assignment 
+*  before and :: after are pseudo-elements
+* Example:
+
+        .heart::before {
+        content: "";
+        background-color: yellow;
+        border-radius: 25%;
+        position: absolute;
+        height: 50px;
+        width: 70px;
+        top: -50px;
+        left: 5px;
+        }
+
+
+* Code Assignment: Create an animation for the element with the id rect, by setting the animation-name to rainbow and the animation-duration to 4 seconds. Next, declare a @keyframes rule, and set the background-color at the beginning of the animation (0%) to blue, the middle of the animation (50%) to green, and the end of the animation (100%) to yellow.
+
 
 ## Use CSS Animation to Change the Hover State of a Button
-* Code Assignment 
-
+* Code Assignment: 
 ## Modify Fill Mode of an Animation
 * Code Assignment 
 
