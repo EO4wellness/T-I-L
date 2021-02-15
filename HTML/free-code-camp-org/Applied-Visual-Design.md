@@ -491,8 +491,8 @@ and the substractive CMY model
 ## [Modify Fill Mode of an Animation](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/modify-fill-mode-of-an-animation)
 * Code Assignment: Set the animation-fill-mode property of button:hover to forwards so the button stays highlighted when a user hovers over it.
 
-## Create Movement Using CSS Animation
-* Code Assignment 
+## [Create Movement Using CSS Animation](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/create-movement-using-css-animation)
+* Code Assignment: Add a horizontal motion to the div animation. Using the left offset property, add to the @keyframes rule so rainbow starts at 0 pixels at 0%, moves to 25 pixels at 50%, and ends at -25 pixels at 100%. Don't replace the top property in the editor - the animation should have both vertical and horizontal motion.
 
 ## Create Visual Direction by Fading an Element from Left to Right
 * Code Assignment 
