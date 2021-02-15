@@ -1,5 +1,6 @@
 # Applied Accessibility 
 * there are 22 skills in this segment of the coursework 
+* I am beginning my study of this section on Feb 15, 2021. 
 
 ## Introduction to the Applied Accessibility Challenges
 * code assignment 
