@@ -522,3 +522,7 @@ and the substractive CMY model
 * Code Assignment 
 
 ## Final Thoughts 
+* Finished the learning objectives and coding assignments in this segment of this course on February 14, 2021. 
+![Finished]()
+
+Next: Assessiblity. 
