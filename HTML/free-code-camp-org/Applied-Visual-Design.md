@@ -486,8 +486,10 @@ and the substractive CMY model
 
 ## Use CSS Animation to Change the Hover State of a Button
 * Code Assignment: 
-## Modify Fill Mode of an Animation
-* Code Assignment 
+
+
+## [Modify Fill Mode of an Animation](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/modify-fill-mode-of-an-animation)
+* Code Assignment: Set the animation-fill-mode property of button:hover to forwards so the button stays highlighted when a user hovers over it.
 
 ## Create Movement Using CSS Animation
 * Code Assignment 
