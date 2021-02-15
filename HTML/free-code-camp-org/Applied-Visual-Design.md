@@ -523,6 +523,8 @@ and the substractive CMY model
 
 ## Final Thoughts 
 * Finished the learning objectives and coding assignments in this segment of this course on February 14, 2021. 
-![Finished]()
 
-Next: Assessiblity. 
+
+![Finished](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/2021-02-14-completed-Applied-Visual-Design.jpg)
+
+Next: [Applied Assessiblity](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/Applied-Accessibility.md). 
