@@ -111,7 +111,21 @@ Ffermwr (Farmer)
 * Gwraig ty dych chi?  (Are you a housewife?)
 
 
-
+## 2021-02-14 Restoration Session
+* Dych chi'n gweithio ar fferm? Do you work on a farm? 
+* Dw i'n mwynhau gweithio fel ysgrifennydd. I enjoy working as a secretary.
+*  Gwraig ty a mecanic dw i. I am a housewife and a mechanic. 
+*  meddyg (a doctor)
+*  di waith (unemployed)
+*  Dw i'n gweithio fel trydanwr. I work as an electrician.
+*  Athro di waith dw i. I am an unexployed teacher. 
+*  Trydanwr dw i. I am an electrician.
+*  Drama Gymraeg A welsh-speaking play 
+*  Gwraig ty a housewife 
+*  Meddyg dych chi.  Are you a doctor?
+*  I am a house husband Gwr ty dw i 
+*  Dych chi'n mwynhau gweithio ar fferm? Do you enjoy working on a farm.
+*  Gwraig ty dw i. I am a housewife. 
 
 
 
