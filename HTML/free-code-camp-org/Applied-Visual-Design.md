@@ -486,11 +486,13 @@ and the substractive CMY model
 
 ## Use CSS Animation to Change the Hover State of a Button
 * Code Assignment: 
-## Modify Fill Mode of an Animation
-* Code Assignment 
 
-## Create Movement Using CSS Animation
-* Code Assignment 
+
+## [Modify Fill Mode of an Animation](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/modify-fill-mode-of-an-animation)
+* Code Assignment: Set the animation-fill-mode property of button:hover to forwards so the button stays highlighted when a user hovers over it.
+
+## [Create Movement Using CSS Animation](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/create-movement-using-css-animation)
+* Code Assignment: Add a horizontal motion to the div animation. Using the left offset property, add to the @keyframes rule so rainbow starts at 0 pixels at 0%, moves to 25 pixels at 50%, and ends at -25 pixels at 100%. Don't replace the top property in the editor - the animation should have both vertical and horizontal motion.
 
 ## Create Visual Direction by Fading an Element from Left to Right
 * Code Assignment 
@@ -520,3 +522,9 @@ and the substractive CMY model
 * Code Assignment 
 
 ## Final Thoughts 
+* Finished the learning objectives and coding assignments in this segment of this course on February 14, 2021. 
+
+
+![Finished](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/2021-02-14-completed-Applied-Visual-Design.jpg)
+
+Next: [Applied Assessiblity](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/Applied-Accessibility.md). 
