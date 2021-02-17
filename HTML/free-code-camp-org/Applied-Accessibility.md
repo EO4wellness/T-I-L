@@ -10,15 +10,34 @@
 * code assignment: none for this intro portion. 
 
 ## [Add a Text Alternative to Images for Visually Impaired Accessibility](https://www.freecodecamp.org/learn/responsive-web-design/applied-accessibility/add-a-text-alternative-to-images-for-visually-impaired-accessibility)
-*
-*
-* code assignment:
+*  ALT attribute in image tags describes the content of the image
+*  ALT also provides a text alternative to any image 
+*  this is helpful when the image cannot load or cannot be seen by a user 
+*  it is also used by search engines
+*  people who are blind or have low vision rely on screen readers to convert web content to audio
+*  good ALT text provides the reader a brief description of the image
+*  all images posted online should include alt text for the image 
+*  HTML5 considers ALT text for images mandatory 
+*  Example:
+
+		<img src="importantLogo.jpg" alt="Company Logo">
+
+* code assignment: Camper Cat happens to be both a coding ninja and an actual ninja, who is building a website to share his knowledge. The profile picture he wants to use shows his skills and should be appreciated by all site visitors. Add an alt attribute in the img tag, that explains Camper Cat is doing karate. (The image src doesn't link to an actual file, so you should see the alt text in the display.)
 
 ## Know When Alt Text Should be Left Blank
-* code assignment: 
+* when an image has its own caption, which already describes it, then the "alt" text attribute should be left blank. 
+* in this case, where it is already explained in the text or in the caption, an image should still have an ALT attribute but it should be set to a blank string. 
+* ALT text should be blank for background or purly decroative images <img src="url" alt="">
+* code assignment: Camper Cat has coded a skeleton page for the blog part of his website. He's planning to add a visual break between his two articles with a decorative image of a samurai sword. Add an alt attribute to the img tag and set it to an empty string. (Note that the image src doesn't link to an actual file - don't worry that there are no swords showing in the display.)
 
 ## Use Headings to Show Hierarchical Relationships of Content
-* code assignment:  
+* H1 through H6 elements are workhorse tags. 
+* screen readers can be set to read out loud JUST the headings--so that the user gets an overview or summary of the content on the page. 
+* your HTML markup should thus have the headings be meaningful to the content. 
+* SEMANTIC meaning-the tag you use around the content indicates the type of information it contains. 
+* each page should have ONE and only ONE H1 element
+* don't use H2 and H4 in the same section, due to how they look together, instead use CSS to stylize the distinctions between the heading and its paragraph contents. 
+* code assignment:  Camper Cat wants a page on his site dedicated to becoming a ninja. Help him fix the headings so his markup gives semantic meaning to the content, and shows the proper parent-child relationships of his sections. Change all the h5 tags to the proper heading level to indicate they are subsections of the h2 ones. Use h3 tags for the purpose.
 
 ## Jump Straight to the Content Using the main Element
 * code assignment: 
