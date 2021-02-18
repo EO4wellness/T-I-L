@@ -24,7 +24,7 @@
 * DATA - is anything which is meaningful to the computer. 
 * JavaScript has 8 different data types.
 *  JavaScripte Data Types:
-
+ 
 	undefined
 	null
 	boolean
