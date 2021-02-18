@@ -143,18 +143,22 @@ _End of 2021-02-12 Study Session_
 * CODE ASSIGNMENT:
 
 
-## [Create Decimal Numbers with JavaScript](#)
-*
-* CODE ASSIGNMENT:
+## [Create Decimal Numbers with JavaScript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/create-decimal-numbers-with-javascript)
+* Decimal numbers can also be stored in variables too. 
+* FLOATING POINT numbers or FLOATS are yet another name referring to decimal numbers. 
+* It is important to note: not all real numbers can be accurately represented as a floating point.  
+* Floating point can lead to rounding errors.
+* Wiki article about the [float accuracy problem](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/create-decimal-numbers-with-javascript).
+* CODE ASSIGNMENT: Create a variable myDecimal and give it a decimal value with a fractional part (e.g. 5.7).
 
 
-## [Multiply Two Decimals with JavaScript](#)
-*
-* CODE ASSIGNMENT:
+## [Multiply Two Decimals with JavaScript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/multiply-two-decimals-with-javascript)
+* you can use decimal numbers, just like whole numbers, to perform various calculations with them
+* CODE ASSIGNMENT: Change 0.0 so that the product will equal 5.0 
 
-## [Divide One Decimal by Another with JavaScript](#)
-*
-* CODE ASSIGNMENT:
+## [Divide One Decimal by Another with JavaScript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/divide-one-decimal-by-another-with-javascript)
+* Using JavaScript you can also divide one decimal by another. 
+* CODE ASSIGNMENT: Change the 0.0 so that quotient will equal to 2.2.
 
 
 ## [Finding a Remainder in JavaScript](#)
