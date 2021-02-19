@@ -161,9 +161,13 @@ _End of 2021-02-12 Study Session_
 * CODE ASSIGNMENT: Change the 0.0 so that quotient will equal to 2.2.
 
 
-## [Finding a Remainder in JavaScript](#)
-*
-* CODE ASSIGNMENT:
+## [Finding a Remainder in JavaScript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/finding-a-remainder-in-javascript)
+* the "remainter" operator % gives the remainder of the division of two numbers 
+* Usage
+In mathematics, a number can be checked to be even or odd by checking the remainder of the division of the number by 2.
+* Note
+The remainder operator is sometimes incorrectly referred to as the "modulus" operator. It is very similar to modulus, but does not work properly with negative numbers.
+* CODE ASSIGNMENT:Set remainder equal to the remainder of 11 divided by 3 using the remainder (%) operator.
 
 
 ## [Compound Assignment With Augmented Addition](#)
