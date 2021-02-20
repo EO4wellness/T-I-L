@@ -136,4 +136,11 @@ Results: Perfect Party.
 * Si io sono l'uomo. Yes, I am the man.
 * Buonanotte Pietro. 
 
+## Restore 2021-02-20
+* Prego!  You are welcome! 
+* grazie. prego.  Thank you.  You are welcome.
+* Arrivederci, buonanotte. Good-bye-good night.
+* Buonasera. Good evening.
+* Si. Io sono Maria.  Yes, I am maria.
+* Ciao Giovanna.  Bye Giovanna.
 
