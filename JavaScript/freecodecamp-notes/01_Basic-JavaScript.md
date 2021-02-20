@@ -170,13 +170,33 @@ The remainder operator is sometimes incorrectly referred to as the "modulus" ope
 * CODE ASSIGNMENT:Set remainder equal to the remainder of 11 divided by 3 using the remainder (%) operator.
 
 
-## [Compound Assignment With Augmented Addition](#)
-*
-* CODE ASSIGNMENT:
+## [Compound Assignment With Augmented Addition](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/compound-assignment-with-augmented-addition)
+* We use assignments, as a common practice of programming, to change the contents of a variable. 
+* Recall: everything to the RIGHT of the EQUAL SIGN = is evaluated first.
+* Thus the equation 'myVar = myVar + 5' means to take the value currently stored in myVar and add five to it, so that myVar now contains it former value plus five. 
+* The equavalent to the above can also be accomplished in one step.
+* To do so, use the += operator.
+* Example:
 
-## [Compound Assignment With Augmented Subtraction](#)
-*
-* CODE ASSIGNMENT:
+		var myVar = 1;
+		myVar += 5;
+		console.log(myVar); // Returns 6
+
+
+* CODE ASSIGNMENT: Convert the assignments for a, b, and c to use the += operator.
+
+## [Compound Assignment With Augmented Subtraction](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/compound-assignment-with-augmented-subtraction)
+* We can do the exact same thing with subtraction. 
+* When we do so the operator is -=
+* Example:
+	
+	Instead of using : 
+	myVar = myVar -5;
+	
+	We can use the code: 
+	myVar -=5;
+	
+* CODE ASSIGNMENT: Convert the assignments for a, b, and c to use the -= operator.
 
 
 ## [Compound Assignment With Augmented Multiplication](#)
