@@ -221,3 +221,18 @@ John can speak English and Japanese.
 * はい、私のです。 Yes, it is mine. 
 * 僕は英語が話せます  I can speak English 
 * さくらさんは先生です。
+
+## Study session 2021-02-20
+* わたし  ( 私 )  I
+* いいえ、日本人ではありません。 No, I am not Japanese. 
+* 私もイタリア人です。 I am also Italian. 
+* 私もアメリカ人です。 I am also American. 
+* いいえ、学生ではありません。 No, I am not a student. 
+* 私もベトナム人です。I am also Vietnamese. 
+* はい、私も学生です。 Yes, I am also a student. 
+* いいえ、中国人ではありません。 No, I am not Chinese.
+*  私も学生です。 I am also a student. 
+*  私もアメリカ人です。 I am also american 
+*  私もイタリア人です。 I am also italian
+*  私もベトナム人です。 I am also Vietnamese. 
+
