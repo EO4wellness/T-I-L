@@ -24,7 +24,7 @@
 * DATA - is anything which is meaningful to the computer. 
 * JavaScript has 8 different data types.
 *  JavaScripte Data Types:
-
+ 
 	undefined
 	null
 	boolean
@@ -143,32 +143,60 @@ _End of 2021-02-12 Study Session_
 * CODE ASSIGNMENT:
 
 
-## [Create Decimal Numbers with JavaScript](#)
-*
-* CODE ASSIGNMENT:
+## [Create Decimal Numbers with JavaScript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/create-decimal-numbers-with-javascript)
+* Decimal numbers can also be stored in variables too. 
+* FLOATING POINT numbers or FLOATS are yet another name referring to decimal numbers. 
+* It is important to note: not all real numbers can be accurately represented as a floating point.  
+* Floating point can lead to rounding errors.
+* Wiki article about the [float accuracy problem](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/create-decimal-numbers-with-javascript).
+* CODE ASSIGNMENT: Create a variable myDecimal and give it a decimal value with a fractional part (e.g. 5.7).
 
 
-## [Multiply Two Decimals with JavaScript](#)
-*
-* CODE ASSIGNMENT:
+## [Multiply Two Decimals with JavaScript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/multiply-two-decimals-with-javascript)
+* you can use decimal numbers, just like whole numbers, to perform various calculations with them
+* CODE ASSIGNMENT: Change 0.0 so that the product will equal 5.0 
 
-## [Divide One Decimal by Another with JavaScript](#)
-*
-* CODE ASSIGNMENT:
-
-
-## [Finding a Remainder in JavaScript](#)
-*
-* CODE ASSIGNMENT:
+## [Divide One Decimal by Another with JavaScript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/divide-one-decimal-by-another-with-javascript)
+* Using JavaScript you can also divide one decimal by another. 
+* CODE ASSIGNMENT: Change the 0.0 so that quotient will equal to 2.2.
 
 
-## [Compound Assignment With Augmented Addition](#)
-*
-* CODE ASSIGNMENT:
+## [Finding a Remainder in JavaScript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/finding-a-remainder-in-javascript)
+* the "remainter" operator % gives the remainder of the division of two numbers 
+* Usage
+In mathematics, a number can be checked to be even or odd by checking the remainder of the division of the number by 2.
+* Note
+The remainder operator is sometimes incorrectly referred to as the "modulus" operator. It is very similar to modulus, but does not work properly with negative numbers.
+* CODE ASSIGNMENT:Set remainder equal to the remainder of 11 divided by 3 using the remainder (%) operator.
 
-## [Compound Assignment With Augmented Subtraction](#)
-*
-* CODE ASSIGNMENT:
+
+## [Compound Assignment With Augmented Addition](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/compound-assignment-with-augmented-addition)
+* We use assignments, as a common practice of programming, to change the contents of a variable. 
+* Recall: everything to the RIGHT of the EQUAL SIGN = is evaluated first.
+* Thus the equation 'myVar = myVar + 5' means to take the value currently stored in myVar and add five to it, so that myVar now contains it former value plus five. 
+* The equavalent to the above can also be accomplished in one step.
+* To do so, use the += operator.
+* Example:
+
+		var myVar = 1;
+		myVar += 5;
+		console.log(myVar); // Returns 6
+
+
+* CODE ASSIGNMENT: Convert the assignments for a, b, and c to use the += operator.
+
+## [Compound Assignment With Augmented Subtraction](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/compound-assignment-with-augmented-subtraction)
+* We can do the exact same thing with subtraction. 
+* When we do so the operator is -=
+* Example:
+	
+	Instead of using : 
+	myVar = myVar -5;
+	
+	We can use the code: 
+	myVar -=5;
+	
+* CODE ASSIGNMENT: Convert the assignments for a, b, and c to use the -= operator.
 
 
 ## [Compound Assignment With Augmented Multiplication](#)

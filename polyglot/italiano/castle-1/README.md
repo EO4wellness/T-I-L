@@ -20,7 +20,7 @@ Castle 1-Final Quiz <br>
 ![completed-jan-2021](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/italiano/castle-1/images/2021-01-28-completed-story-set1-italian.jpg)
  
 # Story Set 2 (unlocked 1/4/2021)
-* In the Museum 
+* [In the Museum](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/italiano/castle-1/story-set2-Museum.md) 
 * Honeymoon 
 * The Red Jacket 
 * The Exam 
