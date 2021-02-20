@@ -92,3 +92,22 @@
 * Tu bevi You drink 
 * Bevi acqua You drink water 
 
+## Restore 2021-02-20
+* Lui mangia il pane.  He eats bread. 
+* Tu mangi. You eat. 
+* Lui è un uomo. He is a man. 
+* Tu bevi l'acqua. You drink the water
+* La ragazza mangia il pane. The girl eats bread. 
+* Io bevo.  I drink. 
+* Tu sei una donna. You are a woman. 
+* Tu mangi la mela. You eat the apple. 
+* Io bevo.  I drink. 
+* L'uomo. the man. 
+* Un uomo.  A man. 
+* Tu sei un uomo . You are a man.
+* Il ragazzo mangia una mela.  The boy eats an apple. 
+* Mangi zucchero. You eat sugar.
+* Bevi acqua. You drink water. 
+* Lui è il ragazzo. He is a boy.
+* Tu bevi. You drink.
+* Tu sei una ragazza. You are a girl.
