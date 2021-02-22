@@ -209,12 +209,14 @@ The remainder operator is sometimes incorrectly referred to as the "modulus" ope
 * CODE ASSIGNMENT:
 
 
-## [Declare String Variables](#)
-*
-* CODE ASSIGNMENT:
+## [Declare String Variables](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/declare-string-variables)
+* In the previous code example of: "var myName = "your name:;
+* the "your name" is a STRING LITERAL
+* It is a string because it is a series of zero or more characters inclodes in a single or double quotes. 
+* CODE ASSIGNMENT: Create two new string variables: myFirstName and myLastName and assign them the values of your first and last name, respectively.
 
 
-## [Escaping Literal Quotes in Strings](#)
+## [Escaping Literal Quotes in Strings](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/escaping-literal-quotes-in-strings)
 *
 * CODE ASSIGNMENT:
 
