@@ -109,3 +109,13 @@ ne
 ![perfect score](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/la-otra/French/Images/2021-02-11-travel.jpg)
 
 
+## 2021-02-22
+* l'avion (plane)
+* l'aeroport (airport)
+* l'hotel (hotel)
+* un hotel francais (a french hotel)
+* Tu vas a New York (You are going to new york)
+* l'orange (the orange)
+* Je vais a l'aeroport. (I am going to the airport)
+* Tu vas a l'hotel. (You are going to the hotel)
+* Perfect Score 
