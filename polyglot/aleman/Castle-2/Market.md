@@ -112,3 +112,14 @@ How many apples are in your kitchen?
 * Only errors in this study session were in transcribing spelling of sounds heard.
 
 ![Level2-earned](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/aleman/Castle-2/Images/2021-02-12-earned-level2-market.jpg)
+
+## 2021-02-22 Study Session 
+* eins und zwei (one and two)
+* Wo ist der Marktplatz? (Where is the marketplace?)
+* zwei Orangen drei Orangen (two oranges, three oranges)
+* der Marktplatz (the Marketplace)
+* drei und zwei (3 and 2)
+* Zwei Orangen bitte (2 oranges please)
+* eins, zwei (one, two)
+* Results: perfect score. 
+
