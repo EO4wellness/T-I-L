@@ -1,6 +1,6 @@
 # Travel
 * Began study 2-11-2021
-* 
+* Earned level 1 on 2-23-2021
 
 ## The, the, or the?
 * Le goes with masculine nouns.
@@ -119,3 +119,9 @@ ne
 * Je vais a l'aeroport. (I am going to the airport)
 * Tu vas a l'hotel. (You are going to the hotel)
 * Perfect Score 
+
+## 2021-02-23 Study Session 
+* Started Travel [Flash Cards](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/la-otra/French/Images/flash-cards/travel)
+* Earned [Perfect Score](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/la-otra/French/Images/2021-02-23_study-session-travel.png) on today's studies.  
+* Opened new skill sets of Family, Activity and People 2.
+* [Earned Crown 1](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/la-otra/French/Images/2021-02-23-earned-level1-French-travel.png) in this skill set today. 
