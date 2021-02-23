@@ -104,4 +104,12 @@ I began this unit of study on Jan 8, 2021.
 ![level2 earned 2021-01-21](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/aleman/Castle-2/Images/2021-01-21_earned-level-2-castle-2-questions.png)
 
 ### 2021-01-22 Study Session
-* 
+* completed successfully 
+
+## 2021-02-23 Study Session 
+* Mr Schiller and Ms Klum (Heer Schiller und Frau Klum)
+* Are you Ms. Klum? (Sind sie Frau Klum?)
+* Ms. Merkel is chancellor. (Frau Merkel ist Kanzlerin)
+* Are you a professor, Mr. Schiller? (Sind Sie Professor, Herr Schiller?)
+* Yes, Ms. Merkel is Chancellor. (Ja, Frau Merkel ist Kanzlerin)
+* 532 day study streak
