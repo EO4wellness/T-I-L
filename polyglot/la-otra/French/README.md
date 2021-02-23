@@ -14,7 +14,9 @@ _photo credit: [Gilbert Bochneck](https://commons.wikimedia.org/wiki/File:Notre-
 * [Travel](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/la-otra/French/Travel.md)
 * [Flirting](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/la-otra/French/Flirting.md)
 * [Idioms](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/la-otra/French/Idioms.md)
-* 
+* [Family](#) Unlocked 2021-02-23
+* [Activity](#) Unlocked 2021-02-23
+* [People 2](#) Unlocked 2021-02-23
 
 # Study Log:
 * [Read Me](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/la-otra/French/study-logs)
