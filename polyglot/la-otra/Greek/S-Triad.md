@@ -23,3 +23,5 @@
 * first, second, and third study sessions: 2021-02-20
 
 ![NewLevel](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/la-otra/Greek/Images/2021-02-20_earned-level1-S-triad.png)
+
+* new study session 2021-02-24
