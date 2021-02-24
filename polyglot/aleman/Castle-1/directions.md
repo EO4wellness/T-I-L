@@ -7,7 +7,7 @@ Feminine:     Die   Eine <br>
 Neuter:       Das   Ein <br>
 <br>
 <br>
-## LESSON #!:
+## LESSON #1: 2020-12-13
 der Park  (park) <br>
 das Hotel (hotel) <br>
 das Museum (museum) <br>
