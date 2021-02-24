@@ -1,0 +1,41 @@
+Attended today's [WordFence live](https://youtu.be/sfLLrJc2K6k) hosted by Scott Miller whose topic today is: Soloarwinds Casulaties Mount: Could it Hpapen to WordPress? #wordfencelive  
+
+Tuesday, Dec 8, 2020, hacked.
+
+United States Cybersecurty and Infrastructure Security Agency, US [CISA](https://www.cisa.gov/), announced, "...poses a grave risk to the federal government." 
+
+Network Management System software provider, SolarWinds, was the victim of the attack.  Today's live-stream was about how this impacts WordPress & WordFence users. 
+
+WordFence CEO:  Mark Maunder
+WordFence Security staff: Chloe Chamberland and Ram Gall
+
+What is a supply-chain attack?  Ram: "A supply-chain attack basically involves gaining access to a system by targetting a trusted third party used by that system. This can occur at any part in the supply chain." 
+
+Mark Maunder spent much of his time in this live-stream recalling a lot of details regarding related hacker history. 
+
+Next, Scott, Ram, and Chloe discussed more details which are known about this specific hacker attack and its details.
+
+Ram reminded everyone, sarcastically, about Username/Password best practices are still an important and key security issue. 
+
+This hacker attack included the hackers "signed" the code authentication certificate. This causes a lot of anti-virus programs to overlook it. 
+
+What does "APT" stand for? [Advanced Persistent Threat](https://en.wikipedia.org/wiki/Advanced_persistent_threat). 
+
+C2 stands for [Command and Control](https://en.wikipedia.org/wiki/Command_and_control)
+
+[Network Management System](https://www.solarwinds.com/network-management-software) also known as NMS 
+
+The attack itself have pivoted into secondary attacks. As such, there isn't any one specific recovery path for those who have been infected.  Look thru code, make certain you don't have new users who don't belong, and other agressive security paths. 
+
+WordPress:  Is it a target?  It could be, because 1/3rd of the internet runs on wordpress. These attacks were targeting the 3rd most popular software in its category. So far the attacks against WordPress are unclear if this is a nation state and/or organized crime. Wordpress core has already adverted major attack with an update secuirty issue.  
+
+Make certain that users only have the access they need--minimal.  
+
+False trust: the trust wasn't there all along. You cannot be certain everyone is "perfect" all of the time. Trust, but verify. 
+
+Microsoft was infected.  People are suspicious about MS updates.  It seems MS is using best practices, but if they were hacked the negative impact would be massive. 
+
+Broadcasts: Tuesday, 12 noon Pacific time, except next week--taking a break, back in 2021. 
+
+#wordfence #wordpress #solarwinds 
+
