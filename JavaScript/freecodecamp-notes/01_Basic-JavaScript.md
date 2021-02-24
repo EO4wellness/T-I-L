@@ -1,6 +1,6 @@
 # Basic JavaScript 
     
-## Comment Your JavaScript Code 
+## [Comment Your JavaScript Code](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/comment-your-javascript-code) 
 * Comments in JavaScript are either one line or multiple lines. 
 * a one line comment follows this formatting:
 
@@ -111,37 +111,58 @@ _End of 2021-02-12 Study Session_
 *
 * CODE ASSIGNMENT: 
 
-## [Understanding Case Sensitivity in Variables](#)
-*
-* CODE ASSIGNMENT: 
+## [Understanding Case Sensitivity in Variables](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/understanding-case-sensitivity-in-variables)
+* all variables are case sensitive.
+* capitalization matters! 
+* MYVAR is not the same as MyVar or myvar or even myVar
+* while you can use all of these as different variables (due to the difference, only, in capital verses lower case letters) it is not recommended as it is difficult to follow/understand and difficult for debugging. 
+* Best Practice: Write variable names in JavaScript in camelCase. In camelCase, multi-word variable names have the first word in lowercase and the first letter of each subsequent word is capitalized.
+* Examples: 
 
-## [Add Two Numbers with JavaScript](#)
-*
-* CODE ASSIGNMENT: 
+		var someVariable;
+		var anotherVariableName;
+		var thisVariableNameIsSoLong;
 
-## [Subtract One Number from Another with JavaScript](#)
-*
-* CODE ASSIGNMENT:
+* CODE ASSIGNMENT: Modify the existing declarations and assignments so their names use camelCase. Do not create any new variables.
 
-## [Multiply Two Numbers with JavaScript](#)
-*
-* CODE ASSIGNMENT:
+## [Add Two Numbers with JavaScript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/add-two-numbers-with-javascript)
+* Number is a data type in JavaScript which represents numerica data. 
+* JavaScript uses the + symbol as an addition operator when placed between two numbers. 
+* Example:  myVar = 5 + 10; // assigned 15 
+* CODE ASSIGNMENT: Change the 0 so that sum will equal 20.
+
+## [Subtract One Number from Another with JavaScript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/subtract-one-number-from-another-with-javascript)
+* likewise this works the same for subtration.  
+* JavaScript uses the - symbol as the subtraction operator. 
+* Example: myVar = 12 - 6; // assigned 6 
+* CODE ASSIGNMENT: Change the 0 so the difference is 12.
+
+## [Multiply Two Numbers with JavaScript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/multiply-two-numbers-with-javascript)
+* likewise we can multiple one number by another number. 
+* JavaScript uses the * symbol for multiplication 
+* Example: myVar = 13 * 13; // assigned 169
+* CODE ASSIGNMENT: Change the 0 so that product will equal 80.
 
 
-## [Divide One Number by Another with JavaScript](#)
-*
-* CODE ASSIGNMENT:
+## [Divide One Number by Another with JavaScript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/divide-one-number-by-another-with-javascript)
+* likewise we can divide. 
+* JavaScript uses the / symbol as the division operator
+* Example: myVar = 16 / 2; // assigned 8
+* CODE ASSIGNMENT: Change the 0 so that the quotient is equal to 2.
 
 
-## [Increment a Number with JavaScript](#)
-*
-* CODE ASSIGNMENT:
+## [Increment a Number with JavaScript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/increment-a-number-with-javascript)
+* need to add one (increment) to a variable?  
+* then the ++ operator accomplishes it. 
+* i++;  is the code equivalent to i = i + 1; 
+* CODE ASSIGNMENT: Change the code to use the ++ operator on myVar.
 
 
-## [Decrement a Number with JavaScript](#)
-*
-* CODE ASSIGNMENT:
-
+## [Decrement a Number with JavaScript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/decrement-a-number-with-javascript)
+* to decrease a variable by one is called DECREMENT 
+* you can decease the variable by one using the -- operator 
+* i--; is the equivalent of i = i - 1;
+* CODE ASSIGNMENT: Change the code to use the -- operator on myVar.
 
 ## [Create Decimal Numbers with JavaScript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/create-decimal-numbers-with-javascript)
 * Decimal numbers can also be stored in variables too. 
@@ -199,14 +220,25 @@ The remainder operator is sometimes incorrectly referred to as the "modulus" ope
 * CODE ASSIGNMENT: Convert the assignments for a, b, and c to use the -= operator.
 
 
-## [Compound Assignment With Augmented Multiplication](#)
-*
-* CODE ASSIGNMENT:
+## [Compound Assignment With Augmented Multiplication](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/compound-assignment-with-augmented-multiplication)
+* the '*=' operator multiplies a variable by a number 
+* Example: 
+
+		myVar *= 5;
+		
+		is 
+		
+		myVar = myVar * 5;
+		
+* CODE ASSIGNMENT: Convert the assignments for a, b, and c to use the *= operator.
 
 
-## [Compound Assignment With Augmented Division](#)
-*
-* CODE ASSIGNMENT:
+## [Compound Assignment With Augmented Division](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/compound-assignment-with-augmented-division)
+* The /= operator divides a variable by another number.
+* myVar = myVar / 5;
+* Will divide myVar by 5. This can be rewritten as:
+* myVar /= 5;
+* CODE ASSIGNMENT: Convert the assignments for a, b, and c to use the /= operator.
 
 
 ## [Declare String Variables](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/declare-string-variables)
@@ -217,16 +249,36 @@ The remainder operator is sometimes incorrectly referred to as the "modulus" ope
 
 
 ## [Escaping Literal Quotes in Strings](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/escaping-literal-quotes-in-strings)
-*
-* CODE ASSIGNMENT:
+* When you are defining a string you must start and end with a single or double quote. What happens when you need a literal quote: " or ' inside of your string?
+* In JavaScript, you can escape a quote from considering it as an end of string quote by placing a backslash (\) in front of the quote.
+* var sampleStr = "Alan said, \"Peter is learning JavaScript\".";
+* This signals to JavaScript that the following quote is not the end of the string, but should instead appear inside the string. So if you were to print this to the console, you would get:
+* Alan said, "Peter is learning JavaScript".
+* CODE ASSIGNMENT: Use backslashes to assign a string to the myStr variable so that if you were to print it to the console, you would see: I am a "double quoted" string inside "double quotes".
 
 
-## [Quoting Strings with Single Quotes](#)
-*
-* CODE ASSIGNMENT:
+## [Quoting Strings with Single Quotes](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/quoting-strings-with-single-quotes)
+* String values in JavaScript may be written with single or double quotes, as long as you start and end with the same type of quote. 
+* Unlike some other programming languages, single and double quotes work the same in JavaScript.
+* The reason why you might want to use one type of quote over the other is if you want to use both in a string. 
+* This might happen if you want to save a conversation in a string and have the conversation in quotes. 
+* Another use for it would be saving an <a> tag with various attributes in quotes, all within a string
+* However, this becomes a problem if you need to use the outermost quotes within it. Remember, a string has the same kind of quote at the beginning and end. But if you have that same quote somewhere in the middle, the string will stop early and throw an error.
+* EXAMPLES:	
+
+		doubleQuoteStr = "This is a string"; 
+		singleQuoteStr = 'This is also a string';
+		
+		conversation = 'Finn exclaims to Jake, "Algebraic!"';
+		
+		goodStr = 'Jake asks Finn, "Hey, let\'s go on an adventure?"'; 
+		badStr = 'Finn responds, "Let's go!"'; // Throws an error
 
 
-## [Escape Sequences in Strings](#)
+* CODE ASSIGNMENT: Change the provided string to a string with single quotes at the beginning and end and no escape characters.  Right now, the <a> tag in the string uses double quotes everywhere. You will need to change the outer quotes to single quotes so you can remove the escape characters.
+
+
+## [Escape Sequences in Strings](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/escape-sequences-in-strings)
 *
 * CODE ASSIGNMENT:
 
