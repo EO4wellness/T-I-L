@@ -103,7 +103,7 @@ in foro 	in the forum/market
 * quaeso (please)
 * SENTENCE EXAMPLES: 
 * Livia, da mihim vinum. (Livia give me the wine)
-* Viginti olicas velim. (I wounld like twenty olives)
+* Viginti olicas velim. (I would like twenty olives)
 * Femina olivas velit. (The woman would like olives)
 * panis decem nummis constat. (The breast costs ten coins)
 * Quaeso da mihi olivas. (Please give me the olives)
@@ -113,4 +113,13 @@ in foro 	in the forum/market
 
 ![level1](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/Latin/Castle-2/Images/2021-01-28_earned-Level1-Market-Castle2.png)
 
-
+### 2021-02-24 Study Session 
+* These are olives. (Hae sunt olivae.)
+* Hoc crustulum velim. (I would like this cookie.)
+* Quanti crustula constant? (How much do the cookies cost?) 
+* Quanti olivae et crustula constant? (How much do olives and cookies cost?) 
+* Velisne olivas? (Would you like olives?) 
+* Olivas habeo. I have olives.
+* Hoc crustulum est in foro.  (This cookie is in the market)
+* Hae sunt olivae. (These are olives)
+* Velisne hoc crustulum?  Would you like this cookie. 
