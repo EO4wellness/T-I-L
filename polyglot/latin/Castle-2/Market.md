@@ -123,3 +123,14 @@ in foro 	in the forum/market
 * Hoc crustulum est in foro.  (This cookie is in the market)
 * Hae sunt olivae. (These are olives)
 * Velisne hoc crustulum?  Would you like this cookie. 
+* The woman would like olives. (Femina olivas velit)
+* The bed costs ten coins. (Panis decem nummis constat)
+* I would like 20 olives. (Viginti olivas velim)
+* Quaeso, da mihi triginta crustula. (Please, give me 30 cookies)
+* Hoc vinum constat viginti nummis (my solution) or another correct solution is: Hoc vinum viginti nummis constat for "translate into Latin" This wine costs 20 coins. 
+* How vinum viginti nummis constat. (This wine costs 20 coins)
+* Livia, please give me the wine. (Livia, quaeso da mihi vinum)
+* Puer velit decem crustula. (The boy would like ten cookies)
+* Red wine costs 30 coins. Vinum rubrum triginta nummis constat.
+
+Earned level 2 and another crown. 

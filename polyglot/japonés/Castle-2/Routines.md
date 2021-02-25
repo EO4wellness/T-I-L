@@ -38,3 +38,11 @@
 * 十二時ごろに食べます。 I eat around 12 o'clock.
 * も ち ろ ん 行 き ま す 。 Of course I will go. 
 * 九 時 ご ろ に 学 校 へ 行 き ま す 。I go to school around 9 o'clock. 
+
+## 2021-02-24 
+* 午後六時に食べます。 I eat at six PM
+* 会 社  a company 
+* 午後十時に寝ます。I go to sleep at 10 PM
+* 午後十一時に寝ます。I go to sleep at 11 PM
+* 九時ごろに会社へ行きます。 I go to the office at around 9 O'clock. 
+* 

@@ -279,8 +279,37 @@ The remainder operator is sometimes incorrectly referred to as the "modulus" ope
 
 
 ## [Escape Sequences in Strings](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/escape-sequences-in-strings)
-*
+* besides quotes you can also use escaping charactres for...
+* 1. allow you to ue characters you may not otherwise be able to type out such as a carriage return
+* 2.  to allow you to represent multiple quotes in a string without JavaScript misunderstanding what is meant. 
+* For a back slash to display as a back slash, it must be escaped. 
+* EXAMPLE:
+
+		CODE   OUTPUT
+		
+		\'	single quote
+		\"	double quote
+		\	backslash
+		\n	newline
+		\r	carriage return
+		\t	tab
+		\b	word boundary
+		\f	form feed
+		
+		
 * CODE ASSIGNMENT:
+
+
+Assign the following three lines of text into the single variable myStr using escape sequences.
+
+    FirstLine
+        \SecondLine
+    ThirdLine
+
+You will need to use escape sequences to insert special characters correctly. You will also need to follow the spacing as it looks above, with no spaces between escape sequences or words.
+
+Note: The indentation for SecondLine is achieved with the tab escape character, not spaces.
+
 
 
 ## [Concatenating Strings with Plus Operator](#)
