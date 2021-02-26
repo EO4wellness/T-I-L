@@ -279,21 +279,68 @@ The remainder operator is sometimes incorrectly referred to as the "modulus" ope
 
 
 ## [Escape Sequences in Strings](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/escape-sequences-in-strings)
-*
+* besides quotes you can also use escaping charactres for...
+* 1. allow you to ue characters you may not otherwise be able to type out such as a carriage return
+* 2.  to allow you to represent multiple quotes in a string without JavaScript misunderstanding what is meant. 
+* For a back slash to display as a back slash, it must be escaped. 
+* EXAMPLE:
+
+		CODE   OUTPUT
+		
+		\'	single quote
+		\"	double quote
+		\	backslash
+		\n	newline
+		\r	carriage return
+		\t	tab
+		\b	word boundary
+		\f	form feed
+		
+		
 * CODE ASSIGNMENT:
 
 
-## [Concatenating Strings with Plus Operator](#)
-*
-* CODE ASSIGNMENT:
+Assign the following three lines of text into the single variable myStr using escape sequences.
+
+    FirstLine
+        \SecondLine
+    ThirdLine
+
+You will need to use escape sequences to insert special characters correctly. You will also need to follow the spacing as it looks above, with no spaces between escape sequences or words.
+
+Note: The indentation for SecondLine is achieved with the tab escape character, not spaces.
 
 
-## [Concatenating Strings with the Plus Equals Operator](#)
-*
-* CODE ASSIGNMENT:
+
+## [Concatenating Strings with Plus Operator](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/concatenating-strings-with-plus-operator)
+* When the + operator is used with a STRING value in JavaScript is referred to as the CONCATENATION OPERATOR.
+* You can make a new string, out of other strings, but CONCATENATING them together. 
+* NOTE: Watch out for spaces. 
+* Spaces are not added or removed from your string(s) when using the CONCATENATION Operator.
+* If you need a space, add it, as needed. 
+* EXAMPLE:
+		
+		var ourStr = "I come first. " + "I come second.";
+		// ourStr is "I come first. I come second."
+		
+		verses
+		
+		var ourStr = "I come first." + "I come second.";
+		// ourStr is "I come first.I come second."
 
 
-## [Constructing Strings with Variables](#)
+* CODE ASSIGNMENT: Build myStr from the strings "This is the start. " and "This is the end." using the + operator.
+
+
+## [Concatenating Strings with the Plus Equals Operator](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/concatenating-strings-with-the-plus-equals-operator)
+* the += operator will also concatenate a string
+* this can be very helpful when used to break up a long string over several lines. 
+* again, watch out for spaces.
+* CODE ASSIGNMENT:  Build myStr over several lines by concatenating these two strings: "This is the first sentence. " and "This is the second sentence." using the += operator. Use the += operator similar to how it is shown in the editor. Start by assigning the first string to myStr, then add on the second string.
+
+
+
+## [Constructing Strings with Variables](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/constructing-strings-with-variables)
 *
 * CODE ASSIGNMENT:
 

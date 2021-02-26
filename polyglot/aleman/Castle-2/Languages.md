@@ -91,3 +91,14 @@
 * Russisch ist nicht schwer.  (Russian is not difficult!) 
 * Perfect score 
 * earned level 1 and unlocked new stories 
+
+## 2021-02-25 Session 
+* Ich spreche Turkisch. I speak Turkish.
+* Mein Englisch ist perfekt. (My english is perfect)
+* Ich spreche Polnisch und Englisch. I speak Polish and English 
+* Dein Englisch ist toll! (Your English is great!)
+* Mein Turkisch ist sehr gut! (My Turkish is very good)
+* Oh, dein Turkisch ist sehr gut! (Oh, your Turkish is very good)
+* Entschuldigung, sprechen Sie Polnisch? (Excuse me, do you speak Polish?) 
+* Mein Englisch ist wirklich  perfekt (My English is really perfect!)
+* 
