@@ -208,3 +208,23 @@ Der Geldautomat ist hier
 *Perfect Score!  The rest of the review in this lesson consistent of sound files speaking on syllable and then selecting how that sound was spelled in letters (it didn't include whole sentences or words)*<br>
 
 
+## 2021-02-25 Review Session 
+* der Geldautomat (the ATM) 
+* Die Bäckerei ist sehr gut! (The bakery is very good.)
+* Entschuldigung wo ist das Museum? (Excuse me, where is the museum?)
+* Die Kirche ist schön. (The church is beautiful)
+* das Kino, der Supermarkt (the movie theater, the supermarket)
+* Die Kirche ist alt und schön. (The church is old and beautiful)
+* Ja, der Supermarkt ist rechts. (Yes, the supermarket is on the right.)
+* das Museum in Berlin (the museum in Berlin)
+* eine Apotheke und ein Markt (a pharmacy and a market) 
+* die Bibliothek ist alt. (the library is old)
+* Entchuldigung, wo ist der Geldautomat? (Excuse me, where is the ATM.)
+* Die Kirche ist da druben (The church is over there)
+* Das Kino ist rechts (the movie theater is on the right)
+* Ja, der Supermarkt ist links. (Yes, the supermarket is on the left.)
+* Ist die Apotheke in der Nahe? (Is the pharmacy nearby)
+* Ist der Supermarkt links oder rechts?  (Is the supermarket on the left or the right?) 
+* der Supermarkt und der Markt the supermarket and the market 
+* Die Bäckerei ist da drüben. (the bakery is over there)
+
