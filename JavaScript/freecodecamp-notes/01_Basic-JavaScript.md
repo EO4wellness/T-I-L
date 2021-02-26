@@ -312,17 +312,35 @@ Note: The indentation for SecondLine is achieved with the tab escape character, 
 
 
 
-## [Concatenating Strings with Plus Operator](#)
-*
-* CODE ASSIGNMENT:
+## [Concatenating Strings with Plus Operator](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/concatenating-strings-with-plus-operator)
+* When the + operator is used with a STRING value in JavaScript is referred to as the CONCATENATION OPERATOR.
+* You can make a new string, out of other strings, but CONCATENATING them together. 
+* NOTE: Watch out for spaces. 
+* Spaces are not added or removed from your string(s) when using the CONCATENATION Operator.
+* If you need a space, add it, as needed. 
+* EXAMPLE:
+		
+		var ourStr = "I come first. " + "I come second.";
+		// ourStr is "I come first. I come second."
+		
+		verses
+		
+		var ourStr = "I come first." + "I come second.";
+		// ourStr is "I come first.I come second."
 
 
-## [Concatenating Strings with the Plus Equals Operator](#)
-*
-* CODE ASSIGNMENT:
+* CODE ASSIGNMENT: Build myStr from the strings "This is the start. " and "This is the end." using the + operator.
 
 
-## [Constructing Strings with Variables](#)
+## [Concatenating Strings with the Plus Equals Operator](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/concatenating-strings-with-the-plus-equals-operator)
+* the += operator will also concatenate a string
+* this can be very helpful when used to break up a long string over several lines. 
+* again, watch out for spaces.
+* CODE ASSIGNMENT:  Build myStr over several lines by concatenating these two strings: "This is the first sentence. " and "This is the second sentence." using the += operator. Use the += operator similar to how it is shown in the editor. Start by assigning the first string to myStr, then add on the second string.
+
+
+
+## [Constructing Strings with Variables](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/constructing-strings-with-variables)
 *
 * CODE ASSIGNMENT:
 
