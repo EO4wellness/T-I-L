@@ -341,11 +341,13 @@ Note: The indentation for SecondLine is achieved with the tab escape character, 
 
 
 ## [Constructing Strings with Variables](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/constructing-strings-with-variables)
-*
-* CODE ASSIGNMENT:
+* Some times the string you are trying to build will need to be built "Mad Libs" style.
+* Concatenation works great for this. 
+* You can insert one or more variables into a string your building
+* CODE ASSIGNMENT: Set myName to a string equal to your name and build myStr with myName between the strings "My name is " and " and I am well!"
 
 
-## [Appending Variables to Strings](#)
+## [Appending Variables to Strings](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/appending-variables-to-strings)
 *
 * CODE ASSIGNMENT:
 
@@ -409,7 +411,9 @@ Note: The indentation for SecondLine is achieved with the tab escape character, 
 * CODE ASSIGNMENT:
 
 ## [Manipulate Arrays With pop()](#)
-Not Passed
+*
+* CODE ASSIGNMENT: 
+
 ## [Manipulate Arrays With shift()](#)
 *
 * CODE ASSIGNMENT:
