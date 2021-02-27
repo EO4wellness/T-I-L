@@ -30,7 +30,7 @@
 * ALT text should be blank for background or purly decroative images <img src="url" alt="">
 * code assignment: Camper Cat has coded a skeleton page for the blog part of his website. He's planning to add a visual break between his two articles with a decorative image of a samurai sword. Add an alt attribute to the img tag and set it to an empty string. (Note that the image src doesn't link to an actual file - don't worry that there are no swords showing in the display.)
 
-## Use Headings to Show Hierarchical Relationships of Content
+## [Use Headings to Show Hierarchical Relationships of Content](https://www.freecodecamp.org/learn/responsive-web-design/applied-accessibility/use-headings-to-show-hierarchical-relationships-of-content)
 * H1 through H6 elements are workhorse tags. 
 * screen readers can be set to read out loud JUST the headings--so that the user gets an overview or summary of the content on the page. 
 * your HTML markup should thus have the headings be meaningful to the content. 
