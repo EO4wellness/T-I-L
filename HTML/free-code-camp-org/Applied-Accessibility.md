@@ -39,8 +39,12 @@
 * don't use H2 and H4 in the same section, due to how they look together, instead use CSS to stylize the distinctions between the heading and its paragraph contents. 
 * code assignment:  Camper Cat wants a page on his site dedicated to becoming a ninja. Help him fix the headings so his markup gives semantic meaning to the content, and shows the proper parent-child relationships of his sections. Change all the h5 tags to the proper heading level to indicate they are subsections of the h2 ones. Use h3 tags for the purpose.
 
-## Jump Straight to the Content Using the main Element
-* code assignment: 
+## [Jump Straight to the Content Using the main Element](https://www.freecodecamp.org/learn/responsive-web-design/applied-accessibility/jump-straight-to-the-content-using-the-main-element)
+* HTML5 introduced a number of new elements that give developers more options while also incorporating accessibility features. These tags include main, header, footer, nav, article, and section, among others.
+* This works like a "div" 
+* The tag name alone can indicate the type of information it contains, which adds semantic meaning to that content
+* The main tag also has an embedded landmark feature that assistive technology can use to quickly navigate to the main content. If you've ever seen a "Jump to Main Content" link at the top of a page, using a main tag automatically gives assistive devices that functionality.
+* code assignment: Camper Cat has some big ideas for his ninja weapons page. Help him set up his markup by adding opening and closing main tags between the header and footer (covered in other challenges). Keep the main tags empty for now.
 
 ## Wrap Content in the article Element
 * code assignment:  
