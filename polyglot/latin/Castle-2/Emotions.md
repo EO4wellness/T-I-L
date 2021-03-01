@@ -2,16 +2,16 @@
 * First study session: 2021-02-09
 
 ## New Vocabulary - Lesson 1
-![vocab-1](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/Latin/Castle-2/Images/flash-cards/emotions-vocab1.png)
+![vocab-1](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/latin/Castle-2/Images/flash-cards/emotions-vocab1.png)
 
 ## New Vocabulary - Lesson 2
-![vocab-2](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/Latin/Castle-2/Images/flash-cards/emotions-vocab2.png)
+![vocab-2](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/latin/Castle-2/Images/flash-cards/emotions-vocab2.png)
 
 ## New Vocabulary - Lesson 3
-![vocab-3](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/Latin/Castle-2/Images/flash-cards/emotions-vocab3.png)
+![vocab-3](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/latin/Castle-2/Images/flash-cards/emotions-vocab3.png)
 
 ## New Vocabulary - Lesson 4
-![vocab-4](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/Latin/Castle-2/Images/flash-cards/emotions-vocab4.png)
+![vocab-4](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/latin/Castle-2/Images/flash-cards/emotions-vocab4.png)
 
 
 # Study Session 
@@ -40,4 +40,17 @@
 (The young man with an angry parrot is in the forum. or The young man is in the forum with an angry parrot.)
 * Luvenis otiosus psittacos non pulsat. (The leisurely young man does not hit he parrots)
 
+## [2021-03-01 Study Session](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/latin/Castle-2/Images/2021-03-01_Latin-Emotions-Castle-2.png)
+* Interdum comites sunt perfidi. (Sometimes the comrades are deceitful)
+* Luvenis impius librum non legit. (The disrespectful young man does not read the book.)
+* Fortasse libros scitis.  (Perhaps you know the books)
+* Fortasse comites sunt perfidi et implii. (Perhaps the comrades are deceitful and undutiful)
+* Comites sententias nostras sciunt. (The comrades know our opinions.)
+* Fortasse vos socios habetis. (Perhaps you all have allies.)
+* Interdum placidus sum. (Sometimes I am calm)
+* Interdum sententiae sunt imiae (Sometimes the opinions are wicked)
+* Interdum comites sunt perfidi. (Sometimes the comrades are deceitful)
+* Fortasse velitis nostros libros.  (perhaps you all would like our books) another correct translation would be: Fortasse libros nostros velitis. 
+* Perfidus et impius iuvenis pulsat magistrum. (OR Iuvenis perfidus et imius magistrum pulsat) The deceitful and undutiful young man hits the teacher.
 
+![Earned Level 1](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/latin/Castle-2/Images/20210-03-01_earned-level1-emotions.png)
