@@ -41,20 +41,23 @@
     
         Skill set open to study: 2021-01-28
         Started: 2021-02-09
+        Earned Level1: 2021-03-01
     
 
-* [Food](#) 
+* [Food](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/latin/Castle-2/Food.md) 
     
         Skill set open to study: 2021-01-28
-        Started: 
+        Started: 2021-03-01
     
 
-* [Time](#) 
+* [Time](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/latin/Castle-2/Time.md) 
     
         Skill set open to study: 2021-01-28
-        Started: 
+        Started: 2021-03-01
     
 
 ## Castle 2 - Final Quiz 
 
+        Quiz open:  
 
+Nav: [Castle1](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/latin/Castle-1) | [Castle2-This Page](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/latin/Castle-2) | [Castle3](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/latin/Castle-3)
