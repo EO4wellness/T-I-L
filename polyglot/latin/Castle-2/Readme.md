@@ -18,7 +18,7 @@
         Started: 
         
 
-* [Plurals 2](#) 
+* [Plurals 2](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/latin/Castle-2/Plurals2.md) 
     
         Skill set open to study: 2021-01-28
         Started: 
