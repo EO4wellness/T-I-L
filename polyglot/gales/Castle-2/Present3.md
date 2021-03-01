@@ -1,4 +1,4 @@
-Present Tense 3
+# Present Tense 3
 
 In this unit, other forms of the present tense of bod (to be) are introduced.
 'You' - Ti and Chi
@@ -180,5 +180,29 @@ If the question starts with something other than the verb we use a much simpler 
 * sut dych chi Morgan? gweddol diolch (how are you morgan? not bad, thanks.)
 * _llun_  (a picture) 
 ![Results](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/gales/Castle-2/2021-01-06-next-level.png)
+
+## 2021-03-01 Restoration Session 
+* Sut dych chi Owen.  Ofnawdy (How are you, Owen?  Terrible!)
+* Mae Dlyan yn clywed y ci. (Dyland hears the dog.)
+* Ydy o'n gwrando ar y radio, hefyd? (Is he listening to the radio, too?)
+* Dim Smygu! (No smoking!)
+* Maen nhw'n clywed y car. (They hear the car)
+* Mae Dylan yn agor y drws heddiw. (Dylan is opening the door today)
+* Mae e eisiau cau'r cwpwrdd. (He wants to close the cupboard)
+* Sut dych chi Megan?  Ofnawdy!  (How are you, Megan? Terrible!)
+* Mae Megan yn clywed y car. (Megan hears the car)
+* Maen nhw'n licio lliwio a gwrando ar gerddoriaeth. (They like coloring in and listening to music)
+* Nac ydyn dyn ni ddim ym smygu.  (No, we don't smoke)
+* Dych chi'n gwrando ar y radio? (Do you listen to the radio?) 
+* Ydy Owen yn gwrando ar y radio? (Is owen listening to the radio?)
+* Mae car Megan yn ofnadwy! (Megan's car is terrible!)
+* Ydyn nhw'n mynd am dro?  Ydyn. (Are they going for a walk? Yes.)
+* Dyn ni'n agor y drws. (We are opening the door.)
+* Dydy Megan ddim yn mwynhau mynd am dro. (Megan does not enjoy going for a walk)
+* Ydy Megan yn mynd am dro. (Is megan going for a walk?)
+* Ydyn maen nhw'n agor y cwpwrdd. (Yes, they are opening the cubpoard.)
+* Dyn ni eisiau cpwrdd newydd. (We want a new cupboard)
+* Ydyn nhw'n mynd am dro?  Ydyn.  Are they going for a walk? Yes. 
+* 
 
 
