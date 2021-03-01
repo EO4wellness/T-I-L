@@ -21,3 +21,16 @@
 * Began study: 2021-03-01
 
 ## 2021-03-01 First Study Session 
+* laetus
+* piscis (fish) 
+* pavimetum (floor) 
+* Plurimi pisces tibi placent. (You like a great many fish.) or (You like very many fish)
+* Pisces tui sunt pingues. (Your fish are fat.)
+* pingues (fat)
+* Comes pisces in pavimentum iacit. (The comrade throws the fish on the floor. )
+* Tu plurimos pisces in pavimentum iacis. (You throw very many fish on the floor.)
+* Piscem pinguem velim. (I would like a fat fish)
+* Plurimi pisces in ludo non sunt. (There are not very many fish in the school)
+* Olivae pingues sunt. (The olives are fat)
+![Complete lesson 1](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/latin/Castle-2/Images/2021-03-01_Food-Lesson1.png)
+
