@@ -1,5 +1,5 @@
 # Latin - DuoLingo
-[Castle1](#) | [Castle2-This Page](#) | [Castle3](#)
+[Castle1](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/latin/Castle-1) | [Castle2-This Page](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/latin/Castle-2) | [Castle3](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/latin/Castle-3)
 
 # Castle 2 - Course of Study
 * Topic Skill Set of Study | Link to Study Notes | Progress with Specific kill Set 
