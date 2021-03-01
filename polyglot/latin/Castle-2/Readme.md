@@ -12,7 +12,7 @@
         Level 1: 2021-01-28 
         
 
-* [Travels](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/Latin/Castle-2/Travels.md)
+* [Travels](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/latin/Castle-2/Travels.md)
     
         Skill set open to study: 2021-01-28
         Started: 
@@ -37,7 +37,7 @@
          Level 1: 2021-02-08
     
 
-* [Emotions](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/Latin/Castle-2/Emotions.md#2021-02-09-session) 
+* [Emotions](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/latin/Castle-2/Emotions.md) 
     
         Skill set open to study: 2021-01-28
         Started: 2021-02-09
