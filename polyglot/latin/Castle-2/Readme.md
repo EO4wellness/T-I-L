@@ -41,20 +41,22 @@
     
         Skill set open to study: 2021-01-28
         Started: 2021-02-09
+        Earned Level1: 2021-03-01
     
 
 * [Food](#) 
     
         Skill set open to study: 2021-01-28
-        Started: 
+        Started: 2021-03-01
     
 
 * [Time](#) 
     
         Skill set open to study: 2021-01-28
-        Started: 
+        Started: 2021-03-01
     
 
 ## Castle 2 - Final Quiz 
 
+        Quiz open:  
 
