@@ -24,7 +24,7 @@
 
 * code assignment: Camper Cat happens to be both a coding ninja and an actual ninja, who is building a website to share his knowledge. The profile picture he wants to use shows his skills and should be appreciated by all site visitors. Add an alt attribute in the img tag, that explains Camper Cat is doing karate. (The image src doesn't link to an actual file, so you should see the alt text in the display.)
 
-## Know When Alt Text Should be Left Blank
+## [Know When Alt Text Should be Left Blank](https://www.freecodecamp.org/learn/responsive-web-design/applied-accessibility/know-when-alt-text-should-be-left-blank)
 * when an image has its own caption, which already describes it, then the "alt" text attribute should be left blank. 
 * in this case, where it is already explained in the text or in the caption, an image should still have an ALT attribute but it should be set to a blank string. 
 * ALT text should be blank for background or purly decroative images <img src="url" alt="">
@@ -46,11 +46,34 @@
 * The main tag also has an embedded landmark feature that assistive technology can use to quickly navigate to the main content. If you've ever seen a "Jump to Main Content" link at the top of a page, using a main tag automatically gives assistive devices that functionality.
 * code assignment: Camper Cat has some big ideas for his ninja weapons page. Help him set up his markup by adding opening and closing main tags between the header and footer (covered in other challenges). Keep the main tags empty for now.
 
-## Wrap Content in the article Element
-* code assignment:  
+## [Wrap Content in the article Element](https://www.freecodecamp.org/learn/responsive-web-design/applied-accessibility/wrap-content-in-the-article-element#)
+* ARTICLE is one of the HTML5 elements
+* ARTICLE is intended to be used to add semantic meaning to your markup
+* ARTICLE is a sectioning element 
+* ARTICLE is used to wrap independent, self-contained content 
+* examples of use: blog entries, forum posts or news articles 
+* It is a judgement call to know if it is an article or not
+* The test is: can the content stand alone?  If so, it is an article.
+* TEST: if you removed the surrounding context, would that content still make sense? 
+* for text, the test is, would it hold up if it were in an RSS Feed? 
+* this helps those who use assistive technoligies understand the organization and semnantical meaning of your content 
+* SECTION is another element added by HTML5
+* SECTION has a similar use but slightly differnt meaning than ARTICLE 
+* Whereas ARTICLE is for stand alone content, SECTION is for grouping thematically related content 
+* Both SECTION and ARTICLE could and should be used together 
+* Example:  in the context of a book, the book its self would be ARTICLE and the chapters would be SECTION 
+* When ever there is NO relationship between groups of content, then use a DIV 
 
-## Make Screen Reader Navigation Easier with the header Landmark
-* code assignment:  
+		<div> groups content 
+		<section> groups related content 
+		<article> groups independent, self-contained content 
+		
+* code assignment:  Camper Cat used article tags to wrap the posts on his blog page, but he forgot to use them around the top one. Change the div tag to use an article tag instead.
+* [Followup:](https://forum.freecodecamp.org/t/applied-accessiblity-question/449144?u=eo4wellness)
+
+## [Make Screen Reader Navigation Easier with the header Landmark](https://www.freecodecamp.org/learn/responsive-web-design/applied-accessibility/make-screen-reader-navigation-easier-with-the-header-landmark)
+* 
+* code assignment: Camper Cat is writing some great articles about ninja training, and wants to add a page for them to his site. Change the top div that currently contains the h1 to a header tag instead.   
 
 ## Make Screen Reader Navigation Easier with the nav Landmark
 * code assignment: 
