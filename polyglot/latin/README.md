@@ -6,7 +6,7 @@
 
 
 ## Study Log:
-[Study Log](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/latin/study-log)
+[Study Logs](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/latin/study-log) | Feb | [March](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/latin/study-log/2021-March.md)
 
 # Latin 
 * Course link: https://www.duolingo.com/learn 
