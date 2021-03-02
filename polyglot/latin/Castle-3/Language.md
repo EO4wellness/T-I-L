@@ -1,4 +1,7 @@
 # Language
+* Unlocked skill set: 2021-03-02
+* Began skill set: 2021-03-02
+
 
 ## Passive and Deponent Verbs (3rd conj.)
 * Deponent verbs are verbs that are passive in form, but active in meaning. 
@@ -41,10 +44,24 @@
 ![Lesson4](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/latin/Castle-3/Images/Language-lesson4.png)
 
 # Study Sessions:
-* first began studies:
+* first began studies: 2021-03-02
 
-## First Study Session 
-* 
+## 2021-03-02 First Study Session 
+* Viri ebrii vinum habent. (_The drunk men_ have the wine.) 
+* Marcus librum legere velit. (Marcus would like to read a book.)
+* Nos in colloquium venimus. (We have a conversation)
+* Marcus et Stephanus in colloquium veniunt. (Marcus and Stephanus have a conversation)
+* Multi oratores sunt in templo. (There are many orators in the temple)
+* Tu loqueris. (you speak)
+* Oratores in foro exclamant. (The orators exclaim in the forum)
+* Bene loqueris. (You speak well)
+* Ego litteras Latinas legere velim (I would like to read Latin literature)
+* Medica ratiocinatorem sanat. (The doctor heals the bookkeeper)
+* Ego in colloquium venio. (I have a conversation)
+* Placetne tibi legere?  (Do you like to read?)
+* Loqueris et exclamas. (You speak and you exclaim) 
+* familiares habent (They have relatives.)
+
 
 Nav: [Latin ReadMe](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/latin) | [Castle 1](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/latin/Castle-1) | [Castle 2](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/latin/Castle-2) | [Castle 3](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/latin/Castle-3) | [Study Logs](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/latin/study-log)
 
