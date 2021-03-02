@@ -17,6 +17,11 @@ _photo credit: [Gilbert Bochneck](https://commons.wikimedia.org/wiki/File:Notre-
 * [Family](#) Unlocked 2021-02-23
 * [Activity](#) Unlocked 2021-02-23
 * [People 2](#) Unlocked 2021-02-23
+* Present Tense 1
+* Family 2
+* Resturant 
+* Castle 1 Quiz 
+* [Stories](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/la-otra/French/Stories)
 
 # Study Log:
 * [Read Me](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/la-otra/French/study-logs)
