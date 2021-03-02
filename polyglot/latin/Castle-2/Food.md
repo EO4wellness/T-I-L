@@ -36,4 +36,20 @@
 ![Complete lesson 1](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/latin/Castle-2/Images/2021-03-01_Food-Lesson1.png)
 
 
+## 2021-03-02 
+* piscis (fish)
+* mensa (table)
+* salsus (salty)
+* pavimentum (floor)
+* Femina pecuniosa psittacum iratum habet. (The rich woman has an angry parrot)
+* Quot triclinia habetis? (How many dining rooms do you have?)
+* Piscem in mensam iacit.  She throws fish on the table. 
+* Garum est salsum. The fish sauce is salty.
+* Tu garum gustas. (You taste the fish sauce)
+* Quid scribis, Marce? Suntne epistulae? (What are you writing Marcus? Are they letters?)
+* Garum salsum gusto. (I taste the salty fish sauce)
+* Triclinium pavimentum habet (The dining room has a floor)
+* Femina pecuniosa vinum et garum habet. (The rich woman has the wine and the fish sauce)
+
+![Completed Lesson 2](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/latin/Images/2021-03-02_Food-Lesson2.jpg)
 
