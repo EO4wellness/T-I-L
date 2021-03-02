@@ -6,7 +6,7 @@
 * [Language](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/latin/Castle-3/Language.md) 
 
         Unlocked: 2021-03-02
-        First Lesson: 
+        First Lesson: 2021-03-02
         Earned level 1: 
     
 * [Home](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/latin/Castle-3/Home.md) 
