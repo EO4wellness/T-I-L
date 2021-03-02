@@ -1,11 +1,11 @@
 ## Course of Study:
 1. [Castle-1](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/Latin/Castle-1) | 
    2021-01-28-Today I took and passed the [Castle 1 Final Quiz before doing most of the lessons!](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/Latin/Images/2021-01-28_took-and-passed-latin-quiz-today-with-a-perfect-score.png)  Wow!  
-2. [Castle-2](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/Latin/Castle-2)
+2. [Castle-2](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/Latin/Castle-2) |Passed Castle Exam 2021-03-02!
 3. [Castle-3](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/Latin/Castle-3)
 
 ## Study Log:
-[Study Log](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/Latin/study-log/2021-Feb.md)
+[Study Log](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/latin/study-log)
 
 # Latin 
 * Course link: https://www.duolingo.com/learn 
@@ -23,7 +23,7 @@
     (as of Jan 26-2021 i've learned 50 words in Latin)
     There aren't any "Stories" be unlocked in this Latin course on Duo 
     There are only 3 Castles to the entire course 
-* Prior to 1/26/2021, this Latin course was within the "OTHER" languages studied section on GitHub.  
+* Prior to 1/26/2021, this Latin course was within the "OTHER" languages studied section on my TIL GitHub.  
 * As of Jan 26, 2021, I've moved it to its own folder, not included within the "other" languages portion of the Polyglot repo. 
 * These thoughts are my own, based on my studies at University.  If the topic interests you, and you are reading this, why not check out [Wiki's Latin article](https://en.wikipedia.org/wiki/Latin) for a very basic overview.
 
@@ -31,7 +31,7 @@
 *This image is used with permission and is an example of anciety historical pieces writen in Latin: "Antique Map of the World. World Map "Nova Totius Terrarum Orbis Geographica Ac Hydrographica Tabula a Pet Kaerio " You are free to use this map for educational purposes, please refer to the [Nations Online Project](https://www.nationsonline.org/oneworld/map/antique-world-map.htm)."*
 
 ### Images: 
-[Overall](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/Latin/Images) | [Castle 1](#) | [Castle 2](#) | [Castle 3](#)
+[Overall](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/Latin/Images) | [Castle 1](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/latin/Castle-1/Images) | [Castle 2](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/latin/Castle-2/Images) | [Castle 3](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/latin/Castle-3/Images)
 <br>
 
 ## Other Resources 

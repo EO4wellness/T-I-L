@@ -3,20 +3,33 @@
 
 # Castle 3 - Course of Study
 
-* Language 
+* [Language](#) 
 
-* Home 
+        Unlocked: 2021-03-02
+        First Lesson: 
+        Earned level 1: 
+    
+* [Home](#) 
 
-* gods
+        Unlocked: 2021-03-02
+        First Lesson: 
+        Earned level 1: 
+        
+        
+* [gods](#) 
 
-* Shop 
+* [Shop](#)  
 
-* Activities 
+* [Activities](#)  
 
-* Hobbies 
+* [Hobbies](#)  
 
-* Nature 
+* [Nature](#)  
 
-* Feast 
+* [Feast](#)  
 
 ## Castle 3 - Final Quiz
+    
+    Unlocked: 
+    Passed: 
+    Course conclusion: 
