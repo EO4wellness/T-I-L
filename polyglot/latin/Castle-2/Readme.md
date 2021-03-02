@@ -1,5 +1,5 @@
 # Latin - DuoLingo
-[Castle1](#) | [Castle2-This Page](#) | [Castle3](#)
+[Castle1](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/latin/Castle-1) | [Castle2-This Page](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/latin/Castle-2) | [Castle3](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/latin/Castle-3)
 
 # Castle 2 - Course of Study
 * Topic Skill Set of Study | Link to Study Notes | Progress with Specific kill Set 
@@ -12,13 +12,13 @@
         Level 1: 2021-01-28 
         
 
-* [Travels](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/Latin/Castle-2/Travels.md)
+* [Travels](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/latin/Castle-2/Travels.md)
     
         Skill set open to study: 2021-01-28
         Started: 
         
 
-* [Plurals 2](#) 
+* [Plurals 2](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/latin/Castle-2/Plurals2.md) 
     
         Skill set open to study: 2021-01-28
         Started: 
@@ -37,24 +37,27 @@
          Level 1: 2021-02-08
     
 
-* [Emotions](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/Latin/Castle-2/Emotions.md#2021-02-09-session) 
+* [Emotions](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/latin/Castle-2/Emotions.md) 
     
         Skill set open to study: 2021-01-28
         Started: 2021-02-09
+        Earned Level1: 2021-03-01
     
 
-* [Food](#) 
+* [Food](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/latin/Castle-2/Food.md) 
     
         Skill set open to study: 2021-01-28
-        Started: 
+        Started: 2021-03-01
     
 
-* [Time](#) 
+* [Time](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/latin/Castle-2/Time.md) 
     
         Skill set open to study: 2021-01-28
-        Started: 
+        Started: 2021-03-01
     
 
 ## Castle 2 - Final Quiz 
 
+        Quiz open:  
 
+Nav: [Castle1](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/latin/Castle-1) | [Castle2-This Page](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/latin/Castle-2) | [Castle3](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/latin/Castle-3)

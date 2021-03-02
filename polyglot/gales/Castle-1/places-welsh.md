@@ -73,3 +73,25 @@ Sometimes the Welsh name includes the "y" (the) and that is not reflected in the
 * Dw i'n prynu dillad ynghanol Tywyn.  (I am buying clothese in the center of Tywyn.)
 * Dych chi'n byw ger llyfrgell?  (Do you live near a library?)
 * Dw i'n byw ger y llyfrgell. (I live near the library)
+
+## 2021-03-01 Restoration Session:
+* Dych chi'n hoffi Caefyrddin? (Do you like Carmarthen?)
+* Dych chi'n hoffi Bangor? (Do you like Bangor)
+* Dw i'n mwynhau byw ger Bangor. (I enjoy living near Bangor)
+* Dych chi'n byw ger Caerfyrddin.  (Do you live near Carmathen?)
+* y siopau (the shops)
+* Dych chi'n mynd i'r siopau yn Aberaeron heddiw?  (Are you going to the shops in Aberaeron today?)
+* Dych chi'n dod o Efrog Newydd (Do you come from New York?)
+* Dych chi'n mwynhau gwithio yn Efrog Newydd. (Do you enjoy workingin New York)
+* Dw i'n dod o Efrog Newydd (I come from new york)
+* Dych chi'n dod o Efrog Newydd? (Do you come from New York?)
+* Dw i'n byw ger y llyfrgell (I live near the library)
+* Dw i'n byw ynghanol y dre. (I live in the middle of the town).
+* Dw i'n mynd i'r siopau yn y Fenni. (I am going to the shops in Abergavenny)
+* Dych chi'n mwynhau mynd i'r llyfrgell. (You enjoy going to the library)
+* Dw i'n gweithio yn llyfrgell Bangor. (I work in Bangor library)
+* Dw i'n mwynhau gweithio ger Aberaeron. (I enjoy working near Aberaeron)
+* Dych chi'n mynd i Aberaeron heddiw.  (You are going to Aberaeron today)
+* Caerfyrddin (Carmarthen)
+
+
