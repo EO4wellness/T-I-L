@@ -72,16 +72,36 @@
 * [Followup:](https://forum.freecodecamp.org/t/applied-accessiblity-question/449144?u=eo4wellness)
 
 ## [Make Screen Reader Navigation Easier with the header Landmark](https://www.freecodecamp.org/learn/responsive-web-design/applied-accessibility/make-screen-reader-navigation-easier-with-the-header-landmark)
-* 
+* HEADER is an HTML5 element
+* HEADER also provides semantic meaning
+* HEADER improves accessibility info 
+* HEADER is a tag 
+* used to wrap introductory info
+* used to wrap navigation links for its parent tag
+* also works around content that is repeated at the top on multiple pages (or site wide)
+* HEADER allows assistive technologies to quickly navigate to the content 
+* NOTE: HEADER is intended for use in a BODY tag of the HTML
+* the HEADER tag is different than the HEAD ELEMENT
+* the head eleemnt contains the pages title and meta info 
 * code assignment: Camper Cat is writing some great articles about ninja training, and wants to add a page for them to his site. Change the top div that currently contains the h1 to a header tag instead.   
 
-## Make Screen Reader Navigation Easier with the nav Landmark
-* code assignment: 
+## [Make Screen Reader Navigation Easier with the nav Landmark](https://www.freecodecamp.org/learn/responsive-web-design/applied-accessibility/make-screen-reader-navigation-easier-with-the-nav-landmark)
+* NAV element is another HTML5 item
+* NAV element has an embedded landmark feature for ease of screen reader navigation
+* NAV is a tag
+* the Nav tag is meant to wrap around the main navigation links in our page
+* NOTE: if there are repeated site links at the bottom of th epage, it is NOT necessary to mark those up wit the nav tag as well. 
+* Use of FOOTER is sufficient for such content 
+* code assignment: Camper Cat included navigation links at the top of his training page, but wrapped them in a div. Change the div to a nav tag to improve the accessibility on his page.
 
-## Make Screen Reader Navigation Easier with the footer Landmark
-* code assignment: 
+## [Make Screen Reader Navigation Easier with the footer Landmark](https://www.freecodecamp.org/learn/responsive-web-design/applied-accessibility/make-screen-reader-navigation-easier-with-the-footer-landmark)
+* Like HEADER and NAV HTML5 also has the FOOTER element
+* FOOTER has a built-in landmark feature for assistive devices to quickly navigate to it
+* FOOTER is primarily used to contain copyright information or links to related documents usually at the bottom of the page. 
+* code assignment: Camper Cat's training page is making good progress. Change the div he used to wrap his copyright information at the bottom of the page to a footer element.
 
-## Improve Accessibility of Audio Content with the audio Element
+## [Improve Accessibility of Audio Content with the audio Element](https://www.freecodecamp.org/learn/responsive-web-design/applied-accessibility/improve-accessibility-of-audio-content-with-the-audio-element)
+* 
 * code assignment: 
 
 ## Improve Chart Accessibility with the figure Element
