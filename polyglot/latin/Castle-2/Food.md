@@ -43,7 +43,7 @@
 * pavimentum (floor)
 * Femina pecuniosa psittacum iratum habet. (The rich woman has an angry parrot)
 * Quot triclinia habetis? (How many dining rooms do you have?)
-* Piscem in mensam iacit.  She throws fish on the table. 
+* Piscem in mensam iacit.  (She throws fish on the table.) 
 * Garum est salsum. The fish sauce is salty.
 * Tu garum gustas. (You taste the fish sauce)
 * Quid scribis, Marce? Suntne epistulae? (What are you writing Marcus? Are they letters?)
@@ -53,3 +53,35 @@
 
 ![Completed Lesson 2](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/latin/Images/2021-03-02_Food-Lesson2.jpg)
 
+## 2021-03-02 
+* caro (meat)
+* pavimentum (floor)
+* ossa (bones)
+* mensa (table)
+* Ossa nostra sunt plurima. (Our bones are very many)
+* Mercator carnes vendit. (The merchant sells meats)
+* Mensa nostra vobis placet. (You like our table)
+* Piscem vobis iacimus. (We throw the fish to you)
+* Mensa nobis placet. (We like the table)
+* Cauponae in urbe mihi placent. (I like the Inns in the city)
+* Placentne vobis hoc garum?  Do you like this fish sauce? 
+* Multas cauponas in foro visitatis. (You visit many inns in the forum)
+* Cauponae mihi placent in urbe. (I like the Inns in the city)
+
+![earned perfect score](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/latin/Images/2021-03-02_Food-Lesson2.jpg) 
+
+
+## 2021-03-02 
+* ovum (egg)
+* poculum (cup)
+* patella (plate)
+* Ego ovum in caupona iacio (I throw an egg in the Inn.)
+* Pocula in pavimento sunt. (The cups are on the floor)
+* Pavones pingues nobis placent. (We like the fat peacocks)
+* Pavones eorum sunt pingues. (Their peacocks are fat)
+* Garum non bibis. (You do not drink fish sauce)
+* Placentne tibi patellae meae? (Do you like my plates?)
+* Pavones sunt pingues (The peacocks are fat)
+* Ego non sum ovum. (I am not an egg)
+
+![Earned Level 1](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/latin/Castle-2/Images/2021-03-02-earned-level1-FOOD.png)
