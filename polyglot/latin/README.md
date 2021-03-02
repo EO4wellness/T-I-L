@@ -4,6 +4,7 @@
 2. [Castle-2](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/latin/Castle-2) |Passed Castle Exam 2021-03-02!
 3. [Castle-3](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/latin/Castle-3)
 
+Course Nav: [Latin ReadMe](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/latin) | [Castle 1](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/latin/Castle-1) | [Castle 2](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/latin/Castle-2) | [Castle 3](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/latin/Castle-3) | [Study Logs](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/latin/study-log)
 
 ## Study Log:
 [Study Log](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/latin/study-log)
