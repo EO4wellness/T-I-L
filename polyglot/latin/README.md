@@ -1,8 +1,9 @@
 ## Course of Study:
-1. [Castle-1](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/Latin/Castle-1) | 
+1. [Castle-1](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/latin/Castle-1) | 
    2021-01-28-Today I took and passed the [Castle 1 Final Quiz before doing most of the lessons!](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/Latin/Images/2021-01-28_took-and-passed-latin-quiz-today-with-a-perfect-score.png)  Wow!  
-2. [Castle-2](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/Latin/Castle-2) |Passed Castle Exam 2021-03-02!
-3. [Castle-3](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/Latin/Castle-3)
+2. [Castle-2](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/latin/Castle-2) |Passed Castle Exam 2021-03-02!
+3. [Castle-3](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/latin/Castle-3)
+
 
 ## Study Log:
 [Study Log](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/latin/study-log)
@@ -31,7 +32,7 @@
 *This image is used with permission and is an example of anciety historical pieces writen in Latin: "Antique Map of the World. World Map "Nova Totius Terrarum Orbis Geographica Ac Hydrographica Tabula a Pet Kaerio " You are free to use this map for educational purposes, please refer to the [Nations Online Project](https://www.nationsonline.org/oneworld/map/antique-world-map.htm)."*
 
 ### Images: 
-[Overall](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/Latin/Images) | [Castle 1](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/latin/Castle-1/Images) | [Castle 2](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/latin/Castle-2/Images) | [Castle 3](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/latin/Castle-3/Images)
+[Overall](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/latin/Images) | [Castle 1](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/latin/Castle-1/Images) | [Castle 2](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/latin/Castle-2/Images) | [Castle 3](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/latin/Castle-3/Images)
 <br>
 
 ## Other Resources 
