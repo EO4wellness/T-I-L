@@ -3,7 +3,7 @@
 
 # Castle 3 - Course of Study
 
-* [Language](#) 
+* [Language](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/latin/Castle-3/Language.md) 
 
         Unlocked: 2021-03-02
         First Lesson: 
