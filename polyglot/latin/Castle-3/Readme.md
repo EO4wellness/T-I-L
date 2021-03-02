@@ -9,7 +9,7 @@
         First Lesson: 
         Earned level 1: 
     
-* [Home](#) 
+* [Home](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/latin/Castle-3/Home.md) 
 
         Unlocked: 2021-03-02
         First Lesson: 
