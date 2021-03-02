@@ -47,4 +47,6 @@
         Level 2: Feb 14, 2021
         
         
-[CASTLE 1 - Final Quiz](#) Achieved!
+[CASTLE 1 - Final Quiz](#) 2021-01-28 Achieved! 
+
+Nav: [Latin ReadMe](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/latin) | [Castle 1](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/latin/Castle-1) | [Castle 2](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/latin/Castle-2) | [Castle 3](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/latin/Castle-3) | [Study Logs](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/latin/study-log)

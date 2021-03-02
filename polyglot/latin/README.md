@@ -1,8 +1,9 @@
 ## Course of Study:
-1. [Castle-1](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/Latin/Castle-1) | 
+1. [Castle-1](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/latin/Castle-1) | 
    2021-01-28-Today I took and passed the [Castle 1 Final Quiz before doing most of the lessons!](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/Latin/Images/2021-01-28_took-and-passed-latin-quiz-today-with-a-perfect-score.png)  Wow!  
-2. [Castle-2](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/Latin/Castle-2) |Passed Castle Exam 2021-03-02!
-3. [Castle-3](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/Latin/Castle-3)
+2. [Castle-2](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/latin/Castle-2) |Passed Castle Exam 2021-03-02!
+3. [Castle-3](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/latin/Castle-3)
+
 
 ## Study Log:
 [Study Log](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/latin/study-log)
@@ -31,11 +32,11 @@
 *This image is used with permission and is an example of anciety historical pieces writen in Latin: "Antique Map of the World. World Map "Nova Totius Terrarum Orbis Geographica Ac Hydrographica Tabula a Pet Kaerio " You are free to use this map for educational purposes, please refer to the [Nations Online Project](https://www.nationsonline.org/oneworld/map/antique-world-map.htm)."*
 
 ### Images: 
-[Overall](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/Latin/Images) | [Castle 1](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/latin/Castle-1/Images) | [Castle 2](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/latin/Castle-2/Images) | [Castle 3](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/latin/Castle-3/Images)
+[Overall](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/latin/Images) | [Castle 1](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/latin/Castle-1/Images) | [Castle 2](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/latin/Castle-2/Images) | [Castle 3](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/latin/Castle-3/Images)
 <br>
 
 ## Other Resources 
 * [Latin:](https://duolingo.fandom.com/wiki/Latin)
 
 ### Polyglot Nav
-[Polyglot ReadMe](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/README.md) | [Czech](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/la-otra/Czech) |  [Dutch](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/la-otra/Dutch) |  [French](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/la-otra/French) | [Greek](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/la-otra/Greek/readme.md) |  [German](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/aleman) |  [ヘブライ語](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/la-otra/%E3%83%98%E3%83%96%E3%83%A9%E3%82%A4%E8%AA%9E) | [Italian](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/italiano) |  [Japanese](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/japon%C3%A9s) | [Latin](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/Latin) | [Slovak](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/eslovaco) | [Spanish](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/espa%C3%B1ol) | [Welsh](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/gales) |  More? . . . time will tell | [TIL](https://github.com/EO4wellness/T-I-L)
+[Polyglot ReadMe](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/README.md) | [Czech](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/la-otra/Czech) |  [Dutch](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/la-otra/Dutch) |  [French](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/la-otra/French) | [Greek](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/la-otra/Greek/readme.md) |  [German](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/aleman) |  [ヘブライ語](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/la-otra/%E3%83%98%E3%83%96%E3%83%A9%E3%82%A4%E8%AA%9E) | [Italian](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/italiano) |  [Japanese](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/japon%C3%A9s) | [Latin](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/latin) | [Slovak](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/eslovaco) | [Spanish](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/espa%C3%B1ol) | [Welsh](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/gales) |  More? . . . time will tell | [TIL](https://github.com/EO4wellness/T-I-L)
