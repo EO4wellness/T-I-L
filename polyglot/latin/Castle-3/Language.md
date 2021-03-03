@@ -62,6 +62,21 @@
 * Loqueris et exclamas. (You speak and you exclaim) 
 * familiares habent (They have relatives.)
 
+## 2021-03-03 Study Session:
+* volumen (book)
+* bibliotheca (library)
+* pavimentum (floor)
+* ossa (bones)
+* Bibliotheca volumina habet. (The library has books)
+* Volumina non loquuntur. (Scrolls do not speak)
+*  You send songs and letters to Marcus
+*  Carmina et epistulas ad Marcum
+*  Volumina non loquuntur (Scrolls do not speak)
+*  Oratores epistulas miltunt The orators send the letters
+*  Orator ad me litteras mittit (The orator sends me a letter)
+*  Male loquimini (You speak poorly)
+
+
 
 Nav: [Latin ReadMe](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/latin) | [Castle 1](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/latin/Castle-1) | [Castle 2](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/latin/Castle-2) | [Castle 3](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/latin/Castle-3) | [Study Logs](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/latin/study-log)
 
