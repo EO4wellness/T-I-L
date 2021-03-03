@@ -101,8 +101,26 @@
 * code assignment: Camper Cat's training page is making good progress. Change the div he used to wrap his copyright information at the bottom of the page to a footer element.
 
 ## [Improve Accessibility of Audio Content with the audio Element](https://www.freecodecamp.org/learn/responsive-web-design/applied-accessibility/improve-accessibility-of-audio-content-with-the-audio-element)
-* 
-* code assignment: 
+* AUDIO element - an HTML5 semantic meaning used to wrap sound or audio stream content 
+* audio content also needs a text alternative for those who are hard of hearing
+* this can be done with either a) nearby text on the page or b) link to transcript of the content
+* the AUDIO tag supports the CONTROLS attribute 
+* (default play, pause or other audio controls)
+* support keyboard control functionality 
+* This is BOOLEAN
+* it doesn't need a value
+* the presence of the tag turns the setting "on"
+* Example:
+
+		
+		<audio id="meowClip" controls>
+		<source src="audio/meow.mp3" type="audio/mpeg" />
+		<source src="audio/meow.ogg" type="audio/ogg" />
+		</audio>
+* often content has both visual and auditory components
+* best practice: synchronized captions and a transcript 
+* generally a web developer isn't responsible f or creating the caption or the transcripts but needs to know to include them or ask for them
+* code assignment: Time to take a break from Camper Cat and meet fellow camper Zersiax (@zersiax), a champion of accessibility and a screen reader user. To hear a clip of his screen reader in action, add an audio element after the p. Include the controls attribute. Then place a source tag inside the audio tags with the src attribute set to https://s3.amazonaws.com/freecodecamp/screen-reader.mp3 and type attribute set to "audio/mpeg".
 
 ## Improve Chart Accessibility with the figure Element
 * code assignment: 
