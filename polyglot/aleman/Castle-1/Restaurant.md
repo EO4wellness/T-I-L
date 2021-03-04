@@ -14,7 +14,7 @@ Did you notice that ‑er at the end of a word is pronounced like uh? Give it a 
 
 * Wasser (as in “uh”)
 * Schwester (as in “uh”)
-
+:beers:
 
 ### Practice Review Skill session 2020-12-29
 * Ist der Salat lecker? (Is the salad delicious?) 
