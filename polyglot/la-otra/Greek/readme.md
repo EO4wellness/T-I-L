@@ -4,7 +4,7 @@
 * [Greek Letters](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/la-otra/Greek/Greek-Type-Helps.md) | a cut-n-paste keyboard tool & prounciation guide
 
 # STUDY LOG: 
-* 2021-02-24: earned level 2 in [S Triad](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/la-otra/Greek/Images/2021-02-24-S-triad.png) earned language crown #6. <br> 
+:greece: 2021-02-24: earned level 2 in [S Triad](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/la-otra/Greek/Images/2021-02-24-S-triad.png) earned language crown #6. <br> 
 * 2021-02-23: earned level 2 in [WarmUp](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/la-otra/Greek/Images/2021-02-23-level-up.png) skill set. <br>
 * 2021-02-20: earned level 1 in the [S-Triad skill set](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/la-otra/Greek/Images/2021-02-20_earned-level1-S-triad.png)<br>
 * 2021-02-18: Started [New course](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/la-otra/Greek/Images/20-18-2021_New-Course.jpg) and earned [WarmUp level 1](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/la-otra/Greek/Images/2021-02-18-earned-level1.jpg)<br>
