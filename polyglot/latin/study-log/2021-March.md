@@ -5,6 +5,12 @@
 
 # Monthly Goal: 
 * Pass Castle 2 quiz (obtained this monthly-long goal on 03-02-2021)
-* set new goal: earn level 1 in each skill set of Castle 3 this month. 
+* Set new March goal.
+* New Goal: earn level 1 in each skill set of Castle 3
+* Determine success by # of skill sets in this castle.  
+* There are a total of 8 skills so I need to earn 8 level 1 rankings before the end of March
+* most of these skill sets require 3-7 lessons to earn level 1 
 
-      March 1st: 0% accomplished. 
+      March 1st: 0/8 accomplished. 
+      March 3rd: 1/8 accomplished. 
+      March 4th: 3/8 accomplished. 
