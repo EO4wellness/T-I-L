@@ -7,13 +7,13 @@
 
         Unlocked: 2021-03-02
         First Lesson: 2021-03-02
-        Earned level 1: 
+        Earned level 1: 2021-03-03
     
 * [Home](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/latin/Castle-3/Home.md) 
 
         Unlocked: 2021-03-02
-        First Lesson: 
-        Earned level 1: 
+        First Lesson: 2021-03-03
+        Earned level 1: 2021-03-04
         
         
 * [gods](#) 
