@@ -122,10 +122,27 @@
 * generally a web developer isn't responsible f or creating the caption or the transcripts but needs to know to include them or ask for them
 * code assignment: Time to take a break from Camper Cat and meet fellow camper Zersiax (@zersiax), a champion of accessibility and a screen reader user. To hear a clip of his screen reader in action, add an audio element after the p. Include the controls attribute. Then place a source tag inside the audio tags with the src attribute set to https://s3.amazonaws.com/freecodecamp/screen-reader.mp3 and type attribute set to "audio/mpeg".
 
-## Improve Chart Accessibility with the figure Element
-* code assignment: 
+## [Improve Chart Accessibility with the figure Element](https://www.freecodecamp.org/learn/responsive-web-design/applied-accessibility/improve-chart-accessibility-with-the-figure-element)
+* HTML5 introduced FIGURE element and its related FIGCAPTION
+* these two are used togehter to wrap visual items (like an image, a diagram, or chart) 
+* when used it wraps the caption together with the visual content
+* when used it also provides a semantic grouping of related content 
+* CAPTIONS for charts should provide a brief overall conclusion of what the data shows (for those who are visually impaired) 
+* Example: 
 
-## Improve Form Field Accessibility with the label Element
+		<figure>
+			<img src="roundhouseDestruction.jpeg" alt="Photo of Camper Cat executing a roundhouse kick">
+			<br>
+			<figcaption>
+			Master Camper Cat demonstrates proper form of a roundhouse kick.
+			</figcaption>
+		</figure>
+
+
+* code assignment: Camper Cat is hard at work creating a stacked bar chart showing the amount of time per week to spend training in stealth, combat, and weapons. Help him structure his page better by changing the div tag he used to a figure tag, and the p tag that surrounds the caption to a figcaption tag.
+
+## [Improve Form Field Accessibility with the label Element](https://www.freecodecamp.org/learn/responsive-web-design/applied-accessibility/improve-form-field-accessibility-with-the-label-element)
+*
 * code assignment: 
 
 ## Wrap Radio Buttons in a fieldset Element for Better Accessibility
