@@ -20,7 +20,7 @@ and . . . my mark down and other skills
 -[x] Italian | Italiano | [T-I-L](https://github.com/EO4wellness/T-I-L/tree/86669610db441e8521adeaccb15eaaa3b04d6310/polyglot/italiano)<br> 
 -[X] Latin  | Latín     | [T-I-L](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/Latin)<br>
 -[x] Other | Otra | [T-I-L](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/la-otra) | [Czech](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/la-otra/Czech) | [Dutch](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/la-otra/Dutch) | [French](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/la-otra/French) | [Latin](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/la-otra/Latin) | [ヘブライ語](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/la-otra/%E3%83%98%E3%83%96%E3%83%A9%E3%82%A4%E8%AA%9E) | More? . . . time will tell  
-
+-[x] Britsh English vs. American English. NOTE:  I discovered again today, and keep re-discovering every few months or so, I'm also learning a bit of British English.  Mondly, the app, has all of the "English" translations in British English.  Thus the word Tyre instead of Tire, Theatre instead of Theater, and [Car Park vs Parking lot](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/images/british-english.jpg). 
 
 ## T-I-L Current Learning Logs
 * [Spanish](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/espa%C3%B1ol/study-log/2021_log.md)
