@@ -6,3 +6,5 @@
 # Monthly Goal: 
 * Pass Castle 2 quiz (obtained this monthly-long goal on 03-02-2021)
 * set new goal: earn level 1 in each skill set of Castle 3 this month. 
+
+      March 1st: 0% accomplished. 
