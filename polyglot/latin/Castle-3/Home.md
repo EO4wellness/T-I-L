@@ -1,6 +1,7 @@
 # Home
 * Study topic unlocked:  2021-03-02
-* First study session:  2021-03-03
+* First study session:  2021-03-03 to 4th
+* Level 1 obtained: 
 
 
 ## This
