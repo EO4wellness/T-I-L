@@ -1,6 +1,6 @@
 # Home
 * Study topic unlocked:  2021-03-02
-* First study session:  2021-03-
+* First study session:  2021-03-03
 
 
 ## This
@@ -30,6 +30,21 @@
 # Study Sessions: 
 
 ## 2021-03-03 First Study Session: 
-* 
+* prater (father)
+* villa (house)
+* sella (chair)
+* mater (mother)
+* Matres legunt (The mothers read.)
+* In sella sedes. (You sit in the chair)
+* Lararium est in villa. (The lararium is in the house)
+* Ad lararium ambulatis. (You walk to the lararium)
+* Patres in tablino sedent. (The fathers sit in the office.)
+* Ad lararium ambulatis. (You walk to the lararium)
+* Ad villam advenimus (We arrive at the house)
+* Matres non sunt sellae (Mothers are not chairs)
+* In tablino sedes (You sit in the office)
+* In tablino patronum visitat cliens. (In the office a client visits a patron)
+
+Perfect score.  Not certain how this counted--as I began the lesson on the 3rd but complted it on the 4th of March. Don't know if Duo scores it on the 3rd or on the 4th. 
 
 Nav: [Latin ReadMe](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/latin) | [Castle 1](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/latin/Castle-1) | [Castle 2](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/latin/Castle-2) | [Castle 3](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/latin/Castle-3) | [Study Logs](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/latin/study-log)
