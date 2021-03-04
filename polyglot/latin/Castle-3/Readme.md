@@ -16,17 +16,46 @@
         Earned level 1: 2021-03-04
         
         
-* [gods](#) 
+* [gods](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/latin/Castle-3/gods.md) 
+
+                Unlocked: 2021-03-04
+                First Lesson: 2021-03-04
+                Earned level 1: 2021-03-04
 
 * [Shop](#)  
 
+                Unlocked: 2021-03-04
+                First Lesson: 
+                Earned level 1: 
+
+
 * [Activities](#)  
+
+                Unlocked: 2021-03-04
+                First Lesson: 
+                Earned level 1: 
+
 
 * [Hobbies](#)  
 
+                Unlocked: 
+                First Lesson: 
+                Earned level 1: 
+
+
 * [Nature](#)  
 
-* [Feast](#)  
+                Unlocked: 
+                First Lesson: 
+                Earned level 1: 
+
+
+* [Feast](#) 
+
+                Unlocked: 
+                First Lesson: 
+                Earned level 1: 
+ 
 
 ## Castle 3 - Final Quiz
     
