@@ -17,6 +17,8 @@
 * [A Date](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/aleman/Castle-1/a-date.md) 
 * [One Thing](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/aleman/Castle-1/one-thing.md) 
 * [Surprise!](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/aleman/Castle-1/surprise.md) 
+* Completed Set 1 - Story Set
+* Reviewed Set 1 - Story Set 2021-03-03 (all four stories) and found my listening comprehension is MUCH improved this time around! 
 
 ### Navigate: <br>
 [Castle 1](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/aleman/Castle-1/README.md)  | [Castle 2](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/aleman/Castle-2/README.md)  | [Castle 3](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/aleman/Castle-3/README.md)   | [Castle 4](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/aleman/Castle-4/README.md)  | [Castle 5](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/aleman/Castle-5/README.md) 
