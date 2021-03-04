@@ -7,6 +7,5 @@
 
 # LOGS: 
 * 2019-No logs are available from 2019, as I didn't think to keep them yet.<br> 
-* [2020](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/aleman/study-logs/2020_log.md)<br>
-* [2021](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/aleman/study-logs/2021_log.md)<br>
-
+* [2020 - December](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/aleman/study-logs/2020_log.md)<br>
+* [2021](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/aleman/study-logs/2021_log.md) | [Jan](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/aleman/study-sessions/2021-Jan) | [Feb](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/aleman/study-sessions/2021-Feb) | [March](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/aleman/study-sessions/2021-March) | ... <br>
