@@ -1,7 +1,7 @@
 # Home
 * Study topic unlocked:  2021-03-02
 * First study session:  2021-03-03 to 4th
-* Level 1 obtained: 
+* Level 1 obtained: [2021-03-04](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/latin/Castle-3/Images/2021-03-04-LatinHome_earned-level1-new-crown.png)
 
 
 ## This
