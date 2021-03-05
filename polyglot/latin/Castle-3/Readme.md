@@ -22,11 +22,11 @@
                 First Lesson: 2021-03-04
                 Earned level 1: 2021-03-04
 
-* [Shop](#)  
+* [Shop](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/latin/Castle-3/Shop.md)  
 
                 Unlocked: 2021-03-04
-                First Lesson: 
-                Earned level 1: 
+                First Lesson: 2021-103-04
+                Earned level 1: 2021-103-04
 
 
 * [Activities](#)  
