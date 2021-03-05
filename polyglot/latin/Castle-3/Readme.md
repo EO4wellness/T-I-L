@@ -40,19 +40,19 @@
 
                 Unlocked: 2021-03-05
                 First Lesson: 2021-03-05
-                Earned level 1: 
+                Earned level 1: 2021-03-05
 
 
 * [Nature](#)  
 
-                Unlocked: 
+                Unlocked: 2021-03-05
                 First Lesson: 
                 Earned level 1: 
 
 
 * [Feast](#) 
 
-                Unlocked: 
+                Unlocked: 2021-03-05
                 First Lesson: 
                 Earned level 1: 
  
