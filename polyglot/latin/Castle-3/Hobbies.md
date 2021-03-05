@@ -1,6 +1,7 @@
 # Hobbies
 * Unlocked: 2021-03-05
 * First Study Session: 2021-03-05
+* Earned level 1: 2021-03-05
 
 ## Adverbs ending in -iter
 * While first and second declension adjectives get the ending -e to form an adverb, 
