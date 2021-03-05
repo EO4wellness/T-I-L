@@ -20,7 +20,7 @@ and . . . my mark down and other skills
 -[x] Italian | Italiano | [T-I-L](https://github.com/EO4wellness/T-I-L/tree/86669610db441e8521adeaccb15eaaa3b04d6310/polyglot/italiano)<br> 
 -[X] Latin  | Latín     | [T-I-L](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/Latin)<br>
 -[x] Other | Otra | [T-I-L](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/la-otra) | [Czech](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/la-otra/Czech) | [Dutch](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/la-otra/Dutch) | [French](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/la-otra/French) | [Latin](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/la-otra/Latin) | [ヘブライ語](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/la-otra/%E3%83%98%E3%83%96%E3%83%A9%E3%82%A4%E8%AA%9E) | More? . . . time will tell  
-
+-[x] Britsh English vs. American English. NOTE:  I discovered again today, and keep re-discovering every few months or so, I'm also learning a bit of British English.  Mondly, the app, has all of the "English" translations in British English.  Thus the word Tyre instead of Tire, Theatre instead of Theater, and [Car Park vs Parking lot](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/images/british-english.jpg). 
 
 ## T-I-L Current Learning Logs
 * [Spanish](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/espa%C3%B1ol/study-log/2021_log.md)
@@ -95,7 +95,7 @@ Duolingo has several "leagues" and each week you either advance to the next leve
     13 French 936 XP
     12 Czech 868 XP
     9 Dutch 719 XP
-    6 Greek 525 XP 
+    6 Greek 525 XP :greece:
 
 
 [Polyglot ReadMe](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/README.md) | [Czech](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/la-otra/Czech) |  [Dutch](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/la-otra/Dutch) |  [French](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/la-otra/French) | [Greek](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/la-otra/Greek/readme.md) |  [German](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/aleman) |  [ヘブライ語](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/la-otra/%E3%83%98%E3%83%96%E3%83%A9%E3%82%A4%E8%AA%9E) | [Italian](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/italiano) |  [Japanese](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/japon%C3%A9s) | [Latin](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/Latin) | [Slovak](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/eslovaco) | [Spanish](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/espa%C3%B1ol) | [Welsh](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/gales) |  More? . . . time will tell | [TIL](https://github.com/EO4wellness/T-I-L)

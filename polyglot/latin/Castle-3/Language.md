@@ -62,6 +62,51 @@
 * Loqueris et exclamas. (You speak and you exclaim) 
 * familiares habent (They have relatives.)
 
+## 2021-03-03 Study Session:
+* volumen (book)
+* bibliotheca (library)
+* pavimentum (floor)
+* ossa (bones)
+* Bibliotheca volumina habet. (The library has books)
+* Volumina non loquuntur. (Scrolls do not speak)
+*  You send songs and letters to Marcus
+*  Carmina et epistulas ad Marcum
+*  Volumina non loquuntur (Scrolls do not speak)
+*  Oratores epistulas miltunt The orators send the letters
+*  Orator ad me litteras mittit (The orator sends me a letter)
+*  Male loquimini (You speak poorly)
+
+## 2021-03-03 Study Session:
+* volumen (book)
+* anglice (English)
+* hispanice (Spanish)
+* Ego Anglice loquor. (I speak English)
+* Nos bibliothecam visitare volumus. (We want to visit the library)
+* Discipulae semper latinae linguae student. (The students always study the Latin language)
+* Quinque verba scio (I know five words)
+* Plurima verba in volumine sunt. (There are very many words in the scroll) 
+* Turbae hispanice loquuntur. (The crowds speak Spanish)
+* Psittaci semper ebrii sunt. (The parrots are always drunk)
+* Turba anglice loquitur. (The crowd speaks in English)
+* Nos visitare bibliothecam volumus (We want to visit the library)
+* Nos vinum volumus (We want wine)
+
+
+## 2021-03-03 Study Session:
+* germanice (german)
+* anglice (english)
+* volumen (book)
+* Magister librum laudat (The teacher praises the book)
+* Inscriptio mihi placet (I like the inscription)
+* Ubi urbs proxima est? (Where is the nearest city?) 
+* In templo tacite loquimur. (In the temple, we speak quietly)
+* Professores volumina in bibliotheca inveniunt. (The professors find scrolls in the library)
+* Germanice non loquimur. (We do not speak German)
+* Tacite legere voumus. (We want to read quietly)
+* Magister Germanice loquitur. (The teacher speaks German)
+* In bibliotheca tacite loquimur. (We speak quietely in the library)
+
+![level1](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/latin/Castle-3/Images/2021-03-03-earned-level1-LATIN%20Languages-earned%20new%20crown.jpg)
 
 Nav: [Latin ReadMe](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/latin) | [Castle 1](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/latin/Castle-1) | [Castle 2](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/latin/Castle-2) | [Castle 3](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/latin/Castle-3) | [Study Logs](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/latin/study-log)
 
