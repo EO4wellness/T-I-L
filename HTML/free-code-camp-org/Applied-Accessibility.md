@@ -142,11 +142,40 @@
 * code assignment: Camper Cat is hard at work creating a stacked bar chart showing the amount of time per week to spend training in stealth, combat, and weapons. Help him structure his page better by changing the div tag he used to a figure tag, and the p tag that surrounds the caption to a figcaption tag.
 
 ## [Improve Form Field Accessibility with the label Element](https://www.freecodecamp.org/learn/responsive-web-design/applied-accessibility/improve-form-field-accessibility-with-the-label-element)
-*
-* code assignment: 
+* to be semantically using HTML we need to use appropriate tag names and attributes
+* LABEL tag wrps the text for specific form content
+* FOR atribute on a LABEL tag assocates that label with the form control 
+* example: 
+		<form>
+ 			 <label for="name">Name:</label>
+			 <input type="text" id="name" name="name">
+		</form>
 
-## Wrap Radio Buttons in a fieldset Element for Better Accessibility
-* code assignment: 
+
+* code assignment: Camper Cat expects a lot of interest in his thoughtful blog posts and wants to include an email sign up form. Add a for attribute on the email label that matches the id on its input field.
+
+## [Wrap Radio Buttons in a fieldset Element for Better Accessibility](https://www.freecodecamp.org/learn/responsive-web-design/applied-accessibility/wrap-radio-buttons-in-a-fieldset-element-for-better-accessibility)
+* The next form topic covers the accessibility of radio buttons. Each choice is given a label with a for attribute tying to the id of the corresponding item as covered in the last challenge. Since radio buttons often come in a group where the user must choose one, there's a way to semantically show the choices are part of a set.
+
+The fieldset tag surrounds the entire grouping of radio buttons to achieve this. It often uses a legend tag to provide a description for the grouping, which is read by screen readers for each choice in the fieldset element.
+
+The fieldset wrapper and legend tag are not necessary when the choices are self-explanatory, like a gender selection. Using a label with the for attribute for each radio button is sufficient.
+* Example: 
+
+	<form>
+	  <fieldset>
+   		 <legend>Choose one of these three items:</legend>
+    		<input id="one" type="radio" name="items" value="one">
+   		 <label for="one">Choice One</label><br>
+   		 <input id="two" type="radio" name="items" value="two">
+   		 <label for="two">Choice Two</label><br>
+   		 <input id="three" type="radio" name="items" value="three">
+  		  <label for="three">Choice Three</label>
+  </fieldset>
+</form>
+
+
+* code assignment: Camper Cat wants information about the ninja level of his users when they sign up for his email list. He's added a set of radio buttons and learned from our last lesson to use label tags with for attributes for each choice. Go Camper Cat! However, his code still needs some help. Change the div tag surrounding the radio buttons to a fieldset tag, and change the p tag inside it to a legend.
 
 ## Add an Accessible Date Picker
 * code assignment: 
