@@ -7,6 +7,7 @@
 # Study Sessions
 * Unlocked skill set: 2021-03-04
 * Began first study session: 2021-103-04
+* earned level 1: 2021-103-04 
 
 ## First Study Session:
 * anulus (ring)
