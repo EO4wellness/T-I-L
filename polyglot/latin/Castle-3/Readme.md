@@ -60,7 +60,7 @@
 ## Castle 3 - Final Quiz
     
     Unlocked: 
-    Passed: 
+    Passed:  
     Course conclusion: 
 
 Nav: [Latin ReadMe](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/latin) | [Castle 1](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/latin/Castle-1) | [Castle 2](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/latin/Castle-2) | [Castle 3](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/latin/Castle-3) | [Study Logs](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/latin/study-log)
