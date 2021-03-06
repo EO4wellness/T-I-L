@@ -10,6 +10,7 @@ and . . . my mark down and other skills
 ## Favorite Language Learning Tools
 [Duolingo](https://www.duolingo.com/profile/EO4wellnes) | [Mondly](https://app.mondly.com/home) | [Drops](https://app.languagedrops.com/) | [Verify Vocab](https://translate.google.com/)
 
+![duo-Gold](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/latin/Castle-3/Images/2021-03-05-LATIN-GOLD-DUO!.png)
 
 # Today I Learned | Las Idiomas 
 -[x] Spanish | Espanol | [T-I-L](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/espa%C3%B1ol)<br>
