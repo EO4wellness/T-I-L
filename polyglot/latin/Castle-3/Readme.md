@@ -59,8 +59,11 @@
 
 ## Castle 3 - Final Quiz
     
-    Unlocked: 
-    Passed:  
-    Course conclusion: 
+    Unlocked: 2021-03-05
+    Passed:  2021-03-05
+    Course conclusion: 2021-03-05
+   
+
+![wow](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/latin/Images/2021-03-05-EO4Wellness-earned.png)
 
 Nav: [Latin ReadMe](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/latin) | [Castle 1](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/latin/Castle-1) | [Castle 2](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/latin/Castle-2) | [Castle 3](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/latin/Castle-3) | [Study Logs](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/latin/study-log)
