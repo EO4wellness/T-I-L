@@ -51,4 +51,8 @@
 * い い え 、起 き ま せ ん 。 (No, I will not get up. )
 * 午 前 零 時 に 寝 ま す 。(I go to sleep at 12AM) 
 * 何 時 に 起 き ま す か ？ (What time do you get up?)
-* 
+* 午 前 零 時 (12 AM)
+* 五 時 に 起 き ま す 。 (I get up at five _o'clock_.)
+* 今 は 午 前 零 時 で す 。 (Right now, i tis 12 AM)
+* 午 前 七 時 に 起 き ま す 。(I get up at 7 AM)
+
