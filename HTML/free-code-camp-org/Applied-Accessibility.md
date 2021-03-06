@@ -308,6 +308,6 @@ The fieldset wrapper and legend tag are not necessary when the choices are self-
 * code assignment: Camper Cat has a search field on his Inspirational Quotes page that he plans to position in the upper right corner with CSS. He wants the search input and submit input form controls to be the first two items in the tab order. Add a tabindex attribute set to 1 to the search input, and a tabindex attribute set to 2 to the submit input.
 
 ![finished](https://github.com/EO4wellness/T-I-L/blob/main/HTML/images/2021-03-06-Completed-Accessiblity-unit-study.png)
-
+ 
 Completed this set of study topics and code assignments on 2021-03-06.
 Next: [Responsive Web Design Priciples](#)
