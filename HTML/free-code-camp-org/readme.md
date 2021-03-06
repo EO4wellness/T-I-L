@@ -12,7 +12,7 @@ Course outline
 * [Responsive Web Design Principles](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/ResponsiveWebDesignPrinciples.md) | Started: 03-07-2021 | Completed: 
 * [CSS Flexbox](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/CSS-Flexbox.md) | Started: | Completed: 
 * [CSS Grid](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/CSS-Grid.md) | Started: | Completed: 
-* Responsive Web Design Projects  | Started: | Completed: 
+* [Responsive Web Design Projects](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/Responsive%20Web%20Design%20Projects.md)  | Started: | Completed: 
 
 ## Basic HTML and HTML5
 
