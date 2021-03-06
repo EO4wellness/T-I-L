@@ -14,6 +14,7 @@
       March 1st: 0/8 accomplished. 
       March 3rd: 1/8 accomplished. 
       March 4th: 3/8 accomplished. 
+      March 5th: accomplished!
 
 # Earned March 5, 2021:
 
