@@ -43,14 +43,14 @@
                 Earned level 1: 2021-03-05
 
 
-* [Nature](#)  
+* [Nature](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/latin/Castle-3/Nature.md)  
 
                 Unlocked: 2021-03-05
                 First Lesson: 
                 Earned level 1: 
 
 
-* [Feast](#) 
+* [Feast](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/latin/Castle-3/Feast.md) 
 
                 Unlocked: 2021-03-05
                 First Lesson: 
