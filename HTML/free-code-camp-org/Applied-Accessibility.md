@@ -3,7 +3,7 @@
 * I am beginning my study of this section on Feb 15, 2021. 
 
 
-## Introduction to the Applied Accessibility Challenges
+## [Introduction to the Applied Accessibility Challenges](https://www.freecodecamp.org/learn/responsive-web-design/#applied-accessibility)
 * In web development, accessibility refers to web content and a UI (user interface) that can be understood, navigated, and interacted with by a broad audience. 
 * This includes people with visual, auditory, mobility, or cognitive disabilities.
 * In this course, you'll learn best practices for building webpages that are accessible to everyone.
