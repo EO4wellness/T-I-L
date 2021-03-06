@@ -117,6 +117,7 @@
 		<source src="audio/meow.mp3" type="audio/mpeg" />
 		<source src="audio/meow.ogg" type="audio/ogg" />
 		</audio>
+		
 * often content has both visual and auditory components
 * best practice: synchronized captions and a transcript 
 * generally a web developer isn't responsible f or creating the caption or the transcripts but needs to know to include them or ask for them
@@ -165,14 +166,14 @@ The fieldset wrapper and legend tag are not necessary when the choices are self-
 	<form>
 	  <fieldset>
    		 <legend>Choose one of these three items:</legend>
-    		<input id="one" type="radio" name="items" value="one">
+    		 <input id="one" type="radio" name="items" value="one">
    		 <label for="one">Choice One</label><br>
    		 <input id="two" type="radio" name="items" value="two">
    		 <label for="two">Choice Two</label><br>
    		 <input id="three" type="radio" name="items" value="three">
-  		  <label for="three">Choice Three</label>
-  </fieldset>
-</form>
+  		 <label for="three">Choice Three</label>
+  	  </fieldset>
+	</form>
 
 
 * code assignment: Camper Cat wants information about the ninja level of his users when they sign up for his email list. He's added a set of radio buttons and learned from our last lesson to use label tags with for attributes for each choice. Go Camper Cat! However, his code still needs some help. Change the div tag surrounding the radio buttons to a fieldset tag, and change the p tag inside it to a legend.
@@ -210,20 +211,64 @@ The fieldset wrapper and legend tag are not necessary when the choices are self-
 * code assignment: Camper Cat's Mortal Kombat survey results are in! Wrap a time tag around the text Thursday, September 15<sup>th<sup> and add a datetime attribute to it set to 2016-09-15.
 
 ## [Make Elements Only Visible to a Screen Reader by Using Custom CSS](https://www.freecodecamp.org/learn/responsive-web-design/applied-accessibility/make-elements-only-visible-to-a-screen-reader-by-using-custom-css)
-* 
-* code assignment: 
+* if a logical document outline is used, assistive tech doesn't need much CSS
+* however, it can use the visual design aspect, too. 
+* CSS can improve accessiblity because it can HIDE content for users who DO NOT use screen readers
+* one example of a use case is a chart. 
+* in a chart you want the info to dispaly in chart format for those who can see, and in text format for those who cannot see or use a screen reader
+* in such use case, the CSS is used to position the screen-reader only elements OFF the visual browser window 
+* there are some other CSS which will NOT work the same.  these include: 
 
-## Improve Readability with High Contrast Text
-*
-* code assignment:  
+		
+    		display: none; or visibility: hidden; hides content for everyone, including screen reader users
+		
+		Zero values for pixel sizes, such as width: 0px; height: 0px; removes that element from the flow of your document, meaning screen readers will ignore it
 
-## Avoid Colorblindness Issues by Using Sufficient Contrast
-*
-* code assignment:  
 
-## Avoid Colorblindness Issues by Carefully Choosing Colors that Convey Information
-*
-* code assignment:  
+* Example: 
+
+		.sr-only {
+		   position: absolute;
+		   left: -10000px;
+		   width: 1px;
+		   height: 1px;
+		   top: auto;
+		   overflow: hidden;
+		}
+
+* code assignment: Camper Cat created a really cool stacked bar chart for his training page, and put the data into a table for his visually impaired users. The table already has an sr-only class, but the CSS rules aren't filled in yet. Give the position an absolute value, the left a -10000px value, and the width and height both 1px values.
+
+## [Improve Readability with High Contrast Text](https://www.freecodecamp.org/learn/responsive-web-design/applied-accessibility/improve-readability-with-high-contrast-text)
+* text is more difficult to read if there is low contrast between the foreground and background color schemes. 
+* sufficient contrast imrpoves readability of content 
+* The Web Content Accessibility Guidelines (WCAG) recommend at least a 4.5 to 1 contrast ratio for normal text. 
+* This is calculated by comparing the lelative luminance vlaues of the two colors in use. 
+* white on black, or black on white, is the strongest contrast possible. 
+* the same two colors (exactly) are the lowest contrast possible. 
+* Contrast calculations range from 1:1 for the same color, or no contrast, to 21:1 for white against black.
+* code assignment: Camper Cat's choice of light gray text on a white background for his recent blog post has a 1.5:1 contrast ratio, making it hard to read. Change the color of the text from the current gray (#D3D3D3) to a darker gray (#636363) to improve the contrast ratio to 6:1.  
+
+## [Avoid Colorblindness Issues by Using Sufficient Contrast](https://www.freecodecamp.org/learn/responsive-web-design/applied-accessibility/avoid-colorblindness-issues-by-using-sufficient-contrast)
+* color is a huge part of visiual design. 
+* however, the use of color brings with it accessibility issues 
+* color alone should not be the ONLY way we convey vital information 
+* screen readers or color blind individuals won't have that information 
+* the foreground and background colors need to be sufficient contrast so colorblind users can distinguish them 
+* The WCAG-recommended contrast ratio of 4.5:1 applies for color use as well as gray-scale combinations.
+* Colorblind users have trouble distinguishing some colors from others
+* usually in hue but sometimes lightness as well. 
+* You may recall the contrast ratio is calculated using the relative luminance (or lightness) values of the foreground and background colors.
+* In practice, the 4.5:1 contrast ratio can be reached by shading (adding black to) the darker color and tinting (adding white to) the lighter color. 
+* Darker shades on the color wheel are considered to be shades of blues, violets, magentas, and reds, 
+* whereas lighter tinted colors are oranges, yellows, greens, and blue-greens.
+* code assignment:  Camper Cat is experimenting with using color for his blog text and background, but his current combination of a greenish background-color with maroon text color has a 2.5:1 contrast ratio. You can easily adjust the lightness of the colors since he declared them using the CSS hsl() property (which stands for hue, saturation, lightness) by changing the third argument. Increase the background-color lightness value from 35% to 55%, and decrease the color lightness value from 20% to 15%. This improves the contrast to 5.9:1.
+
+## [Avoid Colorblindness Issues by Carefully Choosing Colors that Convey Information](https://www.freecodecamp.org/learn/responsive-web-design/applied-accessibility/avoid-colorblindness-issues-by-carefully-choosing-colors-that-convey-information)
+* There are different types of colorblindness
+* close colors can be thought of as neighbors on the color wheel
+* those combintations should be avaoided when they convey important information 
+* there are some online color picking tools which simulate different types of colorblindness
+* code assignment:  Camper Cat is testing different styles for an important button, but the yellow (#FFFF33) background-color and the green (#33FF33) text color are neighboring hues on the color wheel and virtually indistinguishable for some colorblind users. (Their similar lightness also fails the contrast ratio check). Change the text color to a dark blue (#003366) to solve both problems.
 
 ## Give Links Meaning by Using Descriptive Link Text
 *
