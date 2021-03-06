@@ -71,7 +71,9 @@ Modern Greek is pronounced differently to the varieties of ancient Greek. This c
 * When I earned a crown (the first one in this new course) it added the new crown to my previous crowns (from the older Greek course)
 * At the end of the session, I also unlocked skill set: S Triad and Which the? 
 
-
+## 2021-03-06 Study Session 
+* successfully began typing in greek what i hear 
+![results](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/la-otra/Greek/Images/2021-03-06-basic-greek-lesson.png)
 
 
 
