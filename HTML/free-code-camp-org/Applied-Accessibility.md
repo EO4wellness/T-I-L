@@ -270,18 +270,44 @@ The fieldset wrapper and legend tag are not necessary when the choices are self-
 * there are some online color picking tools which simulate different types of colorblindness
 * code assignment:  Camper Cat is testing different styles for an important button, but the yellow (#FFFF33) background-color and the green (#33FF33) text color are neighboring hues on the color wheel and virtually indistinguishable for some colorblind users. (Their similar lightness also fails the contrast ratio check). Change the text color to a dark blue (#003366) to solve both problems.
 
-## Give Links Meaning by Using Descriptive Link Text
-*
-* code assignment: 
+## [Give Links Meaning by Using Descriptive Link Text](https://www.freecodecamp.org/learn/responsive-web-design/applied-accessibility/give-links-meaning-by-using-descriptive-link-text)
+* Screen reader users have different options for what type of content their device reads. 
+* This includes skipping to (or over) landmark elements, jumping to the main content, or getting a page summary from the headings. 
+* Another option is to only hear the links available on a page.
+* Screen readers do this by reading the link text, or what's between the anchor (a) tags. 
+* Having a list of "click here" or "read more" links isn't helpful. 
+* Instead, you should use brief but descriptive text within the a tags to provide more meaning for these users.
+* code assignment: The link text that Camper Cat is using is not very descriptive without the surrounding context. Move the anchor (a) tags so they wrap around the text information about batteries instead of Click here.
 
-## Make Links Navigable with HTML Access Keys
-*
-* code assignment: 
+## [Make Links Navigable with HTML Access Keys](0https://www.freecodecamp.org/learn/responsive-web-design/applied-accessibility/make-links-navigable-with-html-access-keys)
+* HTML offers the accesskey attribute to specify a shortcut key to activate or bring focus to an element. This can make navigation more efficient for keyboard-only users.
+* HTML5 allows this attribute to be used on any element, but it's particularly useful when it's used with interactive ones. This includes links, buttons, and form controls.
+* Here's an example:
 
-## Use tabindex to Add Keyboard Focus to an Element
-*
-* code assignment: 
+		<button accesskey="b">Important Button</button>
 
-## Use tabindex to Specify the Order of Keyboard Focus for Several Elements
-* code assignment: 
+* code assignment: Camper Cat wants the links around the two blog article titles to have keyboard shortcuts so his site's users can quickly navigate to the full story. Add an accesskey attribute to both links and set the first one to g (for Garfield) and the second one to c (for Chuck Norris).
 
+## [Use tabindex to Add Keyboard Focus to an Element](https://www.freecodecamp.org/learn/responsive-web-design/applied-accessibility/use-tabindex-to-add-keyboard-focus-to-an-element)
+* The HTML tabindex attribute has three distinct functions relating to an element's keyboard focus. 
+* When it's on a tag, it indicates that the element can be focused on. 
+* The value (an integer that's positive, negative, or zero) determines the behavior.
+* Certain elements, such as links and form controls, automatically receive keyboard focus when a user tabs through a page. 
+* It's in the same order as the elements come in the HTML source markup. 
+* This same functionality can be given to other elements, such as div, span, and p, by placing a tabindex="0" attribute on them. 
+* Here's an example:
+
+		<div tabindex="0">I need keyboard focus!</div>
+		
+		Note: A negative tabindex value (typically -1) indicates that an element is focusable, but is not reachable by the keyboard. This method is generally used to bring focus to content programmatically (like when a div used for a pop-up window is activated), and is beyond the scope of these challenges.
+
+* code assignment: Camper Cat created a new survey to collect information about his users. He knows input fields automatically get keyboard focus, but he wants to make sure his keyboard users pause at the instructions while tabbing through the items. Add a tabindex attribute to the p tag and set its value to 0. Bonus - using tabindex also enables the CSS pseudo-class :focus to work on the p tag.
+
+## [Use tabindex to Specify the Order of Keyboard Focus for Several Elements](https://www.freecodecamp.org/learn/responsive-web-design/applied-accessibility/use-tabindex-to-specify-the-order-of-keyboard-focus-for-several-elements)
+* the TABINDEX attribute can also be set to order the tab sequence through the page for keyboard users 
+* code assignment: Camper Cat has a search field on his Inspirational Quotes page that he plans to position in the upper right corner with CSS. He wants the search input and submit input form controls to be the first two items in the tab order. Add a tabindex attribute set to 1 to the search input, and a tabindex attribute set to 2 to the submit input.
+
+![finished](https://github.com/EO4wellness/T-I-L/blob/main/HTML/images/2021-03-06-Completed-Accessiblity-unit-study.png)
+
+Completed this set of study topics and code assignments on 2021-03-06.
+Next: [Responsive Web Design Priciples](#)
