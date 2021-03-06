@@ -76,4 +76,4 @@
 * Silvas igne delent. (They destroy the forests by fire)
 * Imbres de caelo descendunt. (Rains descend from the sky)
 
-![results](![image](https://user-images.githubusercontent.com/55713583/110190006-d71ec480-7de6-11eb-80b1-9410d4152685.png)
+![results](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/latin/Castle-3/Images/2021-03-05-Earned-crown-Level1-NATURE.png)
