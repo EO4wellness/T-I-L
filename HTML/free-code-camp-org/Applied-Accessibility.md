@@ -310,4 +310,4 @@ The fieldset wrapper and legend tag are not necessary when the choices are self-
 ![finished](https://github.com/EO4wellness/T-I-L/blob/main/HTML/images/2021-03-06-Completed-Accessiblity-unit-study.png)
  
 Completed this set of study topics and code assignments on 2021-03-06.
-Next: [Responsive Web Design Priciples](#)
+Next: [Responsive Web Design Priciples](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/ResponsiveWebDesignPrinciples.md)
