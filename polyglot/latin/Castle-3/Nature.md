@@ -41,3 +41,39 @@
 * Aqua in pavimento fluit. (Water flows on the floor)
 
 ![results](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/latin/Castle-3/Images/2021-03-05-nature.png)
+
+## 2021-03-05 Study Session 
+* ignis (fire)
+* caelum (cloud)
+* ventus (wind)
+* Mustelae in caelum ascendere non possunt. (The weasels cannot climb into the sky)
+* Rapide exeunt. (They exit rapidly)
+* Senex iuvenem vehementer pulsat. (The old man hits the young man violently) 
+* Milites per culinam exeunt. (The soldiers exit through the kitchen)
+* Venti per plateas antiquas perflant. (The winds blow thorugh ancient courtyards)
+* Venti per villam perflant. (The winds blow through the house)
+* Psittaci in caelum ascendunt. (The parrots rise into the sky)
+* Ventus vehementer perflat et ignis pontem antiquum delet. 
+(The wind blows through and the fire destroys the ancient bridge)
+* Ignis in caelum ascendit (The fire climbs into the sky) 
+* Psittacus arborem vehementer delet (The parrot violently destroys the tree)
+
+![study session](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/latin/Castle-3/Images/2021-03-05_study-session.png)
+
+* imber (rain)
+* mons (mountain)
+* umbra (shadow) 
+* silva (woods)
+* Iuvenes callidi ad montem adventiut (The clever young men arrive at the mountain)
+* Umbrae in silva sunt. (There are shadows in the forest)
+* Venti silvas perflant. (The winds blow thorugh the forests)
+* Imber et ventus aedificium rapide delent. (Rain and wind rapidly destroy the building)
+* De ara iuvenis descendere vult. (The young man wants to descend from the altar)
+* Imbres de caelo descendunt. (Rains desccend from the sky)
+* Umbra de caelo descendit (The shadow descends from the sky)
+* Venti silvas perflant (The winds blow through the forests)
+* Iuvenes callidi ad montem adveniunt. (The clever young men arrive at the mountain)
+* Silvas igne delent. (They destroy the forests by fire)
+* Imbres de caelo descendunt. (Rains descend from the sky)
+
+![results](![image](https://user-images.githubusercontent.com/55713583/110190006-d71ec480-7de6-11eb-80b1-9410d4152685.png)
