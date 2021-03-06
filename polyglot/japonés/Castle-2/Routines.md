@@ -45,4 +45,10 @@
 * 午後十時に寝ます。I go to sleep at 10 PM
 * 午後十一時に寝ます。I go to sleep at 11 PM
 * 九時ごろに会社へ行きます。 I go to the office at around 9 O'clock. 
+
+## 2021-03-06 Study session 
+* 午前  ( A.M. )
+* い い え 、起 き ま せ ん 。 (No, I will not get up. )
+* 午 前 零 時 に 寝 ま す 。(I go to sleep at 12AM) 
+* 何 時 に 起 き ま す か ？ (What time do you get up?)
 * 
