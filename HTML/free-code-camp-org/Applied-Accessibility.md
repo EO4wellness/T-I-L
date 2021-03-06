@@ -177,31 +177,64 @@ The fieldset wrapper and legend tag are not necessary when the choices are self-
 
 * code assignment: Camper Cat wants information about the ninja level of his users when they sign up for his email list. He's added a set of radio buttons and learned from our last lesson to use label tags with for attributes for each choice. Go Camper Cat! However, his code still needs some help. Change the div tag surrounding the radio buttons to a fieldset tag, and change the p tag inside it to a legend.
 
-## Add an Accessible Date Picker
-* code assignment: 
+## [Add an Accessible Date Picker](https://www.freecodecamp.org/learn/responsive-web-design/applied-accessibility/add-an-accessible-date-picker)
+* forms often need to include an input field
+* input fiels can have several different controls
+* the TYPE attribute indicates what kind of INPUT element will be created 
+* TEXT and SUBMIT input types were used in previous lessons in this course 
+* HTML5 now has also added a DATE field. 
+* Different browsers display this differently.
+* Generally, when the portion of the form is in view on the screen where the date input is located, a date picker will appear. 
+* the date picker helps a wide variety of users select and input the correct date 
+* Older browsers won't support this feature. 
+* Older browsers then display TEXT as default.
+* Due to older browsers, use the expected date format YYYYMMDD MMDDYY etc in the PLACEHOLDER text just in case someone is using an old browser 
+* code examples 
 
-## Standardize Times with the HTML5 datetime Attribute
-* code assignment: 
+			<label for="input1">Enter a date:</label>
+			<input type="date" id="input1" name="input1">
 
-## Make Elements Only Visible to a Screen Reader by Using Custom CSS
+* code assignment: Camper Cat is setting up a Mortal Kombat tournament and wants to ask his competitors to see what date works best. Add an input tag with a type attribute of date, an id attribute of pickdate, and a name attribute of date.
+
+## [Standardize Times with the HTML5 datetime Attribute](https://www.freecodecamp.org/learn/responsive-web-design/applied-accessibility/standardize-times-with-the-html5-datetime-attribute)
+* HTML5 also introduced the TIME element and a DATETIME attrribute 
+* the function of these two were to standarize times. 
+* this is an inline element that can wrap a date or time on a page
+* a valid format of that date is held by the datetime attribute 
+* assistive devices can access this value 
+* this standardizes time (even when it is written in another format such as informal or colloquial)
+* Example:
+
+		<p>Master Camper Cat officiated the cage match between Goro and Scorpion <time datetime="2013-02-13">last Wednesday</time>, which ended in a draw.</p>
+		
+* code assignment: Camper Cat's Mortal Kombat survey results are in! Wrap a time tag around the text Thursday, September 15<sup>th<sup> and add a datetime attribute to it set to 2016-09-15.
+
+## [Make Elements Only Visible to a Screen Reader by Using Custom CSS](https://www.freecodecamp.org/learn/responsive-web-design/applied-accessibility/make-elements-only-visible-to-a-screen-reader-by-using-custom-css)
+* 
 * code assignment: 
 
 ## Improve Readability with High Contrast Text
+*
 * code assignment:  
 
 ## Avoid Colorblindness Issues by Using Sufficient Contrast
+*
 * code assignment:  
 
 ## Avoid Colorblindness Issues by Carefully Choosing Colors that Convey Information
+*
 * code assignment:  
 
 ## Give Links Meaning by Using Descriptive Link Text
+*
 * code assignment: 
 
 ## Make Links Navigable with HTML Access Keys
+*
 * code assignment: 
 
 ## Use tabindex to Add Keyboard Focus to an Element
+*
 * code assignment: 
 
 ## Use tabindex to Specify the Order of Keyboard Focus for Several Elements
