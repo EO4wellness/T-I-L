@@ -11,7 +11,7 @@ Course outline
 * [Applied Accessiblity](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/Applied-Accessibility.md) | Starting stuides 2/15/21 | [Completed 03-06-2021](https://github.com/EO4wellness/T-I-L/blob/main/HTML/images/2021-03-06-Completed-Accessiblity-unit-study.png)
 * [Responsive Web Design Principles](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/ResponsiveWebDesignPrinciples.md) | Started: 03-07-2021 | Completed: 
 * [CSS Flexbox](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/CSS-Flexbox.md) | Started: | Completed: 
-* CSS Grid | Started: | Completed: 
+* [CSS Grid](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/CSS-Grid.md) | Started: | Completed: 
 * Responsive Web Design Projects  | Started: | Completed: 
 
 ## Basic HTML and HTML5
