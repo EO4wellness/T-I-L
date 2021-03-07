@@ -32,35 +32,38 @@
 * [Activities](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/latin/Castle-3/Activities.md)  
 
                 Unlocked: 2021-03-04
-                First Lesson: 
-                Earned level 1: 
+                First Lesson: 2021-03-05
+                Earned level 1: 2021-03-05
 
 
-* [Hobbies](#)  
+* [Hobbies](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/latin/Castle-3/Hobbies.md)  
 
-                Unlocked: 
-                First Lesson: 
-                Earned level 1: 
-
-
-* [Nature](#)  
-
-                Unlocked: 
-                First Lesson: 
-                Earned level 1: 
+                Unlocked: 2021-03-05
+                First Lesson: 2021-03-05
+                Earned level 1: 2021-03-05
 
 
-* [Feast](#) 
+* [Nature](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/latin/Castle-3/Nature.md)  
 
-                Unlocked: 
-                First Lesson: 
+                Unlocked: 2021-03-05
+                First Lesson: 2021-03-05
+                Earned level 1: 2021-03-05
+
+
+* [Feast](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/latin/Castle-3/Feast.md) 
+
+                Unlocked: 2021-03-05
+                First Lesson: 2021-03-05
                 Earned level 1: 
  
 
 ## Castle 3 - Final Quiz
     
-    Unlocked: 
-    Passed: 
-    Course conclusion: 
+    Unlocked: 2021-03-05
+    Passed:  2021-03-05
+    Course conclusion: 2021-03-05
+   
+
+![wow](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/latin/Images/2021-03-05-EO4Wellness-earned.png)
 
 Nav: [Latin ReadMe](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/latin) | [Castle 1](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/latin/Castle-1) | [Castle 2](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/latin/Castle-2) | [Castle 3](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/latin/Castle-3) | [Study Logs](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/latin/study-log)

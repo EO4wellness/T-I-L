@@ -3,7 +3,7 @@
 * I am beginning my study of this section on Feb 15, 2021. 
 
 
-## Introduction to the Applied Accessibility Challenges
+## [Introduction to the Applied Accessibility Challenges](https://www.freecodecamp.org/learn/responsive-web-design/#applied-accessibility)
 * In web development, accessibility refers to web content and a UI (user interface) that can be understood, navigated, and interacted with by a broad audience. 
 * This includes people with visual, auditory, mobility, or cognitive disabilities.
 * In this course, you'll learn best practices for building webpages that are accessible to everyone.
@@ -117,6 +117,7 @@
 		<source src="audio/meow.mp3" type="audio/mpeg" />
 		<source src="audio/meow.ogg" type="audio/ogg" />
 		</audio>
+		
 * often content has both visual and auditory components
 * best practice: synchronized captions and a transcript 
 * generally a web developer isn't responsible f or creating the caption or the transcripts but needs to know to include them or ask for them
@@ -142,39 +143,171 @@
 * code assignment: Camper Cat is hard at work creating a stacked bar chart showing the amount of time per week to spend training in stealth, combat, and weapons. Help him structure his page better by changing the div tag he used to a figure tag, and the p tag that surrounds the caption to a figcaption tag.
 
 ## [Improve Form Field Accessibility with the label Element](https://www.freecodecamp.org/learn/responsive-web-design/applied-accessibility/improve-form-field-accessibility-with-the-label-element)
-*
-* code assignment: 
+* to be semantically using HTML we need to use appropriate tag names and attributes
+* LABEL tag wrps the text for specific form content
+* FOR atribute on a LABEL tag assocates that label with the form control 
+* example: 
+		<form>
+ 			 <label for="name">Name:</label>
+			 <input type="text" id="name" name="name">
+		</form>
 
-## Wrap Radio Buttons in a fieldset Element for Better Accessibility
-* code assignment: 
 
-## Add an Accessible Date Picker
-* code assignment: 
+* code assignment: Camper Cat expects a lot of interest in his thoughtful blog posts and wants to include an email sign up form. Add a for attribute on the email label that matches the id on its input field.
 
-## Standardize Times with the HTML5 datetime Attribute
-* code assignment: 
+## [Wrap Radio Buttons in a fieldset Element for Better Accessibility](https://www.freecodecamp.org/learn/responsive-web-design/applied-accessibility/wrap-radio-buttons-in-a-fieldset-element-for-better-accessibility)
+* The next form topic covers the accessibility of radio buttons. Each choice is given a label with a for attribute tying to the id of the corresponding item as covered in the last challenge. Since radio buttons often come in a group where the user must choose one, there's a way to semantically show the choices are part of a set.
 
-## Make Elements Only Visible to a Screen Reader by Using Custom CSS
-* code assignment: 
+The fieldset tag surrounds the entire grouping of radio buttons to achieve this. It often uses a legend tag to provide a description for the grouping, which is read by screen readers for each choice in the fieldset element.
 
-## Improve Readability with High Contrast Text
-* code assignment:  
+The fieldset wrapper and legend tag are not necessary when the choices are self-explanatory, like a gender selection. Using a label with the for attribute for each radio button is sufficient.
+* Example: 
 
-## Avoid Colorblindness Issues by Using Sufficient Contrast
-* code assignment:  
+	<form>
+	  <fieldset>
+   		 <legend>Choose one of these three items:</legend>
+    		 <input id="one" type="radio" name="items" value="one">
+   		 <label for="one">Choice One</label><br>
+   		 <input id="two" type="radio" name="items" value="two">
+   		 <label for="two">Choice Two</label><br>
+   		 <input id="three" type="radio" name="items" value="three">
+  		 <label for="three">Choice Three</label>
+  	  </fieldset>
+	</form>
 
-## Avoid Colorblindness Issues by Carefully Choosing Colors that Convey Information
-* code assignment:  
 
-## Give Links Meaning by Using Descriptive Link Text
-* code assignment: 
+* code assignment: Camper Cat wants information about the ninja level of his users when they sign up for his email list. He's added a set of radio buttons and learned from our last lesson to use label tags with for attributes for each choice. Go Camper Cat! However, his code still needs some help. Change the div tag surrounding the radio buttons to a fieldset tag, and change the p tag inside it to a legend.
 
-## Make Links Navigable with HTML Access Keys
-* code assignment: 
+## [Add an Accessible Date Picker](https://www.freecodecamp.org/learn/responsive-web-design/applied-accessibility/add-an-accessible-date-picker)
+* forms often need to include an input field
+* input fiels can have several different controls
+* the TYPE attribute indicates what kind of INPUT element will be created 
+* TEXT and SUBMIT input types were used in previous lessons in this course 
+* HTML5 now has also added a DATE field. 
+* Different browsers display this differently.
+* Generally, when the portion of the form is in view on the screen where the date input is located, a date picker will appear. 
+* the date picker helps a wide variety of users select and input the correct date 
+* Older browsers won't support this feature. 
+* Older browsers then display TEXT as default.
+* Due to older browsers, use the expected date format YYYYMMDD MMDDYY etc in the PLACEHOLDER text just in case someone is using an old browser 
+* code examples 
 
-## Use tabindex to Add Keyboard Focus to an Element
-* code assignment: 
+			<label for="input1">Enter a date:</label>
+			<input type="date" id="input1" name="input1">
 
-## Use tabindex to Specify the Order of Keyboard Focus for Several Elements
-* code assignment: 
+* code assignment: Camper Cat is setting up a Mortal Kombat tournament and wants to ask his competitors to see what date works best. Add an input tag with a type attribute of date, an id attribute of pickdate, and a name attribute of date.
 
+## [Standardize Times with the HTML5 datetime Attribute](https://www.freecodecamp.org/learn/responsive-web-design/applied-accessibility/standardize-times-with-the-html5-datetime-attribute)
+* HTML5 also introduced the TIME element and a DATETIME attrribute 
+* the function of these two were to standarize times. 
+* this is an inline element that can wrap a date or time on a page
+* a valid format of that date is held by the datetime attribute 
+* assistive devices can access this value 
+* this standardizes time (even when it is written in another format such as informal or colloquial)
+* Example:
+
+		<p>Master Camper Cat officiated the cage match between Goro and Scorpion <time datetime="2013-02-13">last Wednesday</time>, which ended in a draw.</p>
+		
+* code assignment: Camper Cat's Mortal Kombat survey results are in! Wrap a time tag around the text Thursday, September 15<sup>th<sup> and add a datetime attribute to it set to 2016-09-15.
+
+## [Make Elements Only Visible to a Screen Reader by Using Custom CSS](https://www.freecodecamp.org/learn/responsive-web-design/applied-accessibility/make-elements-only-visible-to-a-screen-reader-by-using-custom-css)
+* if a logical document outline is used, assistive tech doesn't need much CSS
+* however, it can use the visual design aspect, too. 
+* CSS can improve accessiblity because it can HIDE content for users who DO NOT use screen readers
+* one example of a use case is a chart. 
+* in a chart you want the info to dispaly in chart format for those who can see, and in text format for those who cannot see or use a screen reader
+* in such use case, the CSS is used to position the screen-reader only elements OFF the visual browser window 
+* there are some other CSS which will NOT work the same.  these include: 
+
+		
+    		display: none; or visibility: hidden; hides content for everyone, including screen reader users
+		
+		Zero values for pixel sizes, such as width: 0px; height: 0px; removes that element from the flow of your document, meaning screen readers will ignore it
+
+
+* Example: 
+
+		.sr-only {
+		   position: absolute;
+		   left: -10000px;
+		   width: 1px;
+		   height: 1px;
+		   top: auto;
+		   overflow: hidden;
+		}
+
+* code assignment: Camper Cat created a really cool stacked bar chart for his training page, and put the data into a table for his visually impaired users. The table already has an sr-only class, but the CSS rules aren't filled in yet. Give the position an absolute value, the left a -10000px value, and the width and height both 1px values.
+
+## [Improve Readability with High Contrast Text](https://www.freecodecamp.org/learn/responsive-web-design/applied-accessibility/improve-readability-with-high-contrast-text)
+* text is more difficult to read if there is low contrast between the foreground and background color schemes. 
+* sufficient contrast imrpoves readability of content 
+* The Web Content Accessibility Guidelines (WCAG) recommend at least a 4.5 to 1 contrast ratio for normal text. 
+* This is calculated by comparing the lelative luminance vlaues of the two colors in use. 
+* white on black, or black on white, is the strongest contrast possible. 
+* the same two colors (exactly) are the lowest contrast possible. 
+* Contrast calculations range from 1:1 for the same color, or no contrast, to 21:1 for white against black.
+* code assignment: Camper Cat's choice of light gray text on a white background for his recent blog post has a 1.5:1 contrast ratio, making it hard to read. Change the color of the text from the current gray (#D3D3D3) to a darker gray (#636363) to improve the contrast ratio to 6:1.  
+
+## [Avoid Colorblindness Issues by Using Sufficient Contrast](https://www.freecodecamp.org/learn/responsive-web-design/applied-accessibility/avoid-colorblindness-issues-by-using-sufficient-contrast)
+* color is a huge part of visiual design. 
+* however, the use of color brings with it accessibility issues 
+* color alone should not be the ONLY way we convey vital information 
+* screen readers or color blind individuals won't have that information 
+* the foreground and background colors need to be sufficient contrast so colorblind users can distinguish them 
+* The WCAG-recommended contrast ratio of 4.5:1 applies for color use as well as gray-scale combinations.
+* Colorblind users have trouble distinguishing some colors from others
+* usually in hue but sometimes lightness as well. 
+* You may recall the contrast ratio is calculated using the relative luminance (or lightness) values of the foreground and background colors.
+* In practice, the 4.5:1 contrast ratio can be reached by shading (adding black to) the darker color and tinting (adding white to) the lighter color. 
+* Darker shades on the color wheel are considered to be shades of blues, violets, magentas, and reds, 
+* whereas lighter tinted colors are oranges, yellows, greens, and blue-greens.
+* code assignment:  Camper Cat is experimenting with using color for his blog text and background, but his current combination of a greenish background-color with maroon text color has a 2.5:1 contrast ratio. You can easily adjust the lightness of the colors since he declared them using the CSS hsl() property (which stands for hue, saturation, lightness) by changing the third argument. Increase the background-color lightness value from 35% to 55%, and decrease the color lightness value from 20% to 15%. This improves the contrast to 5.9:1.
+
+## [Avoid Colorblindness Issues by Carefully Choosing Colors that Convey Information](https://www.freecodecamp.org/learn/responsive-web-design/applied-accessibility/avoid-colorblindness-issues-by-carefully-choosing-colors-that-convey-information)
+* There are different types of colorblindness
+* close colors can be thought of as neighbors on the color wheel
+* those combintations should be avaoided when they convey important information 
+* there are some online color picking tools which simulate different types of colorblindness
+* code assignment:  Camper Cat is testing different styles for an important button, but the yellow (#FFFF33) background-color and the green (#33FF33) text color are neighboring hues on the color wheel and virtually indistinguishable for some colorblind users. (Their similar lightness also fails the contrast ratio check). Change the text color to a dark blue (#003366) to solve both problems.
+
+## [Give Links Meaning by Using Descriptive Link Text](https://www.freecodecamp.org/learn/responsive-web-design/applied-accessibility/give-links-meaning-by-using-descriptive-link-text)
+* Screen reader users have different options for what type of content their device reads. 
+* This includes skipping to (or over) landmark elements, jumping to the main content, or getting a page summary from the headings. 
+* Another option is to only hear the links available on a page.
+* Screen readers do this by reading the link text, or what's between the anchor (a) tags. 
+* Having a list of "click here" or "read more" links isn't helpful. 
+* Instead, you should use brief but descriptive text within the a tags to provide more meaning for these users.
+* code assignment: The link text that Camper Cat is using is not very descriptive without the surrounding context. Move the anchor (a) tags so they wrap around the text information about batteries instead of Click here.
+
+## [Make Links Navigable with HTML Access Keys](https://www.freecodecamp.org/learn/responsive-web-design/applied-accessibility/make-links-navigable-with-html-access-keys)
+* HTML offers the accesskey attribute to specify a shortcut key to activate or bring focus to an element. This can make navigation more efficient for keyboard-only users.
+* HTML5 allows this attribute to be used on any element, but it's particularly useful when it's used with interactive ones. This includes links, buttons, and form controls.
+* Here's an example:
+
+		<button accesskey="b">Important Button</button>
+
+* code assignment: Camper Cat wants the links around the two blog article titles to have keyboard shortcuts so his site's users can quickly navigate to the full story. Add an accesskey attribute to both links and set the first one to g (for Garfield) and the second one to c (for Chuck Norris).
+
+## [Use tabindex to Add Keyboard Focus to an Element](https://www.freecodecamp.org/learn/responsive-web-design/applied-accessibility/use-tabindex-to-add-keyboard-focus-to-an-element)
+* The HTML tabindex attribute has three distinct functions relating to an element's keyboard focus. 
+* When it's on a tag, it indicates that the element can be focused on. 
+* The value (an integer that's positive, negative, or zero) determines the behavior.
+* Certain elements, such as links and form controls, automatically receive keyboard focus when a user tabs through a page. 
+* It's in the same order as the elements come in the HTML source markup. 
+* This same functionality can be given to other elements, such as div, span, and p, by placing a tabindex="0" attribute on them. 
+* Here's an example:
+
+		<div tabindex="0">I need keyboard focus!</div>
+		
+		Note: A negative tabindex value (typically -1) indicates that an element is focusable, but is not reachable by the keyboard. This method is generally used to bring focus to content programmatically (like when a div used for a pop-up window is activated), and is beyond the scope of these challenges.
+
+* code assignment: Camper Cat created a new survey to collect information about his users. He knows input fields automatically get keyboard focus, but he wants to make sure his keyboard users pause at the instructions while tabbing through the items. Add a tabindex attribute to the p tag and set its value to 0. Bonus - using tabindex also enables the CSS pseudo-class :focus to work on the p tag.
+
+## [Use tabindex to Specify the Order of Keyboard Focus for Several Elements](https://www.freecodecamp.org/learn/responsive-web-design/applied-accessibility/use-tabindex-to-specify-the-order-of-keyboard-focus-for-several-elements)
+* the TABINDEX attribute can also be set to order the tab sequence through the page for keyboard users 
+* code assignment: Camper Cat has a search field on his Inspirational Quotes page that he plans to position in the upper right corner with CSS. He wants the search input and submit input form controls to be the first two items in the tab order. Add a tabindex attribute set to 1 to the search input, and a tabindex attribute set to 2 to the submit input.
+
+![finished](https://github.com/EO4wellness/T-I-L/blob/main/HTML/images/2021-03-06-Completed-Accessiblity-unit-study.png)
+ 
+Completed this set of study topics and code assignments on 2021-03-06.
+Next: [Responsive Web Design Priciples](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/ResponsiveWebDesignPrinciples.md)
