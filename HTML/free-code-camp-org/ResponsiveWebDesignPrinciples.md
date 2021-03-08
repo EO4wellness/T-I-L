@@ -4,6 +4,7 @@
 * Responsive web design is the practice of designing flexible websites
 * Flexible websites respond to the different screen sizes, orientations and resolutions
 * responsive designs allow for the best exeprience for all users
+* Completed studies: 2021-03-07
 
 ## [Create a Media Query](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-principles/create-a-media-query)
 * Media Queries were added to CSS3.
@@ -62,6 +63,9 @@ Add the style rules to the responsive-img class to make it responsive. It should
               body { width: 30vw; }
 
 * Code Assignment: Set the width of the h2 tag to 80% of the viewport's width and the width of the paragraph as 75% of the viewport's smaller dimension.
+
+## Completed Studies:
+![finished](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/2021-03-07_finished-course-segment.jpg)
 
 
 Next: [CSS Flexbox](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/CSS-Flexbox.md) 
