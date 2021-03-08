@@ -1,3 +1,5 @@
+2021-03-08: Drops and Mondly<br>
+2021-03-07: Drops (80 days of study) and Mondly (237 Days of Study)<br>
 2021-03-06: Drops (79 days of study) and Mondly studies <br>
 2021-03-05: Drops and Mondly studies <br>
 2021-03-04: Drops and Mondly studies <br>
