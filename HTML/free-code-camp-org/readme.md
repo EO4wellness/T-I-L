@@ -16,7 +16,7 @@ Course outline
 
 ## [Basic HTML and HTML5](https://www.freecodecamp.org/learn/responsive-web-design/#basic-html-and-html5)
 
-### Introduction to Basic HTML and HTML5 
+### [Introduction to Basic HTML and HTML5 ](https://www.freecodecamp.org/learn/responsive-web-design/#basic-html-and-html5)
 * HTML stands for Hyper Text Markup Language. 
 * HTML gives structure to a web page. 
 * HTML has its own syntax. 
