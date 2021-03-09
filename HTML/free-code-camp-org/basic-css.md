@@ -350,7 +350,7 @@ Free Code Camp's Responsive Web Design Cetification Course Nav:
         in the form element, made the ID cat-photo-form 
         
 
-### Use an id Attribute to Style an Element
+### [Use an id Attribute to Style an Element](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/use-an-id-attribute-to-style-an-element)
 * like classes, you can style ID attributes with CSS 
 * ID is not reusable
 * ID should only be used for one element 
@@ -363,41 +363,38 @@ Free Code Camp's Responsive Web Design Cetification Course Nav:
                 }
 * note: recall with a style element you always use a . in front of the style name.  
 with IDs you always use a # in front of the ID names. 
-
 * Code Assignment:
 
                 give the form with the ID attribute of cat-photo-form
                 a green background 
 
 
-### Adjust the Padding of an Element
+### [Adjust the Padding of an Element](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/adjust-the-padding-of-an-element)
 * for a while, the next code assignments won't be using the cat photo app.  
 * we will return to the app a bit later. 
 * HTML elements tend to be rectangles. 
 * properties which control the space that surrounds HTML elements: Padding, Border, Margin
 * Pading: amount of space between the elements content and its border.
-*
 * Code Assignment:
 
                 Change th Padding of the BLUE box to match the RED box
                 
 
-### Adjust the Margin of an Element
+### [Adjust the Margin of an Element](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/adjust-the-margin-of-an-element)
 * margins control the amount of space between any element's border and the nearest surrounding elements 
 * Code Assignment:
 
         given the starting code, change the margin of the blue box to match that of the red box
         to start with the margin of red box is 20 px and to start with the margin of the blue box is 10 px 
 
-### Add a Negative Margin to an Element
+### [Add a Negative Margin to an Element](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/add-a-negative-margin-to-an-element)
 * the element's margin controls the amount of space between an element's border and the surrounding elements. 
 * when an element's margin is set to a negative value, the element grows larger. 
-
 * Code Assignment:
 
                 set the margin to a negative vblaue 
 
-### Add Different Padding to Each Side of an Element
+### [Add Different Padding to Each Side of an Element](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/add-different-padding-to-each-side-of-an-element)
 * CSS allows you to control the padding of all four individual sides of an element.  
 * this padding control is achieved by the following properties 
 * padding-top
@@ -411,7 +408,7 @@ with IDs you always use a # in front of the ID names.
                 give 20 px on the bottom and right sides 
 
 
-### Add Different Margins to Each Side of an Element
+### [Add Different Margins to Each Side of an Element](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/add-different-margins-to-each-side-of-an-element)
 * likewise you can control the margin an all four sides of any element. 
 * this control is achieved via setting the following properties
 
@@ -424,56 +421,65 @@ with IDs you always use a # in front of the ID names.
 
                 give the blue box a margin of 40px on its top and left sides but only 20 at its bottom and right sides 
 
-### [Use Clockwise Notation to Specify the Padding of an Element](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/use-clockwise-notation-to-specify-the-padding-of-an-element) resumne next study session here
-* Code Assignment:
+### [Use Clockwise Notation to Specify the Padding of an Element](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/use-clockwise-notation-to-specify-the-padding-of-an-element) 
+* Instead of specifying an element's padding-top, padding-right, padding-bottom, and padding-left properties individually, 
+* you can specify them all in one line, like this:
 
-### Use Clockwise Notation to Specify the Margin of an Element
-Instead of specifying an element's padding-top, padding-right, padding-bottom, and padding-left properties individually, you can specify them all in one line, like this:
+                padding: 10px 20px 10px 20px;
 
-padding: 10px 20px 10px 20px;
+* These four values work like a clock: top, right, bottom, left, and will produce the exact same result as using the side-specific padding instructions.
+* Code Assignment: Use Clockwise Notation to give the .blue-box class a padding of 40px on its top and left side, but only 20px on its bottom and right side.
 
-These four values work like a clock: top, right, bottom, left, and will produce the exact same result as using the side-specific padding instructions.
+### [Use Clockwise Notation to Specify the Margin of an Element](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/use-clockwise-notation-to-specify-the-margin-of-an-element)
+* Let's try this again, but with margin this time.
+* Instead of specifying an element's margin-top, margin-right, margin-bottom, and margin-left properties individually, 
+* you can specify them all in one line, like this:
+                
+                margin: 10px 20px 10px 20px;
+* These four values work like a clock: top, right, bottom, left, and will produce the exact same result as using the side-specific margin instructions.
+* Code Assignment: Use Clockwise Notation to give the element with the blue-box class a margin of 40px on its top and left side, but only 20px on its bottom and right side.
 
-* Code Assignment:
+### [Use Attribute Selectors to Style Elements](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/use-attribute-selectors-to-style-elements)
+* You have been adding id or class attributes to elements that you wish to specifically style. 
+* These are known as ID and class selectors. 
+* There are other CSS Selectors you can use to select custom groups of elements to style.
+* Let's bring out CatPhotoApp again to practice using CSS Selectors.
+* For this challenge, you will use the [attr=value] attribute selector to style the checkboxes in CatPhotoApp. 
+* This selector matches and styles elements with a specific attribute value. 
+* For example, the below code changes the margins of all elements with the attribute type and a corresponding value of radio:
+* Example: 
 
-        Use clockwise notation to give the blue box class 
-        a padding of 40 px on its top and left side, but only 
-        20 px on its bottom and right sides
+                [type='radio'] {
+                    margin: 20px 0px 20px 0px;
+                }
 
-### Use Attribute Selectors to Style Elements
-* Code Assignment:
-
-### Understand Absolute versus Relative Units
+* Code Assignment: Using the type attribute selector, try to give the checkboxes in CatPhotoApp a top margin of 10px and a bottom margin of 15px.
 
 
-The last several challenges all set an element's margin or padding with pixels (px). Pixels are a type of length unit, which is what tells the browser how to size or space an item. In addition to px, CSS has a number of different length unit options that you can use.
-
-The two main types of length units are absolute and relative. Absolute units tie to physical units of length. For example, in and mm refer to inches and millimeters, respectively. Absolute length units approximate the actual measurement on a screen, but there are some differences depending on a screen's resolution.
-
-Relative units, such as em or rem, are relative to another length value. For example, em is based on the size of an element's font. If you use it to set the font-size property itself, it's relative to the parent's font-size.
-
-Note: There are several relative unit options that are tied to the size of the viewport. They are covered in the Responsive Web Design Principles section.
-
+### [Understand Absolute versus Relative Units](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/understand-absolute-versus-relative-units)
+* The last several challenges all set an element's margin or padding with pixels (px). Pixels are a type of length unit, which is what tells the browser how to size or space an item. In addition to px, CSS has a number of different length unit options that you can use.
+* The two main types of length units are absolute and relative. Absolute units tie to physical units of length. For example, in and mm refer to inches and millimeters, respectively. Absolute length units approximate the actual measurement on a screen, but there are some differences depending on a screen's resolution.
+* Relative units, such as em or rem, are relative to another length value. For example, em is based on the size of an element's font. If you use it to set the font-size property itself, it's relative to the parent's font-size.
+* Note: There are several relative unit options that are tied to the size of the viewport. They are covered in the Responsive Web Design Principles section.
 * Code Assignment: Change the padding in the red box to 1.5 em
 
-### Style the HTML Body Element
-Every has a body. 
-
+### [Style the HTML Body Element](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/style-the-html-body-element)
+* Every page has a body element. 
 * Code Assignment:
                 body {
                   background-color: black;
                   }
 
 
-### Inherit Styles from the Body Element
+### [Inherit Styles from the Body Element](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/inherit-styles-from-the-body-element)
 This segment is all about the coding assignment. 
 * Code Assignment:
 
-### Prioritize One Style Over Another
+### [Prioritize One Style Over Another](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/prioritize-one-style-over-another)
 This assignement is primarily taught by trying some code to see what happens. 
 * Code Assignment:
 
-### Override Styles in Subsequent CSS
+### [Override Styles in Subsequent CSS](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/override-styles-in-subsequent-css)
 * Code Assignment:
 
         assign two conflicting classes to the same element 
@@ -483,7 +489,7 @@ This assignement is primarily taught by trying some code to see what happens.
         
         What happens? WHy? Note: It doesn't matter which order the classes are listed in the HTML element. However, the order of the class declarations in the <style> section is what is important. The second declaration will always take precedence over the first. Because .blue-text is declared second, it overrides the attributes of .pink-text
 
-### Override Class Declarations by Styling ID Attributes
+### [Override Class Declarations by Styling ID Attributes](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/override-class-declarations-by-styling-id-attributes)
 * browsers read CSS from top to bottom
 * browsers read CSS in the order from which they were declared
 * in the event of a conflic, the browser will display which ever CSS declaration came last
@@ -506,7 +512,7 @@ This assignement is primarily taught by trying some code to see what happens.
                 also apply the orange-text ID to the H1 element 
 
 
-### Override Class Declarations with Inline Styles
+### [Override Class Declarations with Inline Styles](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/override-class-declarations-with-inline-styles)
 * In CSS, ID declarations override CLASS declarations, irregardless of where they are declared in your style element of your CSS
 * Inline styles also override CDSS 
 * inline styles are written 
@@ -521,7 +527,7 @@ This assignement is primarily taught by trying some code to see what happens.
         to make it WHITE 
 
 
-### Override All Other Styles by using Important
+### [Override All Other Styles by using Important](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/override-all-other-styles-by-using-important)
 * Inline styles will override all CSS declarations in your style element. 
 * in modern coding, we often use CSS libraries. 
 * libraries save time (such as those included in WordPress themes)
@@ -558,7 +564,7 @@ in order to accomplish your design(s)
 
 * Code Assignment:
 
-### Use Hex Code to Mix Colors
+### [Use Hex Code to Mix Colors](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/use-hex-code-to-mix-colors)
 with the 6 hexadecimal digits to represent color
 two each from R (red) G (green) and B (blue)
 we can make 16 million other colors 
@@ -597,7 +603,7 @@ It represents the maximum possible brightness.
                 RED             #F00
                 Fuchsia         #F0F 
 
-### Use RGB values to Color Elements
+### [Use RGB values to Color Elements](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/use-rgb-values-to-color-elements)
 * Within in CSS, there is still yet another way to code colors into the design.
 * Instead of using Hex Code, you can use RGB values.
 * RGB values are coded in the following manner:
@@ -617,7 +623,7 @@ It represents the maximum possible brightness.
 
 * Code Assignment:  Replace the current HEX code in this CSS to change the body element's background from red to black
 
-### Use RGB to Mix Colors
+### [Use RGB to Mix Colors](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/use-rgb-to-mix-colors)
 * like Hex Code, there are the same number of possible color combinations in RGB
 * also like Hex code, you ocan mix color by using combintations of different values
 * examples 
@@ -630,24 +636,22 @@ It represents the maximum possible brightness.
 
 * Code Assignment:
 
-### Use CSS Variables to change several elements at once
+### [Use CSS Variables to change several elements at once](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/use-css-variables-to-change-several-elements-at-once)
 * CSS Variables are a quick way to change many CSS style properites at once by changing only one value. 
 * with CSS you can create a variable and assign a color to it. 
 * to make a variable name, simply put two hypehns before the name of the variable
 
 * Code Assignment:  illustrating this point, change the colors as listed in the assignment 
 
-### Create a custom CSS Variable
+### [Create a custom CSS Variable](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/create-a-custom-css-variable)
 * after declaring a variable, you can assign its value to other CSS properties by referencing the name you gave the variable. 
-
 * Code Assignment:
 
-### Use a custom CSS Variable
+### [Use a custom CSS Variable](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/use-a-custom-css-variable)
 * once you've created a CSS Variable, you can apply it to several different elements.
-
 * Code Assignment: use the CSS variable provided to turn the penquin's body from "black" to "grey" using the CSS Variable 
 
-### Attach a Fallback value to a CSS Variable
+### [Attach a Fallback value to a CSS Variable](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/attach-a-fallback-value-to-a-css-variable0
 * fallbacks are available with colors, but they don't increase compatability, as they do not work on ALL browsers. 
 * IE (Internet Explorer) is one such browser which will not work with fallback colors) 
 * The fall back value is used to display if a browser cannot find your variable 
@@ -658,7 +662,7 @@ It represents the maximum possible brightness.
 
 * Code Assignment: It looks like there is a problem with the variables supplied to the .penguin-top and .penguin-bottom classes. Rather than fix the typo, add a fallback value of black to the background property of the .penguin-top and .penguin-bottom classes.
 
-### Improve Compatibility with Browser Fallbacks
+### [Improve Compatibility with Browser Fallbacks](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/improve-compatibility-with-browser-fallbacks)
 * CSS coders often run into browser compatability issues eventually
 * PARSE-PARSING: Parsing, syntax analysis, or syntactic analysis is the process of analyzing a string of symbols, either in natural language, computer languages or data structures, conforming to the rules of a formal grammar. The term parsing comes from Latin pars, meaning part. (Wiki definition, course uses the word but doesn't define it)
 * When a browser parses the CSS of a webpage, it ignores any properties it doesn't recognize or support. 
@@ -666,27 +670,23 @@ It represents the maximum possible brightness.
 * In that case, the browser will use whatever value it has for that property.
 *  If it can't find any other value set for that property, it will revert to the default value, which is typically not ideal.
 * This means that if you do want to provide a browser fallback, it's as easy as providing another more widely supported value immediately before your declaration. That way an older browser will have something to fall back on, while a newer browser will just interpret whatever declaration comes later in the cascade.
-
-
 * Code Assignment: It looks like a variable is being used to set the background color of the .red-box class. Let's improve our browser compatibility by adding another background declaration right before the existing declaration and set its value to red.
 
-### Inherit CSS Variables
+### [Inherit CSS Variables](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/inherit-css-variables)
 * When creating a CSS variable, it is available to be used inside the selector in which it was created. 
 * it is also available inside any of the selector's descendants. 
 * to make use of inheritance, CSS variables are often defined in the element. 
 * " :root " is a pseudo-class selector that matches the root element of the document. 
 * this is uaully the HTML element. 
 * by creating variables in ":root" they will always be available globally and can be accessed from any other selector within the stylesheet. 
-
 * Code Assignment: Define a variable named --penguin-belly in the :root selector and give it the value of pink. You can then see that the variable is inherited and that all the child elements which use it get pink backgrounds.
 
-### Change a variable for a specific area
+### [Change a variable for a specific area](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/change-a-variable-for-a-specific-area)
 * CSS variables created in ROOT are available for the whole page. 
 * then you can over write these variables by settin them again within any specific element(s) of choice. 
-
 * Code Assignment: Change the value of --penguin-belly to white in the penguin class.
 
-### Use a media query to change a variable
+### [Use a media query to change a variable](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/use-a-media-query-to-change-a-variable)
 * The course could be improved here if it included more information about a concept it is presenting. 
 * This course is supposed to be the very beginner introduction to using CSS.  
 * This portion of the lesson starts out saying how we can simplify "Media Queries" 
