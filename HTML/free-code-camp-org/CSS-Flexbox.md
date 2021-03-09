@@ -1,5 +1,5 @@
 # [CSS Flexbox](https://www.freecodecamp.org/learn/responsive-web-design/#css-flexbox)
-* Began studies: 
+* Began studies: 2021-03-08
 * Flexbox is a powerful, well-supported layout method that was introduced with the latest version of CSS, CSS3. 
 * With flexbox, it's easy to center elements on the page and create dynamic user interfaces that shrink and expand automatically.
 * In this course, you'll learn the fundamentals of flexbox and dynamic layouts by building a Twitter card.
