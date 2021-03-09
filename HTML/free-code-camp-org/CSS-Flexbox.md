@@ -4,13 +4,20 @@
 * With flexbox, it's easy to center elements on the page and create dynamic user interfaces that shrink and expand automatically.
 * In this course, you'll learn the fundamentals of flexbox and dynamic layouts by building a Twitter card.
 
-## Use display: flex to Position Two Boxes
-* 
+## [Use display: flex to Position Two Boxes](https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/use-display-flex-to-position-two-boxes)
+* Placing the CSS property display: flex; on an element allows you to use other flex properties to build a responsive page.
+* Code Assignment: Add the CSS property display to #box-container and set its value to flex.
+
+## [Add Flex Superpowers to the Tweet Embed](https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/add-flex-superpowers-to-the-tweet-embed)
+* in our code we have the tweet embedded so it can be used as an example.
+* some of the elements could display better if we change the layout a bit.
+* here we will explore several display: flex additions.
 * Code Assignment: 
 
-## Add Flex Superpowers to the Tweet Embed
-* 
-* Code Assignment: 
+Add the CSS property display: flex to all of the following items - note that the selectors are already set up in the CSS:
+
+header, the header's .profile-name, the header's .follow-btn, the header's h3 and h4, the footer, and the footer's .stats.
+
 
 ## Use the flex-direction Property to Make a Row
 * 
