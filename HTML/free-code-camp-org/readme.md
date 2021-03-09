@@ -14,7 +14,7 @@ Course outline
 * [CSS Grid](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/CSS-Grid.md) | Started: | Completed: 
 * [Responsive Web Design Projects](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/Responsive%20Web%20Design%20Projects.md)  | Started: | Completed: 
 
-## Basic HTML and HTML5
+## [Basic HTML and HTML5](https://www.freecodecamp.org/learn/responsive-web-design/#basic-html-and-html5)
 
 ### Introduction to Basic HTML and HTML5 
 * HTML stands for Hyper Text Markup Language. 
@@ -25,7 +25,7 @@ Course outline
 * The W3 Consortium works to ensure any browser can display HTML or HTML5 consistently. 
 
 
-### Say Hello to HTML Elements
+### [Say Hello to HTML Elements](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/say-hello-to-html-elements)
 * The course is set up to be a step-by-step guide to web develoopment. 
 * To take this course, you do not need any special software or hardware: as everything you need is provided for you within the course, including the workspaces to practice code and see the results. 
 * <h1>Hello</h1> is an HTML code element 
@@ -41,7 +41,7 @@ Course outline
         <h1>Hello World</h1>
         
 
-### Headline with the h2 Element
+### [Headline with the h2 Element](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/headline-with-the-h2-element)
 * the goal of the next few lessons, combined, is to end up wtih an HTML5 cat photo web app
 * the example app will be built step-by-step, logically 
 * H1 is generally used for Main Headings, where as the H2 element is generally used for subheadings. 
@@ -56,7 +56,7 @@ Course outline
         <h1>Hello World</h1>
         <h2>CatPhotoApp</h2>
 
-### Inform with the Paragraph Element
+### [Inform with the Paragraph Element](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/inform-with-the-paragraph-element)
 * use "p" elements for paragraph text on a website.
 * other options exist, such as just using text; however, the best/recommended practice is to set paragraphs of content on a webpage off with the P element.
 * code assignement:
@@ -69,7 +69,7 @@ Course outline
         <h2>CatPhotoApp</h2>
         <p>Hello Paragraph</p>
 
-### Fill in the Blank with Placeholder Text
+### [Fill in the Blank with Placeholder Text](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/fill-in-the-blank-with-placeholder-text)
 * sometimes when we design a website, we do not know yet what the content on the page will be. we only know the general shape and function. 
 * it is common for website developers to fill in an OBVIOUSLY blank text, which is meant to be useful as a placeholder while testing the function of the design, and later such blank text would be relpaced with the real content. 
 * this is known as "lorem ipsum text" 
@@ -85,7 +85,7 @@ Course outline
             <p>Kitty ipsum dolor sit amet, shed everywhere shed everywhere stretching attack your ankles chase the red dot, hairball run catnip eat the grass sniff.</p>
             
 
-### Uncomment HTML
+### [Uncomment HTML](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/uncomment-html)
 * leaving comments in code, is a way to help yourself and other coders decypher your code at a later date and time
 * comments can also help with debugging or security issues as a comment can indicated the intented correct functioning 
 * comments are not readibly visible to the person who views the webpage your coding in their browser
@@ -107,7 +107,7 @@ Course outline
                 
 
 
-### Comment out HTML
+### [Comment out HTML](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/comment-out-html)
 * apply what you know in this sections code assingment
 
             Uncomment just the h2 element, but comment the h1 and p elements in this code:
@@ -127,7 +127,7 @@ Course outline
             -->
 
 
-### Delete HTML Elements
+### [Delete HTML Elements](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/delete-html-elements)
 * because mobile devices are so common these days
 * because phones don't have much vertical space
 * it is important to remove all unnecessary elements
@@ -140,7 +140,7 @@ Course outline
         <p>Kitty ipsum dolor sit amet, shed everywhere shed everywhere stretching attack your ankles chase the red dot, hairball run catnip eat the grass sniff.</p>
 
 
-### Introduction to HTML5 Elements
+### [Introduction to HTML5 Elements](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/introduction-to-html5-elements)
 * HTML5 was released October 28, 2014 after first being drafted in 2008. 
 * HTML5 adds several tags.  these include:
         
@@ -178,7 +178,7 @@ Course outline
             </main>
 
 
-### Add Images to Your Website
+### [Add Images to Your Website](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/add-images-to-your-website)
 * images use the IMG element 
 * the IMG element must point to a specific image URL
 * the URL is pointed to using the SRC attribute 
@@ -210,7 +210,7 @@ Course outline
             
 
 
-### Link to External Pages with Anchor Elements
+### [Link to External Pages with Anchor Elements](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/link-to-external-pages-with-anchor-elements)
 * A is known as an anchor element 
 * anchor elements are used to link to content outside the webpage you are writing 
 * because of this, all a elements need a destination 
@@ -235,7 +235,7 @@ Course outline
         </main>
         
 
-### Link to Internal Sections of a Page with Anchor Elements
+### [Link to Internal Sections of a Page with Anchor Elements](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/link-to-internal-sections-of-a-page-with-anchor-elements)
 * the A (anchor) element isn't just useful for links to other pages or websites
 * the Anchor element can also jump to different regions within the same webpage which are called internal links
 * to create an internal link you will need to assign the HREF attribute a hash (number) symbol but the value of the ID for the element you want to jump to (usually further down the page) 
@@ -259,7 +259,7 @@ Course outline
             </main>
             <footer id="footer">Copyright Cat Photo App</footer>
 
-### Nest an Anchor Element within a Paragraph
+### [Nest an Anchor Element within a Paragraph](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/nest-an-anchor-element-within-a-paragraph)
 * links can be nested within other text elements
 * example: 
 
@@ -284,7 +284,7 @@ Course outline
             
 
 
-### Make Dead Links Using the Hash Symbol
+### [Make Dead Links Using the Hash Symbol](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/make-dead-links-using-the-hash-symbol)
 * what happens in web design when you know a link will be placed on the page, but you don't yet know what the link will be, or you haven't yet received/made the content page you are going to link to? 
 * later in our studies, we will see this is also really useful/helpful when we use JAVA SCRIPT 
 * code assignment
@@ -297,7 +297,7 @@ Course outline
               <p>Click here to view more <a href="#" target="_blank">cat photos</a>.</p>
 
 
-### Turn an Image into a Link
+### [Turn an Image into a Link](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/turn-an-image-into-a-link)
 * make an element into a link by nesting them within an "A" element 
 * to next an image you can do likewise 
 * here is an example: 
@@ -313,7 +313,7 @@ Course outline
                   
 * at the sucessful completion of this code assignement, this portion of the course is 50% completed 
 
-### Create a Bulleted Unordered List
+### [Create a Bulleted Unordered List](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/create-a-bulleted-unordered-list)
 * there is an element to create lists. 
 * lists can be "unordered" if they have a butteted point style instead of numbers
 * unordered lists star with the open element of <ur> plus as many <li> elements as needed and closed with the </ul>
@@ -345,7 +345,7 @@ Course outline
                 </main>
 
 
-### Create an Ordered List
+### [Create an Ordered List](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/create-an-ordered-list)
 * the other way to make lists is numbered, or also known as an ordered list
 * ordered lists open with <ol> followed by any number of <li> elements and closed by </ol>
 * code assignement 
@@ -372,7 +372,7 @@ Course outline
                   </main>
                 
 
-### Create a Text Field
+### [Create a Text Field](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/create-a-text-field)
 * the INPUT element allows us to gather some information from someone visiting the website. 
 * create a text input like this: <input type="text">
 * like images, this element is self-closing 
@@ -401,7 +401,7 @@ Course outline
                   <input type="text">
                   </main>
 
-### Add Placeholder Text to a Text Field
+### [Add Placeholder Text to a Text Field](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/add-placeholder-text-to-a-text-field)
 * placeholder refers to any text displayed in your "input" element before the website visitor enteres anything
 * placeholder text is created by using "placeholder="content" within your INPUT element 
 * example:
@@ -433,7 +433,7 @@ Course outline
                   <input type="text" placeholder="cat photo URL" >
                   </main>
 
-### Create a Form Element
+### [Create a Form Element](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/create-a-form-element)
 * HTML can be used to submit information to the server
 * a FORM element must be used to do so 
 * an example: 
@@ -468,7 +468,7 @@ Course outline
                 
 
 
-### Add a Submit Button to a Form
+### [Add a Submit Button to a Form](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/add-a-submit-button-to-a-form)
 * a SUBMIT button is used in conjunction with the form 
 * the button element is NOT self-closing 
 * clicking the button will send the data from the input field to the URL we specified in the ACTION attribute 
@@ -488,7 +488,7 @@ Course outline
                   </form>
 
 
-### Use HTML5 to Require a Field
+### [Use HTML5 to Require a Field](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/use-html5-to-require-a-field)
 * input can be required so that a form cannot be submitted without first filling in the required information. 
 * use the REQUIRED attribute within an INPUT element to require your website visitors to complete a field. 
 * for example 
@@ -518,7 +518,7 @@ Course outline
                
 
 
-### Create a Set of Radio Buttons
+### [Create a Set of Radio Buttons](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/create-a-set-of-radio-buttons)
 * do you want your website visitors to give answers from a specific set of answers? 
 * achieve this by using radio buttons
 * Radio Buttons are a type of INPUT 
@@ -548,7 +548,7 @@ Course outline
                 </form>
 
 
-### Create a Set of Checkboxes
+### [Create a Set of Checkboxes](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/create-a-set-of-checkboxes)
 * besides radio buttons, we could also use the design element of checkboxes. 
 * checkboxes differ from radio buttons in that you can select more than one checkbox for an answer, whereas with radio buttons you must chose one or another, but not more than one. 
 * checkboxes are a type of input
@@ -580,7 +580,7 @@ Course outline
                 
 
 
-### Use the value attribute with Radio Buttons and Checkboxes
+### [Use the value attribute with Radio Buttons and Checkboxes](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/use-the-value-attribute-with-radio-buttons-and-checkboxes)
 * when a website visitor uses the "submit" button we've created, then the information they entered gets sent to the server, including the options they selected in any radio or check boxes. 
 * if a value for each of the radio options isn't unique within the coding, then the information your website visitor submitted would default to "on" (for the entire radio group), meaing you wouldn't be able to tell which of the options your website visitor actually selected. 
 * thus, the value attribute needs to be set to something to identify the option
@@ -618,7 +618,7 @@ Course outline
                 </main>
 
 
-### Check Radio Buttons and Checkboxes by Default
+### [Check Radio Buttons and Checkboxes by Default](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/check-radio-buttons-and-checkboxes-by-default)
 * with either the radio or checked attributes, you can set one or more to be default selected-this means the website visitor would see them as already selected for them and would have to uncheck them if they didn't want them selected
 * example:
 
@@ -641,7 +641,7 @@ Course outline
                   </form>
 
 
-### Nest Many Elements within a Single div Element
+### [Nest Many Elements within a Single div Element](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/nest-many-elements-within-a-single-div-element)
 * Div elements are used to next multiple things within HTML
 * there is a division element which is DIV 
 * DIV elements are very common in HTML
@@ -685,7 +685,7 @@ Course outline
                 </form>
                 </main>
 
-### Declare the Doctype of an HTML Document
+### [Declare the Doctype of an HTML Document](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/declare-the-doctype-of-an-html-document)
 * some HTML element need to be included in every HTML page. 
 * these are at the top of your document and tell your browser which version of HTML the page is using. 
 * HTML is an evolving language; as such it is updated regularly.
@@ -728,7 +728,7 @@ Course outline
 
        
 
-### Define the Head and Body of an HTML Document
+### [Define the Head and Body of an HTML Document](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/define-the-head-and-body-of-an-html-document)
 * HTML pages can have yet another level of organization: HEAD and BODY elements
 * markup about the page would be included in the HEAD 
 * the page content is included within the BODY
