@@ -2,7 +2,7 @@
 This service allows you to log in and begin learning coding from scratch using just your GitHub profile to log in. If you are totally new to coding, FreeCodeCamp recommends starting at the very beginning (link on their study course outline). My [FreeCodeCamp profile](https://www.freecodecamp.org/fcc82f28646-b371-4d60-b44c-2a1e6e85fbd9)
 
 
-## FREE CODE CAMP's Responsive Web Design Cetification (300 Hours)
+## [FREE CODE CAMP's Responsive Web Design Cetification (300 Hours)](https://www.freecodecamp.org/learn/responsive-web-design/)
 Course outline
 * [Basic HTML and HTML5](https://github.com/EO4wellness/T-I-L/tree/main/HTML/free-code-camp-org#basic-html-and-html5) 
   | [Completed 1-6-2021](https://github.com/EO4wellness/T-I-L/blob/main/HTML/images/HTML_Frree-Code-Camp.jpg)
