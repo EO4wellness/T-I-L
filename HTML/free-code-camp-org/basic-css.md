@@ -30,11 +30,11 @@ Free Code Camp's Responsive Web Design Cetification Course Nav:
 
     
 
-## Introduction to Basic CSS
+## [Introduction to Basic CSS](https://www.freecodecamp.org/learn/responsive-web-design/#basic-css)
 * this portion of the course continues using the same example (Cat Photo App) 
 * RESUME studies here: https://www.freecodecamp.org/learn/responsive-web-design/basic-css/change-the-color-of-text
 
-### Change the Color of Text
+### [Change the Color of Text](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/change-the-color-of-text)
 * to change the text color use the STYLE in the H2 element.
 * COLOR style property does this 
 * Example: 
@@ -49,7 +49,7 @@ Free Code Camp's Responsive Web Design Cetification Course Nav:
                 MY CODE:
                 <h2 style="color: red;">CatPhotoApp</h2>
 
-### Use CSS Selectors to Style Elements
+### [Use CSS Selectors to Style Elements](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/use-css-selectors-to-style-elements)
 * CSS has 100s of properties which can be used to change the way an element looks.
 * our example above, of turning the H2 text to read is an example of inline CSS.
 * another method is to create a style block. 
@@ -73,7 +73,7 @@ Free Code Camp's Responsive Web Design Cetification Course Nav:
                 <h2>CatPhotoApp</h2>
 
 
-### Use a CSS Class to Style an Element
+### [Use a CSS Class to Style an Element](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/use-a-css-class-to-style-an-element)
 * [Resumed Studies](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/use-a-css-class-to-style-an-element) on 2021-01-07
 * Classes are reusable styles 
 * Classes can be added to HTML elements 
@@ -101,7 +101,7 @@ Free Code Camp's Responsive Web Design Cetification Course Nav:
                   <h2 class="red-text" >CatPhotoApp</h2>
 
 
-### Style Multiple Elements with a CSS Class
+### [Style Multiple Elements with a CSS Class](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/style-multiple-elements-with-a-css-class)
 * Likewise a class, once defined, can apply to any HTML element. 
 * Code Assignment:
 
@@ -143,7 +143,7 @@ Free Code Camp's Responsive Web Design Cetification Course Nav:
                    </form>
                    </main>
 
-### Change the Font Size of an Element
+### [Change the Font Size of an Element](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/change-the-font-size-of-an-element)
 * use the FONT-SIZE css property to change the font size. 
 * the FONT-SIZE property is placed inside the < S T Y L E > tag 
 * example: 
@@ -175,7 +175,7 @@ Free Code Camp's Responsive Web Design Cetification Course Nav:
 [Resume Studies here](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/change-the-font-size-of-an-element)
 
 
-### Set the Font Family of an Element
+### [Set the Font Family of an Element](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/set-the-font-family-of-an-element)
 * to set the FONT FAMILY we use the font-family property
 * for example, to set the font family to Sans-serif you would use this code to set all H2 content to this font family
 
@@ -200,7 +200,7 @@ Free Code Camp's Responsive Web Design Cetification Course Nav:
         </style>
 
 
-### Import a Google Font
+### [Import a Google Font](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/import-a-google-font)
 * wasn't previously awware of google (or any other) font library prior to this lesson.  
 * this google find was significant enough for its own entry on the [T-I-L: Today I Learned readme](https://github.com/EO4wellness/T-I-L/blob/main/Google/README.md)
 * [Google Font Library](https://fonts.google.com/)
@@ -240,7 +240,7 @@ Free Code Camp's Responsive Web Design Cetification Course Nav:
 
 
 
-### Specify How Fonts Should Degrade
+### [Specify How Fonts Should Degrade](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/specify-how-fonts-should-degrade)
 * monospace, serif, and sans-serif are all generic font families
 * generic fonts are available in all browsers
 * if one font is not available, you can let the browser know to "degrate" to another specified font.
@@ -262,7 +262,7 @@ Free Code Camp's Responsive Web Design Cetification Course Nav:
                 
 
 
-### Size Your Images
+### [Size Your Images](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/size-your-images)
 * CSS has a WIDTH property
 * just like with FONTS we use PX for Pixels 
 * Example: 500 pixels 
@@ -280,7 +280,7 @@ Free Code Camp's Responsive Web Design Cetification Course Nav:
                 use it to resite the image so it is only 100 px wide
                 
 
-### Add Borders Around Your Elements
+### [Add Borders Around Your Elements](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/add-borders-around-your-elements)
 * CSS borders can all have properties such as STYLE, COLOR, and WIDTH
 * example: wants a 5 px boarder around an HTML element? Then code:
         
@@ -300,7 +300,7 @@ Free Code Camp's Responsive Web Design Cetification Course Nav:
         apply this class to our cat photo 
 
 
-### Add Rounded Corners with border-radius
+### [Add Rounded Corners with border-radius](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/add-rounded-corners-with-border-radius)
 * The default border is square (sharp corners)
 * You can round the corners using the BORDER-RADIUS CSS property 
 * specify it in pixels.
@@ -310,16 +310,15 @@ Free Code Camp's Responsive Web Design Cetification Course Nav:
                 specify the border-radius of 10px
                 
 
-### Make Circular Images with a border-radius
+### [Make Circular Images with a border-radius](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/make-circular-images-with-a-border-radius)
 * the border radiius property can also be set as a percentage 
-
 * Code Assignment:
 
                 assign the cat photo a border-radious of 50%
                 NOTE: a border radius of 50% makes a circle 
 
 
-### Give a Background Color to a div Element
+### [Give a Background Color to a div Element](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/give-a-background-color-to-a-div-element)
 * set any element's background color with the BACKGROUND-COLOR property
 * Example:
 
@@ -335,7 +334,7 @@ Free Code Camp's Responsive Web Design Cetification Course Nav:
                 assign this class to your div element 
                 
 
-### Set the id of an Element
+### [Set the id of an Element](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/set-the-id-of-an-element)
 * HTML elements can have classes
 * they can also have and ID attribute 
 * we will be learning more about uses of IDs in JavaScript (later in the course)
