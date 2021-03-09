@@ -1,3 +1,4 @@
+2021-03-09 Day 82 Drops + Bonus session; Mondly; Weekly QUiz;<br>
 2021-03-08: Drops and Mondly<br>
 2021-03-07: Drops (80 days of study) and Mondly (237 Days of Study)<br>
 2021-03-06: Drops (79 days of study) and Mondly studies <br>
