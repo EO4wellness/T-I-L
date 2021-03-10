@@ -3,9 +3,9 @@
   [YouTube](https://youtu.be/GAkZfIYWsO4)
   
    - [Install Visual Studio Code](https://code.visualstudio.com/download)
-     [learn](https://code.visualstudio.com/learn) basic VSC [key board short cuts](https://www.shortcutfoo.com/app/dojos/vscode-win/cheatsheet)
-     install some of the [basic extensions](https://marketplace.visualstudio.com/VSCode) & learn how to use them
-     [basic tricks](https://code.visualstudio.com/docs/getstarted/tips-and-tricks)
+     1. [learn](https://code.visualstudio.com/learn) basic VSC [key board short cuts](https://www.shortcutfoo.com/app/dojos/vscode-win/cheatsheet)
+     2. install some of the [basic extensions](https://marketplace.visualstudio.com/VSCode) & learn how to use them
+     3. [basic tricks](https://code.visualstudio.com/docs/getstarted/tips-and-tricks)
    - learn Command Line
    - Git / GitHub Practice Basics (especially within a team setting works well)
    - [Figma](https://www.figma.com/)
