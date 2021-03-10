@@ -61,4 +61,4 @@ Links:
 [WordPress Privacy Policy](https://wordpress.org/about/privacy/)<br>
 
 
-_Note: these are my peronal notes, I took, while reading and learning about the above topics.  They include screenshots and links to the work of others, so that I can recall and read about their work in greater detail. _ 
+__Note: these are my peronal notes, I took, while reading and learning about the above topics.  They include screenshots and links to the work of others, so that I can recall and read about their work in greater detail. __
