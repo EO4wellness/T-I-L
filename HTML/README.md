@@ -6,16 +6,18 @@
 * Originally, I learned HTML before there was a division into "CSS" too. 
 
 ## HTML Study Resources: 
-* [Udacity]()
-* [Free-Code-Camp (HTML)]()
+* [Udacity](https://www.udacity.com/course/intro-to-html-and-css--ud001)
+* [Free-Code-Camp (HTML)](https://www.freecodecamp.org/news/html-and-css-course/)
 * [W3 Schools](https://www.w3schools.com/)
-* [SoloLearn](https://www.sololearn.com/learning/1014)
+* [SoloLearn](https://www.sololearn.com/learning/1014))
+* [devChallenges](https://devchallenges.io/learn)
 
 ## My HTML Coursework: 
 * [Udacity](#)
 * [Free Code Camp](https://github.com/EO4wellness/T-I-L/tree/main/HTML/free-code-camp-org)
 * [W3 Schools](#)
 * [Solo Learn](https://www.sololearn.com/Certificate/1014-15619122/jpg/)
+* [devChallenges]()
 
 # HTML Learning Chronicles 
 ![Netscape Browser Logo](https://uploads-ssl.webflow.com/5966ea9b9217ca534caf13d5/5c56614a53095803c146677b_70%20Netscape.png)
