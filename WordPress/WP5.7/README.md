@@ -48,8 +48,8 @@ Links:
 ### Links: 
 [WordPress license](https://wordpress.org/about/license/)<br>
 [WordPress Trademark Guidelines](https://wordpressfoundation.org/trademark-policy/)<br>
-[WordPress Plugins]()<br>
-[WordPress Themes]()<br>
+[WordPress Plugins](https://wordpress.org/plugins/)<br>
+[WordPress Themes](https://wordpress.org/themes/)<br>
 [Free Software Foundation](https://www.fsf.org/)<br>
 
 ## Privacy:
@@ -61,4 +61,6 @@ Links:
 [WordPress Privacy Policy](https://wordpress.org/about/privacy/)<br>
 
 
-__Note: these are my peronal notes, I took, while reading and learning about the above topics.  They include screenshots and links to the work of others, so that I can recall and read about their work in greater detail. __
+Note: these are my peronal notes, I took, while reading and learning about the above topics.  They include screenshots and links to the work of others, so that I can recall and read about their work in greater detail. 
+
+Doing some addtional reading, outside of the above information provided within the dashboard of the WordPress update, I discovered this interesting "one-click" solution from HTTP to HTTPS protocol.  That's going to save site owners a LOT of work!  [Blog Article Link](https://www.searchenginejournal.com/wordpress-5-7-launches-with-one-click-http-to-https-conversion/398459/)
