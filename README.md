@@ -220,6 +220,9 @@ Studied several lessons today 12-7-2020 in the ND
 * [How to Learn Code from your Home](https://techcrunch.com/2012/08/21/5-ways-to-learn-code-from-the-comfort-of-your-own-browser/)
 * [Women Who Code Member Resources](https://www.womenwhocode.com/resources)
 
+### WordPress
+* https://www.wpbeginner.com/wp-tutorials/how-to-hide-a-mobile-menu-in-wordpress-beginners-guide/ 
+
 
 ### WIKI
 * In November, 2020, I started a T-I-L WIKI just to learn and practice more of the WIKI Github skill set.  Likely, overtime, I will also do "issues" "projects" and other additional GitHub features here in this repository to practice various aspects of what's available.  
