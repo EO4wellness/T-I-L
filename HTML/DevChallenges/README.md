@@ -1,16 +1,23 @@
 # [DevChallenges](https://devchallenges.io)
 * found a recommendation to follow this teaching/project websites recommendations for front-end developer learning in 2021 from Twitter. 
 * Signing up for an account is EASY! 
+* Now days, a lot of these "coding" sites are popping up.  
+* It is hard to know, with so many sites if we're talking about the same site or not. 
+* Therefore this learning and practice plan is the one which uses this logo:
+
+   ![branding logo](https://github.com/EO4wellness/T-I-L/blob/main/HTML/DevChallenges/dev-challenges-website-log-link.png)
+   
+* It is founded by Thu Nghiem [Website](https://devchallenges.io/learn/) | [Twitter](https://twitter.com/thunghiemdinh) and [Challenges Twitter](https://twitter.com/devchallengesio) | [YouTube](https://www.youtube.com/channel/UCmSmLukBF--YrKZ2g4akYAQ) | [Discord](https://discord.com/invite/3R6vFeM)
 
 # [Course of Study](https://devchallenges.io/learn/category/getting-started): 
-* Getting Started
-* Web Developer Roadmap 2021
-* Essential
-* Responsive Website
-* JavaScript
-* Front-end Frameworks
-* Back-end Frameworks
-* Project Tutorials
+* [Getting Started](https://github.com/EO4wellness/T-I-L/blob/main/HTML/DevChallenges/GettingStarted.md)
+* [Web Developer Roadmap 2021](https://github.com/EO4wellness/T-I-L/blob/main/HTML/DevChallenges/WebDeveloperRoadmap2021.md)
+* [Essential](https://github.com/EO4wellness/T-I-L/blob/main/HTML/DevChallenges/Essential.md)
+* [Responsive Website](https://github.com/EO4wellness/T-I-L/blob/main/HTML/DevChallenges/ResponsiveWebsite.md)
+* [JavaScript](https://github.com/EO4wellness/T-I-L/blob/main/HTML/DevChallenges/JavaScript.md)
+* [Front-end Frameworks](https://github.com/EO4wellness/T-I-L/blob/main/HTML/DevChallenges/FrontEndFrameworks.md)
+* [Back-end Frameworks](https://github.com/EO4wellness/T-I-L/blob/main/HTML/DevChallenges/Back-End-Frameworks.md)
+* [Project Tutorials](https://github.com/EO4wellness/T-I-L/blob/main/HTML/DevChallenges/ProjectTutorials.md)
 
 ## Getting Started
 * Is Simple. 
