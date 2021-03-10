@@ -45,7 +45,7 @@ When I first learn HTML coding it was using the Netscape (retired) browser, long
     - Footer design
     - Slide show
     - Simple sign up form
-    - CSS calculator 
+    - CSS calculator (sneak peak another example https://codepen.io/justjodie__/pen/WNogEvZ) 
     - Landing page
 * [Web Developer Roadmap 2021](https://devchallenges.io/) 
   To Get started, recommend:
