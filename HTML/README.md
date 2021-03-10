@@ -87,4 +87,4 @@ When I first learn HTML coding it was using the Netscape (retired) browser, long
          14. Practice, Practice, Practice by building projects 
    - Ready for FrontEnd or go on to Node.JS and Express 
    - MongoDB 
-* 
+* [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
