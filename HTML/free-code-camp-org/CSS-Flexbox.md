@@ -36,11 +36,12 @@
 * use the FLEX-DIRECTION property to set a column
 * Code Assignment: Add the CSS property flex-direction to the #box-container element, and give it a value of column.
 
-## Apply the flex-direction Property to Create a Column in the Tweet Embed
-* 
-* Code Assignment: 
+## [Apply the flex-direction Property to Create a Column in the Tweet Embed](https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/apply-the-flex-direction-property-to-create-a-column-in-the-tweet-embed)
+* the tweet embed HEADER and FOOTER use the flex-direction property with a row value
+* similarly the itmes inside the .profile-name element would work well stacked as a column
+* Code Assignment: Add the CSS property FLEX-DIRECTION to the header's .profile-name element and set the value to column. 
 
-## Align Elements Using the justify-content Property
+## [Align Elements Using the justify-content Property](https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/align-elements-using-the-justify-content-property)
 * 
 * Code Assignment: 
 
