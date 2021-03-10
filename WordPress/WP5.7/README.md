@@ -23,7 +23,7 @@ Above Link:
 
 
 ## Credits
-_"This release is the reflection of the hard work of 481 generous volunteer contributors. Collaboration occurred on nearly 250 tickets on Trac and over 950 pull requests on GitHub."  Thanks go out to: _
+"This release is the reflection of the hard work of 481 generous volunteer contributors. Collaboration occurred on nearly 250 tickets on Trac and over 950 pull requests on GitHub."  Thanks go out to: 
 
 [Get involved in WordPress](https://make.wordpress.org/)
 
@@ -45,7 +45,20 @@ Links:
 
 ![freedoms-screenshot](https://github.com/EO4wellness/T-I-L/blob/main/WordPress/WP5.7/WP5.7-freedoms.png)
 
+### Links: 
+[WordPress license](https://wordpress.org/about/license/)<br>
+[WordPress Trademark Guidelines](https://wordpressfoundation.org/trademark-policy/)<br>
+[WordPress Plugins]()<br>
+[WordPress Themes]()<br>
+[Free Software Foundation](https://www.fsf.org/)<br>
 
 ## Privacy:
 
 ![privacy-screenshot](https://github.com/EO4wellness/T-I-L/blob/main/WordPress/WP5.7/WP5.7-privacy.png)
+
+### Links: 
+[WordPress Stats](https://wordpress.org/about/stats/)<br>
+[WordPress Privacy Policy](https://wordpress.org/about/privacy/)<br>
+
+
+_Note: these are my peronal notes, I took, while reading and learning about the above topics.  They include screenshots and links to the work of others, so that I can recall and read about their work in greater detail. _ 
