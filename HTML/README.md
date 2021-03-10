@@ -9,7 +9,7 @@
 * [Udacity](https://www.udacity.com/course/intro-to-html-and-css--ud001)
 * [Free-Code-Camp (HTML)](https://www.freecodecamp.org/news/html-and-css-course/)
 * [W3 Schools](https://www.w3schools.com/)
-* [SoloLearn](https://www.sololearn.com/learning/1014))
+* [SoloLearn](https://www.sololearn.com/learning/1014)
 * [devChallenges](https://devchallenges.io/learn)
 
 ## My HTML Coursework: 
