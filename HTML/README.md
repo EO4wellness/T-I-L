@@ -17,7 +17,7 @@
 * [Free Code Camp](https://github.com/EO4wellness/T-I-L/tree/main/HTML/free-code-camp-org)
 * [W3 Schools](#)
 * [Solo Learn](https://www.sololearn.com/Certificate/1014-15619122/jpg/)
-* [devChallenges]()
+* [devChallenges](https://github.com/EO4wellness/T-I-L/tree/main/HTML/DevChallenges)
 
 # HTML Learning Chronicles 
 ![Netscape Browser Logo](https://uploads-ssl.webflow.com/5966ea9b9217ca534caf13d5/5c56614a53095803c146677b_70%20Netscape.png)
