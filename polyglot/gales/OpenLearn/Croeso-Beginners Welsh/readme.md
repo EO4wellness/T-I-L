@@ -29,7 +29,7 @@ A pdf transcript accompanies each audio track.
 
 These main sessions are followed by additional reading and writing practice sessions 2, 3 and 4. You can choose to complete the additional practice material immediately after each corresponding Sesiwn, or you may wish to leave them all for revision at the end of the course.
 
-## 2. Sesiwn 2
+## [2. Sesiwn 2](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/gales/OpenLearn/Croeso-Beginners%20Welsh/2%20Sesiwn%202.md)
 
 ## 3. Sesiwin 3
 
