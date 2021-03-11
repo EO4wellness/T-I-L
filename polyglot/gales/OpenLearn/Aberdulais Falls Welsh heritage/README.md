@@ -49,20 +49,88 @@ The above image was available via creative commons taken 25 October 2015 by Bs0u
   - the falls then received about 2000 to 3000 visitors a year 
   - landscaping was accomplished and artists were invited to increase the aesthtically pleasing environment again 
   
-### 1.4 The economics of maintaining a heritage site 
+### 1.4 The Economics of Maintaining a Heritage Site 
+  - the National Trust has funding
+  - the funding from a complex web of sources
+  - annual membership fees
+  - visitor receipts 
+  - each property has to raise its own income to support its conservation activities 
+  - funds are also raised from visitor charges, catering, shop sales, etc. 
+  - not raising the funds results in loss of jobs, as well as lack of conservation work or facilties improvements 
+  - National Trust monitors the "spend per head" of the visitors they attrack 
+  - Stage 1 focused on development of providing visitors access to the industrial archaeology site
+  - Stage 2 (1990s) expanded the amenities and attractions
+  - 2020 COVID closed the site. 
 
 ### 1.5 Water power 
+  - water-power potential of the site 
+  - installed a new waterwheel where the original one had been 
+  - provided a new visitor attraction as well as power generation
+  - a water turbine was installed 
+  - it contributed electricity to the National Grid 
+  - it cost  850,000 Pounds 
+  - it was completed in 1993
+  - next, a salmon fish pass was included to allow salmon to access their spawing grounds 
+  - the tinplate works are yet to be restored 
+  - tinplate works employed adults and children
+  - it was extremely difficult work 
 
 ### 1.6 Visitor Numbers 
+  - displays include information about the areas:
+    --geology
+    --flora 
+    --fauna
+  - computer interactive displays provide info 
+  - there are guided tours 
+  - information sheets
+  - visitor packs 
+  - there are special event days for artists 
+  - better parking facilities were installed 
+  - the area was made fully accessable to the disabled 
+  - the anual visitors are now averaging 24,000 per year (before covid)
 
 ### 1.7 Evaluation 
+  - while the current strategy seems successfull
+  - there are other strategies which could have (or still cound in the future) be used 
 
 ### 1.8 Conflict and Tension 
+  - decsion making process its self 
+  - accompmodating a range of interests and clients 
+  - National Trust Planning Committee, the National Trust Archaeological Department, Cadw, the Historic Buildings representative, the Friends’ Association (they provided funds for the new building), and the local authority, all of whom might have had different ideas about how to proceed.
+  - conflicts over economics
+  - demands to meet visitors needs 
+  - wear and tear 
+  - repairs
+  - visitor congestion 
+  - cost implications 
+  - solutions have been themselves controversial such as
+  - restricting the time visitors can be on site 
+  - extending the operation hours 
+  - increasing space available to visitors 
+  - all require cost-benefit analaysis 
 
 ### 1.9 Aberdulais Falls and the Local Community 
+  - different local authoritis and residential views about the site and how it should be used. 
+  - local accommidations include making the site available for hosting lectures, meetings, keeping fit groups, etc. 
+  - in 1994 an additional 15 acres of woodlands were added to the area which are intended to be developed into foot paths and nature trails 
+  - there have also been issues with"fly-tipping" (dumping of waste illegall) vandalism and unauthorized access 
+  - to solve these various issues, the Trust regularly meets with local residents to talk about concerns
+  - 
 
 ### 1.10 Other Considerations 
+   - it is an industrial site with an attractive waterfall. 
+   - "Famous waterfalls and fascinating industrial site"
 
 ### 1.11 Facilities and the Visitor Experience 
+  - Lack of parking is especially an issue on public holidays 
+  - as was as insufficient infrastructure: toilets, food, etc. 
 
 ### 1.12 Conclusion 
+Acknowledgements
+This course was written by Dr Alan Wilson
+Except for third party materials and otherwise stated (see terms and conditions), this content is made available under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 Licence 
+Grateful acknowledgement is made to the following sources for permission to reproduce material in this course:
+Course image: Robert J Heath  in Flickr made available under Creative Commons Attribution 2.0 Licence .
+Figure 1 RGB Aerial Photography. © GeoPerspectives COWI A/S
+Don't miss out:
+If reading this text has inspired you to learn more, you may be interested in joining the millions of people who discover our free learning resources and qualifications by visiting The Open University - www.open.edu/ openlearn/ free-courses
