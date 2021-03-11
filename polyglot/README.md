@@ -8,7 +8,7 @@ and . . . my mark down and other skills
 
 
 ## Favorite Language Learning Tools
-[Duolingo](https://www.duolingo.com/profile/EO4wellnes) | [Mondly](https://app.mondly.com/home) | [Drops](https://app.languagedrops.com/) | [Verify Vocab](https://translate.google.com/)
+[Duolingo](https://www.duolingo.com/profile/EO4wellnes) | [Mondly](https://app.mondly.com/home) | [Drops](https://app.languagedrops.com/) | [Verify Vocab](https://translate.google.com/) | [Anki](https://apps.ankiweb.net/)| [OpenLearn](https://www.open.edu/openlearn/free-courses/full-catalogue) | [More](https://www.fluentu.com/blog/free-language-learning-websites/)
 
 ![duo-Gold](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/latin/Castle-3/Images/2021-03-05-LATIN-GOLD-DUO!.png)
 
