@@ -9,7 +9,7 @@
 * [Udacity](https://www.udacity.com/course/intro-to-html-and-css--ud001)
 * [Free-Code-Camp (HTML)](https://www.freecodecamp.org/news/html-and-css-course/)
 * [W3 Schools](https://www.w3schools.com/)
-* [SoloLearn](https://www.sololearn.com/learning/1014))
+* [SoloLearn](https://www.sololearn.com/learning/1014)
 * [devChallenges](https://devchallenges.io/learn)
 
 ## My HTML Coursework: 
@@ -45,48 +45,7 @@ When I first learn HTML coding it was using the Netscape (retired) browser, long
     - Footer design
     - Slide show
     - Simple sign up form
-    - CSS calculator 
+    - CSS calculator (sneak peak another example https://codepen.io/justjodie__/pen/WNogEvZ) 
     - Landing page
-* [Web Developer Roadmap 2021](https://devchallenges.io/) 
-  To Get started, recommend:
-   [YouTube](https://youtu.be/GAkZfIYWsO4)
-   - [Install Visual Studio Code](https://code.visualstudio.com/download)
-     [learn](https://code.visualstudio.com/learn) basic VSC [key board short cuts](https://www.shortcutfoo.com/app/dojos/vscode-win/cheatsheet)
-     install some of the [basic extensions](https://marketplace.visualstudio.com/VSCode) & learn how to use them
-     [basic tricks](https://code.visualstudio.com/docs/getstarted/tips-and-tricks)
-   - learn Command Line
-   - Git / GitHub Practice Basics (especially within a team setting works well)
-   - [Figma](https://www.figma.com/)
-   - Learn Responsive Website Design
-   - Programming languages (focus on these:) 
-     
-         1.  HTML (forms) 
-         2.  CSS (not hard to learn, but hard to master--practice a lot) 
-               box model
-               CSS unit
-               position 
-               annimation (be careful) 
-               variables 
-               media query 
-         3. Build a Portfolio 
-         4. Deploy Site 
-         5. JavaScript 
-         6. How JavaScript is used in the Browser 
-         7. Fetch API - Forms - study more 
-         8. How to store data in the browser 
-         9. Web components 
-         10. Web socket 
-         11. TypeScript 
-         12. learn framework 
-         13. Library and Framework 
-              SASS
-              NPM 
-              Contentful 
-              React 
-              Next.js
-              Material UI
-              Tailwind CSS 
-         14. Practice, Practice, Practice by building projects 
-   - Ready for FrontEnd or go on to Node.JS and Express 
-   - MongoDB 
+* [Web Developer Roadmap 2021](https://github.com/EO4wellness/T-I-L/tree/main/HTML/DevChallenges) 
 * [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)

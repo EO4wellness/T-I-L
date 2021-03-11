@@ -18,8 +18,11 @@
   - Recent 
   - Help 
   - Customize 
-  - Learn 
-* 
+  - Learn (control + shift + B)
+* File Explorer (control shift E)
+* Open Terminal (control N backtick)
+* Settings - Tabs equals the spaces you set
+* Extensions 
 
 ## Command Line for Beginners
 

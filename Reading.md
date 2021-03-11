@@ -12,3 +12,5 @@ This category is for papers, articles, blog posts which aren't necessarily a tut
 *  <br>
 
 *  Free Code Camp wrote an excellent article for new coders to consider: [Patterns to Avoid](https://www.freecodecamp.org/news/antipatterns-to-avoid-in-code/) which I read today 1-5-2021.
+
+* SEO-reatled: [interesting read about link names](https://www.searchenginejournal.com/google-may-see-web-pages-as-duplicates-if-urls-too-similar/398452/?utm_campaign=trending-news-hello-bar)
