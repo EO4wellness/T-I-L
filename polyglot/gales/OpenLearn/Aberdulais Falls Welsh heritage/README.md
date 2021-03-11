@@ -134,3 +134,6 @@ Course image: Robert J Heath  in Flickr made available under Creative Commons At
 Figure 1 RGB Aerial Photography. © GeoPerspectives COWI A/S
 Don't miss out:
 If reading this text has inspired you to learn more, you may be interested in joining the millions of people who discover our free learning resources and qualifications by visiting The Open University - www.open.edu/ openlearn/ free-courses
+
+
+My Study of this course began on 2021-03-11 and concluded the same day.  I enjoyed this course and reviewed it. 
