@@ -30,4 +30,4 @@ above image is available via creative commons taken 25 October 2015 by Bs0u10e01
 ### 1.4 The economics of maintaining a heritage site 
 ### 1.5 Water power 
 ### 1.6 Visitor Numbers 
-### 1.7 
+### 1.7  
