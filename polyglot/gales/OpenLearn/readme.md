@@ -20,6 +20,6 @@
 
 ![Wales-Welsh-Discovery-Course](https://www.open.edu/openlearn/ocw/pluginfile.php/777069/mod_resource/content/0/lg001_1_course_image_786x400.jpg)
 
-| Started:  | Completed:  
+[My Course Study](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/gales/OpenLearn/Discovering%20Wales%20and%20Welsh) | Started:  | Completed:  
 
 Also studying with [OpenLearn: Why Study Languages]()
