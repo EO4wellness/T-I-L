@@ -10,8 +10,10 @@
 ![Welsh Herritage](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/gales/OpenLearn/Aberdulais%20Falls%20Welsh%20heritage/Welsh-Herritage.png)
 
 * [Open Learn Course URL](https://www.open.edu/openlearn/history-the-arts/history/aberdulais-falls-case-study-welsh-heritage/content-section-0?active-tab=description-tab)
-* [My Course Studies]
+* [My Course Studies](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/gales/OpenLearn/Aberdulais%20Falls%20Welsh%20heritage)
 
-# Croeso
+# [Croeso](https://www.open.edu/openlearn/languages/welsh/croeso-beginners-welsh/content-section-0?active-tab=description-tab)
+[Beginners Welsh](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/gales/OpenLearn/Croeso-Beginners%20Welsh)
 
-# Other 
+
+# [Discovering Wales and Welsh](https://www.open.edu/openlearn/languages/discovering-wales-and-welsh-first-steps/content-section-0?active-tab=description-tab)
