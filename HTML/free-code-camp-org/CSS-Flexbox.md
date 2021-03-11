@@ -42,16 +42,31 @@
 * Code Assignment: Add the CSS property FLEX-DIRECTION to the header's .profile-name element and set the value to column. 
 
 ## [Align Elements Using the justify-content Property](https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/align-elements-using-the-justify-content-property)
-* 
-* Code Assignment: 
+* when the contents of a flex container, won't fill the entire container, it is common to want to instruct the content how to be positioned.
+* the JUSTIFY-CONTENT property has several options to help with this scenario
+* for each direction the flex items are arranged it scalled the main axis
+* row is a horizontal line that cuts thru each item
+* for a cloumn the main axis is the vertical line thru the items
+* JUSTIFY-CONTENT: CENTER: will align all of the flex items to the center inside the flex container 
+* other options are available.  they include:
+* flex-start: aligns items to the start of the flex container 
+  flex-star in a row pushes the items to the left of the container
+  for a column, flex-start pushes the items to the top of the container.
+* FLEX-END aligns all of the content to the end of the container
+* SPACE-BETWEEN aligns items to the center of th emain exis. 
+* SPACE-AROUND similar to SPACE-BETWEEN but the first and last items are not locked into the edges of the continer. 
+* SPACE-EVENLY: 
+* Code Assignment: An example helps show this property in action. Add the CSS property justify-content to the #box-container element, and give it a value of center.  Bonus: Try the other options for the justify-content property in the code editor to see their differences. But note that a value of center is the only one that will pass this challenge.
 
-## Use the justify-content Property in the Tweet Embed
-* 
-* Code Assignment: 
 
-## Align Elements Using the align-items Property
+## [Use the justify-content Property in the Tweet Embed](https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/use-the-justify-content-property-in-the-tweet-embed)
+* this challenge is to see what happens when applying this to the tweet embed
+* no new info is given other than what we see when we complete the code challenge assignement below 
+* Code Assignment: Add the CSS property justify-content to the header's .profile-name element and set the value to any of the options from the last challenge.
+
+## [Align Elements Using the align-items Property](https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/align-elements-using-the-align-items-property)
 * 
-* Code Assignment: 
+* Code Assignment: )
 
 ## Use the align-items Property in the Tweet Embed
 * 
