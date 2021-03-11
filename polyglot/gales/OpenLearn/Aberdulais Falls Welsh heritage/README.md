@@ -16,9 +16,7 @@ After studying this course, you should be able to:
 
 ![Wiki-Commons-photo](https://upload.wikimedia.org/wikipedia/commons/0/0e/AberdulaisFalls2015.jpg)
 
-[Wiki Article](https://en.wikipedia.org/wiki/Aberdulais_Falls)
-
-above image is available via creative commons taken 25 October 2015 by Bs0u10e01 
+The above image was available via creative commons taken 25 October 2015 by Bs0u10e01 | [Read Entire Wiki Article](https://en.wikipedia.org/wiki/Aberdulais_Falls)
 
 ### 1.1 Background
   - Under the control of the National Trust 
