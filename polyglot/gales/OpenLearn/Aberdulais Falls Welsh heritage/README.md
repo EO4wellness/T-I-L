@@ -14,7 +14,7 @@ After studying this course, you should be able to:
 
 ## Aberdulais Falls 
 
-![Wiki-Commons-photo](https://en.wikipedia.org/wiki/Aberdulais_Falls#/media/File:AberdulaisFalls2015.jpg)
+![Wiki-Commons-photo](https://upload.wikimedia.org/wikipedia/commons/0/0e/AberdulaisFalls2015.jpg)
 
 [Wiki Article](https://en.wikipedia.org/wiki/Aberdulais_Falls)
 
