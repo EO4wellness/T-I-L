@@ -9,7 +9,7 @@ Read these phrases, then listen to them on the audio clip below and repeat. Note
     Hwyl	          Goodbye (informal)
     Da boch chi	    Goodbye (formal)
 
-[Sound-File](2 Sesiwn 2 Ymarfer 1_l196_1_006s.mp3)
+[Sound-File](/2 Sesiwn 2 Ymarfer 1_l196_1_006s.mp3)
 
 ## Transcript
 Audio 6 
@@ -33,7 +33,7 @@ Da boch chi (SFX) Da boch chi
 # Ymarfer 2 
 Which greeting would you use at different times of day? Listen to audio track and respond appropriately.
 
-[Sound-File](2 Sesiwn 2 Ymarfer 2_l196_1_007s.mp3)
+[Sound-File](/2 Sesiwn 2 Ymarfer 2_l196_1_007s.mp3)
 
 ## Transcript
 Audio 7 
@@ -77,7 +77,7 @@ This is how you introduce yourself. Listen to the audio clip and respond to the 
 
     ___ dw i. I'm ___.
     
-[Sound-File](2 Sesiwn 2 Ymarfer 3_l196_1_008s.mp3)
+[Sound-File](/2 Sesiwn 2 Ymarfer 3_l196_1_008s.mp3)
 
 ## Transcript 
 Audio 8 
@@ -104,7 +104,7 @@ Read the following words and phrases used for introductions. Then play the audio
     Wedi blino	        Tired
     Ofnadwy	            Terrible
 
-[Sound File](2 Sesiwn 2 Ymarfer 4_l196_1_009s.mp3)
+[Sound File](/2 Sesiwn 2 Ymarfer 4_l196_1_009s.mp3)
 
 ## Transcript 
 Audio 9
@@ -120,7 +120,9 @@ Ofnadwy (SFX) Ofnadwy
 
 # Ymarfer 5
 In response to the question Sut dych chi? write an appropriate response in Welsh to match the symbols.
+
 ![quiz-image](https://www.open.edu/openlearn/ocw/pluginfile.php/86587/mod_oucontent/oucontent/712/207b50a4/1ed5be4e/l196_1_001i.jpg)
+
 
 Answers: 
 😄 (a) da iawn (diolch)
