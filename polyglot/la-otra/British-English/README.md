@@ -1,7 +1,10 @@
 # British English
 * I keep discovering and then re-iscovering every few months or so, I'm also learning a bit of British English.  
 * The Mondly app, has all of the "English" translations in British English.  
+* I am not "officially" studying British English, however, I'm noting the references I come across, as I study other languages. 
 
+
+## British English Terms: 
 
 ![Car Park vs. Parking lot](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/images/british-english.jpg)
 
