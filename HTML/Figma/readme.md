@@ -51,5 +51,7 @@ by Jesse Showalter
  - Code
 
 ## Future Studies: 
+
 [Figma Mobile App Design Tutorial](https://www.youtube.com/watch?v=PeGfX7W1mJk)
+
 [Design 101](https://trydesignlab.com/figma-101-course/introduction-to-figma/)
