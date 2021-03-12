@@ -3,10 +3,11 @@
 
 # Castle 1 - course of study
 
-* [Intro](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/Latin/Castle-1/Intro.md) 
+* [Intro](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/latin/Castle-1/Intro.md) 
 
         Started: Jan 6, 2021
-        Completed
+        Completed!
+      
 
 * [Greetings](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/Latin/Castle-1/Greetings.md)
 
