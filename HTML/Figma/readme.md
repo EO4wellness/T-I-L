@@ -25,9 +25,9 @@ https://devchallenges.io/
 
 Figma Mirror: [Apple Store](https://apps.apple.com/app/figma-mirror/id1152747299) | [Android](https://play.google.com/store/apps/details?id=com.figma.mirror&hl=en)
 
-[Intro to Figma:](https://dev-in-the-web.medium.com/what-is-deno-and-should-we-start-learning-it-6d5bdc2a3acf)
+[Intro to Figma Demo:](https://youtu.be/jk1T0CdLxwU)
 Intro to Figma - Beginners guide to Figma Basics
-Jesse Showalter
+by Jesse Showalter
  - Benefits to using Figma
  - all operating systems and browser
  - collaborative real time
