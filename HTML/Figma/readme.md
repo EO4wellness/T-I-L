@@ -25,6 +25,8 @@ https://devchallenges.io/
 
 Figma Mirror: [Apple Store](https://apps.apple.com/app/figma-mirror/id1152747299) | [Android](https://play.google.com/store/apps/details?id=com.figma.mirror&hl=en)
 
+## Intro
+
 [Intro to Figma Demo:](https://youtu.be/jk1T0CdLxwU)
 Intro to Figma - Beginners guide to Figma Basics
 by Jesse Showalter
@@ -48,5 +50,6 @@ by Jesse Showalter
  - physical
  - Code
 
-Future Studies: 
+## Future Studies: 
 [Figma Mobile App Design Tutorial](https://www.youtube.com/watch?v=PeGfX7W1mJk)
+[Design 101](https://trydesignlab.com/figma-101-course/introduction-to-figma/)
