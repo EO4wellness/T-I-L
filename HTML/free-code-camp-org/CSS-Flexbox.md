@@ -65,10 +65,29 @@
 * Code Assignment: Add the CSS property justify-content to the header's .profile-name element and set the value to any of the options from the last challenge.
 
 ## [Align Elements Using the align-items Property](https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/align-elements-using-the-align-items-property)
-* 
-* Code Assignment: )
+* ALIGN-ITEMS property is similar to the JUSTIFY-CONTENT property
+* JUSTIFY-CONTENT aligns flex items along the main axis. 
+* For ROWS the main axis is a horizontal line. 
+* For COLUMNS the main axis is a verticle line. 
+* Flex containers also have a CROSS AXIS.
+* The Cross Axis is opposite the Main Axis. 
+* For ROWS the cross axis is vertical
+* For COLUMNS the cross axis is horizontal.
+* In CSS, the align-items property aligns flex items along the cross axis.
+* For a row, it tells CSS how to push the items in the entire row up or down within th econtainer.
+* For a column, it tells how to push the items left or right within the container. 
+* There are differfent possible values for ALIGHT-ITEMS. 
+* values include:
+   - FLEX-START: aligns items to the start of the flex container. 
+   - FLEX-END: aligns items to the end of the flex container. 
+   - CENTER: alligns items to the center 
+   - STRETCH: stretches the items to fill the flex continaer
+   - BASELINE: aligh itmes to their baslines.
+* NOTE: if no value is specified, then the default value is stretch.
+* Code Assignment: An example helps show this property in action. Add the CSS property align-items to the #box-container element, and give it a value of center.
+* Bonus-  Try the other options for the align-items property in the code editor to see their differences. But note that a value of center is the only one that will pass this chal
 
-## Use the align-items Property in the Tweet Embed
+## [Use the align-items Property in the Tweet Embed](https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/use-the-align-items-property-in-the-tweet-embed)
 * 
 * Code Assignment: 
 
