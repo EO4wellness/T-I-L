@@ -1,4 +1,4 @@
-⚔️ 2021-03-12 | Studied two new lessons in the "Time" skill set, earning 100% accuracy on both lessons; Earned new crown.  Earned level 2. Review / restore Skill Set Castle 1 Basics. <br>
+⚔️ 2021-03-12 | Studied two new lessons in the "Time" skill set, earning 100% accuracy on both lessons; Earned new crown.  Earned level 2. Review / restore Skill Set Castle 1 Intro. <br>
 ⚔️ 2021-03-11 | Studied one new lesson in the "Time" skill set<br>
 ⚔️ 2021-03-04 | Earned level 1 in both "[Home](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/latin/Castle-3/Home.md)" and "[gods](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/latin/Castle-3/gods.md)" skill sets. Unlocked "Shop" and "Activities" <br>
 ⚔️ 2021-03-03 | Earned level 1 in "[Languages](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/latin/Castle-3/Language.md)" <br>
