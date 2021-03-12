@@ -1,0 +1,15 @@
+#replace yourdomain with the correct info; add the code below to the existing .htaccess file to redirect all web traffic HTTP to HTTPS
+RewriteEngine On
+RewriteCond %{SERVER_PORT} 80
+RewriteRule ^(.*)$ https://www.yourdomain.com/$1 [R,L]
+#replace yourdomain with correct info; add code below to existing .htaccess file to redirect one specific domain HTTP to HTTPS
+RewriteEngine On
+RewriteCond %{HTTP_HOST} ^yourdomain\.com [NC]
+RewriteCond %{SERVER_PORT} 80
+RewriteRule ^(.*)$ https://www.yourdomain.com/$1 [R,L]
+#replace yourdomain with correct info; then add the code below to your existing .htaccess file to redirection only one specific folder
+RewriteEngine On
+RewriteCond %{SERVER_PORT} 80
+RewriteCond %{REQUEST_URI} folder
+RewriteRule ^(.*)$ https://www.yourdomain.com/folder/$1 [R,L]
+#credit https://www.freecodecamp.org/news/how-to-redirect-http-to-https-using-htaccess/
