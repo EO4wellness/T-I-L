@@ -83,3 +83,9 @@ Began study: 2021-03-01
 * Noctu dormitis. (At night you all sleep)
 
 ![level1](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/latin/Castle-2/Images/2021-03-02_earned-level1-TIME-.png)
+
+2021-03-11 Study Session
+
+2021-03-12 Two Study session:
+Results: obtained perfect score on both study sessions.
+Achived level 2 and earned a new crown. 
