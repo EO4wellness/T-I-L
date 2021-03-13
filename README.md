@@ -128,6 +128,7 @@ Project website: http://tacodataset.org/<br>
 * T-I-L about the existance and use of [GitHub Pages](https://pages.github.com/)
 * [Branching](https://www.freecodecamp.org/news/git-checkout-remote-branch-tutorial/)
 * https://www.freecodecamp.org/news/git-cheat-sheet/
+* https://dzone.com/articles/get-a-jump-into-github-actions
 
 ### Google 
 * [Google Font Library](https://github.com/EO4wellness/T-I-L/tree/main/Google)
