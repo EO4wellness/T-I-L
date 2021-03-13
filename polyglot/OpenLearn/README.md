@@ -158,15 +158,260 @@ Have a look at the case studies below. These present professions that you may be
 Having looked at the case studies, and reflecting on what you've learnt in this section, try think of a few more possible professions that would be enhanced by knowing of a language.
 
 # 2 Languages and the Word Environment: 
+This section aims to work further on investigating career possibilities open to people with knowledge of modern languages.
+
+These are headlines of news stories that stress the importance of language.
+
+    ‘Japanese pharma giant chooses UK for European hub.’ Esai – Japan's fourth largest pharmaceutical company – has chosen Hertfordshire as the home of their pioneering European base.
+
+    ‘Companies to prioritise international markets in search for growth.’ A major new survey by the Economist Intelligence Unit finds that businesses will focus on international over domestic markets in the next three years.
+
+    ‘To understand overseas customers better, get local, new report tells multinational’
+
+    ‘Executives within multinational firms agree their organisations would perform better if they gave more control to local managers in overseas markets’, finds a new Economist Intelligence Unit survey and report commissioned by UK Trade & Investment.
+
+### Activity 9: Business Partners 
+You are a representative from a British company visiting a possible business partner abroad for the first time. The aim of your visit is to set up an import / export project. This means that the project is aiming to bring products from abroad into the UK (import) and sell products made in the UK to other countries (export). You will need to learn about the country and its products. In addition, you will need to learn a few basic sentences to communicate with your business colleagues abroad in their own language.
+
+Have a look at the BBC languages website. Choose one language from the menu on the left, preferably one you have never studied before. Explore the different dialogues, sentences and situations and write down five to seven sentences that you can use with your business colleagues.
+
+Decide on a country that uses the language you have chosen. Then do some research on the internet to find out some information about that country. Look for information in the following areas:
+
+    local products available in the country
+
+    people and customs
+
+    food
+
+    weather
+
+    any other important features.
+
+Now think about the phrase ‘English is not enough’. What do you think this means?
+
+Discussion
+
+The phrase highlights the importance of learning languages.
+
+75% of the world's population does not speak English.
+
+60% of Britain's trade is with non-English speaking countries.
+
+65% of people in Britain speak only their own language – every other country in Europe has a wider knowledge of languages.
+
+
+
+
 
 # 3 Studying Languages: 
 
+### Activity 10: Quotation 
+    ‘The recipe for perpetual ignorance is: be satisfied with your opinions and content with your knowledge.’
+
+Write down what you think this quotation is trying to say. Make some notes on how you think this might apply to languages and language learning.
+
+This phrase could be paraphrased, ‘In order to remain clueless about the world, be happy with what you already know and think’. Do you think that anyone would want to follow this recipe? Think about what the speaker is actually trying to encourage.
+
+### Activity 11: Finding Lanaguage Course:
+You may be thinking about studying for a language qualification. It's worth looking at the different courses and levels of study available to you. This takes some research, as there are a number of factors to take into account. These include the following:
+
+    the language you want to study
+
+    how much time you have to study
+
+    how you want to study – in a class, or private study
+
+    the level you want to study – short course, GCSE, A Level, university course
+
+    the cost of the course
+
+    the location of the course and how far you are willing to travel.
+
+Bearing these considerations in mind, have a look on the internet for language courses that may be interest to you, taking note of their cost and location. Look at local or national maps and calculate how long it would take to travel. If you can get hold of prospectuses, have a look through those too.
+
+NOTE:  I actually found this website doing this activity independt of this course and its suggested assignments. 
+
 # 4 Langague Study Skills: 
+This section will help you to improve your writing and speaking skills.
+
+### Activity 12: Mind Mapping Ideas 
+Have a look at the Skills for OU Study website for information on mind mapping.
+
+Read through the information on the website, which will explain what mind maps are, and how to create them. Mind mapping is a tool that is used in all areas of study, not only languages.
+
+Put together a mind map focusing on useful vocabulary related to a main central topic.
+
+The first thing you need to consider is the language you want to work with. Then choose one of the topics from the list below:
+
+    accommodation
+
+    house and home
+
+    self
+
+    careers
+
+    free time
+
+    food and drink
+
+    health
+
+    shopping
+
+    school
+
+    transport
+
+    holidays.
+
+Imagine that you need to put together some information for a presentation on useful vocabulary in the topic you've chosen. Use language books, dictionaries or online information to gather your information. Put your ideas together for your chosen topic in a mind map. This will help you to learn how to structure the information you find in the most effective way.
+
 
 # 5 Language and Culture: 
+This section aims to help you reflect on the importance of cultural awareness, and to make you aware of the cultural differences associated with different cultures and societies. It will also encourage you to reflect on your own culture and the perceptions others may have of your society.
+
+### Activity 13: Writing a Play 
+For this activity, you are going to be writing a short play, based on one of three scenarios. Pick a language you are happy using, and use any resources that you think might be useful – websites, dictionaries, books, friends and family. The important thing is that you research the topic as well as you can.
+
+Choose from one of the three following scenarios. Notes and guidance on what to include in your play are included in each document.
+
+Play 1: Introductory level
+
+View document.
+
+Play 2: Intermediate level
+
+View document.
+
+Play 3: Advanced level
+
+View document.
+
+The beginning of your play could be ‘introductions’, although you may want to choose a different way of starting. It is up to you to use your own initiative.
+
+Try to give the ending of your play a ‘positive conclusion’.
+
+It is important that you adopt names for your characters, taking into account where they are from.
+
+
 
 # 6 International Christmas 
+This section aims to raise your intercultural awareness, by exposing you to the many and different Christmas traditions around the world. It will encourage you to discover the connections between language and culture and engage you with online communications and research. You will also be given the opportunity to use your own creativity as a learning tool.
+
+Please note that Christmas has been chosen as an example of a festival which is celebrated in different ways in different countries. The activities form a useful starting point from which to explore cultural variation. This is equally true of other religious festivals.
+
+### Activity 14: British Christmas Tranditions 
+Think about British Christmases and try to answer the following questions.
+
+    Which day do you think is the most important day at Christmas?
+
+    What do people do on that day?
+
+    When do British people exchange presents?
+
+    What food is normally eaten at Christmas?
+
+    How do people in Britain decorate their houses at Christmas?
+    
+I am not British and do not celebrate this holiday so I don't know.
+
+Course Answer Given: 
+Discussion
+
+The most important day is Christmas Day, which falls on 25 December.
+
+This is a public holiday. For many families, this is a time to get together for a Christmas meal or celebration. If people are religious, they will normally attend church during the Christmas period.
+
+Christmas presents are exchanged on Christmas Day.
+
+A traditional Christmas meal could consist of a light starter, followed by turkey or goose, roast potatoes, roast parsnips, sprouts, chestnuts, red cabbage, vegetables, gravy, stuffing, bread sauce, cranberry sauce, party sausages wrapped in bacon, Christmas pudding or cake, mince pies with brandy butter, Yule log, cheese and biscuits.
+
+The main decoration is a Christmas tree, often decorated flowers, lights, tinsel, baubles, etc. The house may be decorated with internal and external fairy lights and other decorations. Christmas cards are also put on display around the house.
+
+### Activity 15: "Merry Christmas" in different languages
+In the list below, you will see ‘Merry Christmas‘ written in a range of languages. Do you recognise any of the them?
+
+Do you know in which countries these languages are spoken?
+
+Kala Christouyenna!	(Greek) 
+Buone Feste Natalizie	(Italian) 
+Linksmu Kaledu	(Lithuanian) 
+Wesolych Swiat Bozego Narodzenia or Boze Narodzenie	(Polish)
+Feliz Natal	(Portuguese)
+Sarbotori vesele	(Google translate says: Bengali, but the correct answer is Rumanian) 
+Pozdrevlyayu s prazdnikom Rozhdestva is Novim Godom	(Russian) 
+Nedeleg laouen na bloavezh mat	(Google translate says: Russian, but the correct answer is Breton)
+Bon Nadal i un Bon Any Nou (Catalan) 
+
+The following websites may help you, and provide some interesting additional information:
+
+http://www.santas.net/howmerrychristmasissaid.htm
+
+http://www.factmonster.com/ipka/A0877712.html
+
+http://www.omniglot.com/language/phrases/christmas.htm
+
+However, I used translate.google.com "detect a language" 
+
+### Activity 16: International Christmas
+Look at the list of languages below:
+
+    Greek
+
+    Italian
+
+    Lithuanian
+
+    Polish
+
+    Portuguese
+
+    Rumanian
+
+    Russian
+
+    Breton
+
+    Catalan.
+
+Pick a country where one of these languages is spoken. Now try to find out as much as you can about Christmas in that country. Use reference books and/or the internet.
+
+You may find the following websites helpful and interesting. They provide information on what Christmas is like in different countries.
+
+Italy: http://www.bbc.co.uk/languages/italian/christmas/index.shtml
+
+France http://www.bbc.co.uk/languages/french/christmas/index.shtml
+
+Germany: http://www.bbc.co.uk/languages/german/christmas/index.shtml
+
+Spain http://www.bbc.co.uk/languages/spanish/christmas/index.shtml
+
+Christmas traditions around the world: http://www.santas.net/aroundtheworld.htm
+
+The Christmas Archives http://www.christmasarchives.com/index.html
+
+Christmas ideas for modern languages: http://www.ltscotland.org.uk/mfle/creativeteaching/christmasideas/index.asp
+
+Information and Christmas recipes from Denmark, Mexico, Sweden and Switzerland: http://www.thecookinginn.com/tcirecipes/xmasworld.html
+
+TES resources: http://www.tes.co.uk/resourcehub.aspx?navcode=70
+
+Ask yourself the following questions:
+
+    How do people celebrate Christmas Day in your chosen country? Do they also celebrate on any other day during the Christmas period?
+
+    Do they exchange presents as we do in the UK?
+
+    Are there special foods people eat in that country at Christmas? How is it prepared?
+
+    Do people decorate their houses at Christmas? What kind of decorations do they have?
+
+    Choose one decoration and describe it (you might even want to try and make it yourself). Use a drawing to illustrate what it looks like.
+
+    Identify five words in the foreign language which are related to Christmas.
+    
 
 # Conclusions and Acknowledgements: 
-
+The end of the course materials lists credits for images and other contributors and/or sources. 
 
