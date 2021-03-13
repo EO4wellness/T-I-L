@@ -88,14 +88,24 @@
 * Bonus-  Try the other options for the align-items property in the code editor to see their differences. But note that a value of center is the only one that will pass this chal
 
 ## [Use the align-items Property in the Tweet Embed](https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/use-the-align-items-property-in-the-tweet-embed)
-* 
-* Code Assignment: 
+* The last challenge introduced the align-items property and gave an example. This property can be applied to a few tweet embed elements to align the flex items inside them.
+* Code Assignment: Add the CSS property align-items to the header's .follow-btn element. Set the value to center.
 
-## Use the flex-wrap Property to Wrap a Row or Column
+## [Use the flex-wrap Property to Wrap a Row or Column](https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/use-the-flex-wrap-property-to-wrap-a-row-or-column)
 * 
-* Code Assignment: 
 
-## Use the flex-shrink Property to Shrink Items
+CSS flexbox has a feature to split a flex item into multiple rows (or columns). By default, a flex container will fit all flex items together. For example, a row will all be on one line.
+
+However, using the flex-wrap property tells CSS to wrap items. This means extra items move into a new row or column. The break point of where the wrapping happens depends on the size of the items and the size of the container.
+
+CSS also has options for the direction of the wrap:
+
+    nowrap: this is the default setting, and does not wrap items.
+    wrap: wraps items onto multiple lines from top-to-bottom if they are in rows and left-to-right if they are in columns.
+    wrap-reverse: wraps items onto multiple lines from bottom-to-top if they are in rows and right-to-left if they are in columns.
+* Code Assignment: The current layout has too many boxes for one row. Add the CSS property flex-wrap to the #box-container element, and give it a value of wrap.
+
+## [Use the flex-shrink Property to Shrink Items](https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/use-the-flex-shrink-property-to-shrink-items)
 * 
 * Code Assignment: 
 
