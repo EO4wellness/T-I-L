@@ -2,7 +2,7 @@
 * https://www.khanacademy.org/computing/hour-of-code/hour-of-code-lessons/hour-of-html/pt/css-basics
 * https://www.khanacademy.org/computing/computer-programming/html-css
 * https://www.w3schools.com/css/css_intro.asp
-
+* https://www.smashingmagazine.com/2021/03/css-auditing-tools/
 
 # Top Resources to get CSS Snippets.
 
