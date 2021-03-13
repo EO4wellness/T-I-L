@@ -99,5 +99,8 @@ Duolingo has several "leagues" and each week you either advance to the next leve
     6 Greek 525 XP :greece:
 
 
+![current-study-streak](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/images/2021-03-13-Duo-streak-550-days.jpg)
+
+
 [Polyglot ReadMe](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/README.md) | [Czech](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/la-otra/Czech) |  [Dutch](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/la-otra/Dutch) |  [French](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/la-otra/French) | [Greek](https://github.com/EO4wellness/T-I-L/blob/main/polyglot/la-otra/Greek/readme.md) |  [German](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/aleman) |  [ヘブライ語](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/la-otra/%E3%83%98%E3%83%96%E3%83%A9%E3%82%A4%E8%AA%9E) | [Italian](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/italiano) |  [Japanese](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/japon%C3%A9s) | [Latin](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/Latin) | [Slovak](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/eslovaco) | [Spanish](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/espa%C3%B1ol) | [Welsh](https://github.com/EO4wellness/T-I-L/tree/main/polyglot/gales) |  More? . . . time will tell | [TIL](https://github.com/EO4wellness/T-I-L)
 
