@@ -25,7 +25,7 @@ Primarily I've been following these resources to study:
 * [Duolingo](https://www.duolingo.com/profile/EO4wellnes) 
 
 # Stats
-This section is an ongoing record of study begining Jan 20th, 2021. 
+* I update this section periodically. 
 
 ## Current Drops Stats: 
 
