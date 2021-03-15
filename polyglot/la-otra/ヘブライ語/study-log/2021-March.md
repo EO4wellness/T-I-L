@@ -1,3 +1,7 @@
+2021-03-15 Day 88 Drops + bonus time, focused on review of words already studied. Day 245 of Mondly daily lesson. <br>
+2021-03-14 Day 87 drops + bonus time; 244 Days of Mondly + Weekly Quiz<br>
+2021-03-13 Day 86 drops + bonus time; 243 Days of Mondly<br>
+2021-03-12 Day 85 drops + bonus time; 242 Days of Mondly<br>
 2021-03-11 Day 84 drops + bonus time; 241 Days of Mondly<br>
 2021-03-10 Day 83 drops + bonus time; Mondly<br>
 2021-03-09 Day 82 Drops + Bonus session; Mondly; Weekly QUiz;<br>
