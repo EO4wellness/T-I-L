@@ -89,10 +89,12 @@
 
 ## [Use the align-items Property in the Tweet Embed](https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/use-the-align-items-property-in-the-tweet-embed)
 * 
-* Code Assignment: 
+* Code Assignment: The current layout has too many boxes for one row. Add the CSS property flex-wrap to the #box-container element, and give it a value of wrap.
 
-## Use the flex-wrap Property to Wrap a Row or Column
-* 
+## [Use the flex-wrap Property to Wrap a Row or Column](https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/use-the-flex-shrink-property-to-shrink-items)
+* FLEX-SHRINK property is used to allow an item to shrink if the flex contianer is too small 
+* the flex shrink peroperty takes numbers as its value. 
+* the higher the number, the more it will shrink compared to the other itmes in the container.
 * Code Assignment: 
 
 ## Use the flex-shrink Property to Shrink Items
