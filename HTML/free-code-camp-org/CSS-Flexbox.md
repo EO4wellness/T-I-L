@@ -3,6 +3,7 @@
 * Flexbox is a powerful, well-supported layout method that was introduced with the latest version of CSS, CSS3. 
 * With flexbox, it's easy to center elements on the page and create dynamic user interfaces that shrink and expand automatically.
 * In this course, you'll learn the fundamentals of flexbox and dynamic layouts by building a Twitter card.
+* Concluded assingments and study in this segment on 2021-03-15
 
 ## [Use display: flex to Position Two Boxes](https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/use-display-flex-to-position-two-boxes)
 * Placing the CSS property display: flex; on an element allows you to use other flex properties to build a responsive page.
@@ -143,9 +144,9 @@
 * align-self accepts the same values as align-items and will override any value set by the align-items property.
 * Code Assignment: Add the CSS property align-self to both #box-1 and #box-2. Give #box-1 a value of center and give #box-2 a value of flex-end.
 
-[Course Completion](#)
+![Course Completion](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/2021-03-15-Flexbox-completion.jpg)
 
-Next: [CSS Grid](#)
+Next: [CSS Grid](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/CSS-Grid.md)
  
 Free Code Camp's Responsive Web Design Cetification Course Nav: 
 
