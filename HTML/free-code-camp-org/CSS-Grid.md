@@ -5,15 +5,29 @@
 * In this course, you'll learn the fundamentals of CSS grid by building different complex layouts, including a blog.
 
 ## [Create Your First CSS Grid](https://www.freecodecamp.org/learn/responsive-web-design/css-grid/create-your-first-css-grid)
-* 
+* Turn any HTML element into a grid container by setting its display property to drid. 
+* you can then use all the properties associated with CSS Grid. 
 * Code Assignment: Change the display of the div with the container class to grid.
 
 ## [Add Columns with grid-template-columns](https://www.freecodecamp.org/learn/responsive-web-design/css-grid/add-columns-with-grid-template-columns)
-* 
+* just creating a grid element, doesn't do much on its own. 
+* you need the grid structure, defined, too. 
+* add some columns by using the GRID-TEMPLATE-COLUMNS property
+* Example:
+
+        .container {
+          display: grid;
+          grid-template-columns: 50px 50px;
+        }
+        
+* the above example codes, results in 2 columns which are each 50 px wide.
+* the number of parameters in the grid-template-columns indicates the number of columans in the grid.
 * Code Assignment: Give the grid container three columns that are each 100px wide. 
 
 ## [Add Rows with grid-template-rows](https://www.freecodecamp.org/learn/responsive-web-design/css-grid/add-rows-with-grid-template-rows)
-* 
+* the last challenge grid, created the number of rows automatically
+* to adjust the rows manually, use the grid-template-rows property 
+* this new property can be used in the same as the previous one 
 * Code Assignment: Add two rows to the grid that are 50px tall each.
 
 ## [Use CSS Grid units to Change the Size of Columns and Rows](https://www.freecodecamp.org/learn/responsive-web-design/css-grid/use-css-grid-units-to-change-the-size-of-columns-and-rows)
