@@ -1,94 +1,94 @@
 # [CSS Grid](https://www.freecodecamp.org/learn/responsive-web-design/#css-grid)
-* Began studies: 
+* Began studies: 2021-03-16
 * The CSS grid is a newer standard that makes it easy to build complex responsive layouts. 
 * It works by turning an HTML element into a grid, and lets you place child elements anywhere within.
 * In this course, you'll learn the fundamentals of CSS grid by building different complex layouts, including a blog.
 
-## Create Your First CSS Grid
+## [Create Your First CSS Grid](https://www.freecodecamp.org/learn/responsive-web-design/css-grid/create-your-first-css-grid)
+* 
+* Code Assignment: Change the display of the div with the container class to grid.
+
+## [Add Columns with grid-template-columns](https://www.freecodecamp.org/learn/responsive-web-design/css-grid/add-columns-with-grid-template-columns)
+* 
+* Code Assignment: Give the grid container three columns that are each 100px wide. 
+
+## [Add Rows with grid-template-rows](https://www.freecodecamp.org/learn/responsive-web-design/css-grid/add-rows-with-grid-template-rows)
+* 
+* Code Assignment: Add two rows to the grid that are 50px tall each.
+
+## [Use CSS Grid units to Change the Size of Columns and Rows](https://www.freecodecamp.org/learn/responsive-web-design/css-grid/use-css-grid-units-to-change-the-size-of-columns-and-rows)
+* 
+* Code Assignment: Make a grid with three columns whose widths are as follows: 1fr, 100px, and 2fr.
+
+## [Create a Column Gap Using grid-column-gap](https://www.freecodecamp.org/learn/responsive-web-design/css-grid/create-a-column-gap-using-grid-column-gap) 
+* 
+* Code Assignment: Give the columns in the grid a 20px gap. 
+
+## [Create a Row Gap using grid-row-gap](https://www.freecodecamp.org/learn/responsive-web-design/css-grid/create-a-row-gap-using-grid-row-gap)
+* 
+* Code Assignment: Create a gap for the rows that is 5px tall. 
+
+## [Add Gaps Faster with grid-gap](#)
 * 
 * Code Assignment: 
 
-## Add Columns with grid-template-columns
+## [Use grid-column to Control Spacing](#)
 * 
 * Code Assignment: 
 
-## Add Rows with grid-template-rows
+## [Use grid-row to Control Spacing](#)
 * 
 * Code Assignment: 
 
-## Use CSS Grid units to Change the Size of Columns and Rows
+## [Align an Item Horizontally using justify-self](#)
 * 
 * Code Assignment: 
 
-## Create a Column Gap Using grid-column-gap
+## [Align an Item Vertically using align-self](#)
 * 
 * Code Assignment: 
 
-## Create a Row Gap using grid-row-gap
+## [Align All Items Horizontally using justify-items](#)
 * 
 * Code Assignment: 
 
-## Add Gaps Faster with grid-gap
+## [Align All Items Vertically using align-items](#)
 * 
 * Code Assignment: 
 
-## Use grid-column to Control Spacing
+## [Divide the Grid Into an Area Template](#)
 * 
 * Code Assignment: 
 
-## Use grid-row to Control Spacing
+## [Place Items in Grid Areas Using the grid-area Property](#)
 * 
 * Code Assignment: 
 
-## Align an Item Horizontally using justify-self
+## [Use grid-area Without Creating an Areas Template](#)
 * 
 * Code Assignment: 
 
-## Align an Item Vertically using align-self
+## [Reduce Repetition Using the repeat Function](#)
 * 
 * Code Assignment: 
 
-## Align All Items Horizontally using justify-items
+## [Limit Item Size Using the minmax Function](#)
 * 
 * Code Assignment: 
 
-## Align All Items Vertically using align-items
+## [Create Flexible Layouts Using auto-fill](#)
 * 
 * Code Assignment: 
 
-## Divide the Grid Into an Area Template
+## [Create Flexible Layouts Using auto-fit](#)
 * 
 * Code Assignment: 
 
-## Place Items in Grid Areas Using the grid-area Property
+## [Use Media Queries to Create Responsive Layouts](#)
 * 
 * Code Assignment: 
 
-## Use grid-area Without Creating an Areas Template
-* 
-* Code Assignment: 
-
-## Reduce Repetition Using the repeat Function
-* 
-* Code Assignment: 
-
-## Limit Item Size Using the minmax Function
-* 
-* Code Assignment: 
-
-## Create Flexible Layouts Using auto-fill
-* 
-* Code Assignment: 
-
-## Create Flexible Layouts Using auto-fit
-* 
-* Code Assignment: 
-
-## Use Media Queries to Create Responsive Layouts
-* 
-* Code Assignment: 
-
-## Create Grids within Grids
+## [Create Grids within Grids](#)
 * 
 * Code Assignment: 
 

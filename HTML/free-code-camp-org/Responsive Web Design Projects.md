@@ -34,6 +34,46 @@
 
 		Once you're done, submit the URL to your working project with all its tests passing.
 
+* NOTES:
+	
+		Timeline Items (source: gutenberg books online) 
+		
+		1708
+		Miscellanea Curiosa, Vol. 1 by M. de Fontenelle et al.
+		http://www.gutenberg.org/ebooks/49791
+		
+		1730 
+		Opticks by Isaac Newton
+		http://www.gutenberg.org/ebooks/33504
+		
+		1686
+		Philosophiae Naturalis Principia Mathematica by Isaac Newton
+		http://www.gutenberg.org/ebooks/28233
+		
+		1733
+		http://www.gutenberg.org/ebooks/16878
+		Observations Upon the Prophecies of Daniel and the Apocolypse of St. John 
+		
+		1728
+		http://www.gutenberg.org/ebooks/15784
+		The Chronology of Ancient Kingdoms Amended by Isaac Newton
+		
+		Possible IMAGE URLs
+		https://live.staticflickr.com/5179/5465180159_bc0e8a4e7e_b.jpg
+		
+		https://upload.wikimedia.org/wikipedia/commons/5/59/Sir_Isaac_Newton._Mezzotint_by_J._Faber%2C_junior_after_J._Van_Wellcome_V0004271.jpg
+		
+		https://live.staticflickr.com/4310/36025955071_a133f611f6_b.jpg
+		
+		https://live.staticflickr.com/5179/5465180159_bc0e8a4e7e_b.jpg
+		
+		https://images.findagrave.com/photos250/photos/2012/50/85240497_132976712783.jpg
+		
+		References:
+		https://www.thetimelines.org/tl/Isaac_Newton
+
+	
+
 * Code Solution Link: 
 
 ## [Build a Survey Form](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-survey-form)
