@@ -57,6 +57,21 @@
 		1728
 		http://www.gutenberg.org/ebooks/15784
 		The Chronology of Ancient Kingdoms Amended by Isaac Newton
+		
+		Possible IMAGE URLs
+		https://live.staticflickr.com/5179/5465180159_bc0e8a4e7e_b.jpg
+		
+		https://upload.wikimedia.org/wikipedia/commons/5/59/Sir_Isaac_Newton._Mezzotint_by_J._Faber%2C_junior_after_J._Van_Wellcome_V0004271.jpg
+		
+		https://live.staticflickr.com/4310/36025955071_a133f611f6_b.jpg
+		
+		https://live.staticflickr.com/5179/5465180159_bc0e8a4e7e_b.jpg
+		
+		https://images.findagrave.com/photos250/photos/2012/50/85240497_132976712783.jpg
+		
+		References:
+		https://www.thetimelines.org/tl/Isaac_Newton
+
 	
 
 * Code Solution Link: 
