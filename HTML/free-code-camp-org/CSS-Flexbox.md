@@ -88,38 +88,60 @@
 * Bonus-  Try the other options for the align-items property in the code editor to see their differences. But note that a value of center is the only one that will pass this chal
 
 ## [Use the align-items Property in the Tweet Embed](https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/use-the-align-items-property-in-the-tweet-embed)
-* 
-* Code Assignment: The current layout has too many boxes for one row. Add the CSS property flex-wrap to the #box-container element, and give it a value of wrap.
+* The last challenge introduced the align-items property and gave an example. This property can be applied to a few tweet embed elements to align the flex items inside them.
+* Code Assignment:  Add the CSS property align-items to the header's .follow-btn element. Set the value to center.
 
-## [Use the flex-wrap Property to Wrap a Row or Column](https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/use-the-flex-shrink-property-to-shrink-items)
+## [Use the flex-wrap Property to Wrap a Row or Column]
+* CSS Flexbox has a feature to split a flex item into multiple rows (or columns).
+* By default, a flex container will fit all the flex items together.
+* (for example, all of the items of a row will be on one line)
+* However, using the FLEX-WRAP property tells CSS to wrap the items
+* The extra items move to a new row or column
+* this is especially useful in responsive designs. 
+* the break point is where the wrapping happens, depending on the side of the itmes and the sie of the container.
+* CSS also has options for the direction of the wrap:
+
+    - nowrap: this is the default setting, and does not wrap items.
+    - wrap: wraps items onto multiple lines from top-to-bottom if they are in rows and left-to-right if they are in columns.
+    - wrap-reverse: wraps items onto multiple lines from bottom-to-top if they are in rows and right-to-left if they are in columns.
+    
+* Code Assignment:  The current layout has too many boxes for one row. Add the CSS property flex-wrap to the #box-container element, and give it a value of wrap.
+
+## [Use the flex-shrink Property to Shrink Items](https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/use-the-flex-shrink-property-to-shrink-items)
 * FLEX-SHRINK property is used to allow an item to shrink if the flex contianer is too small 
 * the flex shrink peroperty takes numbers as its value. 
 * the higher the number, the more it will shrink compared to the other itmes in the container.
-* Code Assignment: 
+* For example, if one item has a flex-shrink value of 1 and the other has a flex-shrink value of 3, the one with the value of 3 will shrink three times as much as the other.
+* Code Assignment: Add the CSS property flex-shrink to both #box-1 and #box-2. Give #box-1 a value of 1 and #box-2 a value of 2
 
-## Use the flex-shrink Property to Shrink Items
-* 
-* Code Assignment: 
+## [Use the flex-grow Property to Expand Items](https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/use-the-flex-grow-property-to-expand-items)
+* The opposite of flex-shrink is the flex-grow property. 
+* Recall that flex-shrink controls the size of the items when the container shrinks. 
+* The flex-grow property controls the size of items when the parent container expands.
+* Using a similar example from the last challenge, if one item has a flex-grow value of 1 and the other has a flex-grow value of 3, the one with the value of 3 will grow three times as much as the other.
+* Code Assignment: Add the CSS property flex-grow to both #box-1 and #box-2. Give #box-1 a value of 1 and #box-2 a value of 2
 
-## Use the flex-grow Property to Expand Items
-* 
-* Code Assignment: 
+## [Use the flex-basis Property to Set the Initial Size of an Item](https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/use-the-flex-basis-property-to-set-the-initial-size-of-an-item)
+* The flex-basis property specifies the initial size of the item before CSS makes adjustments with flex-shrink or flex-grow.
+* The units used by the flex-basis property are the same as other size properties (px, em, %, etc.). The value auto sizes items based on the content.
+* Code Assignment: Set the initial size of the boxes using flex-basis. Add the CSS property flex-basis to both #box-1 and #box-2. Give #box-1 a value of 10em and #box-2 a value of 20em.
 
-## Use the flex-basis Property to Set the Initial Size of an Item
-* 
-* Code Assignment: 
+## [Use the flex Shorthand Property](https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/use-the-flex-shorthand-property)
+* There is a shortcut available to set several flex properties at once. 
+* The flex-grow, flex-shrink, and flex-basis properties can all be set together by using the flex property.
+* For example, flex: 1 0 10px; will set the item to flex-grow: 1;, flex-shrink: 0;, and flex-basis: 10px;.
+* The default property settings are flex: 0 1 auto;.
+* Code Assignment: Add the CSS property flex to both #box-1 and #box-2. Give #box-1 the values so its flex-grow is 2, its flex-shrink is 2, and its flex-basis is 150px. Give #box-2 the values so its flex-grow is 1, its flex-shrink is 1, and its flex-basis is 150px.  These values will cause #box-1 to grow to fill the extra space at twice the rate of #box-2 when the container is greater than 300px and shrink at twice the rate of #box-2 when the container is less than 300px. 300px is the combined size of the flex-basis values of the two boxes.
 
-## Use the flex Shorthand Property
-* 
-* Code Assignment: 
 
-## Use the order Property to Rearrange Items
-* 
-* Code Assignment: 
+## [Use the order Property to Rearrange Items](Add the CSS property order to both #box-1 and #box-2. Give #box-1 a value of 2 and give #box-2 a value of 1.)
+* The order property is used to tell CSS the order of how flex items appear in the flex container. By default, items will appear in the same order they come in the source HTML. The property takes numbers as values, and negative numbers can be used.
+* Code Assignment: Add the CSS property order to both #box-1 and #box-2. Give #box-1 a value of 2 and give #box-2 a value of 1.
 
-## Use the align-self Property
-* 
-* Code Assignment: 
+## [Use the align-self Property](https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/use-the-align-self-property)
+* The final property for flex items is align-self. This property allows you to adjust each item's alignment individually, instead of setting them all at once. This is useful since other common adjustment techniques using the CSS properties float, clear, and vertical-align do not work on flex items.
+* align-self accepts the same values as align-items and will override any value set by the align-items property.
+* Code Assignment: Add the CSS property align-self to both #box-1 and #box-2. Give #box-1 a value of center and give #box-2 a value of flex-end.
 
 [Course Completion](#)
 
