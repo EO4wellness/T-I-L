@@ -1,32 +1,32 @@
 # [CSS Grid](https://www.freecodecamp.org/learn/responsive-web-design/#css-grid)
-* Began studies: 
+* Began studies: 2021-03-16
 * The CSS grid is a newer standard that makes it easy to build complex responsive layouts. 
 * It works by turning an HTML element into a grid, and lets you place child elements anywhere within.
 * In this course, you'll learn the fundamentals of CSS grid by building different complex layouts, including a blog.
 
 ## [Create Your First CSS Grid](https://www.freecodecamp.org/learn/responsive-web-design/css-grid/create-your-first-css-grid)
 * 
-* Code Assignment: 
+* Code Assignment: Change the display of the div with the container class to grid.
 
-## [Add Columns with grid-template-columns](#)
+## [Add Columns with grid-template-columns](https://www.freecodecamp.org/learn/responsive-web-design/css-grid/add-columns-with-grid-template-columns)
 * 
-* Code Assignment: 
+* Code Assignment: Give the grid container three columns that are each 100px wide. 
 
-## [Add Rows with grid-template-rows](#)
+## [Add Rows with grid-template-rows](https://www.freecodecamp.org/learn/responsive-web-design/css-grid/add-rows-with-grid-template-rows)
 * 
-* Code Assignment: 
+* Code Assignment: Add two rows to the grid that are 50px tall each.
 
-## [Use CSS Grid units to Change the Size of Columns and Rows](#)
+## [Use CSS Grid units to Change the Size of Columns and Rows](https://www.freecodecamp.org/learn/responsive-web-design/css-grid/use-css-grid-units-to-change-the-size-of-columns-and-rows)
 * 
-* Code Assignment: 
+* Code Assignment: Make a grid with three columns whose widths are as follows: 1fr, 100px, and 2fr.
 
-## [Create a Column Gap Using grid-column-gap](#)
+## [Create a Column Gap Using grid-column-gap](https://www.freecodecamp.org/learn/responsive-web-design/css-grid/create-a-column-gap-using-grid-column-gap) 
 * 
-* Code Assignment: 
+* Code Assignment: Give the columns in the grid a 20px gap. 
 
-## [Create a Row Gap using grid-row-gap](#)
+## [Create a Row Gap using grid-row-gap](https://www.freecodecamp.org/learn/responsive-web-design/css-grid/create-a-row-gap-using-grid-row-gap)
 * 
-* Code Assignment: 
+* Code Assignment: Create a gap for the rows that is 5px tall. 
 
 ## [Add Gaps Faster with grid-gap](#)
 * 
