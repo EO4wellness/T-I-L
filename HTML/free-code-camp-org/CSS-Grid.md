@@ -31,20 +31,44 @@
 * Code Assignment: Add two rows to the grid that are 50px tall each.
 
 ## [Use CSS Grid units to Change the Size of Columns and Rows](https://www.freecodecamp.org/learn/responsive-web-design/css-grid/use-css-grid-units-to-change-the-size-of-columns-and-rows)
-* 
+* you can use absolute and relative units like PX and EM in CSS Grid
+* use these to define the size of rows and/or columns.
+* Also you can use:
+
+              FR: sets the column or row to a fraction of the available space
+              AUTO: sets the column or row to the width or hieght of its content automatically.
+              %: adjusts the column or row to the # width of its container
+              
+*  Code Example:
+
+        grid-template-columns: auto 50px 10% 3fr 1 fr; 
+        
+*  this creates 5 columns
+*  the first colomn is as wide as its conent
+*  the secound comlomu is 50 px
+*  the 3rd column is 10% of its container
 * Code Assignment: Make a grid with three columns whose widths are as follows: 1fr, 100px, and 2fr.
 
 ## [Create a Column Gap Using grid-column-gap](https://www.freecodecamp.org/learn/responsive-web-design/css-grid/create-a-column-gap-using-grid-column-gap) 
-* 
+* so far, our grids have all been tightly aligned next to one another
+* sometimes you need a gap between the columns 
+* to obtian a gap, use the grid-column-gap properly
+* example:
+
+                gride-column-gap: 10px;
+                
+* This creates 10 px of empty space between all of our columns. 
 * Code Assignment: Give the columns in the grid a 20px gap. 
 
 ## [Create a Row Gap using grid-row-gap](https://www.freecodecamp.org/learn/responsive-web-design/css-grid/create-a-row-gap-using-grid-row-gap)
-* 
+* you can also add a gap in between the rows
+* use grid-row-gap to do so 
+* use this in the same way as we did with the columns
 * Code Assignment: Create a gap for the rows that is 5px tall. 
 
-## [Add Gaps Faster with grid-gap](#)
+## [Add Gaps Faster with grid-gap](https://www.freecodecamp.org/learn/responsive-web-design/css-grid/add-gaps-faster-with-grid-gap)
 * 
-* Code Assignment: 
+* Code Assignment: Use grid-gap to introduce a 10px gap between the rows and 20px gap between the columns.
 
 ## [Use grid-column to Control Spacing](#)
 * 
