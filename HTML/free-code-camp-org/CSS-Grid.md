@@ -67,14 +67,27 @@
 * Code Assignment: Create a gap for the rows that is 5px tall. 
 
 ## [Add Gaps Faster with grid-gap](https://www.freecodecamp.org/learn/responsive-web-design/css-grid/add-gaps-faster-with-grid-gap)
-* 
+* GRID-GAP is a shorthand property for GRID-ROW-GAP and GRID-COLUMN-GAP.
+* If gid-grap has one value, it will create a gap between all rows and columns.
+* if it has two values, it will use the first one to set the gap between rows, and the second value for the columns.
 * Code Assignment: Use grid-gap to introduce a 10px gap between the rows and 20px gap between the columns.
 
-## [Use grid-column to Control Spacing](#)
-* 
-* Code Assignment: 
+## [Use grid-column to Control Spacing](https://www.freecodecamp.org/learn/responsive-web-design/css-grid/use-grid-column-to-control-spacing)
+* so far, the properties above are for grid contianers.
+* now we look at gird contents.
+* grid-column proerty is for grid items.
+* the hypothetical horizontal and vertical lines that create the grid are referred to as LINES
+* these lines are numbered starting with 1 at the top left corner of the grid
+* move right for columans and down for rows
+* to control the number of columns an item will consume, you cau use the grid-column property in conjunction with the line numbers you want the item to star and stop at. 
+* Example:
 
-## [Use grid-row to Control Spacing](#)
+                grid-column: 1 / 3; 
+
+* the example code makes an item start at the first verticle line of the grid on the left and span to the 3rd line of the grid, consuming two columns. 
+* Code Assignment: Make the item with the class item5 consume the last two columns of the grid.
+
+## [Use grid-row to Control Spacing](https://www.freecodecamp.org/learn/responsive-web-design/css-grid/use-grid-row-to-control-spacing)
 * 
 * Code Assignment: 
 
