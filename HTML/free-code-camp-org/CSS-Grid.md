@@ -88,12 +88,14 @@
 * Code Assignment: Make the item with the class item5 consume the last two columns of the grid.
 
 ## [Use grid-row to Control Spacing](https://www.freecodecamp.org/learn/responsive-web-design/css-grid/use-grid-row-to-control-spacing)
-* 
-* Code Assignment: 
+* you can also make an item consume multiple rows, just like we did with the columns. 
+* define the horizontal lines you wan an item to start and stop at using the GRID-ROW property 
+* Code Assignment: Make the element with the item5 class consume the last two rows.
 
-## [Align an Item Horizontally using justify-self](#)
+
+## [Align an Item Horizontally using justify-self](https://www.freecodecamp.org/learn/responsive-web-design/css-grid/align-an-item-horizontally-using-justify-self)
 * 
-* Code Assignment: 
+* Code Assignment: Use the justify-self property to center the item with the class item2.
 
 ## [Align an Item Vertically using align-self](#)
 * 
