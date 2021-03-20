@@ -94,22 +94,35 @@
 
 
 ## [Align an Item Horizontally using justify-self](https://www.freecodecamp.org/learn/responsive-web-design/css-grid/align-an-item-horizontally-using-justify-self)
-* 
+* Within the CSS Grid the content is located in a box which is called a CELL
+* justify-self can align the grid
+* this property has a value of STRETCH
+* this will fill the content to the whole cell
+* this CSS Grid acceps other values as well
+* START-aligns the content at the left of the cell
+* CENTER-aligns the content in the center of the cell
+* END-aligns the center at the right of the cell
 * Code Assignment: Use the justify-self property to center the item with the class item2.
 
-## [Align an Item Vertically using align-self](#)
-* 
-* Code Assignment: 
+## [Align an Item Vertically using align-self](https://www.freecodecamp.org/learn/responsive-web-design/css-grid/align-an-item-vertically-using-align-self)
+* just as you can align an item horizontally, there is a way to aling an item vertically as well.
+* to do this use the ALIGN-SELF property on an item
+* this property accepts all ofthe same values as JUSTIFY-SELF
+* Code Assignment: Align the item with the class item3 vertically at the end.
 
-## [Align All Items Horizontally using justify-items](#)
-* 
-* Code Assignment: 
+## [Align All Items Horizontally using justify-items](https://www.freecodecamp.org/learn/responsive-web-design/css-grid/align-all-items-horizontally-using-justify-items)
+* sometimes you want items to share the same alignments.
+* you can use the previously learned properties and align them idinvidually
+* or you can align them all atonce horizontally by using JUSTIFY-ITEMS
+* Code Assignment: Use this property to center all our items horizontally.
 
-## [Align All Items Vertically using align-items](#)
-* 
-* Code Assignment: 
 
-## [Divide the Grid Into an Area Template](#)
+## [Align All Items Vertically using align-items](https://www.freecodecamp.org/learn/responsive-web-design/css-grid/align-all-items-vertically-using-align-items)
+* Using the align-items property on a grid container will set the vertical alignment for all the items in our grid.
+* Code Assignment: Use it now to move all the items to the end of each cell.
+
+
+## [Divide the Grid Into an Area Template](https://www.freecodecamp.org/learn/responsive-web-design/css-grid/divide-the-grid-into-an-area-template)
 * 
 * Code Assignment: 
 
