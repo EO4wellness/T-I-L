@@ -123,14 +123,40 @@
 
 
 ## [Divide the Grid Into an Area Template](https://www.freecodecamp.org/learn/responsive-web-design/css-grid/divide-the-grid-into-an-area-template)
-* 
-* Code Assignment: 
+* You can group cells of your grid together
+* group into an area and give it a custom name
+* do this by using GRID-TEMPLATE-AREAS
+* Example:
+        
+        grid-template-areas:
+        "header header header"
+        "advert content content"
+        "footer footer footer";
 
-## [Place Items in Grid Areas Using the grid-area Property](#)
-* 
-* Code Assignment: 
+* the code above merges the top three cells together into an area named HEADER
+* Likewise the bottom 3 are grouped into FOOTER
+* Each word in the code represents a cell
+* every pair of quotation markes represents a row
+* besides custom labels you can also use a period (.) 
+* a period indicates an empty cell on the grid
+* the period doesn't have any other words with it for that cell, just the . alone 
+* Code Assignment: Place the area template so that the cell labeled advert becomes an empty cell.
 
-## [Use grid-area Without Creating an Areas Template](#)
+## [Place Items in Grid Areas Using the grid-area Property](https://www.freecodecamp.org/learn/responsive-web-design/css-grid/place-items-in-grid-areas-using-the-grid-area-property)
+* in the prior challenge, we created an area template as part of our grid container 
+* now we can place an item in our custom area by referencing the name we gave it
+* use GRID-AREA property
+* Example:
+        
+        .item1 {
+          grid-area: header;
+        }
+
+* this lets the grid know you want the ITEM1 class to go in the area namde HEADER
+* NOTE:  In this case, the item will use the entire top row because that whole row is named as the header area.
+* Code Assignment: Place an element with the item5 class in the footer area using the grid-area property.
+
+## [Use grid-area Without Creating an Areas Template](https://www.freecodecamp.org/learn/responsive-web-design/css-grid/use-grid-area-without-creating-an-areas-template)
 * 
 * Code Assignment: 
 
