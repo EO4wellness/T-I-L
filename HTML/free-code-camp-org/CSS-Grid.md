@@ -157,32 +157,75 @@
 * Code Assignment: Place an element with the item5 class in the footer area using the grid-area property.
 
 ## [Use grid-area Without Creating an Areas Template](https://www.freecodecamp.org/learn/responsive-web-design/css-grid/use-grid-area-without-creating-an-areas-template)
-* 
-* Code Assignment: 
+* the GRID-AREA property we learned in the last challenge can also be used in another way
+* if your grid doesn't have any areas template to reference you can create an area on the fly for an item to be placed like this: 
 
-## [Reduce Repetition Using the repeat Function](#)
-* 
-* Code Assignment: 
+        item1 { grid-area: 1/1/2/4; }
+        
+* this is using the line numbers we learned about earlier
+* the item in the example, below, will consume the rows between line 1 and line 2 and columns between lines 1 and 4
 
-## [Limit Item Size Using the minmax Function](#)
-* 
-* Code Assignment: 
+        grid-area: horizontal line to start at / vertical line to start at / horizontal line to end at / vertical line to end at;
 
-## [Create Flexible Layouts Using auto-fill](#)
-* 
-* Code Assignment: 
+* Code Assignment: Using the grid-area property, place the element with item5 class between the third and fourth horizontal lines and between the first and fourth vertical lines.
 
-## [Create Flexible Layouts Using auto-fit](#)
-* 
-* Code Assignment: 
+## [Reduce Repetition Using the repeat Function](https://www.freecodecamp.org/learn/responsive-web-design/css-grid/reduce-repetition-using-the-repeat-function)
+* When you used grid-template-columns and grid-template-rows to define the structure of a grid, you entered a value for each row or column you created.
+* Let's say you want a grid with 100 rows of the same height. 
+* It isn't very practical to insert 100 values individually. 
+* Fortunately, there's a better way - by using the repeat function to specify the number of times you want your column or row to be repeated, followed by a comma and the value you want to repeat.
+* Here's an example that would create the 100 row grid, each row at 50px tall.
 
-## [Use Media Queries to Create Responsive Layouts](#)
-* 
-* Code Assignment: 
+                grid-template-rows: repeat(100, 50px);
 
-## [Create Grids within Grids](#)
-* 
-* Code Assignment: 
+* You can also repeat multiple values with the repeat function and insert the function amongst other values when defining a grid structure. Here's what that looks like:
+
+                grid-template-columns: repeat(2, 1fr 50px) 20px;
+
+                This translates to:
+
+                grid-template-columns: 1fr 50px 1fr 50px 20px;
+
+* Note: The 1fr 50px is repeated twice followed by 20px.
+* Code Assignment: Use repeat to remove repetition from the grid-template-columns property.
+
+## [Limit Item Size Using the minmax Function](https://www.freecodecamp.org/learn/responsive-web-design/css-grid/limit-item-size-using-the-minmax-function)
+* There's another built-in function to use with grid-template-columns and grid-template-rows called minmax. 
+* It's used to limit the size of items when the grid container changes size. 
+* To do this you need to specify the acceptable size range for your item. Here is an example:
+
+        grid-template-columns: 100px minmax(50px, 200px);
+
+* In the code above, grid-template-columns is set to create two columns; the first is 100px wide, and the second has the minimum width of 50px and the maximum width of 200px.
+* Code Assignment: Using the minmax function, replace the 1fr in the repeat function with a column size that has the minimum width of 90px and the maximum width of 1fr, and resize the preview panel to see the effect.
+
+## [Create Flexible Layouts Using auto-fill](https://www.freecodecamp.org/learn/responsive-web-design/css-grid/create-flexible-layouts-using-auto-fill)
+* The repeat function comes with an option called auto-fill. 
+* This allows you to automatically insert as many rows or columns of your desired size as possible depending on the size of the container. 
+* You can create flexible layouts when combining auto-fill with minmax, like this:
+
+        repeat(auto-fill, minmax(60px, 1fr));
+
+* When the container changes size, this setup keeps inserting 60px columns and stretching them until it can insert another one. 
+* Note: If your container can't fit all your items on one row, it will move them down to a new one.
+* Code Assignment: In the first grid, use auto-fill with repeat to fill the grid with columns that have a minimum width of 60px and maximum of 1fr. Then resize the preview to see auto-fill in action.
+
+## [Create Flexible Layouts Using auto-fit](https://www.freecodecamp.org/learn/responsive-web-design/css-grid/create-flexible-layouts-using-auto-fit)
+* auto-fit works almost identically to auto-fill. 
+* The only difference is that when the container's size exceeds the size of all the items combined, auto-fill keeps inserting empty rows or columns and pushes your items to the side, 
+* while auto-fit collapses those empty rows or columns and stretches your items to fit the size of the container. 
+* Note: If your container can't fit all your items on one row, it will move them down to a new one.
+* Code Assignment: In the second grid, use auto-fit with repeat to fill the grid with columns that have a minimum width of 60px and maximum of 1fr. Then resize the preview to see the difference.
+
+## [Use Media Queries to Create Responsive Layouts](https://www.freecodecamp.org/learn/responsive-web-design/css-grid/use-media-queries-to-create-responsive-layouts)
+* CSS Grid can be an easy way to make your site more responsive by using media queries to rearrange grid areas, change dimensions of a grid, and rearrange the placement of items.
+* In the preview, when the viewport width is 300px or more, the number of columns changes from 1 to 2. The advertisement area then occupies the left column completely.
+* Code Assignment: When the viewport width is 400px or more, make the header area occupy the top row completely and the footer area occupy the bottom row completely.
+
+## [Create Grids within Grids](https://www.freecodecamp.org/learn/responsive-web-design/css-grid/create-grids-within-grids)
+* urning an element into a grid only affects the behavior of its direct descendants. So by turning a direct descendant into a grid, you have a grid within a grid.
+* For example, by setting the display and grid-template-columns properties of the element with the item3 class, you create a grid within your grid.
+* Code Assignment: Turn the element with the item3 class into a grid with two columns with a width of auto and 1fr using display and grid-template-columns.
 
 [Course Completion:](#)
 
