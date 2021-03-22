@@ -3,6 +3,7 @@
 * Time to put your newly learnt skills to work. 
 * By working on these projects, you will get a chance to apply all of the skills, principles, and concepts you have learned so far: HTML, CSS, Visual Design, Accessibility, and more.
 * Complete the five web programming projects below to earn your free-code-camp Responsive Web Design certification.
+* [Link to CodePen project collection](https://codepen.io/collection/nWqBGj) (currently in "draft" stage).
 
 ## [Built a Tribute Page](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page) 
 * Code Assignment: 
