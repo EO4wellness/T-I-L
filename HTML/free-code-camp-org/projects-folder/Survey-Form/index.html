@@ -2,47 +2,48 @@
 <html>
 <head>
 	<title id="title">Survey Form</title>
+	<link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
 <body>
 	<header>
-		<h1 id="description">Survey Form</h1>
+		<h1>Survey Form</h1>
 	</header>
 	<section>
-		<div>
-			<div>
+		<div class="container">
+			<div id="description">
 				<p>Let us know how we can improve freeCodeCamp</p>
 			</div>
 		
 			<form id="survey-form"> 
-				<div>
-					<div>
+				<div class="row-tab">
+					<div class="label-tab">
 						<label id="name">Name</label>
 					</div>
-					<div>
+					<div class="input-tab">
 						<input type="text" name="Name">
 					</div>	
 				</div>
 				
-				<div>
-					<div>
+				<div class="row-tab">
+					<div class="label-tab">
 						<label id="email">Email</label>
 					</div>
-					<div>
+					<div class="input-tab">>
 						<input type="email" name="Email">
 					</div>	
 				</div>
 				
-				<div>
-					<div>
+				<div class="row-tab">
+					<div class="label-tab">
 						<label id="number">Age</label>
 					</div>
-					<div>
+					<div class="input-tab">>
 						<input type="number" name="Age">
 					</div>	
 				</div>
 				
-				<div>
-					<div>
+				<div class="row-tab">
+					<div class="label-tab">
 						<label id="dropdown">Which option best describes your current role?</label>
 					</div>
 					<div>
@@ -79,7 +80,16 @@
 							</select>
 						</div>
 				</div>
-				
+				<div>
+					<div>
+						<label>Things which could be improved in the future (Check all that apply)</label>
+					</div>
+					<div>
+							<input type="radio" name="project" value="Front-end Project"><label>Front-end Project</label>
+							<input type="radio" name="project" value="Back-end Project"><label>Back-end Project</label>
+							<input type="radio" name="project" value="Data Visulization"><label>Data Visualization</label>
+					</div>
+				</div>
 				
 			
 			</form>
