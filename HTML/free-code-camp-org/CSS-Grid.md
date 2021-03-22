@@ -227,7 +227,7 @@
 * For example, by setting the display and grid-template-columns properties of the element with the item3 class, you create a grid within your grid.
 * Code Assignment: Turn the element with the item3 class into a grid with two columns with a width of auto and 1fr using display and grid-template-columns.
 
-[Course Completion:](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/2021-03-22_completed-grid-challenges.png)
+![Course Completion:](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/2021-03-22_completed-grid-challenges.png)
 
 Next: [Responsive Web Design Projects](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/Responsive%20Web%20Design%20Projects.md)
 
