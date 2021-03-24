@@ -19,11 +19,17 @@
 * [My Course Notes](https://github.com/EO4wellness/T-I-L/blob/main/Android/Udacity/InstallAndroidStudio.md)
 
 # [Android Basics Nanodegree Program](https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803)
-Recommended course of study includes: 
-* [Android Basics: User Interface]
-* [Android Basics: User Input]
-* [Android Basics: Multi-Screen Apps]
-* [Android Basics: Networking]
+Recommended course of study includes: https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803
+* [Android Basics: User Interface](https://www.udacity.com/course/android-basics-user-interface--ud834)
+* [Android Basics: User Input](https://www.udacity.com/course/android-basics-user-input--ud836)
+* [Android Basics: Multi-Screen Apps](https://www.udacity.com/course/android-basics-multiscreen-apps--ud839)
+* [Android Basics: Networking](https://www.udacity.com/course/android-basics-networking--ud843)
+* [Android Basics: Data Storage](https://www.udacity.com/course/android-basics-data-storage--ud845)
+* [Android Performance](https://www.udacity.com/course/android-performance--ud825)
+* [Developing Android Apps](https://www.udacity.com/course/new-android-fundamentals--ud851)
+* [Advanced Android App Development](https://www.udacity.com/course/advanced-android-app-development--ud855)
+* [Mobile Design and Usability for Android](https://www.udacity.com/course/mobile-design-and-usability-for-android--ud358)
+* [UX Design for Mobile Developers](https://www.udacity.com/course/ux-design-for-mobile-developers--ud849)
 
 ## Further studies: 
 * [Become an Android Developer](https://www.udacity.com/course/android-developer-nanodegree-by-google--nd801)
