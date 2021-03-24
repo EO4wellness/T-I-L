@@ -83,30 +83,30 @@ video advises to use updated text instructions instead of this video
       Go ahead and get some tea or do a stretch.
 
 *  Running Into Errors? 
-   Don't panic! Lots of students have had issues with downloading Android Studio so you are not alone. 
-   To help you can try:
-   Checking out this [Troubleshooting Document](https://docs.google.com/document/d/1uvDjgB7ZE3e5JT1hkwmyRJjK04TOKoD1WvtZ5xSkQw8/pub?embedded=true).
-   Asking for help in the forums and on chat. 
-   We'll be checking in once in a while to see what problems students are finding 
-   and update the first document accordingly. 
-   So if you solve a problem, consider posting about your experience. 
-   When you're talking about an error, it helps to copy the text of the error. 
-   You can also take a screenshot of the error with the CTRL-CMD-Shift on a mac,
-   or the screenshot key on a windows.
-   Copy your exact error and google it. 
-   9 times out of 10, someone has run into the same problem and posted a solution about it. 
-   You can try adding "Android Studio" to the search 
-   if just searching for the error doesn't get Android Studio specific help.
+   - Don't panic! Lots of students have had issues with downloading Android Studio so you are not alone. 
+   - To help you can try:
+   - Checking out this [Troubleshooting Document](https://docs.google.com/document/d/1uvDjgB7ZE3e5JT1hkwmyRJjK04TOKoD1WvtZ5xSkQw8/pub?embedded=true).
+   - Asking for help in the forums and on chat. 
+   - We'll be checking in once in a while to see what problems students are finding 
+   - and update the first document accordingly. 
+   - So if you solve a problem, consider posting about your experience. 
+   - When you're talking about an error, it helps to copy the text of the error. 
+   - You can also take a screenshot of the error with the CTRL-CMD-Shift on a mac,
+   - or the screenshot key on a windows.
+   - Copy your exact error and google it. 
+   - 9 times out of 10, someone has run into the same problem and posted a solution about it. 
+   - You can try adding "Android Studio" to the search 
+   - if just searching for the error doesn't get Android Studio specific help.
 
 ### 1.9 Running Hello World on Your Phone 
-   YouTube: https://youtu.be/HbXTbOCUqjg 
-   Here is the link to the [Windows OEM Drivers](http://developer.android.com/tools/extras/oem-usb.html) webpage
-   [Troubleshooting Document](https://docs.google.com/document/d/1w1Xn_hnSAODAAtdRDp7haYPBtEwX_l7Htpf8Wpgbu6w/pub?embedded=true)
+   - YouTube: https://youtu.be/HbXTbOCUqjg 
+   - Here is the link to the [Windows OEM Drivers](http://developer.android.com/tools/extras/oem-usb.html) webpage
+   - [Troubleshooting Document](https://docs.google.com/document/d/1w1Xn_hnSAODAAtdRDp7haYPBtEwX_l7Htpf8Wpgbu6w/pub?embedded=true)
 
 ### 1.10 Running Hello World on the Android Emulator 
-   YouTube: https://youtu.be/Nmy6taPcDqc
-   [Troubleshooting Document](https://docs.google.com/document/d/1w1Xn_hnSAODAAtdRDp7haYPBtEwX_l7Htpf8Wpgbu6w/pub?embedded=true)
-   We recommend downloading [Genymotion](https://www.genymotion.com/#!/download0 and using it as your primary emulator
+   - YouTube: https://youtu.be/Nmy6taPcDqc
+   - [Troubleshooting Document](https://docs.google.com/document/d/1w1Xn_hnSAODAAtdRDp7haYPBtEwX_l7Htpf8Wpgbu6w/pub?embedded=true)
+   - We recommend downloading [Genymotion](https://www.genymotion.com/#!/download0 and using it as your primary emulator
    —it's significantly faster than the built-in emulator!
-   Watch this [Webcast](https://plus.google.com/u/0/events/c23f0fcnvphgkb5hj3u2a9crdd4?cfem=1&authkey=CMuyhs-T-4iGFA) to learn Tips, Ticks and Troubleshooting techniques in Android Studio.
-   [Associated handout](https://drive.google.com/a/knowlabs.com/file/d/0B1kaWbepsXZxYV9pUVJOYUcxZGc/view) here.
+   - Watch this [Webcast](https://plus.google.com/u/0/events/c23f0fcnvphgkb5hj3u2a9crdd4?cfem=1&authkey=CMuyhs-T-4iGFA) to learn Tips, Ticks and Troubleshooting techniques in Android Studio.
+   - [Associated handout](https://drive.google.com/a/knowlabs.com/file/d/0B1kaWbepsXZxYV9pUVJOYUcxZGc/view) here.
