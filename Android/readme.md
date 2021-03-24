@@ -34,3 +34,4 @@ Recommended course of study includes: https://www.udacity.com/course/android-bas
 
 ## Further studies: 
 * [Become an Android Developer](https://www.udacity.com/course/android-developer-nanodegree-by-google--nd801)
+* [Tensor Flow Intro (Android)](https://classroom.udacity.com/courses/ud190)
