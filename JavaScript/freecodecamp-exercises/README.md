@@ -1,6 +1,4 @@
 ## 01 Basic JavaScript (111 units)
-01.1_comment-your-javascript-code.txt
-
 
 ## 02 ES6 (31 units) 
 
@@ -14,7 +12,7 @@
 
 ## 07 Object Oriented Programming (26 units)
 
-## 08 Functional Porgramming (24 units)
+## 08 Functional Programming (24 units)
 
 ## 09 Intermediate algorithm Scripting (21 units)
 
