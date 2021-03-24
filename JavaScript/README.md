@@ -3,11 +3,13 @@ An outline of my journey to learn JavaScript
 
 ## Learning Resources 
 * FreeCode Camp - Introduction to JavaScript
- [link to course](#)
- [link to my course notes & code](#)
+ - [link to FCC course](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
+ - [link to my course notes](https://github.com/EO4wellness/T-I-L/tree/main/JavaScript/freecodecamp-notes)
+ - [link to my course coding solutions](https://github.com/EO4wellness/T-I-L/tree/main/JavaScript/freecodecamp-exercises)
+ - [course projects](https://github.com/EO4wellness/T-I-L/tree/main/JavaScript/freecodecamp-exercises/10.JavaScriptAlgorithmsDataStructureProjects)
 * W3Schools
- [link to course](https://www.w3schools.com/js/default.asp)
- [link to my course notes & code samples](#)
+-  [link to course](https://www.w3schools.com/js/default.asp)
+-  [link to my course notes & code samples](https://github.com/EO4wellness/T-I-L/tree/main/JavaScript/W3Schools)
 * [Udacity](https://github.com/EO4wellness/leary-leerie/tree/master/Intro-to-JavaScript)
 * [JavaScriptCamp](https://www.jscamp.app/docs/javascript00)
 
@@ -48,9 +50,9 @@ JavaScript is a high-level programming language that all modern web browsers sup
 * [Code Library](https://github.com/EO4wellness/leary-leerie/blob/master/JavaScript/code%20samples/Readme.md)
 
 ## W3Schools 
-* 
+* https://github.com/EO4wellness/T-I-L/tree/main/JavaScript/W3Schools
 
-Nav: [Basic JavaScript](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/01_Basic-JavaScript.md) | [ES6](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/02_ES6.md) | [Regular Expressions](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/03_Regular-Expressions.md) |  [Debugging](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/04_Debugging.md) | [Basic Data Structures](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/05_Basic-Data-Structures.md) | [Basic Algorithm Scripting](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/06_Basic-Algorithm-Scripting.md) |  [Object Oriented Programming](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/07_Object-Oriented-Programming.md) | [Functional Porgramming](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/08_Functional-Porgramming.md) | [Intermediate algorithm Scripting](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/09_Intermediate-Algorithm-Scripting.md) | [JavaScript Algorithms and Data Structures Projects](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/10_JavaScript-Algorithms-and-Data-Structures-Projects.md)
+
 
 [@Ravinwashere (on twitter)](https://twitter.com/ravinwashere/status/1370249223057281025) recommends doing the following "beginner" projects to add to your portfolio
 10 Vanilla JavaScript Projects For Total Beginners.
@@ -68,3 +70,5 @@ Nav: [Basic JavaScript](https://github.com/EO4wellness/T-I-L/blob/main/JavaScrip
 
 ## Selected Topics - JavaScript Reading
 [list of reading topics with links to articles](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/topics-reading.md)
+
+Nav: [Basic JavaScript](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/Basic-JavaScript.md) | [ES6](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/ES6.md) | [Regular Expressions](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/Regular-Expressions.md) |  [Debugging](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/Debugging.md) | [Basic Data Structures](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/05_Basic-Data-Structures.md) | [Basic Algorithm Scripting ](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/06_Basic-Algorithm-Scripting.md)|  [Object Oriented Programming](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/07_Object-Oriented-Programming.md) | [Functional Porgramming](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/08_Functional-Porgramming.md) | [Intermediate Algorithm Scripting](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/09_Intermediate-Algorithm-Scripting.md) | [JavaScript Algorithms and Data Structures Projects](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/10_JavaScript-Algorithms-and-Data-Structures-Projects.md)

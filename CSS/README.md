@@ -6,6 +6,10 @@
 * [33 Useful CSS3 Tutorials to Boost Your Skill Set](https://www.tripwiremagazine.com/css3-tutorials/)
 * [CSS Frameworks](https://itnext.io/yes-heres-the-best-css-framework-in-2021-2c9eb2ced678)
 * [Favorite CSS Tip Blog](https://css-tricks.com/creating-custom-form-controls-with-elementinternals/)
+* [Flexbox](http://flexboxfroggy.com/)
+* [Learn CSS](https://ubahthebuilder.tech/10-great-websites-to-learn-css)
+* http://css.maxdesign.com.au/
+* http://cssdog.com/index.html
 
 # Top Resources to get CSS Snippets.
 
@@ -18,3 +22,4 @@
 - https://littlesnippets.net/
 - https://bootsnipp.com/
 - https://tympanus.net/codrops/
+- CSS Community https://www.css-discuss.org/ 

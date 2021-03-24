@@ -31,6 +31,7 @@ Each of the following learning steps in learning PHP coding are listed below.
 
 # To-Do List
 * Need to update this repo's "comments" to all existing files using only  */  /*  and // 
+* Study Resource usefulness https://www.phpspiderblog.com/  
 
 # Tools I've Used: 
 * [Sololearn PHP](https://www.sololearn.com/learning/1059)
