@@ -1,3 +1,14 @@
+1: [Palindrome Checker]
+
+2: [Roman Numberal Converter]
+
+3: [Caesars Cipher]
+
+4: [Telephone Number Validator]
+
+5: [Cash Register]
+
+
 ## 01 Basic JavaScript (111 units)
 
 ## 02 ES6 (31 units) 
