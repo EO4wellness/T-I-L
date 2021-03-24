@@ -17,3 +17,13 @@
 * the lesson(s) include Mac adn Windows - folllow along instructions. 
 * I completed this course and successfully installed Android Studio using the course instruction, in 2019.
 * [My Course Notes](https://github.com/EO4wellness/T-I-L/blob/main/Android/Udacity/InstallAndroidStudio.md)
+
+# [Android Basics Nanodegree Program](https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803)
+Recommended course of study includes: 
+* [Android Basics: User Interface]
+* [Android Basics: User Input]
+* [Android Basics: Multi-Screen Apps]
+* [Android Basics: Networking]
+
+## Further studies: 
+* [Become an Android Developer](https://www.udacity.com/course/android-developer-nanodegree-by-google--nd801)
