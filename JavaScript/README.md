@@ -3,13 +3,13 @@ An outline of my journey to learn JavaScript
 
 ## Learning Resources 
 * FreeCode Camp - Introduction to JavaScript
- [link to FCC course](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
- [link to my course notes](https://github.com/EO4wellness/T-I-L/tree/main/JavaScript/freecodecamp-notes)
- [link to my course coding solutions](https://github.com/EO4wellness/T-I-L/tree/main/JavaScript/freecodecamp-exercises)
- [course projects](https://github.com/EO4wellness/T-I-L/tree/main/JavaScript/freecodecamp-exercises/10.JavaScriptAlgorithmsDataStructureProjects)
+ - [link to FCC course](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
+ - [link to my course notes](https://github.com/EO4wellness/T-I-L/tree/main/JavaScript/freecodecamp-notes)
+ - [link to my course coding solutions](https://github.com/EO4wellness/T-I-L/tree/main/JavaScript/freecodecamp-exercises)
+ - [course projects](https://github.com/EO4wellness/T-I-L/tree/main/JavaScript/freecodecamp-exercises/10.JavaScriptAlgorithmsDataStructureProjects)
 * W3Schools
- [link to course](https://www.w3schools.com/js/default.asp)
- [link to my course notes & code samples](https://github.com/EO4wellness/T-I-L/tree/main/JavaScript/W3Schools)
+-  [link to course](https://www.w3schools.com/js/default.asp)
+-  [link to my course notes & code samples](https://github.com/EO4wellness/T-I-L/tree/main/JavaScript/W3Schools)
 * [Udacity](https://github.com/EO4wellness/leary-leerie/tree/master/Intro-to-JavaScript)
 * [JavaScriptCamp](https://www.jscamp.app/docs/javascript00)
 
