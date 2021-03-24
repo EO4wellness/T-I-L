@@ -130,6 +130,7 @@ Project website: http://tacodataset.org/<br>
 * [Delete](https://github.com/EO4wellness/T-I-L/wiki/GitHub-Delete)
 * T-I-L about the existance and use of [GitHub Pages](https://pages.github.com/)
 * [Branching](https://www.freecodecamp.org/news/git-checkout-remote-branch-tutorial/)
+* Tutorial on [Rewriting in Git History](https://www.youtube.com/watch?v=ElRzTuYln0M)
 
 ### Google 
 * [Google Font Library](https://github.com/EO4wellness/T-I-L/tree/main/Google)
