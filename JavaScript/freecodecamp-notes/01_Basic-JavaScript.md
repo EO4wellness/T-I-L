@@ -362,12 +362,18 @@ Note: The indentation for SecondLine is achieved with the tab escape character, 
 * CODE ASSIGNMENT: Set someAdjective to a string of at least 3 characters and append it to myStr using the += operator. [My Solution](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-exercises/appending-variables-to-strings.js)
 
 
-## [Find the Length of a String](#)
-*
-* CODE ASSIGNMENT:
+## [Find the Length of a String](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/find-the-length-of-a-string)
+* You can find the length of any String value by writing .length after the string variable or string literal.
+* Example:
+
+		console.log("Alan Peter".length);
+	
+* Example returns the value of 10
+* For example, if we created a variable var firstName = "Charles", we could find out how long the string Charles is by using the firstName.length property.
+* CODE ASSIGNMENT: Use the .length property to count the number of characters in the lastName variable and assign it to lastNameLength. [My Solution](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-exercises/find-the-length-of-a-string%2Cjs.txt)
 
 
-## [Use Bracket Notation to Find the First Character in a String](#)
+## [Use Bracket Notation to Find the First Character in a String](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/use-bracket-notation-to-find-the-first-character-in-a-string)
 *
 * CODE ASSIGNMENT:
 
