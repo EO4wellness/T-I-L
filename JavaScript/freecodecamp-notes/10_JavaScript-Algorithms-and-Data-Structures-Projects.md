@@ -1,6 +1,11 @@
-# JavaScript Algorithms and Data Structures Projects
+# [JavaScript Algorithms and Data Structures Projects]()
+* This is it!  
+* Time to put your new JavaScript skills to the test!  
+* These projects are similar to the algorithm scripping challenges you have done previously.
+* The projects are just more difficult/realistic.
+* Complete all 5 projects to earn _JavaScript Algorithms and Data Structures_ certification. 
 
-1:  Palindrome Checker 
+1:  [Palindrome Checker]
 
 2:  [Roman Numberal Converter]
 
