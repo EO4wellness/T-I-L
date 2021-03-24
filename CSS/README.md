@@ -3,6 +3,7 @@
 * https://www.khanacademy.org/computing/computer-programming/html-css
 * https://www.w3schools.com/css/css_intro.asp
 * [Tutorial: Color Transfer to Images](https://css-tricks.com/basics-css-blend-modes/)
+* [33 Useful CSS3 Tutorials to Boost Your Skill Set](https://www.tripwiremagazine.com/css3-tutorials/)
 
 # Top Resources to get CSS Snippets.
 
