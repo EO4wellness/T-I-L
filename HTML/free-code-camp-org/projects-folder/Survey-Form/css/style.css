@@ -1,0 +1,64 @@
+body {
+	font-family: Arial, helvetica, sans-serif;
+	font-size: 16px;
+	margin: 0px;
+	background-color: rgb(5, 173, 162);
+	color: black: 
+}	
+
+#title {
+	background-color: rgb(5, 173, 162);
+	color: black;
+	text-align: center;
+	width: 100%;
+	margin: auto;	
+}
+
+#description {
+	text-align: center;
+}
+
+#text {
+	text-align: center;
+	margin-top: 10px;
+}
+
+.container {
+	width: 80%;
+	margin: auto; 
+	background-color: white;
+	color: black; 
+	padding: 15; 
+}	
+	
+#survey-form {
+	text-align: center;
+}	
+
+.row-tab {
+	display: block;
+	padding-bottom: 6px;
+}
+
+.label-tab {
+	display: inline-block;
+	width; 44%
+	text-align: right;
+	vertical-align: top;
+}
+
+.input-tab {
+	display: inline-block;
+	width; 54%
+	text-align: left;
+}
+
+.select-tab {
+	display: inline-block;
+	width; 44%
+	text-align: right;
+}
+
+#select-box {
+	padding: 5px 0px;
+}

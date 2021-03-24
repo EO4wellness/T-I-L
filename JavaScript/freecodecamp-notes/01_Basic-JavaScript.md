@@ -348,8 +348,18 @@ Note: The indentation for SecondLine is achieved with the tab escape character, 
 
 
 ## [Appending Variables to Strings](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/appending-variables-to-strings)
-*
-* CODE ASSIGNMENT:
+* Just as we can build a string over multiple lines out of string literals, we can also append variables to a string using the plus equals (+=) operator.
+* Example:
+
+		var anAdjective = "awesome!";
+		var ourStr = "freeCodeCamp is ";
+		ourStr += anAdjective;
+
+* Example result: 
+
+		ourStr would have the value freeCodeCamp is awesome!.
+
+* CODE ASSIGNMENT: Set someAdjective to a string of at least 3 characters and append it to myStr using the += operator. [My Solution](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-exercises/appending-variables-to-strings.js)
 
 
 ## [Find the Length of a String](#)

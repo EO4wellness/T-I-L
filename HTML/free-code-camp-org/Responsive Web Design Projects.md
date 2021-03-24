@@ -3,6 +3,7 @@
 * Time to put your newly learnt skills to work. 
 * By working on these projects, you will get a chance to apply all of the skills, principles, and concepts you have learned so far: HTML, CSS, Visual Design, Accessibility, and more.
 * Complete the five web programming projects below to earn your free-code-camp Responsive Web Design certification.
+* [Link to CodePen project collection](https://codepen.io/collection/nWqBGj) (currently in "draft" stage).
 
 ## [Built a Tribute Page](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page) 
 * Code Assignment: 
@@ -79,8 +80,6 @@
 ## [Build a Survey Form](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-survey-form)
 * Code Assignment: 
 
-		
-
 Objective: Build a CodePen.io app that is functionally similar to this: https://codepen.io/freeCodeCamp/full/VPaoNP.
 
 Fulfill the below user stories and get all of the tests to pass. Give it your own personal style.
@@ -91,9 +90,9 @@ User Story #1: I can see a title with id="title" in H1 sized text.
 
 User Story #2: I can see a short explanation with id="description" in P sized text.
 
-User Story #3: I can see a form with id="survey-form".
+User Story #3: I can see a [form](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/create-a-form-element) with id="survey-form".
 
-User Story #4: Inside the form element, I am required to enter my name in a field with id="name".
+User Story #4: Inside the [form element](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/create-a-text-field), I am required to enter my name in a field with id="name".
 
 User Story #5: Inside the form element, I am required to enter an email in a field with id="email".
 
@@ -107,17 +106,17 @@ User Story #9: If I enter numbers outside the range of the number input, which a
 
 User Story #10: For the name, email, and number input fields inside the form I can see corresponding labels that describe the purpose of each field with the following ids: id="name-label", id="email-label", and id="number-label".
 
-User Story #11: For the name, email, and number input fields, I can see placeholder text that gives me a description or instructions for each field.
+User Story #11: For the name, email, and number input fields, I can see [placeholder text](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/add-placeholder-text-to-a-text-field) that gives me a description or instructions for each field.
 
 User Story #12: Inside the form element, I can select an option from a dropdown that has a corresponding id="dropdown".
 
-User Story #13: Inside the form element, I can select a field from one or more groups of radio buttons. Each group should be grouped using the name attribute.
+User Story #13: Inside the form element, I can select a field from one or more groups of [radio buttons](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/create-a-set-of-radio-buttons). Each group should be grouped using the name attribute.
 
-User Story #14: Inside the form element, I can select several fields from a series of checkboxes, each of which must have a value attribute.
+User Story #14: Inside the form element, I can select several fields from a [series of checkboxes](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/create-a-set-of-checkboxes), each of which must have a value attribute.
 
-User Story #15: Inside the form element, I am presented with a textarea at the end for additional comments.
+User Story #15: Inside the form element, I am presented with a text area at the end for additional comments.
 
-User Story #16: Inside the form element, I am presented with a button with id="submit" to submit all my inputs.
+User Story #16: Inside the form element, I am presented with a button with id="submit" to [submit all my inputs](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/add-a-submit-button-to-a-form).
 
 You can build your project by forking this CodePen pen. Or you can use this CDN link to run the tests in any environment you like: https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js
 
