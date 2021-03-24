@@ -16,4 +16,4 @@
 * this course is complete in one, mulit-part, lesson.  
 * the lesson(s) include Mac adn Windows - folllow along instructions. 
 * I completed this course and successfully installed Android Studio using the course instruction, in 2019.
-* [My Course Notes]()
+* [My Course Notes](https://github.com/EO4wellness/T-I-L/blob/main/Android/Udacity/InstallAndroidStudio.md)
