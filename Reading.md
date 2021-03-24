@@ -16,3 +16,5 @@ This category is for papers, articles, blog posts which aren't necessarily a tut
 * SEO-reatled: [interesting read about link names](https://www.searchenginejournal.com/google-may-see-web-pages-as-duplicates-if-urls-too-similar/398452/?utm_campaign=trending-news-hello-bar)
 
 * [Neural Regression Using PyTorch with Code Download](https://visualstudiomagazine.com/articles/2021/03/12/pytorch-model-accuracy.aspx)
+
+* [Women Who Code](https://www.womenwhocode.com/resources)
