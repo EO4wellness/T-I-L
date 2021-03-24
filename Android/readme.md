@@ -30,6 +30,7 @@ Recommended course of study includes: https://www.udacity.com/course/android-bas
 * [Advanced Android App Development](https://www.udacity.com/course/advanced-android-app-development--ud855)
 * [Mobile Design and Usability for Android](https://www.udacity.com/course/mobile-design-and-usability-for-android--ud358)
 * [UX Design for Mobile Developers](https://www.udacity.com/course/ux-design-for-mobile-developers--ud849)
+* [Android Logins (Passwordless Login Solutions for Android)](https://classroom.udacity.com/courses/ud357)
 
 ## Further studies: 
 * [Become an Android Developer](https://www.udacity.com/course/android-developer-nanodegree-by-google--nd801)
