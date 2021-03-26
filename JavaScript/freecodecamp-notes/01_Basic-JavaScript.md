@@ -399,16 +399,27 @@ Note: The indentation for SecondLine is achieved with the tab escape character, 
 
 
 ## [Use Bracket Notation to Find the Nth Character in a String](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/use-bracket-notation-to-find-the-nth-character-in-a-string)
+* You can also use bracket notation to get the character at other positions within a string.
+* Remember that computers start counting at 0, so the first character is actually the zeroth character.
+* Example:
+	
+	var firstName = "Ada"; var secondLetterOfFirstName = firstName[1]; 
+	
+* In the example, the second letter of first name would haved a value of the string d. 
+* CODE ASSIGNMENT: Let's try to set thirdLetterOfLastName to equal the third letter of the lastName variable using bracket notation.
 
-*
-* CODE ASSIGNMENT:
+## [Use Bracket Notation to Find the Last Character in a String](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/use-bracket-notation-to-find-the-last-character-in-a-string)
+* In order to get the last letter of a string, you can subtract one from the string's length.
+* For example, if var firstName = "Charles", you can get the value of the last letter of the string by using firstName[firstName.length - 1].
+* Example
 
-## [Use Bracket Notation to Find the Last Character in a String](#)
+		var firstName = "Charles"; var lastLetter = firstName[firstName.length - 1]; 
+		
+		LastLetter would have a value of the string S 
+		
+* CODE ASSIGNMENT: Use bracket notation to find the last character in the lastName variable.
 
-*
-* CODE ASSIGNMENT:
-
-## [Use Bracket Notation to Find the Nth-to-Last Character in a String](#)
+## [Use Bracket Notation to Find the Nth-to-Last Character in a String](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/use-bracket-notation-to-find-the-nth-to-last-character-in-a-string)
 *
 * CODE ASSIGNMENT:
 
