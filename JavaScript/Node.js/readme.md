@@ -22,8 +22,10 @@
 * [YouTube PlayList](https://www.youtube.com/playlist?list=PL55RiY5tL51oGJorjEgl6NVeDbx_fO5jR) another beginner Node tutorital series. 
 * [Build Node Project from Scratch](https://anotheruiguy.gitbooks.io/nodeexpreslibsass_from-scratch/content/)
 * [Free Udemy courses](https://www.udemy.com/courses/search/?price=price-free&q=nodejs&sort=relevance&src=ukw)
+* [Learn Node in 3 Days](https://www.guru99.com/node-js-tutorial.html)
 * 
 
 ## Best NODE.JS Alternatives
 * Elixer, Perl, Asp.net, Ceylon, Rebol [per eduba](https://www.educba.com/node-dot-js-alternatives/)
 * [A World without Node.JS](https://medium.com/techinpieces/a-world-without-node-js-12fec4b18733)
+* [Alternatives to Node.JS](https://stackshare.io/nodejs/alternatives)
