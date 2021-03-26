@@ -35,3 +35,4 @@ Recommended course of study includes: https://www.udacity.com/course/android-bas
 ## Further studies: 
 * [Become an Android Developer](https://www.udacity.com/course/android-developer-nanodegree-by-google--nd801)
 * [Tensor Flow Intro (Android)](https://classroom.udacity.com/courses/ud190)
+* [Android Spyware Fake Update](https://www.androidpolice.com/2021/03/26/new-spyware-on-android-pretends-to-be-a-system-update-for-your-phone/)
