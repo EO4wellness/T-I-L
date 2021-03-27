@@ -447,9 +447,9 @@ You will also need to account for spaces in your string, so that the final sente
 
 * CODE ASSIGNMENT:
 
-## [Store Multiple Values in one Variable using JavaScript Arrays](#)
+## [Store Multiple Values in one Variable using JavaScript Arrays](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/store-multiple-values-in-one-variable-using-javascript-arrays)
 *
-* CODE ASSIGNMENT:
+* CODE ASSIGNMENT: Modify the new array myArray so that it contains both a string and a number (in that order).
 
 ## [Nest one Array within Another Array](#)
 *
