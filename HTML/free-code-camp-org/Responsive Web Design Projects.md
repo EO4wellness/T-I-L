@@ -75,7 +75,14 @@
 
 	
 
-* Code Solution Link: 
+* Code Solution Link: [CodePen](https://codepen.io/eo4wellness/pen/JjbzowZ) | [Git Project Folder](https://github.com/EO4wellness/T-I-L/tree/main/HTML/free-code-camp-org/projects-folder)
+
+![image-solution](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/projects-folder/Tribute-Page/images/2021-03-28_first-project-accepted_TributePage.png)
+
+![solution](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/projects-folder/Tribute-Page/images/project-over-view.png)
+
+![4more to complete](https://github.com/EO4wellness/T-I-L/blob/main/HTML/free-code-camp-org/projects-folder/Tribute-Page/images/2021-03-28_first-project-accepted_TributePage.png)
+
 
 ## [Build a Survey Form](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-survey-form)
 * Code Assignment: 
