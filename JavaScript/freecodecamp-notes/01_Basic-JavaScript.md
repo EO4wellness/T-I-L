@@ -448,14 +448,24 @@ You will also need to account for spaces in your string, so that the final sente
 * CODE ASSIGNMENT:
 
 ## [Store Multiple Values in one Variable using JavaScript Arrays](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/store-multiple-values-in-one-variable-using-javascript-arrays)
-*
+* allow us to store several pieces of data in one place.
+* arrays always start with brackets to show the beginning and end of the array
+* elements can be any data type 
+* arrays always end with a ; 
+* example:
+    myArray = ["january", 23, 1990];
 * CODE ASSIGNMENT: Modify the new array myArray so that it contains both a string and a number (in that order).
 
-## [Nest one Array within Another Array](#)
-*
-* CODE ASSIGNMENT:
+## [Nest one Array within Another Array](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/nest-one-array-within-another-array)
+* We can also nest an array within an array. 
+* Example:
+   	
+	[["bulls", 23], ["White Sox", 45]]
+   
+* This is also called a multi-dimensional array
+* CODE ASSIGNMENT:  Create a nested array called myArray 
 
-## [Access Array Data with Indexes](#)
+## [Access Array Data with Indexes](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/access-array-data-with-indexes)
 *
 * CODE ASSIGNMENT:
 
