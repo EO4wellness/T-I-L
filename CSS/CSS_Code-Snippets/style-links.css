@@ -1,0 +1,8 @@
+/* Style links with CSS */
+
+a:link {
+  color: #ff0000; /* the unvisited link is red */
+}
+a:visited {
+  color: #ee82ee; /* the visited link turns violet */
+}
