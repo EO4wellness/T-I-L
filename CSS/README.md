@@ -28,3 +28,4 @@
 
 ## Practice:
 * https://100dayscss.com/
+* https://craaftx.github.io/100dayscss/
