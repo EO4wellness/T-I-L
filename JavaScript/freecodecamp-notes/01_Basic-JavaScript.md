@@ -466,14 +466,43 @@ You will also need to account for spaces in your string, so that the final sente
 * CODE ASSIGNMENT:  Create a nested array called myArray 
 
 ## [Access Array Data with Indexes](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/access-array-data-with-indexes)
-*
-* CODE ASSIGNMENT:
+* we use indexes to access the data inside arrays
+* array indexes are writtin in BRACKET notion
+* both arrays and indexes use the same bracket notation
+* indexes always use zero-based indexing
+* the first element in any array has an idex of zero 0
+* Example:
+	
+		var array = [50,60,70];
+		array[0];
+		var data = array[1[;
+		
+		Result: array [0] is now 50, and data has the value 60
+* NOTE: there should't be any spaces between the array name and the square brackets.
+* Example: 
 
-## [Modify Array Data With Indexes](#)
-*
-* CODE ASSIGNMENT:
+	Syntax Should be: 
+	array[0]
+	
+	Should not be:
+	array [0]
+	
+* although JavaScript may be able to process the wrong code correctly, it will confuse other programers reading your code
+* CODE ASSIGNMENT: Create a variable called myData and set it to equal the first value of myArray using bracket notation.
 
-## [Access Multi-Dimensional Arrays With Indexes](#)
+## [Modify Array Data With Indexes](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/modify-array-data-with-indexes)
+* unlike strings, entries of arrays are mutable and can be changed freely.
+* Note: there should not be any spaces between teh array name and the square brackets.
+* Example:
+
+		var ourArray = [50,40,30];
+		ourArray[0] = 15;
+		
+		result: ourArray now has the values: 15, 40, 30
+		
+* CODE ASSIGNMENT: Modify the data stored at index 0 of myArray to a value of 45.
+
+## [Access Multi-Dimensional Arrays With Indexes](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/access-multi-dimensional-arrays-with-indexes)
 *
 * CODE ASSIGNMENT:
 
