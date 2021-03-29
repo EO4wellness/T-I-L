@@ -420,31 +420,89 @@ Note: The indentation for SecondLine is achieved with the tab escape character, 
 * CODE ASSIGNMENT: Use bracket notation to find the last character in the lastName variable.
 
 ## [Use Bracket Notation to Find the Nth-to-Last Character in a String](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/use-bracket-notation-to-find-the-nth-to-last-character-in-a-string)
-*
+* You can use the same principle we just used to retrieve the last character in a string to retrieve the Nth-to-last character.
+* For example, you can get the value of the third-to-last letter of the var firstName = "Charles" string by using firstName[firstName.length - 3]
+
+		Example:
+
+		var firstName = "Charles";
+		var thirdToLastLetter = firstName[firstName.length - 3];
+
+* CODE ASSIGNMENT: Use bracket notation to find the second-to-last character in the lastName string.
+
+## [Word Blanks](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/word-blanks)
+* We will now use our knowledge of strings to build a "Mad Libs" style word game we're calling "Word Blanks". You will create an (optionally humorous) "Fill in the Blanks" style sentence.
+
+In a "Mad Libs" game, you are provided sentences with some missing words, like nouns, verbs, adjectives and adverbs. You then fill in the missing pieces with words of your choice in a way that the completed sentence makes sense.
+
+Consider this sentence - It was really ____, and we ____ ourselves ____. This sentence has three missing pieces- an adjective, a verb and an adverb, and we can add words of our choice to complete it. We can then assign the completed sentence to a variable as follows:
+
+var sentence = "It was really " + "hot" + ", and we " + "laughed" + " ourselves " + "silly" + ".";
+
+In this challenge, we provide you with a noun, a verb, an adjective and an adverb. You need to form a complete sentence using words of your choice, along with the words we provide.
+
+You will need to use the string concatenation operator + to build a new string, using the provided variables: myNoun, myAdjective, myVerb, and myAdverb. You will then assign the formed string to the wordBlanks variable. You should not change the words assigned to the variables.
+
+You will also need to account for spaces in your string, so that the final sentence has spaces between all the words. The result should be a complete sentence.
+
 * CODE ASSIGNMENT:
 
-## [Word Blanks](#)
+## [Store Multiple Values in one Variable using JavaScript Arrays](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/store-multiple-values-in-one-variable-using-javascript-arrays)
+* allow us to store several pieces of data in one place.
+* arrays always start with brackets to show the beginning and end of the array
+* elements can be any data type 
+* arrays always end with a ; 
+* example:
+    myArray = ["january", 23, 1990];
+* CODE ASSIGNMENT: Modify the new array myArray so that it contains both a string and a number (in that order).
 
-*
-* CODE ASSIGNMENT:
+## [Nest one Array within Another Array](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/nest-one-array-within-another-array)
+* We can also nest an array within an array. 
+* Example:
+   	
+	[["bulls", 23], ["White Sox", 45]]
+   
+* This is also called a multi-dimensional array
+* CODE ASSIGNMENT:  Create a nested array called myArray 
 
-## [Store Multiple Values in one Variable using JavaScript Arrays](#)
-*
-* CODE ASSIGNMENT:
+## [Access Array Data with Indexes](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/access-array-data-with-indexes)
+* we use indexes to access the data inside arrays
+* array indexes are writtin in BRACKET notion
+* both arrays and indexes use the same bracket notation
+* indexes always use zero-based indexing
+* the first element in any array has an idex of zero 0
+* Example:
+	
+		var array = [50,60,70];
+		array[0];
+		var data = array[1[;
+		
+		Result: array [0] is now 50, and data has the value 60
+* NOTE: there should't be any spaces between the array name and the square brackets.
+* Example: 
 
-## [Nest one Array within Another Array](#)
-*
-* CODE ASSIGNMENT:
+	Syntax Should be: 
+	array[0]
+	
+	Should not be:
+	array [0]
+	
+* although JavaScript may be able to process the wrong code correctly, it will confuse other programers reading your code
+* CODE ASSIGNMENT: Create a variable called myData and set it to equal the first value of myArray using bracket notation.
 
-## [Access Array Data with Indexes](#)
-*
-* CODE ASSIGNMENT:
+## [Modify Array Data With Indexes](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/modify-array-data-with-indexes)
+* unlike strings, entries of arrays are mutable and can be changed freely.
+* Note: there should not be any spaces between teh array name and the square brackets.
+* Example:
 
-## [Modify Array Data With Indexes](#)
-*
-* CODE ASSIGNMENT:
+		var ourArray = [50,40,30];
+		ourArray[0] = 15;
+		
+		result: ourArray now has the values: 15, 40, 30
+		
+* CODE ASSIGNMENT: Modify the data stored at index 0 of myArray to a value of 45.
 
-## [Access Multi-Dimensional Arrays With Indexes](#)
+## [Access Multi-Dimensional Arrays With Indexes](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/access-multi-dimensional-arrays-with-indexes)
 *
 * CODE ASSIGNMENT:
 

@@ -10,6 +10,8 @@
 * [Learn CSS](https://ubahthebuilder.tech/10-great-websites-to-learn-css)
 * http://css.maxdesign.com.au/
 * http://cssdog.com/index.html
+* https://codingwolf-at.hashnode.dev/10-tips-to-write-good-css
+* https://developer.mozilla.org/en-US/docs/Web/CSS 
 
 # Top Resources to get CSS Snippets.
 

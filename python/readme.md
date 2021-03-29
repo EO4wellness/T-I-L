@@ -27,3 +27,4 @@ To use Python, you must first install it. I've had my download set up since 2019
 There is no way to learn code other than getting experience coding.  Here are some places to gain that experience and some projects to give a try. 
 ![YouTube-Beginner-Projects](https://github.com/EO4wellness/T-I-L/blob/main/python/Images/Python-beginner-projects.png)
 Video URL: https://www.youtube.com/watch?v=8ext9G7xspg 
+[Text To Speech With Python](https://www.udemy.com/share/101wZYAkMSdF5RRH4=/) A Udemy Free course using Pyttsx3, Talkey, Espeak, GTTS(online). 

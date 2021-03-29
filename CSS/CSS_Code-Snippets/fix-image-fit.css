@@ -1,0 +1,6 @@
+/* fix images spilling over the site visitor's screen regardless of the device they are using*/
+
+img {
+  max-width: 100%;
+  height: auto;
+}
