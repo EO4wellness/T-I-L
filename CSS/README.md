@@ -25,3 +25,7 @@
 - https://bootsnipp.com/
 - https://tympanus.net/codrops/
 - CSS Community https://www.css-discuss.org/ 
+
+## Practice:
+* https://100dayscss.com/
+* https://craaftx.github.io/100dayscss/
