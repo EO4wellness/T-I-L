@@ -50,3 +50,16 @@ When I first learn HTML coding it was using the Netscape (retired) browser, long
 * [Web Developer Roadmap 2021](https://github.com/EO4wellness/T-I-L/tree/main/HTML/DevChallenges) 
 * [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 * Developer Tool:  Art, Font, etc [Generator](https://fsymbols.com/generators/carty/)
+
+# Template Repos 
+* https://themewagon.com/theme_tag/free/ 
+* https://templated.co/
+* https://html5up.net
+* https://templatemo.com/
+* https://themeforest.net/
+* https://www.w3schools.com/w3css/w3css_templates.asp
+* https://w3layouts.com/
+* https://w3layouts.com/free-responsive-html5-css3-website-templates/
+* https://www.sitepoint.com/a-basic-html5-template/
+* https://speckyboy.com/free-responsive-html5-web-templates/
+* https://nicepage.com/html5-template
