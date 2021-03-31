@@ -503,14 +503,20 @@ You will also need to account for spaces in your string, so that the final sente
 * CODE ASSIGNMENT: Modify the data stored at index 0 of myArray to a value of 45.
 
 ## [Access Multi-Dimensional Arrays With Indexes](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/access-multi-dimensional-arrays-with-indexes)
-*
-* CODE ASSIGNMENT:
+* one way to think about a multi-dimensional array is as an array of arrays. 
+* when you use brackets to access the array, the first set of brackets refers to the entries in the outer most array
+* each additional pair of brackets referes to the next level of entries inside. 
+* CODE ASSIGNMENT: Using bracket notation select an element from myArray such that myData is equal to 8.
 
-## [Manipulate Arrays With push()](#)
-*
-* CODE ASSIGNMENT:
+## [Manipulate Arrays With push()](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/manipulate-arrays-with-push)
+* to append data to the end of an array is bia the function: 
+	
+	push()
+	
+* .push() takes one or more parameters and pushes tthem onto the end of the array
+* CODE ASSIGNMENT: Push ["dog", 3] onto the end of the myArray variable. 
 
-## [Manipulate Arrays With pop()](#)
+## [Manipulate Arrays With pop()](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/manipulate-arrays-with-pop)
 *
 * CODE ASSIGNMENT: 
 
