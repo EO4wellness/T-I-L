@@ -11,6 +11,7 @@
 * [W3 Schools](https://www.w3schools.com/)
 * [SoloLearn](https://www.sololearn.com/learning/1014)
 * [devChallenges](https://devchallenges.io/learn)
+* [What the Flexbox](https://github.com/EO4wellness/What-The-Flexbox/blob/eo4wellness/readme.md)
 
 ## My HTML Coursework: 
 * [Udacity](#)
