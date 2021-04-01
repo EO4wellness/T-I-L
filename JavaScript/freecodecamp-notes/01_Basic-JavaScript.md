@@ -517,8 +517,17 @@ You will also need to account for spaces in your string, so that the final sente
 * CODE ASSIGNMENT: Push ["dog", 3] onto the end of the myArray variable. 
 
 ## [Manipulate Arrays With pop()](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/manipulate-arrays-with-pop)
-*
-* CODE ASSIGNMENT: 
+* the .pop() function can also change teh data in an array
+* .pop() pops a value off the END of an array 
+* it removes the last element 
+* it can be used with any array value: string, numbers, nested arrays
+* var threeArr = [1, 4, 6];
+var oneDown = threeArr.pop();
+console.log(oneDown);
+console.log(threeArr);
+
+The first console.log will display the value 6, and the second will display the value [1, 4].
+* CODE ASSIGNMENT: Use the .pop() function to remove the last item from myArray, assigning the popped off value to removedFromMyArray.
 
 ## [Manipulate Arrays With shift()](#)
 *
