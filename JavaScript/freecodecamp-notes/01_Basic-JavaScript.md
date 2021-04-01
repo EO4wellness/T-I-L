@@ -529,11 +529,12 @@ console.log(threeArr);
 The first console.log will display the value 6, and the second will display the value [1, 4].
 * CODE ASSIGNMENT: Use the .pop() function to remove the last item from myArray, assigning the popped off value to removedFromMyArray.
 
-## [Manipulate Arrays With shift()](#)
-*
-* CODE ASSIGNMENT:
+## [Manipulate Arrays With shift()](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/manipulate-arrays-with-shift)
+* .shift() is a function which works similarly to the .pop() function
+* .shift() removes and returns the FIRST element in an array, whereas .pop() removes the last. 
+* CODE ASSIGNMENT: use .shift() to remove the first array element and assisgn it to the variable. 
 
-## [Manipulate Arrays With unshift()](#)
+## [Manipulate Arrays With unshift()](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/manipulate-arrays-with-unshift)
 *
 * CODE ASSIGNMENT:
 
