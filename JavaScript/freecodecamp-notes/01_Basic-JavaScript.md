@@ -535,14 +535,20 @@ The first console.log will display the value 6, and the second will display the 
 * CODE ASSIGNMENT: use .shift() to remove the first array element and assisgn it to the variable. 
 
 ## [Manipulate Arrays With unshift()](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/manipulate-arrays-with-unshift)
-*
-* CODE ASSIGNMENT:
+* just as we used .shift() to remove the first element, we can use .unshift() to add elements to the beginning of an array. 
+* .unshift() adds elements to the front of the array
+* CODE ASSIGNMENT: Add ["Paul",35] to the beginning of the myArray variable using unshift().
 
-## [Shopping List](#)
-*
-* CODE ASSIGNMENT:
+## [Shopping List](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/shopping-list)
+* Shopping List
+* Create a shopping list in the variable myList. The list should be a multi-dimensional array containing several sub-arrays.
+* The first element in each sub-array should contain a string with the name of the item. The second element should be a number representing the quantity i.e.
 
-## [Write Reusable JavaScript with Functions](#)
+	["Chocolate Bar", 15]
+
+* CODE ASSIGNMENT: There should be at least 5 sub-arrays in the list.
+
+## [Write Reusable JavaScript with Functions](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/write-reusable-javascript-with-functions)
 *
 * CODE ASSIGNMENT:
 
