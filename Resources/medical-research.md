@@ -1,13 +1,13 @@
 [Cousera: Understanding Medical Research: Your Facebook Friend is Wrong](https://www.coursera.org/learn/medical-research/home/welcome)
 
- Lesson Guide
+# Lesson Guide
 
 Below we've listed the lesson titles and a short description of what's contained in each. No need to read these right now! They have been broken up into "module previews" and spread throughout the course. The list below is meant to be used once you've completed the course.
 
 It's a reference. When you see a study out in the real world and your bad science spidey-sense goes off, you can return here. By skimming through the descriptions or using the control+F command to look up keywords, you'll be able to quickly locate applicable lesson(s) to prove or debunk a claim! 
 Lesson Guide:
 
-The Basics  
+## The Basics  
 
 1. How Research Works — We’ll explore the process of how an idea goes from hypothesis all the way to a published manuscript. We’ll describe the two main pathways papers can take to reach publication. Along the way you’ll hear what role peer review plays in the process and we'll also delve into some to the perverse incentives at play in the world of medical research.
 
@@ -17,7 +17,7 @@ The Basics
 
 4. The Question is - what is the Question? — I'll tell you why studies can't always ask the question they really want to be asking in their studies. Learn about the various methods they use to get around this issue. This lesson also introduces causal pathways and the exposure/outcome paradigm, concepts which will stay with us throughout the course. 
 
-Medical Statistics Made Ridiculously Simple 
+## Medical Statistics Made Ridiculously Simple 
 
 5. Types of Data —  Not all data is the same. Knowing what type of data you're dealing with matters for a whole host of reasons.  We'll teach you some of the statistical jargon scientists have come up with to describe different types of data. By the end of this lesson you’ll be able to “talk the talk" and more deeply understand the processes being described by researchers.  
 
@@ -49,7 +49,7 @@ Medical Statistics Made Ridiculously Simple
 
 19. Cost-Effectiveness Study — At the heart of many a controversial debate, the cost-effectiveness study gets a bad rap. Learn how they aren’t really about putting a dollar amount on a human life, they’re about being as efficient as possible with where dollars go in order to do the most good.  
 
-How Wrong Conclusions are Reached 
+## How Wrong Conclusions are Reached 
 
 20. Causality — When you flip a switch in your house, a light goes on, boom, causality. In science, it’s rarely that simple. Even if scientists “flip a switch” in an experiment and subsequently the “light turns on”  it could be a whole host of things going on behind the scene that are really causing that illumination. In this lecture we’ll talk about what standards have to be met to reasonably infer causality. 
 
@@ -65,7 +65,7 @@ How Wrong Conclusions are Reached
 
 26. Fraud — The dark side of medical research. Where did the antivax movement come from? Simple, a fraudulent medical study, published in 1998, purporting to link the MMR vaccine to autism. Since then it’s gone on to cause irreparable damage on a global scale. There are different of types of fraud, many of which are difficult to prove.  Best way to fight it? Educate yourselves, ask questions, call it out when you see it and remember: extraordinary claims require extraordinary evidence.
 
-Bias
+## Bias
 
 27. Selection Bias — Or the “Geico phenomenon” occurs when a study differentially includes a certain type of person to the extent that its cohort no longer accurately represents the population it would like to know more about. Selection bias is the root cause of a lot of Generalizability issues. 
 
@@ -75,7 +75,7 @@ Bias
 
 30. Statistical Brain Teasers — Take a break and put the knowledge your intuition to the test! 
 
-Fixing the Problems with Medical Studies
+## Fixing the Problems with Medical Studies
 
 31. Adjustment — Does Rosé make you short? Scientists can use math to filter results and better expose the pure relationship between exposure and outcome. Learn some common types of adjustment and when they’re appropriate to use. 
 
@@ -84,4 +84,6 @@ Fixing the Problems with Medical Studies
 33. Propensity Scoring — propensity scoring is a fancy term for what is essentially stereotyping. PS uses a set of characteristics to predict a certain exposure, for us that’s usually medication usage.  Learn the differences between being the sort of person who does a thing and actually doing the thing and see how propensity scoring can improve matching strategies. 
 
 34. Putting It All Together —  Parting is such sweet sorrow.  You’ve got the pieces, let’s look at the whole puzzle.  We’ll give you the BIG take home points and say goodbye! 
-35. 
+
+[Week 2](https://www.coursera.org/learn/medical-research/supplement/dzWcq/module-preview)
+
