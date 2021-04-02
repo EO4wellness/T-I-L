@@ -517,22 +517,38 @@ You will also need to account for spaces in your string, so that the final sente
 * CODE ASSIGNMENT: Push ["dog", 3] onto the end of the myArray variable. 
 
 ## [Manipulate Arrays With pop()](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/manipulate-arrays-with-pop)
-*
-* CODE ASSIGNMENT: 
+* the .pop() function can also change teh data in an array
+* .pop() pops a value off the END of an array 
+* it removes the last element 
+* it can be used with any array value: string, numbers, nested arrays
+* var threeArr = [1, 4, 6];
+var oneDown = threeArr.pop();
+console.log(oneDown);
+console.log(threeArr);
 
-## [Manipulate Arrays With shift()](#)
-*
-* CODE ASSIGNMENT:
+The first console.log will display the value 6, and the second will display the value [1, 4].
+* CODE ASSIGNMENT: Use the .pop() function to remove the last item from myArray, assigning the popped off value to removedFromMyArray.
 
-## [Manipulate Arrays With unshift()](#)
-*
-* CODE ASSIGNMENT:
+## [Manipulate Arrays With shift()](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/manipulate-arrays-with-shift)
+* .shift() is a function which works similarly to the .pop() function
+* .shift() removes and returns the FIRST element in an array, whereas .pop() removes the last. 
+* CODE ASSIGNMENT: use .shift() to remove the first array element and assisgn it to the variable. 
 
-## [Shopping List](#)
-*
-* CODE ASSIGNMENT:
+## [Manipulate Arrays With unshift()](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/manipulate-arrays-with-unshift)
+* just as we used .shift() to remove the first element, we can use .unshift() to add elements to the beginning of an array. 
+* .unshift() adds elements to the front of the array
+* CODE ASSIGNMENT: Add ["Paul",35] to the beginning of the myArray variable using unshift().
 
-## [Write Reusable JavaScript with Functions](#)
+## [Shopping List](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/shopping-list)
+* Shopping List
+* Create a shopping list in the variable myList. The list should be a multi-dimensional array containing several sub-arrays.
+* The first element in each sub-array should contain a string with the name of the item. The second element should be a number representing the quantity i.e.
+
+	["Chocolate Bar", 15]
+
+* CODE ASSIGNMENT: There should be at least 5 sub-arrays in the list.
+
+## [Write Reusable JavaScript with Functions](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/write-reusable-javascript-with-functions)
 *
 * CODE ASSIGNMENT:
 
