@@ -233,6 +233,10 @@ Correct answer
 
 a new set of techniques which move the privacy-transparent pareto tradeoff
 
+
+#  Lesson 3
+Information Flows within Communities
+https://courses.openmined.org/courses/our-privacy-opportunity/15b283df-6fb3-4756-8ce6-fe268a02867c
 Correct!
 
 a robust definition of privacy
