@@ -2,7 +2,9 @@
 * Andrew Trask: PhD Researcher-University of Oxford
 * Emma Bluemke: PhD Researcher-Uniservity of Oxford
 
-# Kessib 1L 2 CibceotsL 
+[Course Discussion Board](https://github.com/OpenMined/courses/discussions/categories/resources)
+
+# Lesson 1: INTRO 
 
 ## Course Intro:
 * Examined problems of data.
@@ -68,7 +70,7 @@ Expert on War & Conflict - Stanford
 Ramesh Raskar
 
 Co-Author of SplitNN - MIT
-
+[Cpurse Dicussion[
 ## Intro-Soceity Runs on INformation Flows 
 * Information Flows are every where 
 * grant access to personal information to obtain what your looking for
@@ -139,6 +141,18 @@ https://youtu.be/eyqb9B2lLUE
 * life changes 
 * machine learning inferances 
 * data can be stored for decades
+* even anonomous data can be taken advantage
+* analytical tools (extracting sensitive info from seeminly non-sensitive data)
+* national security implications
+* group / community / business implications 
+* unmet marketing need
+* demand
+* collaboration requires sharing info/data 
+* onprem cloud
+* whats app
+* cost human progress ? 
+* unforseen costs (research, etc)
+* leaky information flows-social costs 
 
 
 Quiz:
@@ -179,4 +193,48 @@ Yes, it could be
 
 Correct - even if you can't identify an individual if you could identify a community, or have a way to target that individual, you can still use that data to cause harm.
 No
+
+
+## Lesson 2: The Transparency Dilemma
+https://youtu.be/i7YrJU2TlbI
+* Filure to accomplish important outcomes from data 
+* Do not have access to the information you need to make a decsion 
+* Information flow issue
+* such as reviews aren't availble 
+* information flow can be used to hold someone accountable 
+* seeks to eliminate transparency issues 
+
+Quiz:
+What is the best definition of a transparency dilemma?
+
+people being too transparent about information
+
+when someone hides information to keep it secret - but is unsure of whether they should
+Correct answer
+
+when someone doesn't have access to enough information to accurately make a decision
+
+Correct - when life doesn't have enough transparency - it creates dilemmas where people don't know what decisions to make.
+
+## Lesson 2: The Privacy-Transparency Pareto Frontier
+https://youtu.be/pVUZY_g7uEE
+*  Privacy Transparency tradeoffs 
+*  governement
+*  business
+*  personal
+*  reval information or not (social good vs. harm)
+*  transparency issue (doesn't have info needed to make an informed decision)
+*  you can solve all transparency issues by eliminating privacy.
+*  we could solve privacy issues by creating transparency issues. 
+*  they are a trade off--the more we have of the one, the less we have of the other
+
+What is the core of this course?
+Correct answer
+
+a new set of techniques which move the privacy-transparent pareto tradeoff
+
+Correct!
+
+a robust definition of privacy
+a tutorial about encryption and machine learning
 
