@@ -99,6 +99,84 @@ Privacy trade off
 * What is private to you? 
 * Is my face private?
 * Is my location private? 
+* Google Maps Street View 
+* Helen Nissenbaum Contextual Integrity 
+* Helen found the recording of public information changes the information flow 
+* Privacy is appropriate flow of information 
+* social rules and life-long (historically)
+* how to be a good friend
+* contex maters when sharing information 
+* we grow up with a basic understanding of what is appropriate
+* we grow up with an idea of why it is imporant 
+* society modesty 
+* privacy is equated with secrecy but it isn't enough with today's tech world
+* achieve appropriate information control/flow 
+* what's appropriate for any given conext
+* enfourcement? 
+
+Quiz:
+* What is the most accurate definition of privacy?
+ - the ability to hide information not already revealed - especially personal information
+ - the ability to control how information is used - especially sensitive information
+ - the ability to ensure flows of information which satisfy social norms
+   This is the correct definition!
+ - the ability to hide potentially harmful information
+
+* When are you working with private data?
+  - when the data is about a private area of someone's life
+  - When somebody potentially might care (now or in the future) about how yu might use the data
+    Correct - because privacy is about the flow of information in context of social norms.
+  - when the data meets a local law's definition of privacy (such as GDPR, CCPA, etc.)
+
+## Lesson 2: Data is Fire 
+https://youtu.be/eyqb9B2lLUE
+* data can be used unlimited
+* once you have it, you can share it with anyone ever
+* people can be damaged by it if they aren't used wrongly
+* data as fire doesn't involve: safe or dangerous
+* use case matter too 
+* infering 
+* life changes 
+* machine learning inferances 
+* data can be stored for decades
 
 
+Quiz:
+Why is data "like fire"?
+
+because it's dual use
+
+because it can be copied and shared an infinite number of times
+
+because it can help us prosper
+
+because it can cause irreparable harm
+Correct answer
+
+all of the above
+
+Is a record of whether someone buys bread private data
+
+No - it's bread - nobody cares
+Correct answer
+
+Yes, it could be
+
+Correct - because even seemingly trivial things like whether or not you buy bread can be used to predict sensitive things in your life.
+
+If I had a list of whether people like movies - and I replace their names with random names -could it still be private/sensitive data?
+Correct answer
+
+Yes
+
+Correct - this data could still contain private information, be used to infer private information, or be used to reveal private information contained in other datasets.
+No
+
+If I can't link anonymized data to someone's exact identity - could it still be considered sensitive/private information?
+Correct answer
+
+Yes, it could be
+
+Correct - even if you can't identify an individual if you could identify a community, or have a way to target that individual, you can still use that data to cause harm.
+No
 
