@@ -549,10 +549,26 @@ The first console.log will display the value 6, and the second will display the 
 * CODE ASSIGNMENT: There should be at least 5 sub-arrays in the list.
 
 ## [Write Reusable JavaScript with Functions](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/write-reusable-javascript-with-functions)
-*
-* CODE ASSIGNMENT:
+* in JavaScript we can divide up our code into REUSABLE parts called FUNCTIONS
+* An example of a function:
+ 	
+	function functionName() {
+	   console.log("Hello World");
+	}
+	
+* you can call (INVOKE) a function by using its name followed by parenthesis
+* Example: 
+	
+	functionName();
+	
+* CODE ASSIGNMENT: 
 
-## [Passing Values to Functions with Arguments](#)
+    Create a function called reusableFunction which prints "Hi World" to the dev console.
+    Call the function.
+
+
+
+## [Passing Values to Functions with Arguments](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/passing-values-to-functions-with-arguments)
 *
 * CODE ASSIGNMENT:
 
