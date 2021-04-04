@@ -569,22 +569,82 @@ The first console.log will display the value 6, and the second will display the 
 
 
 ## [Passing Values to Functions with Arguments](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/passing-values-to-functions-with-arguments)
-*
-* CODE ASSIGNMENT:
+* PARAMETERS are variables acting as placeholders. 
+* PARAMETERS will be put into a function when it is called. 
+* Paramter values are input into the fuction, or are PASSED into the function.
+* Parameter values are known as ARGUMENTS
 
-## [Global Scope and Functions](#)
-*
-* CODE ASSIGNMENT:
+###  Example
+* The example function below has two parameters: param1 and param2
 
-## [Local Scope and Functions](#)
-*
-* CODE ASSIGNMENT:
+		function testFun(param1, param2) {
+		  console.log(param1, param2);
+		}  
 
-## [Global vs. Local Scope in Functions](#)
-*
-* CODE ASSIGNMENT:
+* We call testFun like this: 
 
-## [Return a Value from a Function with Return](#)
+		testFun("Hello", "World");
+
+* now we have passed two string arguments Hello and World
+* In this example, param1 is now equal to the string "Hello" 
+* param2 is now equal to the string "World" 
+* NOTE: you could call testFun again with different arguments and the parameters would take on the value of th enew arguments
+
+* CODE ASSIGNMENT:  Create a function called functionWithArgs that accepts two arguments and outputs their sum to the dev console.  Call the function with two numbers as arguments.
+
+
+## [Global Scope and Functions](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/global-scope-and-functions)
+* SCOPE refers to the VISIBILITY of VARIABLES
+* Any variable defined OUTSIDE a function block have GLOBAL SCOPE
+* This means they can be "seen" (used) everywhere in your JavaScript code
+* variables which are used without the VAR keywords are automatically created in the GLOBAL SCOPE
+* this can create UNINTENDED CONSEQUENCES when running a function again 
+* YOU should ALWAYS declare your variables with VAR
+* CODE ASSIGNMENT:  
+	- Using var, declare a global variable named myGlobal outside of any function. Initialize it with a value of 10.
+	-Inside function fun1, assign 5 to oopsGlobal without using the var keyword.
+
+
+## [Local Scope and Functions](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/local-scope-and-functions)
+* When a variable is declared within a function AND has function paramaeters, it is said to have LOCAL SCOPE
+* it is only available/visible within that specific function 
+
+### Example: 
+* Here is a function named myTest with a local variable called loc
+
+		function myTest() {
+ 		   var loc = "foo";
+		   console.log(loc);
+		}
+		myTest();
+		console.log(loc);
+
+
+* The myTest() function call will display the string "foo" in the console
+* The console.log(loc) line will throw an error
+* the error is caused because loc is not defined outside of the function 
+
+* CODE ASSIGNMENT:
+  -  The editor has two console.logs to help you see what is happening. Check the console as you code to see how it changes. 
+  -  Declare a local variable myVar inside myLocalScope and run the tests.
+  -  Note: The console will still display ReferenceError: myVar is not defined, but this will not cause the tests to fail.
+* Code Assignements like this one, are what's GREAT about freeCodeCamp's instruction!  Wow!  This is a type of error we should be learning about so we know, when we see it, how to fix it. Great idea!  I've never seen any other coding instruction which actually includes debugging as part of their instructional plan. 
+
+## [Global vs. Local Scope in Functions](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/global-vs--local-scope-in-functions)
+* It is possible to have both LOCAL and GLOBAL variables with the same name :( 
+* When this happens, the LOCAL vraible takes precedence over the GLOBAL vairable. 
+* Example:
+
+	var someVar = "Hat";
+	function myFun() {
+	  var someVer = "Head";
+	  return someVer;
+	}
+
+* The function myFun from our example, will return the string HEAD because the local version of the variable is present. 
+* CODE ASSIGNMENT: Add a local variable to myOutfit function to override the value of outerWear with the string sweater.
+
+## [Return a Value from a Function with Return](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/return-a-value-from-a-function-with-return)
 *
 * CODE ASSIGNMENT:
 
