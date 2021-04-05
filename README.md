@@ -3,6 +3,8 @@ This is a record of my personal journey.  November, 2020 is the very beginning o
  
  https://catalins.tech/20-best-places-to-learn-programming-for-free
  
+ https://www.classcentral.com/report/free-certificates/?utm_source=cc_newsletter&utm_medium=email&utm_campaign=april2021 
+ 
 ## TOC 
 [A.I.](https://github.com/EO4wellness/T-I-L/blob/main/README.md#artificial-intellegence)<br> 
 [AWS](https://github.com/EO4wellness/T-I-L#aws-amazon)<br>
