@@ -645,10 +645,21 @@ The first console.log will display the value 6, and the second will display the 
 * CODE ASSIGNMENT: Add a local variable to myOutfit function to override the value of outerWear with the string sweater.
 
 ## [Return a Value from a Function with Return](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/return-a-value-from-a-function-with-return)
-*
-* CODE ASSIGNMENT:
+*  using ARGUMENTS we can pass values into a function 
+*  you can use a RETURN statement to send a value back out of a function 
+*  Example:
 
-## [Understanding Undefined Value returned from a Function](#)
+		function plusThree(num) {
+		  return num + 3; 
+		}
+		
+		var answer = plusThree(5);
+
+*  ANSWER has the value of 8
+*  plusThree takes an argument for NUM and returns a value equal to num + 3
+* CODE ASSIGNMENT:  Create a function timesFive that accepts one argument, multiplies it by 5, and returns the new value.
+
+## [Understanding Undefined Value returned from a Function](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/understanding-undefined-value-returned-from-a-function)
 *
 * CODE ASSIGNMENT:
 
