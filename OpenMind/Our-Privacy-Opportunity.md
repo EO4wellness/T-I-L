@@ -26,7 +26,7 @@ https://youtu.be/wjrs0484Ndg
 * How information flows within society 
 * more changes are coming 
 
-# Lesson 2: 6 Consepts 
+# Lesson 2: 6 Concepts 
 Society Runs on Information
 Instructors:
 Aaron Roth
@@ -232,13 +232,30 @@ What is the core of this course?
 Correct answer
 
 a new set of techniques which move the privacy-transparent pareto tradeoff
-
-
-#  Lesson 3
-Information Flows within Communities
-https://courses.openmined.org/courses/our-privacy-opportunity/15b283df-6fb3-4756-8ce6-fe268a02867c
-Correct!
-
 a robust definition of privacy
 a tutorial about encryption and machine learning
+
+#  Lesson 3: Information Flows within Communities
+https://courses.openmined.org/courses/our-privacy-opportunity/15b283df-6fb3-4756-8ce6-fe268a02867c
+5 Concepts 
+
+Lesson 3: Research is Constrained by Information Flows
+https://youtu.be/t7j7xAmjbk8
+* Huge number of challenges
+* one area: academic 
+* research requires data 
+* academia calls for open data practices 
+* a huge amount of research/data is about people
+* because of the nature of people-related data requires privacy questions to be answsered 
+* researchers have a lot of rules to follow
+* additionally, achieving permission to access the data may take months to obtain
+* deep learing requires more data (not less)
+* UK BioBank - a lot of high-quality data example
+* data size
+* data context 
+* [Googles Medical AI was super accurate in the lab but not so accurate in real life](https://www.technologyreview.com/2020/04/27/1000658/google-medical-ai-accurate-lab-real-life-clinic-covid-diabetes-retina-disease/)
+* Researchers want to collaborate 
+* methodology matters - that requires collaboration 
+* research must reflect the real population
+* systems using data for good. 
 
