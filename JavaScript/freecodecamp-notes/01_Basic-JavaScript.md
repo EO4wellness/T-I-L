@@ -660,13 +660,31 @@ The first console.log will display the value 6, and the second will display the 
 * CODE ASSIGNMENT:  Create a function timesFive that accepts one argument, multiplies it by 5, and returns the new value.
 
 ## [Understanding Undefined Value returned from a Function](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/understanding-undefined-value-returned-from-a-function)
-*
-* CODE ASSIGNMENT:
+* a function can include the RETURN statement (but it doesn't have to)
+* if a function doesn't have a return statement, when it is called, it processes the inner code but returned value is undefined
+* Example:
 
-## [Assignment with a Returned Value](#)
+	var sum = 0;
+	function addSum(num) {
+	  sum = sum + num;
+	}
+	addSum(3);
 
-*
-* CODE ASSIGNMENT:
+* addSum is a function without a return statement
+* the function will change the global sum variable 
+* the returned function is undefined
+* CODE ASSIGNMENT: Create a function addFive without any arguments. This function adds 5 to the sum variable, but its returned value is undefined.
+
+## [Assignment with a Returned Value](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/assignment-with-a-returned-value)
+* recall: everything to the right of the equal sign is reslved before the value is assigned. 
+* this means we can take the return function and assign it to a variable 
+* assume we have a pre-defined function SUM which adds two numbers together
+* then: 
+
+		ourSum = sum(5,12);
+
+* we call SUM function, which returns the value of 17 and assigns it to ourSum variable 
+* CODE ASSIGNMENT:Call the processArg function with an argument of 7 and assign its return value to the variable processed.
 
 ## [Stand in Line](#)
 *
