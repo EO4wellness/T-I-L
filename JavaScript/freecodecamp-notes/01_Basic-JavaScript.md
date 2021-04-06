@@ -645,17 +645,46 @@ The first console.log will display the value 6, and the second will display the 
 * CODE ASSIGNMENT: Add a local variable to myOutfit function to override the value of outerWear with the string sweater.
 
 ## [Return a Value from a Function with Return](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/return-a-value-from-a-function-with-return)
-*
-* CODE ASSIGNMENT:
+*  using ARGUMENTS we can pass values into a function 
+*  you can use a RETURN statement to send a value back out of a function 
+*  Example:
 
-## [Understanding Undefined Value returned from a Function](#)
-*
-* CODE ASSIGNMENT:
+		function plusThree(num) {
+		  return num + 3; 
+		}
+		
+		var answer = plusThree(5);
 
-## [Assignment with a Returned Value](#)
+*  ANSWER has the value of 8
+*  plusThree takes an argument for NUM and returns a value equal to num + 3
+* CODE ASSIGNMENT:  Create a function timesFive that accepts one argument, multiplies it by 5, and returns the new value.
 
-*
-* CODE ASSIGNMENT:
+## [Understanding Undefined Value returned from a Function](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/understanding-undefined-value-returned-from-a-function)
+* a function can include the RETURN statement (but it doesn't have to)
+* if a function doesn't have a return statement, when it is called, it processes the inner code but returned value is undefined
+* Example:
+
+	var sum = 0;
+	function addSum(num) {
+	  sum = sum + num;
+	}
+	addSum(3);
+
+* addSum is a function without a return statement
+* the function will change the global sum variable 
+* the returned function is undefined
+* CODE ASSIGNMENT: Create a function addFive without any arguments. This function adds 5 to the sum variable, but its returned value is undefined.
+
+## [Assignment with a Returned Value](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/assignment-with-a-returned-value)
+* recall: everything to the right of the equal sign is reslved before the value is assigned. 
+* this means we can take the return function and assign it to a variable 
+* assume we have a pre-defined function SUM which adds two numbers together
+* then: 
+
+		ourSum = sum(5,12);
+
+* we call SUM function, which returns the value of 17 and assigns it to ourSum variable 
+* CODE ASSIGNMENT:Call the processArg function with an argument of 7 and assign its return value to the variable processed.
 
 ## [Stand in Line](#)
 *
