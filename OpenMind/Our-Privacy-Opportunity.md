@@ -260,6 +260,7 @@ https://youtu.be/t7j7xAmjbk8
 * systems using data for good. 
 
 ## Lesson 3: Healthy Market Competition for Information Services
+https://youtu.be/V3u05D8wI0A
 * email, wearable tech, websites (online)
 * services involving your information are everywhere (even real world like grocery delivery)
 * services that handle your data are "lock in" services.  
@@ -274,6 +275,7 @@ https://youtu.be/t7j7xAmjbk8
 * data breaches are impossible to prevent
 * it is a matter of time until a data breach happens with yoru data 
 * erasure - the right to be forgotten 
+* people also want to force flows away from a cmpany you are leaving and towards a company you want to move to
 
 Restricting how private data can be shared increases privacy and reduces harm
 
@@ -290,4 +292,22 @@ False
 Data privacy is ONLY about preventing information from being shared in inappropriate contexts.
 True
 False Correct - sometimes satisfying privacy is about forcing companies to share or delete your data in a specific way or at a specific time.
+
+https://saymine.com/
+
+https://medium.com/@hackylawyER/do-we-really-want-to-sell-ourselves-the-risks-of-a-property-law-paradigm-for-data-ownership-b217e42edffa
+
+## Lesson 3: Data, Energy & the Environment
+https://youtu.be/xR16uPEoAdQ
+* smart meeter example: knowing when the grid needs help
+* green sources 
+
+In the Air Box example from Glen Weyl - national data about pollution in Taiwan was collected through government and private industry.
+True or False 
+Correct answer
+
+False
+
+Correct! One incredible aspect of Air Box is that it was able to coordinate the information of millions of people through civil society - not through private industry or a government program.
+
 
