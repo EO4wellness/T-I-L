@@ -710,8 +710,27 @@ The first console.log will display the value 6, and the second will display the 
 * Note: Boolean values are never written with quotes. The strings "true" and "false" are not Boolean and have no special meaning in JavaScript.
 * CODE ASSIGNMENT: Modify the welcomeToBooleans function so that it returns true instead of false when the run button is clicked.
 
-## [Use Conditional Logic with If Statements](#)
-*
+## [Use Conditional Logic with If Statements](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/use-conditional-logic-with-if-statements)
+* IF satements are used to make decsions within code. 
+* the keyword IF tells JavaScripte to exectue the code in the curly braces under certain conditions. 
+* the conditions are known as BOOLEAN conditions
+* thus the condition is true (run th ecode) or false (do not run the code)
+* pseudocode:
+
+	if (condition is true) {
+  	  statement is executed
+	}
+
+* Example: 
+function test (myCondition) {
+  if (myCondition) {
+     return "It was true";
+  }
+  return "It was false";
+}
+test(true);
+test(false);
+
 * CODE ASSIGNMENT:
 
 ## [Comparison with the Equality Operator](#)
