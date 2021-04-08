@@ -259,3 +259,55 @@ https://youtu.be/t7j7xAmjbk8
 * research must reflect the real population
 * systems using data for good. 
 
+## Lesson 3: Healthy Market Competition for Information Services
+https://youtu.be/V3u05D8wI0A
+* email, wearable tech, websites (online)
+* services involving your information are everywhere (even real world like grocery delivery)
+* services that handle your data are "lock in" services.  
+* Your private data is involved so the services you use aren't competitive 
+* more sharing means better competition, but more risk for harm 
+* user switching service (bringing data with them)
+* a company thinking it has the right to sell the customer's data to a 3rd party
+* 300 to 500 companies have our data 
+* keep your data only where you need it
+* managing your own data is impossible 
+* the average person cannot do it
+* data breaches are impossible to prevent
+* it is a matter of time until a data breach happens with yoru data 
+* erasure - the right to be forgotten 
+* people also want to force flows away from a cmpany you are leaving and towards a company you want to move to
+
+Restricting how private data can be shared increases privacy and reduces harm
+
+* True
+* False = Correct answer 
+
+Correct - it's extremely important that if we want to protect privacy - we need organization to be forced to share information in many cases - especially when a user wants to switch services. This allows privacy concerns to drive market competition.
+
+Under GDPR - if you ask for your data a company has to give it to you (w/ limited exceptions)
+Correct answer
+True - Correct!
+False
+
+Data privacy is ONLY about preventing information from being shared in inappropriate contexts.
+True
+False Correct - sometimes satisfying privacy is about forcing companies to share or delete your data in a specific way or at a specific time.
+
+https://saymine.com/
+
+https://medium.com/@hackylawyER/do-we-really-want-to-sell-ourselves-the-risks-of-a-property-law-paradigm-for-data-ownership-b217e42edffa
+
+## Lesson 3: Data, Energy & the Environment
+https://youtu.be/xR16uPEoAdQ
+* smart meeter example: knowing when the grid needs help
+* green sources 
+
+In the Air Box example from Glen Weyl - national data about pollution in Taiwan was collected through government and private industry.
+True or False 
+Correct answer
+
+False
+
+Correct! One incredible aspect of Air Box is that it was able to coordinate the information of millions of people through civil society - not through private industry or a government program.
+
+
