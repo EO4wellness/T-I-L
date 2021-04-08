@@ -259,3 +259,35 @@ https://youtu.be/t7j7xAmjbk8
 * research must reflect the real population
 * systems using data for good. 
 
+## Lesson 3: Healthy Market Competition for Information Services
+* email, wearable tech, websites (online)
+* services involving your information are everywhere (even real world like grocery delivery)
+* services that handle your data are "lock in" services.  
+* Your private data is involved so the services you use aren't competitive 
+* more sharing means better competition, but more risk for harm 
+* user switching service (bringing data with them)
+* a company thinking it has the right to sell the customer's data to a 3rd party
+* 300 to 500 companies have our data 
+* keep your data only where you need it
+* managing your own data is impossible 
+* the average person cannot do it
+* data breaches are impossible to prevent
+* it is a matter of time until a data breach happens with yoru data 
+* erasure - the right to be forgotten 
+
+Restricting how private data can be shared increases privacy and reduces harm
+
+* True
+* False = Correct answer 
+
+Correct - it's extremely important that if we want to protect privacy - we need organization to be forced to share information in many cases - especially when a user wants to switch services. This allows privacy concerns to drive market competition.
+
+Under GDPR - if you ask for your data a company has to give it to you (w/ limited exceptions)
+Correct answer
+True - Correct!
+False
+
+Data privacy is ONLY about preventing information from being shared in inappropriate contexts.
+True
+False Correct - sometimes satisfying privacy is about forcing companies to share or delete your data in a specific way or at a specific time.
+
