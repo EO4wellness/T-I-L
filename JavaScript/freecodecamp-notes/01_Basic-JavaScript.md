@@ -686,14 +686,29 @@ The first console.log will display the value 6, and the second will display the 
 * we call SUM function, which returns the value of 17 and assigns it to ourSum variable 
 * CODE ASSIGNMENT:Call the processArg function with an argument of 7 and assign its return value to the variable processed.
 
-## [Stand in Line](#)
-*
+## [Stand in Line](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/stand-in-line)
+* In computer science, a QUEUE is an abstract DATA STRUCTURE
+* items in a queue are kept in order
+* new items can be added to the BACK of the queue
+* old items can be taken off from the front of the queue
+* we already learned how to do this in earlier lessons with other functions. 
+* push()
+* shift()
 * CODE ASSIGNMENT:
+  - Write a function nextInLine which takes an array (arr) and a number (item) as arguments.
+  - Add the number to the end of the array, then remove the first element of the array.
+  - The nextInLine function should then return the element that was removed.
 
-## [Understanding Boolean Values](#)
-
-*
-* CODE ASSIGNMENT:
+## [Understanding Boolean Values](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/understanding-boolean-values)
+* Another DATA TYPE is called BOOLEAN 
+* Booleans may only be one of two values
+* All Booleans are either TRUE or they are FALSE
+* they are basically on-off switches
+* true is ON
+* false is OFF
+* the boolean two states are mutually exclusive 
+* Note: Boolean values are never written with quotes. The strings "true" and "false" are not Boolean and have no special meaning in JavaScript.
+* CODE ASSIGNMENT: Modify the welcomeToBooleans function so that it returns true instead of false when the run button is clicked.
 
 ## [Use Conditional Logic with If Statements](#)
 *
