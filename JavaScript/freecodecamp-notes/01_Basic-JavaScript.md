@@ -731,9 +731,9 @@ function test (myCondition) {
 test(true);
 test(false);
 
-* CODE ASSIGNMENT:
+* CODE ASSIGNMENT Create an if statement inside a function to return, Yes, that was true if the parameter wasThatTrue is true and return No, that was false otherwise. 
 
-## [Comparison with the Equality Operator](#)
+## [Comparison with the Equality Operator](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/comparison-with-the-equality-operator)
 *
 * CODE ASSIGNMENT:
 
