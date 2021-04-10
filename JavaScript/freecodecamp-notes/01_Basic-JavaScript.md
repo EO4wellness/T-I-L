@@ -734,12 +734,34 @@ test(false);
 * CODE ASSIGNMENT Create an if statement inside a function to return, Yes, that was true if the parameter wasThatTrue is true and return No, that was false otherwise. 
 
 ## [Comparison with the Equality Operator](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/comparison-with-the-equality-operator)
-*
-* CODE ASSIGNMENT:
+* JavaScript has a lot of comparison operators.
+* all comparison operators return a boolean TRUE or FALSE value 
+* the most basic operator is the equality operator
+* the equality operator is writen as == (equal sign, equal sign)
+* the equality operator compares to values.
+* it returns TRUE if they are equivalent
+* it returns FALSE if they are not 
+* this is different from the ASSIGNMENT (=) which assigns the value on the right to a variable on the left 
+* function equalityTest(myVal) {
+  if (myVal == 10) {
+     return "Equal";
+  }
+  return "Not Equal";
+}
 
-## [Comparison with the Strict Equality Operator](#)
+If myVal is equal to 10, the equality operator returns true, so the code in the curly braces will execute, and the function will return Equal. Otherwise, the function will return Not Equal. In order for JavaScript to compare two different data types (for example, numbers and strings), it must convert one type to another. This is known as Type Coercion. Once it does, however, it can compare terms as follows:
+
+1   ==  1
+1   ==  2
+1   == '1'
+"3" ==  3
+
+
+* CODE ASSIGNMENT:  Add the equality operator to the indicated line so that the function will return the string Equal when val is equivalent to 12.
+
+## [Comparison with the Strict Equality Operator](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/comparison-with-the-strict-equality-operator)
 *
-* CODE ASSIGNMENT:
+* CODE ASSIGNMENT: Use the strict equality operator in the if statement so the function will return the string Equal when val is strictly equal to 7
 
 ## [Practice comparing different values](#)
 *
