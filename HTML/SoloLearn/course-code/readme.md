@@ -1,0 +1,1 @@
+The files contained in this folder are code snips from the SoloLearn course content.
