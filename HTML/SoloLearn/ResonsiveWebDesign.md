@@ -324,6 +324,7 @@ Fill in the blanks to define a style that rounds the corners of the element with
 }
 ```
 
+### Styling the Button 
 * Building the Header
 * Our button also needs a hover effect, 
 * so it changes its background color when the mouse hovers over it.
@@ -342,9 +343,140 @@ Fill in the blanks to define a style that rounds the corners of the element with
 * [on sololearn](https://www.sololearn.com/learning/1162/4805/12342/1)
 * on GitHub[html](https://github.com/EO4wellness/T-I-L/blob/main/HTML/SoloLearn/course-code/project%20template%20with%20header%2004112021.html) and the corresponding [css](https://github.com/EO4wellness/T-I-L/blob/main/HTML/SoloLearn/course-code/course-template_with-header.css)
 
-### Styling the Button 
+QUIZ: Building the Header: Fill in the blanks to define a style for the element.  When the mouse cursor travels over the button, it should change its color to white. 
+
+```
+
+.item:hover{
+  color: white;
+}
+
+```
+NOTE TO SELF:  Need to be careful as I typo "hover" as "hoover" every time--and that doesn't work! 
+
+
 ### Building the Features Section 
+https://www.sololearn.com/learning/1162/4806/12343/1
+* Let's start building our features section:
+* Our goal is to have the finished section [look like this](https://www.sololearn.com/learning/1162/4806/12343/1): 
+* It has 3 features, 3 images, 3 bits of text. 
+* the features are aligned horizontally next to one another
+* we will reuse our CONTAINER div to wrap all  the elements of the features section: 
+* HTML Coding Example:
+
+```
+<section class="features">
+  <div class="container">
+    
+<div class="feature">
+      <img src="https://www.sololearn.com/uploads/img_blue_pin.png" alt=""/>
+      <p>An awesome feature</p>
+    </div>
+
+    <div class="feature">
+      <img src="https://www.sololearn.com/uploads/img_blue_chart.png" alt=""/>
+      <p>An awesome feature</p>
+    </div>
+
+    <div class="feature">
+      <img src="https://www.sololearn.com/uploads/img_blue_msg.png" alt=""/>
+      <p>An awesome feature</p>
+    </div>
+
+  </div>
+</section>  
+
+```
+* Cordinating CSS Example:
+
+```
+@import url(//fonts.googleapis.com/css?family=Open+Sans:400,700,800,300);
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Open Sans','Helvetica Neue',Helvetica, sans-serif;
+    line-height: 1.45;
+}
+section {
+    text-align: center;
+    padding: 40px 0;
+}
+.container {
+    margin: 0 auto;
+    padding: 0 20px 0 20px;
+    max-width: 900px;
+}
+.features {
+    background: #FFFFFF;
+    color: #000000;
+}
+```
+
+* Each feature is wrapped in a div with class "feature", 
+* which we will use to position the features.
+* It contains an image and a paragraph of text.
+* Right now, they are simply positioned below each other, 
+* so we need to add some CSS styles to fix that.
+* We are using sample image files that we have uploaded to our server.
+
+QUIZ: The Features Section: Why are the feature divs positioned below each other?
+- Because divs are block level elements
+- Because of the text inside of the divs
+- Because we have images in them
+- Because divs are inline elements
+Correct Answer: Because these divs are Block Level elements
+
+* The Features Section: In order to position the feature divs 
+* next to each other horizontally, 
+* we will use display: inline-block to make them inline-level block containers 
+* and provide a width:
+* CSS Code Example: 
+
+```
+
+.features {
+    background: #FFFFFF;
+    color: #000000;
+}
+.feature {
+    width: 32%;
+    display: inline-block;
+    font-size:16px;
+}
+.feature img {
+    width:40%;
+}
+
+```
+
+* Because we have 3 features, we gave each feature div 32% of the width of their container.
+* The remaining space will be left for the space between the elements.
+* We also set the width of the images to be 40% of their containers.
+* By using only % values for the widths, 
+* the features will always remain next to each other 
+* and be positioned horizontally, [irrespective of the browser (or device) width](https://www.sololearn.com/learning/1162/4806/12344/1).
+
+QUIZ: The Features Section -
+You have 2 div elements on your page. You need to position them so that the first div occupies 70% of the page and while the second div takes the remaining 30%.
+
+```
+
+.first {
+ width:70%;
+ display:inline-block;
+}
+.second {
+ width:30%;
+ display:inline-block;
+}
+
+```
+
 ### The Quote Section 
+https://www.sololearn.com/learning/1162/4807/12345/1
+
+
 ### Building the Footer 
 ### Module Quiz
 
