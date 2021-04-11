@@ -25,6 +25,7 @@
 - https://bootsnipp.com/
 - https://tympanus.net/codrops/
 - CSS Community https://www.css-discuss.org/ 
+- https://www.smashingmagazine.com/2021/04/vanilla-javascript-code-snippets/
 
 ## Practice:
 * https://100dayscss.com/
