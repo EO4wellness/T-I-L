@@ -183,13 +183,300 @@ Choices: 20px, 15px, 10px;  Correct Answer: 20 px.  Why?  10 px height plus 5 px
 ![results](https://github.com/EO4wellness/T-I-L/blob/main/HTML/SoloLearn/images/result-intro-quiz.png)
 
 ## Working with HTML & CSS
+Now that we have the basic structure of our page, we can start building each of its sections. 
 
 ### Building the Header
 https://www.sololearn.com/learning/1162/4804/12336/1
+* Let's start with the header. 
+* We use h1 and h2 tags for the texts and an a tag for the button. 
+* Also, we wrap the whole header on a container div, so we can style it with CSS:
+* HTML: 
+```
+<header>
+
+<div class="container">
+  <h1>Awesome App</h1>
+  <h2>This app will change your life!</h2>
+  <a class="btn">Download Now</a>
+</div>
+
+</header>
+
+```
+* CSS: 
+```
+header {
+    color: #FFFFFF;
+    background-color: #284b63;
+    padding: 80px 0;
+    text-align: center;
+}
+
+
+```
+* We define corresponding classes for our container div and the Download Now link. 
+* Run the code to see the result. 
+* Next, it is time to add some CSS Styles 
+
+QUIZ: 
+Building the Header: How do you define CSS styles for an element with the class="test"?
+choices: #test, --test, test, .test 
+Correct Answer: .test 
+
+* Now It's time to add some CSS styles to our header elements.
+* Let's start with the h1 and h2 tags:
+* CSS Example Code:
+
+```
+h1 {
+  font-size: 48px;
+  margin: 0 0 16px 0;
+}
+h2 {
+  font-weight: 300;
+  font-size: 24px;
+  margin: 0 0 16px 0;
+}
+```
+
+* Here we define the font sizes and margins. 
+* Recall how the margin values work: 
+* the first value is the top margin, 
+* the second value is the right margin, 
+* third is the bottom margin 
+* and the last one defines the left margin. 
+* This means the values go in the clockwise direction, 
+* starting from the top.
+
+QUIZ: Building The Header
+What is the left margin of the following definition?
+``` margin: 15px 5px 20px 10px; ```
+Choices: 5px, 15px, 10px, 20px
+Correct Answer: 10 px (or the left margin is the LAST parameter specified because we go clockwise from the TOP ) 
+
+* For our container div, we will define the following styles:
+* Example CSS Code:
+```
+.container {
+    margin: 0 auto;
+    padding: 0 20px 0 20px;
+    max-width: 900px;
+}
+```
+* Since our header takes the full width of the browser, 
+* we limited the maximum width 
+* the text container can have to 900px 
+* using the max-width property.
+* This makes the div stop expanding 
+* so that the text does not get too wide.
+* Because we will reuse our container class for other sections, 
+* we defined some left and right paddings, 
+* which ensures that the child elements 
+* stay 20px away from the edges of the screen.
+*  margin: 0 auto; 
+*  ensures that the content stays at the center of the container, 
+*  irrespective of its size.
+*  On a screen that is larger than 900px in width, 
+*  the container div will have the width of 900px,
+*  so we align it to the center of the screen. 
+
+QUIZ: Building the Header: What does margin: 0 autho; do? 
+choices: 
+- Aligns the element to the vertical center
+- Aligns the element to the center of its parent
+- Resets all margins to zeros
+- Sets the right margin to 0
+
+Correct answer: Aligns the element to the center of its parent. 
+
+* Our header is almost ready!
+* However, currently our Download Now button is just a link without any style.
+* To make it look like a button, we need to add the following styles: 
+* CSS Button Example:
+
+```
+.btn {
+    display: inline-block;
+    color: white;
+    font-weight: 500;
+    font-size: 20px;
+    background: #549DA0;
+    border: none;
+    border-radius: 5px;
+    padding: 12px 16px;
+    cursor: pointer;
+}
+```
+
+* The display property specifies the display behavior of the element. 
+* We have set it to inline-block, 
+* so that the link behaves as an inline block container.
+* We have also set the colors and font size, 
+* as well as the border-radius, _resulting in rounded corners_.
+
+QUIZ: Building The Header
+Fill in the blanks to define a style that rounds the corners of the element with 5px radius and sets a 1px black border.
+
+```
+.my-item {
+    border-radius: 5px;
+    border: 1px solid black;
+}
+```
 
 ### Styling the Button 
+* Building the Header
+* Our button also needs a hover effect, 
+* so it changes its background color when the mouse hovers over it.
+* To define the style, we will use the :hover selector:
+* Hover selector CSS Example:
+
+```
+.btn:hover {
+    background: #468486;
+}
+```
+
+* Now, when the cursor hovers over the button, the button's background color changes.
+* Our header section is read!
+* we can run the code to see the result: 
+* [on sololearn](https://www.sololearn.com/learning/1162/4805/12342/1)
+* on GitHub[html](https://github.com/EO4wellness/T-I-L/blob/main/HTML/SoloLearn/course-code/project%20template%20with%20header%2004112021.html) and the corresponding [css](https://github.com/EO4wellness/T-I-L/blob/main/HTML/SoloLearn/course-code/course-template_with-header.css)
+
+QUIZ: Building the Header: Fill in the blanks to define a style for the element.  When the mouse cursor travels over the button, it should change its color to white. 
+
+```
+
+.item:hover{
+  color: white;
+}
+
+```
+NOTE TO SELF:  Need to be careful as I typo "hover" as "hoover" every time--and that doesn't work! 
+
+
 ### Building the Features Section 
+https://www.sololearn.com/learning/1162/4806/12343/1
+* Let's start building our features section:
+* Our goal is to have the finished section [look like this](https://www.sololearn.com/learning/1162/4806/12343/1): 
+* It has 3 features, 3 images, 3 bits of text. 
+* the features are aligned horizontally next to one another
+* we will reuse our CONTAINER div to wrap all  the elements of the features section: 
+* HTML Coding Example:
+
+```
+<section class="features">
+  <div class="container">
+    
+<div class="feature">
+      <img src="https://www.sololearn.com/uploads/img_blue_pin.png" alt=""/>
+      <p>An awesome feature</p>
+    </div>
+
+    <div class="feature">
+      <img src="https://www.sololearn.com/uploads/img_blue_chart.png" alt=""/>
+      <p>An awesome feature</p>
+    </div>
+
+    <div class="feature">
+      <img src="https://www.sololearn.com/uploads/img_blue_msg.png" alt=""/>
+      <p>An awesome feature</p>
+    </div>
+
+  </div>
+</section>  
+
+```
+* Cordinating CSS Example:
+
+```
+@import url(//fonts.googleapis.com/css?family=Open+Sans:400,700,800,300);
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Open Sans','Helvetica Neue',Helvetica, sans-serif;
+    line-height: 1.45;
+}
+section {
+    text-align: center;
+    padding: 40px 0;
+}
+.container {
+    margin: 0 auto;
+    padding: 0 20px 0 20px;
+    max-width: 900px;
+}
+.features {
+    background: #FFFFFF;
+    color: #000000;
+}
+```
+
+* Each feature is wrapped in a div with class "feature", 
+* which we will use to position the features.
+* It contains an image and a paragraph of text.
+* Right now, they are simply positioned below each other, 
+* so we need to add some CSS styles to fix that.
+* We are using sample image files that we have uploaded to our server.
+
+QUIZ: The Features Section: Why are the feature divs positioned below each other?
+- Because divs are block level elements
+- Because of the text inside of the divs
+- Because we have images in them
+- Because divs are inline elements
+Correct Answer: Because these divs are Block Level elements
+
+* The Features Section: In order to position the feature divs 
+* next to each other horizontally, 
+* we will use display: inline-block to make them inline-level block containers 
+* and provide a width:
+* CSS Code Example: 
+
+```
+
+.features {
+    background: #FFFFFF;
+    color: #000000;
+}
+.feature {
+    width: 32%;
+    display: inline-block;
+    font-size:16px;
+}
+.feature img {
+    width:40%;
+}
+
+```
+
+* Because we have 3 features, we gave each feature div 32% of the width of their container.
+* The remaining space will be left for the space between the elements.
+* We also set the width of the images to be 40% of their containers.
+* By using only % values for the widths, 
+* the features will always remain next to each other 
+* and be positioned horizontally, [irrespective of the browser (or device) width](https://www.sololearn.com/learning/1162/4806/12344/1).
+
+QUIZ: The Features Section -
+You have 2 div elements on your page. You need to position them so that the first div occupies 70% of the page and while the second div takes the remaining 30%.
+
+```
+
+.first {
+ width:70%;
+ display:inline-block;
+}
+.second {
+ width:30%;
+ display:inline-block;
+}
+
+```
+
 ### The Quote Section 
+https://www.sololearn.com/learning/1162/4807/12345/1
+
+
 ### Building the Footer 
 ### Module Quiz
 
