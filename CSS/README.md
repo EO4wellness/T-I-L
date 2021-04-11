@@ -12,6 +12,7 @@
 * http://cssdog.com/index.html
 * https://codingwolf-at.hashnode.dev/10-tips-to-write-good-css
 * https://developer.mozilla.org/en-US/docs/Web/CSS 
+* https://codelounge.dev/12-resources-to-improve-your-css-skills-and-speed-up-css-development
 
 # Top Resources to get CSS Snippets.
 
