@@ -100,7 +100,7 @@ In HTML, fill in the blanks to define a valid image tag from the file test.png.
 * We will start by building the desktop version and then will adapt it for mobile and make it responsive.
 * We will use HTML5 semantic tags to define the sections:
 * [SoloLearn Course HTML Template](https://www.sololearn.com/learning/1162/4803/12334/1)
-* [Git Course Template](https://github.com/EO4wellness/T-I-L/blob/main/HTML/SoloLearn/course-code/Responsive%20Web%20Course%20project%20template%2004112021.html)
+* [Git Course HTML Template](https://github.com/EO4wellness/T-I-L/blob/main/HTML/SoloLearn/course-code/Responsive%20Web%20Course%20project%20template%2004112021.html)
 * We used a header tag for the header, 
 * section tags for the features and quote sections, 
 * and a footer tag for the footer.
@@ -121,7 +121,7 @@ QUIZ: Fill in the blanks to define a section element and give it the class name 
 * HTML Structure 
 * Now, we need to add some basic CSS styles to give our sections some color and size.
 * [SoloLearn course CSS template](https://www.sololearn.com/learning/1162/4803/12335/1)
-* [GIT course css template](#)
+* [GIT course css template](https://github.com/EO4wellness/T-I-L/blob/main/HTML/SoloLearn/course-code/course-template.css)
 * We have used padding to give the sections some height. 
 * Since we provided only two values for the padding, it will set both the top and bottom padding to the provided value. (padding: 40px 0; is the same as padding: 40px 0 40px 0;)
 * We have also defined background and text colors for the sections.
@@ -180,7 +180,7 @@ Choices: 20px, 15px, 10px;  Correct Answer: 20 px.  Why?  10 px height plus 5 px
 * an inline element (incorrect)
 * a block-level element (correct)
 
-![results](#)
+![results](https://github.com/EO4wellness/T-I-L/blob/main/HTML/SoloLearn/images/result-intro-quiz.png)
 
 ## Working with HTML & CSS
 
