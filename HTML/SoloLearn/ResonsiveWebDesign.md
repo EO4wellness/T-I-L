@@ -1214,6 +1214,9 @@ Always test your page using different browser widths; you can resize your browse
 
 Modern browsers also support emulating a mobile device screen size, which makes it easy to test using predefined widths.
 
+
+![congrats](https://github.com/EO4wellness/T-I-L/blob/main/HTML/SoloLearn/images/2021-04-12-Finished.png)
+
 ###  Module Quiz 
 1. Which of the following allows you to specify when certain CSS rules should be applied? _media queries_
 
@@ -1235,7 +1238,8 @@ $("#test").show();
 
 5. What is flexbox?  _A CSS layout model_
 
-
+![finished](https://github.com/EO4wellness/T-I-L/blob/main/HTML/SoloLearn/images/EO4Wellnes_SoloLearn_Responsive_course-completion.png)
 
 ## [Certification](https://www.sololearn.com/Certificate/1162-15619122/jpg)
 
+![certified](https://www.sololearn.com/Certificate/1162-15619122/jpg)
