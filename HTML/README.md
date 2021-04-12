@@ -9,7 +9,7 @@
 * [Udacity](https://www.udacity.com/course/intro-to-html-and-css--ud001)
 * [Free-Code-Camp (HTML)](https://www.freecodecamp.org/news/html-and-css-course/)
 * [W3 Schools](https://www.w3schools.com/)
-* SoloLearn Courses: [HTML](https://www.sololearn.com/learning/1014) | [Responsive Web Design](https://www.sololearn.com/Certificate/1162-15619122/jpg)
+* SoloLearn Courses: [HTML](https://www.sololearn.com/Certificate/1014-15619122/jpg) | [Responsive Web Design](https://www.sololearn.com/Certificate/1162-15619122/jpg)
 * [devChallenges](https://devchallenges.io/learn)
 * [What the Flexbox](https://github.com/EO4wellness/What-The-Flexbox/blob/eo4wellness/readme.md)
 * https://dev.to/surajondev/40-useful-resources-for-mastering-web-1i0h 
