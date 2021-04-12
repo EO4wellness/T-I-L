@@ -967,12 +967,83 @@ by default, inline elements are positioned: _next to each other_
 
 ### CSS Units
 https://www.sololearn.com/learning/1162/4814/12364/1
+* An important part of our layout was not using any fixed units for our widths.
+* We used percentage values, which made the elements span relative to the width of their parents.
+* This approach allows elements to be more flexible, 
+* which is essential when putting together a responsive design.
+* CSS also allows you to define relative unit sizes for font-sizes:
+* The em unit size will be relative to the parent's font-size.
+* For example, if our page's body has a font size of 16px, using 1.5em will be equal to 24px (16*1.5):
+* This is useful because when you have to change the font-size, you need to change it only on the top parent.
+* All child elements will get the corresponding relative size from it using the em units. 
+* However, when you define all sizes using em, you would be hit by a cascading effect. 
+* In this situation, you have many nested elements which use font-sizes 
+* relative to their corresponding parents,
+* which results in hard-to-control unit sizes.
 
+Quiz: CSS Units
+What is the font size of a paragraph, that is inside a div element using the following CSS?
+
+```
+body {
+  font-size: 10px;
+}
+
+div {
+  font-size: 0.5em; 
+}
+
+p {
+  font-size: 3em;
+}
+```
+My Answer: 15 px. 
+
+* rem
+* Another relative unit is rem. 
+* It stands for Root Em, 
+* meaning that it only looks at the font-size of the root element, 
+* which is the html element.
+* This makes it easier to use than em.
+* Let's change the font-sizes of our landing page to rem units:
+* We set the html elements font-size to 16px and used that to set all the other font-sizes using rem.
+* You can also use relative CSS units for margins and paddings.
+
+Quiz: rem
+Fill in the blanks to set the font-size of the "test" element to 16px using rem units.
+```
+html {
+  font-size: 8px;
+}
+
+#test {
+  font-size: 2rem;
+}
+```
 
 ### Module Quiz 
 
+1. Create a media query to target screens up to 800px in width.
+```
+@media screen and (max-width:800px) {
+...
+}
+```
 
+2. Values defined using "rem" units are relative to the: _html element_
 
+3. Fill in the blanks to make the "section" element a flexbox container.
+```
+section {
+  display:flex;
+}
+```
+
+4. Which tag is used to define the viewport?  _meta_
+
+5. True/False: You can define a padding using the rem unit.  _True_
+
+![results](https://github.com/EO4wellness/T-I-L/blob/main/HTML/SoloLearn/images/quiz-results2021-04-12.png)
 
 ## Adding JavaScript and JQuery 
 ###  Adding a Submenu
