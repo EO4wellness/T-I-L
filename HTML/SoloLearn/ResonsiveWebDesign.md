@@ -1046,9 +1046,196 @@ section {
 ![results](https://github.com/EO4wellness/T-I-L/blob/main/HTML/SoloLearn/images/quiz-results2021-04-12.png)
 
 ## Adding JavaScript and JQuery 
-###  Adding a Submenu
-###  Adding an Animation
-###  Summary 
-###  Module Quiz 
+* last unit in this course...
 
-## Certification 
+###  Adding a Submenu
+* Modern websites include interactive elements and animations, 
+* which improve the user experience and aesthetics.
+* Let's add a submenu to our responsive landing page that will open 
+* and close when tapping on the Download Now button.
+* Our submenu will be responsive as well -- it will appear over elements on desktop, 
+* and will push down the elements when on mobile. 
+* The submenu will open when you tap on the Download Now button.
+
+![desktop-example](https://github.com/EO4wellness/T-I-L/blob/main/HTML/SoloLearn/images/example-dropdown-menu-desktop.png)
+
+![mobile-example](https://github.com/EO4wellness/T-I-L/blob/main/HTML/SoloLearn/images/example-dropdown-menu-menu.png)
+
+Submenu Quiz:
+Fill in the blanks to create a link to "www.sololearn.com".
+```
+<a href="https://www.sololearn.com">  Click me </a>
+```
+
+* We start by creating the submenu using HTML/CSS.
+* Our submenu will be a simple div element with links inside our header's container div:
+* HTML code example:
+```
+
+<div class="submenu">
+   <a href="#">Link 1</a>
+   <a href="#">Link 2</a>
+</div> 
+
+```
+
+* Then, we will style it using CSS:
+```
+.submenu {
+    left: 50%;
+    transform: translate(-50%, 0);
+    text-align:center;
+    position: absolute;
+    background-color: #549DA0;
+    min-width: 160px;
+    border-radius: 5px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+}
+.submenu a {
+    color: white;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+.submenu a:hover {
+    background-color: #468486;
+}
+```
+* We used a CSS hack in order to position our submenu in the center of the screen. 
+* The combination of absolute positioning, using the left and transform property, 
+* results in our submenu being positioned in the center of the screen 
+* and opened over the page elements. 
+* We also used display: block; for our links, to make them behave as block-level elements.
+
+QUIZ: A submenu 
+Where will the following div get positioned?
+```
+div {
+
+    position: absolute;
+
+    bottom: 0;
+
+    right: 0;
+
+}
+```
+Answer:  bottom right corner
+
+* to finish work on our submenu, now it is time to use CSS in our media query.
+* We need to make the submenu wider and push down the page, instead of opening it over the elements.
+* We only need to change the width and the position property of the submenu. 
+* Currently, the submenu is always open. We will add the open/close animation in the next lesson.
+
+Quiz: A Submenu 
+Position the element with the id="test" to the top right corner of its parent. 
+```
+# test {
+  position:absolute;
+  top:0;
+  right:0;
+}
+```
+
+###  Adding an Animation
+https://www.sololearn.com/learning/1162/4812/12454/1
+* Let's use JavaScript to open/close the submenu when the button is tapped.
+* Since we want to open the submenu using a nice sliding animation,
+* we will use the JQuery library, which supports simple animations.
+* We start by including jQuery in our page:
+```
+<head>
+  <title>App Landing Page</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <script src="https://code.jquery.com/jquery-3.6.0.js"></script>
+</head> 
+```
+* We used the script tag to import the jQuery library.
+* jQuery is a fast, small, and feature-rich JavaScript library.
+* It makes things like HTML document traversal and manipulation, event handling, 
+* and animation much simpler.
+* Learn more with our [jQuery Tutorial](https://www.sololearn.com/learning/1082).
+* Helped out with [course deadlink](https://www.sololearn.com/Discuss/2753255/404-error-in-responsive-course-link-update-needed)
+
+Quiz: Animation
+What is the file extension of the jQuery library?  _.js_
+
+* I had questions about this, so I did some googling about typical file extensions. 
+
+
+      All jQuery code is JavaScript, but jQuery doesn't include all the JavaScript code. 
+      One thing you should understand is that they are not two programming languages; 
+      instead, they both are JavaScript. jQuery is just optimized to do the common 
+      scripting functions with fewer lines of code
+
+* Also, found a nifty artcile about discovering file extension types: https://www.encodedna.com/2014/02/find-the-file-extension-using-javascript-jquery.htm 
+* https://stackoverflow.com/questions/14852090/jquery-check-for-file-extension-before-uploading 
+* https://code.jquery.com/jquery-3.6.0.js
+
+* Animation:
+* We need to handle the click event of our button, which should open and close our submenu.
+* We will use the slideToggle() method, which switches between visible
+* and invisible states of the element selected using a slide animation:
+```
+$(function() {
+    $(".btn").click(function() {
+        $(".submenu").slideToggle(500);
+    });
+}); 
+```
+* In the .js code above, we handled the click event of out .btn, 
+* selected the .submenu element and opened/closed it 
+* using the slideToggle method, providing 500ms for the animation speed.
+* Now, the only thing left is to hide the submenu by default:
+* https://www.sololearn.com/learning/1162/4812/12455/1 
+* We have a fully functional submenu, which uses a slide animation.
+* Customize the code and create your own unique animations and effects!
+* Share your creation in the comments section below.
+
+Quiz: Animation
+Fill in the blanks to ahndle the click event of the ".download" button 
+```
+$(".download").click(function() {
+  alert("Clicked");
+});
+```
+
+###  Summary 
+
+Congratulations, you have completed our Responsive Web Design Course!
+
+Here are some of the most common practices to follow when building a responsive web page:
+- Use relative units (such as percentages) for the sizes of the elements and fonts.
+- Use CSS media queries to define breakpoints and layout changes.
+- Define the viewport to adapt to mobile screens.
+- Use CSS Flexbox to make it easier to create flexible layouts.
+
+Always test your page using different browser widths; you can resize your browser to see how your page adapts to the new width.
+
+Modern browsers also support emulating a mobile device screen size, which makes it easy to test using predefined widths.
+
+###  Module Quiz 
+1. Which of the following allows you to specify when certain CSS rules should be applied? _media queries_
+
+2. Using JQuery, fill in the blanks to show an alert message when the document is ready. 
+
+```
+$(function(){
+  alert("Hey");
+});
+```
+
+3. Which tag is used to include the JQuery library? _script_
+
+4. Using JQuery, fill in the blanks to call the show() function for the element with the id="test".
+
+```
+$("#test").show();
+```
+
+5. What is flexbox?  _A CSS layout model_
+
+
+
+## [Certification](https://www.sololearn.com/Certificate/1162-15619122/jpg)
+
