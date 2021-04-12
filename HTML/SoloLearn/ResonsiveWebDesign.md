@@ -795,9 +795,184 @@ Create a media query to target screens with width 480px up to 800px.
 
 
 ### Reponsive Features 
+* On a mobile screen we want to change the text-size of our header texts 
+* and make the Download Now button span the entire width of the container.
+* To accomplish this, we define the corresponding styles in our media query:
+* As you can see, we changed some font-size properties, 
+* changed the paddings of the section container, 
+* and changed the button's display property to block, 
+* making it a block level element which takes the whole width of its container.
+
+![The result on a mobile screen:](https://github.com/EO4wellness/T-I-L/blob/main/HTML/SoloLearn/images/screenshot-course-example-different-screen-sizes.png)
+
+* Note, that we do not need to redefine the whole style for the elements in the media query. 
+* We only need to define the style we want to change.
+
+Quiz: 
+
 ### Responsive Quote and Footer 
+What is the font-size of the button on a 800px screen?
+```
+button {
+
+  font-size: 18px;
+
+}
+
+@media screen and (min-width: 480px) {
+
+  button {
+
+    font-size: 16px;
+
+  }
+
+}
+```
+My Answer: 16px
+
+* Time to make the features section responsive!
+* It currently includes 3 features aligned next to each other.
+* On a small screen we want to place them horizontally, 
+* with each feature taking the entire width of the container.
+* Here is the style that we will use in our media query:
+* We changed the width of each feature div to 100% and set the display property to flex 
+* which makes the div a flexbox container. 
+* This allows us to position the child features horizontally 
+* and also set the alignment of its child elements -- the icon and the text -- 
+* using the align-items and justify-content properties.
+* We also set the width of the icons and defined some margins. 
+* Now, the features will be aligned next to each other on larger screens 
+* and under each other on smaller screens.
+
+Quiz: Responsive Features 
+to create a flexbox layout, you need to set display: flex, on: 
+
+Choices: the head element; the child elements; the meta element; the parent container. 
+My Answer: The Parent container. 
+
+* Flexbox
+* The flexbox layout model allows to create flexible layouts easily, 
+* without the need to use CSS positioning and floats.
+* Let's demonstrate how it works using a simple example:
+* 
+```
+
+<div class="container">
+  <div>A</div>
+  <div>B</div>
+  <div>C</div>
+</div>  
+
+```
+
+* To use flexbox, we first define a container 
+* and set its display property to flex.
+
+```
+
+.container {
+  display: flex;
+}
+
+```
+
+* Now, we can play around with the alignments of the child div elements 
+* using flexbox properties:
+* This will make all child elements ahve the same width
+* flex:1
+* and fill the enitre containder width
+* you can read more about flexbox here: [A complete guide to flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+
+* HTML
+```
+<div class="container">
+    <div>A</div>
+    <div>B</div>
+    <div>C</div>
+</div>
+```
+* CSS
+```
+.container {
+  display: flex;
+  align-items: stretch;
+}
+.container div {
+  background-color: red;
+  margin: 10px;
+  text-align: center;
+  line-height: 75px;
+  font-size: 30px; 
+  flex: 1;
+}
+```
+https://www.sololearn.com/learning/1162/4818/12361/1
+
+Quiz: Flexbox
+A container div encloses multiple child divs.
+
+What is the width of the div with id="test" if the div with id="one" is 100px in width?
+
+The following CSS is used for the divs.
+```
+.container {
+
+display: flex;
+
+align-items: stretch;
+
+}
+
+.container #one {
+
+flex: 1;
+
+}
+
+.container #test {
+
+flex: 2;
+
+}
+```
+My Answer:  200 px 
+
+* Responsive Quote
+* For our quote section, we will just change the text size and some paddings:
+* We don't need to change the position of the section elements, as they are already aligned to the center of the screen. 
+* Run the code to see the result. https://www.sololearn.com/learning/1162/4819/12362/1
+
+Quiz: Responsive quote 
+Fill in the blanks to define a padding style that sets the left padding to 15px, the right padding to 5px, and the top and bottom paddings to 0.
+```
+padding: 0 5px 0 15px;
+```
+
+* Responsive Footer
+* Last, but not least, we need to change our footer section.
+* We need to position the menu links below each other:
+* The display:block; style makes the list items block level elements 
+* so they take the entire width of their container. 
+* This makes the items align under each other: 
+
+![screenshot-example](https://github.com/EO4wellness/T-I-L/blob/main/HTML/SoloLearn/images/footer-example.png)
+
+
+* Now our landing page is fully responsive, having different layouts for mobile and desktop screens. 
+* Customize the landing page, add more sections and breakpoints, and share your creation in the comments section below!
+
+Quiz: Responsive Footer 
+by default, inline elements are positioned: _next to each other_
+
 ### CSS Units
+https://www.sololearn.com/learning/1162/4814/12364/1
+
+
 ### Module Quiz 
+
+
+
 
 ## Adding JavaScript and JQuery 
 ###  Adding a Submenu
