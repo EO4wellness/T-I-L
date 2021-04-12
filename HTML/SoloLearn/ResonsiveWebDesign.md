@@ -475,10 +475,192 @@ You have 2 div elements on your page. You need to position them so that the firs
 
 ### The Quote Section 
 https://www.sololearn.com/learning/1162/4807/12345/1
+* Typical to may pages, the quote section contains testimonials from satisfied customer(s)
+* Let's build the HTML using semantic tags:
 
+```
+<section class="quote">
+  <blockquote class="container">
+    <p>"Some great quote!"</p>
+    <cite>Satisfied Customer</cite>
+  </blockquote>
+</section> 
+```
+
+* We used the blockquote tag as the container and reused our container class on it.
+* Inside the blockquote, we have a paragraph of text representing the quote, and a cite tag, containing the name of the customer.
+* The blockquote element specifies a section that is quoted, while cite is used to define a title.
+
+QUIZ: The Quote Section
+Build the correct HTML structure to display text from the SoloLearn website and show it as the source.
+
+```
+<blockquote>
+  <p>Learn Playing, Play Learning</p>
+  <cite>www.sololearn.com</cite>
+</blockquote>
+```
+
+* The Quote section: Time to define the styles! 
+* First, we need to reset the padding/margin of the blockquote element 
+* since the browsers have some default values for them.
+* We also define the font sizes and margins for the elements.
+* Last but not least, we use the :before selector to set a dash before the cite element.
+* We could have added the dash in the text of the cite tag, but this is a fancier way of doing the same thing.
+
+QUIZ: The Quote Section
+Fill in the blanks to add three stars *** before and after all div elements of the page.
+
+```
+
+div:before {
+  content:"***";
+}
+div:after {
+  content;"***";
+}
+
+```
 
 ### Building the Footer 
+* The last section of a typical landing page is the footer. 
+* Generally it has some type of menu and copyright info. 
+* It is common practice to use a list for the menu items. 
+* We have reused our container div to provide the necessary paddings and center alignment.
+* Each of the menu links are contained in list items.
+* The copyright text is a simple paragraph.
+* By default, the list items are styled as a vertical bullet list. 
+* We will change that style with CSS in the next part of this lesson.
+* HTML Example:
+
+```
+<footer>
+  <div class="container">
+    <ul>
+      <li><a href="#">Home</a></li>
+      <li><a href="#">About</a></li>
+      <li><a href="#">Contacts</a></li>
+    </ul>
+    <p>&copy; All rights reserved.</p>
+  </div>
+</footer> 
+
+```
+
+* CSS Example: 
+
+```
+footer {
+    background: #353535;
+    padding: 32px 0;
+    text-align: center;
+    color: #868686;
+}
+.container {
+    margin: 0 auto;
+    padding: 0 20px 0 20px;
+    max-width: 900px;
+}
+
+```
+* [course basic footer template example](https://www.sololearn.com/learning/1162/4808/12347/1)
+
+Quiz: Building the Footer 
+Fill in the blanks to create a list of items.
+
+```
+<ul>
+   <li>One</li>
+   <li>Two</li>
+   <li>Three</li>
+</ul>
+
+```
+
+* To make the menu list horizontal and remove the bullets, we used list-style: none; for the ul element.
+* We also set display: inline-block; 
+* for the list items to make them inline-level element containers 
+* and so they are positioned next to each other horizontally.
+* The rest of the styles are simple text and background colors, as well as text sizes.
+* Run the code to see the result. 
+* [We have completed building the desktop version of our landing page!](https://www.sololearn.com/learning/1162/4808/12354/1)
+* However, while it always occupies the entire width of the browser, 
+* it is not really responsive, as the layout remains the same for smaller screens 
+* and is not very mobile-friendly.
+* We will make it responsive in the next module! 
+
 ### Module Quiz
+1. Building The Footer
+Fill in the blanks to align the list items to the left, position them below each other, and remove the bullet point.
+
+```
+
+ul {
+  margin: 0;
+  padding: 0;
+  list-style:none;
+  text-align:left;
+}
+
+```
+
+2. Define the correct styles for the ul and li elements to arrange the list elements next to each other horizontally without any bullet points.
+
+```
+
+ul {
+  list-style:none;
+}
+
+li {
+  display:inline;
+}
+
+```
+
+3. Your HTML page has 2 div elements with the ids "left" and "right". Define the correct CSS styles to make the "left" div take 60% of the page, and the "right" div 40% of the page.
+
+```
+
+# left {
+  display: inline-block;
+  width: 60%; 
+}
+
+# right {
+  display: inline-block;
+  width: 40% 
+}
+
+```
+
+4. Your HTML includes 3 div elements with some content.  Define the correct style to make the divs arrange horizontally next to each other, instead of being on separate lines. Also, define a 1px wide green border for the divs.
+
+```
+
+div {
+  display:inline-block;
+  border:1px solid green;
+}
+
+```
+
+
+5. What will be the total width of the following div?
+
+```
+
+div {
+  width:100px;
+  padding:10px;
+  margin:5px;
+}
+
+```
+
+Choices: 110px, 130px, 100px, 120px. 
+My Answer: 120 px. 
+
 
 ## Make it Responsive 
 ### The Viewport 
