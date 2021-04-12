@@ -12,6 +12,7 @@
 * [SoloLearn](https://www.sololearn.com/learning/1014)
 * [devChallenges](https://devchallenges.io/learn)
 * [What the Flexbox](https://github.com/EO4wellness/What-The-Flexbox/blob/eo4wellness/readme.md)
+* https://dev.to/surajondev/40-useful-resources-for-mastering-web-1i0h 
 
 ## My HTML Coursework: 
 * [Udacity](#)
