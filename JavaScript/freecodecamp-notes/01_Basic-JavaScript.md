@@ -763,9 +763,10 @@ If myVal is equal to 10, the equality operator returns true, so the code in the 
 *
 * CODE ASSIGNMENT: Use the strict equality operator in the if statement so the function will return the string Equal when val is strictly equal to 7
 
-## [Practice comparing different values](#)
-*
-* CODE ASSIGNMENT:
+## [Practice comparing different values](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/practice-comparing-different-values)
+* In the last two challenges, we learned about the equality operator (==) and the strict equality operator (===). Let's do a quick review and practice using these operators some more.
+* If the values being compared are not of the same type, the equality operator will perform a type conversion, and then evaluate the values. However, the strict equality operator will compare both the data type and value as-is, without converting one type to the other.
+* CODE ASSIGNMENT: The compareEquality function in the editor compares two values using the equality operator. Modify the function so that it returns the string Equal only when the values are strictly equal.
 
 ## [Comparison with the Inequality Operator](#)
 *
