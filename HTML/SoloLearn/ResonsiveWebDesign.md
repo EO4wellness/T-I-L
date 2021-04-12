@@ -662,10 +662,138 @@ Choices: 110px, 130px, 100px, 120px.
 My Answer: 120 px. 
 
 
+![result](https://github.com/EO4wellness/T-I-L/blob/main/HTML/SoloLearn/images/2021-04-12-quiz-results.png)
+
+
 ## Make it Responsive 
+* Having completed the main content styling, now we move onwards to make the template we're creating more mobile friendly. 
+
 ### The Viewport 
+* Before we start making our landing page responsive, we need to cover a few concepts.
+* The first concept is the viewport: the visible area of a web page.
+* Usually, a web page with a fixed width becomes too large to fit the viewport on a small screen, 
+* such as a mobile device or tablet. 
+* To fix this, browsers on those devices scaled down the entire web page to fit the screen.
+* You can control the viewport of your web pages. 
+
+QUIZ: Viewport 
+What is the view port? 
+  - the invisible area of a web page 
+  - a mobile-friendly website
+  - the visible area of a web page (correct answer)
+  - an HTTP port
+
+* You can control your viewport in HTML5 using a meta tag:
+* HTML example:
+
+```
+<meta name="viewport" content="width=device-width, initial-scale=1.0">  
+```
+* width=device-width sets the width of the page to follow the screen-width of the device.
+* initial-scale=1.0 sets the initial zoom level when the page is first loaded by the browser.
+* You can also use custom values for the viewport tag, 
+* however in most cases it is recommended you use the defaults by applying the device-width value.
+
+Quiz: Viewport
+Fill in the blanks to define a default viewport, which takes the whole width of the screen and sets the zoom level to 1.0.
+
+```
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+```
+
+_Unless the course goes into this in greater depth, later, I find this discussion is MISSING an important detail--this should be a part of the HTML header tags (not the body) and it is standard practie to include this right after the <!HTML... statement._
+
 ### Media Queries 
+* Media queries provide the ability to specify different CSS styles for different widths of the viewport, 
+* or other specifications.
+* This makes it possible for a web page to define different layout styles for different screen sizes
+* and make the page responsive!
+* You define a media query using the @media rule inside of your existing style sheet:
+*  CSS CODE EXAMPLE: 
+
+```
+@media screen and (max-width: 600px) {
+   body {
+     background-color: blue;
+   }
+}
+```
+ 
+* The @media rule is followed by the media type we are targeting 
+* (the screen in our case) 
+* and sets the condition when the rules apply 
+* (max-width:600px in our case).
+* So now, the style will apply if the page has a width up to 600px.
+
+QUIZ: Media Queries 
+Define a media query for screen sizes up to 800px
+```
+@media screen and (max-width:800px) {...}
+```
+
+* You can also define multiple conditions, 
+* for example a max and min width of the viewport:
+* @media screen and (min-width: 800px) and (max-width: 1024px) {
+* CSS Code Example: 
+```
+   body {
+
+     background-color: blue;
+
+  }
+
+}  
+```
+
+* Now the style will apply for screen sizes from 800 to 1024px.
+* You can also define multiple media queries for a single web page.
+* Media queries allow you to define breakpoints when the page layout 
+* and style should change, 
+* as well as define the corresponding CSS styles for these breakpoints.
+
+Quiz: Media Queries
+What will be the color of a paragraph of text on a 800px screen using the following styles?
+
+
+```
+p {
+
+  color: red;
+
+}
+
+@media screen and (max-width: 1024px) {
+
+p {
+
+  color: blue;
+
+}
+
+}
+```
+My Answer: Blue. 
+
+
 ### Responsive Header 
+https://www.sololearn.com/learning/1162/4817/12358/1
+* Now, that we know how to define CSS styles for different screen sizes, 
+* we can start making our landing page responsive!
+* A typical breakpoint for a mobile screen is 480px width.
+* Let's define the viewport and empty media query target for our landing page:
+* We will create separate styles for our sections when the screen size is lower than 480px in width.
+* 480px is the typical breakpoint for mobile devices.
+
+
+Quiz: Responsive Header
+Create a media query to target screens with width 480px up to 800px.
+```
+@media screen and (min-width:480px) and (max-width:800px) {
+...
+]
+```
+
+
 ### Reponsive Features 
 ### Responsive Quote and Footer 
 ### CSS Units
