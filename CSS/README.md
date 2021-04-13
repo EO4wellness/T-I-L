@@ -27,6 +27,7 @@
 - https://tympanus.net/codrops/
 - CSS Community https://www.css-discuss.org/ 
 - https://www.smashingmagazine.com/2021/04/vanilla-javascript-code-snippets/
+- https://dev.to/babib/amazing-pure-html-and-css-background-animations-4dim
 
 ## Practice:
 * https://100dayscss.com/
