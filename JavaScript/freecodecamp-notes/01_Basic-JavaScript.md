@@ -768,15 +768,17 @@ If myVal is equal to 10, the equality operator returns true, so the code in the 
 * If the values being compared are not of the same type, the equality operator will perform a type conversion, and then evaluate the values. However, the strict equality operator will compare both the data type and value as-is, without converting one type to the other.
 * CODE ASSIGNMENT: The compareEquality function in the editor compares two values using the equality operator. Modify the function so that it returns the string Equal only when the values are strictly equal.
 
-## [Comparison with the Inequality Operator](#)
-*
-* CODE ASSIGNMENT:
+## [Comparison with the Inequality Operator](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/comparison-with-the-inequality-operator)
+* != is the inequality operator
+* it will return true if something is not equal to the value
+* it will return false if it is equal 
+* CODE ASSIGNMENT: Add the inequality operator != in the if statement so that the function will return the string Not Equal when val is not equivalent to 99
 
-## [Comparison with the Strict Inequality Operator](#)
-*
-* CODE ASSIGNMENT:
+## [Comparison with the Strict Inequality Operator](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/comparison-with-the-strict-inequality-operator)
+* The strict inequality operator (!==) is the logical opposite of the strict equality operator. It means "Strictly Not Equal" and returns false where strict equality would return true and vice versa. The strict inequality operator will not convert data types.
+* CODE ASSIGNMENT: Add the strict inequality operator to the if statement so the function will return the string Not Equal when val is not strictly equal to 17
 
-## [Comparison with the Greater Than Operator](#)
+## [Comparison with the Greater Than Operator](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/comparison-with-the-greater-than-operator)
 *
 * CODE ASSIGNMENT:
 
