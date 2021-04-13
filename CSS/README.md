@@ -13,6 +13,8 @@
 * https://codingwolf-at.hashnode.dev/10-tips-to-write-good-css
 * https://developer.mozilla.org/en-US/docs/Web/CSS 
 * https://codelounge.dev/12-resources-to-improve-your-css-skills-and-speed-up-css-development
+* [CSS Variables](https://dev.to/afif/what-no-one-told-you-about-css-variables-553o)
+* [Animations](https://dev.to/babib/amazing-pure-html-and-css-background-animations-4dim)
 
 # Top Resources to get CSS Snippets.
 
@@ -27,7 +29,7 @@
 - https://tympanus.net/codrops/
 - CSS Community https://www.css-discuss.org/ 
 - https://www.smashingmagazine.com/2021/04/vanilla-javascript-code-snippets/
-- https://dev.to/babib/amazing-pure-html-and-css-background-animations-4dim
+
 
 ## Practice:
 * https://100dayscss.com/
