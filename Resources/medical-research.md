@@ -267,3 +267,61 @@ Publishing data helps advance a researcher’s career, credibility, and reputati
 * mediators are things which fall allong the causal pathway such as "lung damage" 
 * smoking-->lung damage-->lung cancer 
 * counfounder: a 3rd variable 
+
+[Week 3](https://www.coursera.org/learn/medical-research/supplement/TtsEN/module-preview)
+In "Types of Data" we'll teach you some relevant statistical jargon so you'll be able to "talk the talk" and understand more deeply the processes being described by researchers. We'll talk about how researchers think about data and explain why know what type of data you're dealing with matters for a whole host of reasons. 
+
+In "Averages by Other Names" we'll talk "mean" and "median" and when it's appropriate to use one of the other. Then we'll teach you how to play blackjack and you'll learn about normal data, standard deviation, tendency and dispersion along the way. 
+
+You always hear that some such percentage of Americans are obese, but if you're an American odds are no one has come to your home and weighed you recently. So how can scientists know this? "Sampling the Secret Sauce of Statistics"  answers how they're able to do this. We'll show you how estimates are made using sample populations and talk about what makes for good vs. bad samples. 
+
+Next, "Statistics as an Onion' will explain the importance of the denominator. You'll learn how the numbers that statistics are based on can be layered from count to ratio to ratio of ratios! 
+
+We'll let you in on the biggest secret in medicine "Relative vs. Absolute Risk" and introduce you to the concept of number needed to treat (more on this later).
+
+We'll wrap up the module by teaching you all "The Power and the Problem with the P-Value." Does this feel esoteric? Sure. But  P-value is incredibly important non the less. We'll begin to talk about what "significance" means in medical studies and describe what you should really do to interpret whether a study's results are "significant" or not. 
+
+How do scientist generate a P-Value? In "Choosing a Statistical Test" we'll teach you how scientists decide which tests to use given different types of exposure and outcome data.  No math, just a handy chart!
+
+What happens if a study's P-value deems its results "Not Statistically Significant." Well, might still be very useful. "Interpretation of "Negative" Studies" explains about what should be done with negative studies (STILL VERY USEFUL) and how to tell them apart from "underpowered studies" (USELESS). 
+
+# Types of Data 
+* Relevant Jargon
+* How they think about data 
+* why data type(s) mater 
+
+What type of Data do you Have? 
+1. Categorical Data (male, female, cannot be ordered) 
+2. Continuous (measurements: weight length price age cholesterol level) 
+3. Ordinal (the order is clear but the relationship between the numbers is not clear) 
+
+Continuous data - they want to know if it is "Normal data" (normal distribution) 
+Normal means BELL CURVE 
+
+non-normal data means something other than the bell shaped curve 
+
+much of the math we use to analyse the data makes the assumption the data is normal (bell shaped curve)
+
+
+## Qualittative data 
+- focus groups 
+- open-ended discussions 
+- it is harder to measure
+- it is harder to compare
+- it isn't mathematically calculated 
+- but it is important 
+
+
+Graph: Histogram relative frequency of different outcomes over time. 
+Normal data can be expressed with just two numbers: mean / standard deviation 
+Median: the value which divides all of your given data in half. 
+IQR: interquartile Range 
+
+## Take Home Points
+* studys accomulate raw data 
+* the statistics are a summary, using math, of the raw data 
+* mean | standard deviation express mathematically the normal distribution of the data
+* if an author gives you means and standard devitions, they imply the data is normal (bell shaped0
+* if the author gives you median and interquartile ranges, they are implying the data is not bell shaped) 
+
+https://www.coursera.org/learn/medical-research/lecture/we8t9/sampling-the-secret-sauce-of-statistics
