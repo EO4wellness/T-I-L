@@ -235,3 +235,16 @@ Publishing data helps advance a researcher’s career, credibility, and reputati
 * Understand a manuscript is highly structured 
 * rules to writing them
 * rules to reading them 
+
+## Take Aways:
+* One study is almost NEVER enough
+* a positive study doesn't mean the hypothesis is true 
+* it means the study is positive but replication is needed
+* a negative study doesn't mean the drug doesn't work 
+* it doesn't mean the hypothesis is false
+* it may mean that--but it may be faulty 
+* replication fixes science 
+* replication allows iteratively improvement of our knowledge 
+* we are not incetivized to replicate
+* we are incentivized to innovate 
+* health-dose of skepticism 
