@@ -23,6 +23,7 @@ To use Python, you must first install it. I've had my download set up since 2019
 * [Python Online Tutorials](https://www.python-course.eu/index.php)
 * [Free Code Camp Python Certification](https://www.freecodecamp.org/learn) and my [course notes from this resource](https://github.com/EO4wellness/T-I-L/tree/main/python/FreeCode-Camp)
 * https://renanmf.com/string-manipulation-in-python/
+* https://learn.datacamp.com/
 
 # Projects
 There is no way to learn code other than getting experience coding.  Here are some places to gain that experience and some projects to give a try. 
