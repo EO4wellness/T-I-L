@@ -85,5 +85,153 @@ Lesson Guide:
 
 34. Putting It All Together —  Parting is such sweet sorrow.  You’ve got the pieces, let’s look at the whole puzzle.  We’ll give you the BIG take home points and say goodbye! 
 
-[Week 2](https://www.coursera.org/learn/medical-research/supplement/dzWcq/module-preview)
 
+# [Week 2](https://www.coursera.org/learn/medical-research/supplement/dzWcq/module-preview)
+In "How Research Works" we'll talk about the process of going from a hypothesis all the way to a published manuscript. I'll describe the two main paths papers can take to reach publication. Along the way I'll talk about the role peer review plays in the process and we'll also delve into some to the perverse incentives at play in the world of medical research.
+
+In "The Medical Manuscript" we'll dissect a typical research paper. Learn the rules for writing them and simultaneously, the rules for reading them. 
+
+In "The Replication Crisis" you'll learn about THE big problem plaguing almost all new medical research, we'll discuss the difference between a positive and a true study. And you'll see why one paper is almost never enough. 
+
+Lastly in "The Question is - what is the Question?" I'll tell you why studies can't always ask the question they really want to be asking in their studies. I'll talk about the various methods they use to get around this issue. Along the way you'll be introduced to the exposure/outcome paradigm and causal pathways. 
+
+## How Research Works 
+* Big Picture "10,000 feet view" 
+* How to Get from A to Z
+* From the Hypothesis to the Manuscript 
+* Concept of Peer Review 
+* Open Data 
+* how Open Data gets broken 
+* Perverse incentives 
+* What you see is not always what you get. 
+* Research costs a ton of money. 
+* US: 100 billion a year or more 
+* NIH 33 billion 
+* Mary Lasker "If you think research is expensive, try disease" 
+* Human Genome project: 3.8 billion invested-return more than 1 trillion 
+* Womens Health Initiative Clinical Trial: 250 million returned 37 billion in savings  
+* Quiz:  What are sources of funding for medical research: Pharmaceutical industries, the government(s), philanthropic foundations, crowdfunding platforms. 
+* Quiz: How could the Human Genome Project result in 1 trillion in economic growth? it created jobs, it lowered the cost of dna sequencing, it generated local, state and federal tax revenues. 
+
+## Process: (Academia)
+* Research Question
+* Hypothesis
+* Idea to test the Hypothesis
+* How are we going to pay for this research?
+* Write a grant
+* Revise the Grant
+* Reapply (over and over)
+* Grant Funded
+* conduct the study
+* collect the data 
+* analyze data write manuscript
+* submit manuscript 
+* peer review
+* criticize
+* revise manuscript 
+* rewrite manuscript
+* manuscript accepted (published)
+* this process can take a decade or more
+
+## Process (Industry) 
+they have their own money so the process changes a bit...
+* Promising Agent 
+* Conduct a Study 
+* Collect Data 
+* Analyze Data 
+* Write Manuscript
+* Submit Manuscript 
+* Peer review 
+* Revise Manuscript 
+* Published Manuscript
+
+## Peer Review 
+* annonymous
+* can be rough in their replies 
+* constructive review 
+* hit or miss 
+
+Quiz:  What is the main difference between academic and industry research?  _A grant for external funding is usually written only in academia, not in industry._
+
+## Publication 
+* researchers are charged to publish a paper 
+* Open Access Journals 
+* Paywalls (to read)
+* Getting around the paywalls
+  - ask a librarian 
+  - check out pubmed centeral (if the gov pays for research, it must be public!) caveot-a year or more behind
+  - Google scholar 
+  - Ask the Authors! 
+
+## Open Access Journals:
+* The Good:
+  - Many journals
+  - Offer freely available access
+  - no one is excluded 
+  - open to people to read/view 
+  - allows for broader dissemination
+  - entirely open access
+  - example:  PLOS One 
+* The Bad: 
+  - the cost to publishers is very high 
+  - 2000 to 5000 or more to publish one paper
+  - preditory fake open access 
+  - spam authors to appear in their journals  
+  - some open access journals are basically scams
+  - it can be hard to know which is which 
+  - see the journal metrics for better discernment 
+
+## Judge Journals by Journal Metrics
+* Ask someone who works int he field: Have you ever heard of the ___ Journal? 
+* Impact Factor: the average # of times a paper gets cited. 
+* Average article in the journal gets cited ____ times (higher is better)
+* Preditor journals usually have an average impact factor of LESS THAN ONE
+
+Quiz:
+You come across a ground-breaking research study in the International Journal of Dairy Products that has proven that eating cheese helps you lose weight. 
+
+You are skeptical of this claim and want to dig further. What are some steps you can take? Check all that apply.
+
+Ask your cousin who is a dairy process engineer.
+Correct
+
+If you come across some surprising scientific information in a journal, it is always good to verify the results with someone you might know who works in the same field.
+
+ Ensure that the journal’s impact factor is a low number.
+
+ Ensure that the journal’s impact factor is a high number.
+Correct
+
+You can also do a quick google search to ensure that the impact factor is a high number, which means that articles from that journal have been cited several times by other articles.
+
+ Write to the authors asking them to verify the results.
+ 
+ ## Perverse Incentives
+ * Job is dependent on publishing 
+ * incentive to make your lab/hypothesis to look good
+ * even if the experiment fails, it should be published (but egos / careers don't do this)
+
+Quiz
+What are some of the reasons that researchers publish their data? Check all that apply.
+
+Publishing helps in career advancement.
+Correct
+
+Publishing data helps advance a researcher’s career, credibility, and reputation,  and of course, helps spread important scientific knowledge to the greater community! 
+
+They earn money per article view.
+
+It helps them build a good reputation.
+Correct
+
+Publishing data helps advance a researcher’s career, credibility, and reputation,  and of course, helps spread important scientific knowledge to the greater community! 
+
+For the greater good! They want to spread the knowledge!
+Correct
+
+Publishing data helps advance a researcher’s career, credibility, and reputation, and of course, helps spread important scientific knowledge to the greater community! 
+
+# The Medical Manuscript 
+* Understand a manuscript is highly structured 
+* rules to writing them
+* rules to reading them 
