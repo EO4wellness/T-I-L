@@ -248,3 +248,22 @@ Publishing data helps advance a researcher’s career, credibility, and reputati
 * we are not incetivized to replicate
 * we are incentivized to innovate 
 * health-dose of skepticism 
+
+# What is the Question 
+* What did the researchers want to ask? 
+* What did the researchers ask? 
+* asking these questions, helps us figure out spin from truth 
+* what is Exposure: 
+   - something we do to you (give you a medication)
+   - something you are (age, gender, etc)
+   - measurement (weight, height, high cholesterol)
+* Varying exposures (some change some don't)
+* Outcomes: something that happens to you, something measurable about you
+* Hard outcomes: rates of birth, rates of death, quality of life 
+* soft outcomes: everything else 
+* Causal Diagrams - conceptational models 
+* drawn on a piece of paper diagraming the exposure leading to an outcome 
+* example: smoking leads to lung cancer 
+* mediators are things which fall allong the causal pathway such as "lung damage" 
+* smoking-->lung damage-->lung cancer 
+* counfounder: a 3rd variable 
