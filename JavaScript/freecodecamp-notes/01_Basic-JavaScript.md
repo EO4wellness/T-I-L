@@ -107,9 +107,6 @@
 
 _End of 2021-02-12 Study Session_
 
-## [Understanding Case Sensitivity in Variables](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/understanding-case-sensitivity-in-variables)
-*
-* CODE ASSIGNMENT: 
 
 ## [Understanding Case Sensitivity in Variables](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/understanding-case-sensitivity-in-variables)
 * all variables are case sensitive.
@@ -779,18 +776,55 @@ If myVal is equal to 10, the equality operator returns true, so the code in the 
 * CODE ASSIGNMENT: Add the strict inequality operator to the if statement so the function will return the string Not Equal when val is not strictly equal to 17
 
 ## [Comparison with the Greater Than Operator](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/comparison-with-the-greater-than-operator)
-*
-* CODE ASSIGNMENT:
+* The greater than operator (>)
+* compares the value of two numbers 
+* if the number on the left is Greaer than the number on the right
+* it returns TRUE
+* otherwise, it returns FALSE
+* Examples:
 
-## [Comparison with the Greater Than Or Equal To Operator](#)
-*
-* CODE ASSIGNMENT:
+	5 > 3 (returns true)
+	7 > '3' (returns true)
+	2 > 3 (returns false)
+	'1' > 9 (returns false)
 
-## [Comparison with the Less Than Operator](#)
-*
-* CODE ASSIGNMENT:
+* CODE ASSIGNMENT: Add the greater than operator to the indicated lines so that the return statements make sense.
 
-## [Comparison with the Less Than Or Equal To Operator](#)
+## [Comparison with the Greater Than Or Equal To Operator](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/comparison-with-the-greater-than-or-equal-to-operator)
+* The greater than or equal to operator (>=)
+* compares the values of two numbers 
+* if the number on the left is greater than or equal to the number on the right
+* then it returns true
+* otherwise it returns false 
+* like the equality operator, the greater than or equal to operator will convert data types while comparing 
+* Examples:
+	
+	6 >= 6 (returns true)
+	7 >= '3' (returns true)
+	2 >= 3 (returns false)
+	'7' >= 9 (returns false)
+	
+* CODE ASSIGNMENT: Add the greater than or equal to operator to the indicated lines so that the return statements make sense.
+
+## [Comparison with the Less Than Operator](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/comparison-with-the-less-than-operator)
+* The less than operator <
+* compares the values of two numbers 
+* if the number to the left is less than the number to the right
+* then it returns TRUE
+* otherwise, it returns FALSE 
+* like the equalit operator, the less than operator converts data types while comparing. 
+* Example:
+	
+	2   < 5 (returns true)
+	'3' < 7 (returns true)
+	5   < 5 (returns false)
+	3   < 2 (returns false)
+	'8' < 4 (returns false) 
+
+
+* CODE ASSIGNMENT: Add the less than operator to the indicated lines so that the return statements make sense.
+
+## [Comparison with the Less Than Or Equal To Operator](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/comparison-with-the-less-than-or-equal-to-operator)
 *
 * CODE ASSIGNMENT:
 ## [Comparisons with the Logical And Operator](#)
