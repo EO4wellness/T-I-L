@@ -1,5 +1,5 @@
 # AI
-
+* [Cleaning Images](https://alumni.iitm.ac.in/tech-talk/clean-up-neural-networks-show-the-way-to-preserve-photographs/) and the coordinating [Paper](https://ieeexplore.ieee.org/document/9288928)
 
 # ML (Machine Learning) 
 * [Within SQL](https://www.freecodecamp.org/news/machine-learning-directly-in-sql/)
