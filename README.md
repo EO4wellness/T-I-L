@@ -136,6 +136,7 @@ Project website: http://tacodataset.org/<br>
 * [Branching](https://www.freecodecamp.org/news/git-checkout-remote-branch-tutorial/)
 * Tutorial on [Rewriting in Git History](https://www.youtube.com/watch?v=ElRzTuYln0M)
 * [GIT commit conventions](https://dev.to/i5han3/git-commit-message-convention-that-you-can-follow-1709)
+* [Personal GitHub Profile Tutorial](https://www.youtube.com/watch?v=p5hf8i-OzlQ)
 
 ### Google 
 * [Google Font Library](https://github.com/EO4wellness/T-I-L/tree/main/Google)
