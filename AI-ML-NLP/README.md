@@ -1,5 +1,6 @@
 # AI
 * [Cleaning Images](https://alumni.iitm.ac.in/tech-talk/clean-up-neural-networks-show-the-way-to-preserve-photographs/) and the coordinating [Paper](https://ieeexplore.ieee.org/document/9288928)
+* Read about various research, papers, current science theory looking into [autodidactic algorithms](https://www.popularmechanics.com/science/a36112655/universe-is-self-learning-algorithm/) and [Autodiadactic Neurosurgeons](https://arxiv.org/abs/2102.02638) type concepts. 
 
 # ML (Machine Learning) 
 * [Within SQL](https://www.freecodecamp.org/news/machine-learning-directly-in-sql/)
