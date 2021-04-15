@@ -825,11 +825,29 @@ If myVal is equal to 10, the equality operator returns true, so the code in the 
 * CODE ASSIGNMENT: Add the less than operator to the indicated lines so that the return statements make sense.
 
 ## [Comparison with the Less Than Or Equal To Operator](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/comparison-with-the-less-than-or-equal-to-operator)
+* The less than or equal to operator (<=) 
+* compares the values of two numbers.
+*  If the number to the left is less than or equal 
+*  to the number to the right, it returns true. 
+*  If the number on the left is greater than the number on the right,
+*   it returns false.
+*    Like the equality operator, 
+*    the less than or equal to operator converts data types.
+*  Examples:
+```
+4   <= 5 (returns true)
+'7' <= 7 (returns true)
+5   <= 5  (returns true)
+3   <= 2  (returns false)
+'8' <= 4  (returns false) 
+```
+
+* CODE ASSIGNMENT: Add the less than or equal to operator to the indicated lines so that the return statements make sense.
+
+
+## [Comparisons with the Logical And Operator](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/comparisons-with-the-logical-and-operator)
 *
-* CODE ASSIGNMENT:
-## [Comparisons with the Logical And Operator](#)
-*
-* CODE ASSIGNMENT:
+* CODE ASSIGNMENT: Replace the two if statements with one statement, using the && operator, which will return the string Yes if val is less than or equal to 50 and greater than or equal to 25. Otherwise, will return the string No.
 
 ## [Comparisons with the Logical Or Operator](#)
 *
