@@ -3,6 +3,7 @@ is a big deal.
 
 ## Resources:
 Cybrary (training programs)
+[Javascript Exploit](https://thehackernews.com/2021/04/new-javascript-exploit-can-now-carry.html)
 
 # Malware Threats 
 
