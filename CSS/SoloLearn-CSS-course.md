@@ -308,10 +308,86 @@ p {
 
 
 ## style Cascade and Inheritance 
-## Module 1 Quiz
+* Cascade 
+* The final appearance of a web page is a result of different styling rules.
+* There are three main sources of style information that form a cascade:
+   - The stylesheet created by the AUTHOR of the PAGE
+   - The Browsers Default Styles 
+   - Styles specified by the USER
+* CSS is an acronym for Cascading Style Sheets. 
 
+QUIZ: Cascade-Which three different sources are responsible for the styles you see on the web page?
+- the styles provided by Google (while it is possible to import fonts, and such from Google, other than on Google.com and their own URLs, Google has nothing to do with the display of any one elses website(s)--they are just a directory to look up those website addresses)
+- the stylesheet created by the author of the page (this is true, or in the case of wordpress it can be the content author is using a theme or other css rules created by a 3rd party--the use of author here means the person who wrote the code, not the person, in the traditional sense, authored the content on the page)
+- the user customized style selections, if any (default or by choice, every browser has customization settings. also kindle is notorius for this--kindle users can set their own font so naturally any content displayed on a kindle is going to look different than the same content displaying on a non-kindle device )
+- the default style of the browser its self.  (true) 
+
+* Inheritance 
+* Inheritance refers to the way properties flow through the page.
+* A child element will usually take on the characteristics of a parent element
+* Unless it is specifically, otherwise, defined
+* Example:
+```
+<html>
+   <head>
+      <style>
+      body {
+         color: green;
+         font-family: Arial;
+      }
+     </style>
+   </head>
+   <body>       
+      <p>
+      This is a text inside the paragraph. 
+      </p>
+   </body>
+</html>
+```
+* SInce the paragraph tag (child element)
+* is inside the body tag (parent element)
+* it takes on any styles assigned to the body tag 
+
+Quiz: Inheritance
+What color does the paragraph have?
+
+<style>
+   body {color: green; }
+   .mydiv {color: red; }
+</style>
+<body>
+   <div class="mydiv">
+      <p>Some text</p>
+   </div>
+</body>
+
+Choices: black, read, or green.  My answer: Red.
+
+
+## Module 1 Quiz
+1. From the three types of styling, which one is the most useful in terms of website optimization?
+  -External
+  -Internal
+  -Inline 
+This question tests student understanding of the terms.  Inline CSS means you've added some CSS customization to a specific tag on one specific HTML page (such as modifying one paragraph <p> tag on just one page). Internal CSS means you've written your CSS styling in the <style> tag at the header of one specific HTML page. External CSS means you are linking to a CSS file not on the actual webpage. Inline CSS is best used to make a one-time exception to the over-all External CSS style.  Internal is best used to add or modify the External CSS on a specific article or series (perhaps you have an event color or theme you are using just for that event and everything related to it--such as customizing the registration forms to match the event themes)  The majority of the CSS is within the External CSS style sheet you call into a specific HTML page. An example of this is found within the "theme" level in Word Press.  The theme contains all of the various CSS, Externally, and it is called into any specific post or page you are writing.  
+
+2. What is "Style" when creating an internal CSS?
+Choices: tag, property, value.  My answer: Tag
+
+3. The style definition rule consists of a selector, property, and: 
+my answer: value.
+
+4. Fill in the blank to apply white color to the paragraph:
+```
+p {
+  color: #FFF;
+}
+```
 
 # Working with Text
+## [Font-Family](https://www.sololearn.com/learning/1023/1084/1231/1)
+
+
 # Properties 
 # Positioining and Layout
 # CSS3 Basics
