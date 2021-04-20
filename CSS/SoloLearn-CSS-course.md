@@ -37,9 +37,7 @@ Why use CSS? _it allows for the separation of style and content_
 * The example below shows how to create a paragraph with a gray background and white text: 
 ```
 <p style="color:white; background-color:gray;">
-
     This is an example of inline styling. 
-
 </p>
 ```
 * The style attribute can contain any CSS property. 
@@ -53,31 +51,18 @@ Select the attribute that organizes the inline styling:  _style_
 
 ```
 <html>
-
    <head>
-
       <style>
-
       p {
-
          color:white;
-
          background-color:gray;
-
       }
-
       </style>
-
    </head>
-
    <body>
-
       <p>This is my first paragraph. </p>
-
       <p>This is my second paragraph. </p>
-
    </body>
-
 </html>
 ```
 
@@ -96,19 +81,12 @@ Quiz: Where should the style tag be declared to organize an internal CSS? _head_
 
 ```
 <head>
-
    <link rel="stylesheet" href="example.css">
-
 </head>
-
 <body>
-
    <p>This is my first paragraph.</p>
-
    <p>This is my second paragraph. </p>
-
    <p>This is my third paragraph. </p>
-
 </body>
 ```
 
@@ -182,11 +160,8 @@ p {
 
 ```
 <div id="intro">
-
    <p> This paragraph is in the intro section.</p>
-
 </div>
-
 <p> This paragraph is not in the intro section.</p>
 ```
 
@@ -209,15 +184,10 @@ HTML:
 
 ```
 <div>
-
    <p class="first">This is a paragraph</p>
-
    <p> This is the second paragraph. </p>
-
 </div>
-
 <p class="first"> This is not in the intro section</p>
-
 <p> The second paragraph is not in the intro section. </p>
 ```
 
@@ -254,15 +224,10 @@ For example, to target only <em> elements in the first paragraph of the "intro" 
 The HTML:
 ```
 <div id="intro">
-
    <p class="first">This is a <em> paragraph.</em></p>
-
    <p> This is the second paragraph. </p>
-
 </div>
-
 <p class="first"> This is not in the intro section.</p>
-
 <p> The second paragraph is not in the intro section. </p>
 ```
 
