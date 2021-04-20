@@ -384,9 +384,27 @@ p {
 }
 ```
 
-# Working with Text
+# Working with Text ( 16 study topics)
 ## [Font-Family](https://www.sololearn.com/learning/1023/1084/1231/1)
 
+
+
+## [Font-Size](#)
+## [Font-Style](#)
+## [Font-Weight](#)
+## [Font-Variant](#)
+## [Color](#)
+## [Aligning Text Horizontally](#)
+## [aligning Text Horizontally](#)
+## [aligning Text vertically](#)
+## [Text-Decoration](#)
+## [Indenting the Text](#)
+## [Text-Shadow](#)
+## [Text-Transform](#)
+## [Letter-spacing](#)
+## [Word-Spacing](#)
+## [White-Spacing](#)
+## [Model 2 Quiz](#)
 
 # Properties 
 # Positioining and Layout
