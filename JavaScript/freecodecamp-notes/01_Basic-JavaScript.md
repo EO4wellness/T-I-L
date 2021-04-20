@@ -846,39 +846,210 @@ If myVal is equal to 10, the equality operator returns true, so the code in the 
 
 
 ## [Comparisons with the Logical And Operator](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/comparisons-with-the-logical-and-operator)
-*
+* Sometimes you will need to test more than one thing at a time. 
+* The logical and operator (&&) returns true if and only if the operands to the left and right of it are true.
+* The same effect could be achieved by nesting an if statement inside another if:
+```
+if (num > 5) {
+  if (num < 10) {
+    return "Yes";
+  }
+}
+return "No";
+```
+* will only return Yes if num is greater than 5 and less than 10. The same logic can be written as:
+```
+if (num > 5 && num < 10) {
+  return "Yes";
+}
+return "No";
+```
 * CODE ASSIGNMENT: Replace the two if statements with one statement, using the && operator, which will return the string Yes if val is less than or equal to 50 and greater than or equal to 25. Otherwise, will return the string No.
 
-## [Comparisons with the Logical Or Operator](#)
-*
-* CODE ASSIGNMENT:
+## [Comparisons with the Logical Or Operator](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/comparisons-with-the-logical-or-operator)
 
-## [Introducing Else Statements](#)
-*
-* CODE ASSIGNMENT:
+* The logical or operator (||) returns true if either of the operands is true. Otherwise, it returns false.
+* The logical or operator is composed of two pipe symbols: (||). 
+* This can typically be found between your Backspace and Enter keys.
+* The pattern below should look familiar from prior waypoints:
+```
+if (num > 10) {
+  return "No";
+}
+if (num < 5) {
+  return "No";
+}
+return "Yes";
+```
+* will return Yes only if num is between 5 and 10 (5 and 10 included). The same logic can be written as:
+```
+if (num > 10 || num < 5) {
+  return "No";
+}
+return "Yes";
+```
+* CODE ASSIGNMENT: Combine the two if statements into one statement which returns the string Outside if val is not between 10 and 20, inclusive. Otherwise, return the string Inside. 
 
-## [Introducing Else If Statements](#)
-*
-* CODE ASSIGNMENT:
+## [Introducing Else Statements](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/introducing-else-statements)
+* When a condition for an if statement is true, 
+* the block of code following it is executed. 
+* What about when that condition is false? Normally nothing would happen. 
+* With an else statement, an alternate block of code can be executed.
+* example
+```
+if (num > 10) {
+  return "Bigger than 10";
+} else {
+  return "10 or Less";
+}
+```
+* CODE ASSIGNMENT: Combine the if statements into a single if/else statement.
 
-## [Logical Order in If Else Statements](#)
-*
-* CODE ASSIGNMENT:
+## [Introducing Else If Statements](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/introducing-else-if-statements)
+* If you have multiple conditions 
+* you can chain IF statements together
+* using the else if statements 
+```
+if (num > 15) {
+  return "Bigger than 15";
+} else if (num < 5) {
+  return "Smaller than 5";
+} else {
+  return "Between 5 and 15";
+}
+```
+* CODE ASSIGNMENT: Convert the logic to use else if statements.
+
+## [Logical Order in If Else Statements](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/logical-order-in-if-else-statements)
+* Order is important in if, else if statements.
+* The function is executed from top to bottom so you will want to be careful of what statement comes first.
+* Take these two functions as an example.
+* Here's the first:
+```
+function foo(x) {
+  if (x < 1) {
+    return "Less than one";
+  } else if (x < 2) {
+    return "Less than two";
+  } else {
+    return "Greater than or equal to two";
+  }
+}
+```
+* And the second just switches the order of the statements:
+```
+function bar(x) {
+  if (x < 2) {
+    return "Less than two";
+  } else if (x < 1) {
+    return "Less than one";
+  } else {
+    return "Greater than or equal to two";
+  }
+}
+```
+* While these two functions look nearly identical if we pass a number to both we get different outputs.
+```
+foo(0)
+bar(0)
+```
+* foo(0) will return the string Less than one, and bar(0) will return the string Less than two. 
+* CODE ASSIGNMENT: Change the order of logic in the function so that it will return the correct statements in all cases.
 
 
-## [Chaining If Else Statements](#)
-*
-* CODE ASSIGNMENT:
+## [Chaining If Else Statements](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/chaining-if-else-statements)
+* if/else statements can be chained together for complex logic. 
+* Here is pseudocode of multiple chained if / else if statements:
+```
+if (condition1) {
+  statement1
+} else if (condition2) {
+  statement2
+} else if (condition3) {
+  statement3
+. . .
+} else {
+  statementN
+}
+```
+* CODE ASSIGNMENT: Write chained if/else if statements to fulfill the following conditions:
+```
+num < 5 - return Tiny
+num < 10 - return Small
+num < 15 - return Medium
+num < 20 - return Large
+num >= 20 - return Huge
+```
 
 
-## [Golf Code](#)
-*
-* CODE ASSIGNMENT:
+## [Golf Code](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/golf-code)
+* In the game of golf, each hole has a par, 
+* meaning, the average number of strokes a golfer is expected to make in order to sink the ball in the hole 
+* to complete the play. Depending on how far above or below par your strokes are, there is a different nickname.
+* Your function will be passed par and strokes arguments. 
+* Return the correct string according to this table which lists the strokes 
+* in order of priority; top (highest) to bottom (lowest):
+```
+Strokes	Return
+1	"Hole-in-one!"
+<= par - 2	"Eagle"
+par - 1	"Birdie"
+par	"Par"
+par + 1	"Bogey"
+par + 2	"Double Bogey"
+>= par + 3	"Go Home!"
+```
+* example:
+```
+var names = ["Hole-in-one!", "Eagle", "Birdie", "Par", "Bogey", "Double Bogey", "Go Home!"];
+function golfScore(par, strokes) {
+if (strokes ==1) {
+  return names [0]
+} else if (strokes <= par - 2) {
+  return names [1]
+} else if (strokes == par - 1) {
+  return names [2]
+} else if (strokes == par) {
+  return names [3]
+} else if (strokes == par + 1) {
+  return names [4]
+} else if (strokes == par + 2) {
+  return names [5]
+} else if (strokes >= par + 3){
+  return names [6]
+}
+}
+```
+* CODE ASSIGNMENT: par and strokes will always be numeric and positive. We have added an array of all the names for your convenience.
 
 
-## [Selecting from Many Options with Switch Statements](#)
-*
-* CODE ASSIGNMENT:
+
+## [Selecting from Many Options with Switch Statements](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/selecting-from-many-options-with-switch-statements)
+* If you have many options to choose from, use a switch statement. 
+* A switch statement tests a value and can have many case statements 
+* which define various possible values. 
+* Statements are executed from the first matched case value until a break is encountered.
+* Here is an example of a switch statement:
+```
+switch(lowercaseLetter) {
+  case "a":
+    console.log("A");
+    break;
+  case "b":
+    console.log("B");
+    break;
+}
+```
+* case values are tested with strict equality (===). 
+* The break tells JavaScript to stop executing statements. 
+* If the break is omitted, the next statement will be executed.
+* CODE ASSIGNMENT: Write a switch statement which tests val and sets answer for the following conditions:
+```
+1 - alpha
+2 - beta
+3 - gamma
+4 - delta
+```
 
 
 ## [Adding a Default Option in Switch Statements](#)
