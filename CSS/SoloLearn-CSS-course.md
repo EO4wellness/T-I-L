@@ -386,10 +386,97 @@ p {
 
 # Working with Text ( 16 study topics)
 ## [Font-Family](https://www.sololearn.com/learning/1023/1084/1231/1)
+* font-family is a  css PROPERTY 
+* this property specifies the font for an ELEMENT 
+* two types:
+  - font family: specific font family 
+    such as: Times New roman or Arial 
+    "family" in this context means all of the different variations: bold, regular, italics, etc. 
+  - generic family: it isn't a specific liscensed font family but instead a type of general font shape such as Monospace, serif, or sans-serif 
+* example 
+```
+serif: times new roman or georgia 
+sans-serif: arial or verdana
+monospace: courir new or lucinda console 
+```
+* HTML Example:
+```
+<p class="serif">
+   This is a paragraph shown in serif font.
+</p>
+<p class="sansserif">
+   This is a paragraph shown in sans-serif font.
+</p> 
+<p class="monospace">
+   This is a paragraph shown in monospace font.
+</p> 
+<p class="cursive">
+   This is a paragraph shown in cursive font.
+</p> 
+<p class="fantasy">
+   This is a paragraph shown in fantasy font.
+</p> 
+```
+* CSS Example: 
+```
+p.serif {
+    font-family: "Times New Roman", Times, serif;
+}
+p.sansserif {
+    font-family: Helvetica, Arial, sans-serif;
+}
+p.monospace {
+    font-family: "Courier New", Courier, monospace;
+}
+p.cursive {
+    font-family: Florence, cursive;
+}
+p.fantasy {
+    font-family: Blippo, fantasy;
+}
+```
+* [course code example](https://www.sololearn.com/learning/1023/1084/1231/1)
+* Separate each value with a comma to indicate that they are alternatives.
+* If the name of a font family is more than one word, it must be in quotation marks: "Times New Roman".
 
+Quiz: The Font-Family Property 
+Drag and drop from the options below to make the font of the paragraph "Arial":
+```
+p {
+  font-family: Arial; 
+}
+```
 
+* The font-family Property
+* The font-family property should hold several font names as a "fallback" system. 
+* When specifying a web font in a CSS style, add more than one font name, in order to avoid unexpected behaviors. 
+* If the client computer for some reason doesn't have the one you choose, it will try the next one.
+* It is a good practice to specify a generic font family, 
+* to let the browser pick a similar font in the generic family, if no other fonts are available.
+* CSS Example:
+```
+body {
+   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+```
+
+* If the browser does not support the font Arial, 
+* it tries the next fonts (Helvetica Neue, then Helvetica). 
+* If the browser doesn't have any of them, it will try the generic sans-serif.
+* Remember to use quotation marks if the font name consists of more than one word.
+
+Quiz: 
+The font-family Property
+Why is the name of one of the fonts put in quotes?
+- to support "fallback"
+- it shows a font family
+- it consists of two or more words
+- it is a rarely used font
+
+My answer: it consists of two or more words 
 
 ## [Font-Size](#)
+
 ## [Font-Style](#)
 ## [Font-Weight](#)
 ## [Font-Variant](#)
