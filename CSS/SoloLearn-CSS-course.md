@@ -440,16 +440,185 @@ Why is the name of one of the fonts put in quotes?
 
 My answer: it consists of two or more words 
 
-## [Font-Size](#)
+## [Font-Size](https://www.sololearn.com/learning/1023/1085/1233/1)
+* The font-size property sets the size of a font. 
+* you can use keywords.
+* valid font-size keywords are: 
+* html example
+```
+<p class="small">
+   Paragraph text set to be small
+</p>
+<p class="medium">
+   Paragraph text set to be medium
+</p>
+<p class="large">
+   Paragraph text set to be large
+</p>
+<p class="xlarge">
+   Paragraph text set to be very large
+</p>
+```
+* css example
+```
+p.small {
+    font-size: small;
+}
+p.medium {
+    font-size: medium;
+}
+p.large {
+    font-size: large;
+}
+p.xlarge {
+    font-size: x-large;
+}
+```
+* Keywords are useful if you do not want the user to be able to increase the size of the font 
+* because it will adversely affect your site's appearance.
+* https://www.sololearn.com/learning/1023/1085/1233/1 
 
-## [Font-Style](#)
-## [Font-Weight](#)
-## [Font-Variant](#)
-## [Color](#)
-## [Aligning Text Horizontally](#)
-## [aligning Text Horizontally](#)
-## [aligning Text vertically](#)
-## [Text-Decoration](#)
+QUIZ: 
+The font size property: 
+```
+p {
+  font-size:large;
+}
+```
+
+* The font-size Property
+* You can also use numerical values in pixels or ems to manipulate font size.
+* Setting the font size in pixel values (px) is a good choice when you need pixel accuracy, 
+* and it gives you full control over the text size.
+* The em size unit is another way to set the font size (em is a relative size unit).
+* It allows all major browsers to resize the text. 
+* If you haven't set the font size anywhere on the page, 
+* then it is the browser default size, which is 16px.
+* To calculate the em size, just use the following formula: em = pixels / 16
+* For example: 
+```
+h1 {
+    font-size: 20px;
+}
+```
+* Example:
+```
+h1 {
+    font-size: 1.25em; 
+}
+```
+* Both of the examples will produce the same result in the browser, because 20/16=1.25em. 
+* Try different combinations of text size and page zooming 
+* in a variety of browsers to ensure that the text remains readable.
+
+QUIZ: 
+set the font-size of the paragraph to 15px; 
+```p { font-size: 15px;}```
+
+## [Font-Style](https://www.sololearn.com/learning/1023/1086/1235/1)
+* The font-style property is typically used to specify italic text.
+* The HTML:
+``` <p class="italic">This is a paragraph in italic style.</p> ```
+* The CSS:
+```
+p.italic {
+    font-style: italic;
+}
+```
+QUIZ: 
+The font-style Property
+Make the text italic:
+``` #styled {font-style: italic;} ```
+
+*  The font-style property has three values: normal, italic, and oblique.
+*  Oblique is very similar to italic, but less supported.
+*  The HTML:
+```
+<p class="normal">This paragraph is normal.</p>
+<p class="italic">This paragraph is italic.</p>
+<p class="oblique">This paragraph is oblique.</p>
+```
+* The CSS
+```
+p.normal {
+    font-style: normal;
+}
+p.italic {
+    font-style: italic;
+}
+p.oblique {
+    font-style: oblique;
+}
+```
+
+* The HTML <i> tag will produce exactly the same result as the italic font style. 
+
+QUIZ: 
+What value is not used with the font-style property? 
+choices:  oblique, slant, normal, italic.
+my answer: slant 
+
+
+## [Font-Weight](https://www.sololearn.com/learning/1023/1087/1237/1)
+* The font-weight Property
+* The font-weight controls the boldness or thickness of the text. 
+* The values can be set as normal (default size), bold, bolder, and lighter.
+* The HTML:
+```
+<p class="light">This is a font with a "lighter" weight.</p>
+<p class="bold">This is a font with a "bold" weight.</p>
+<p class="bolder">This is a font with a "bolder" weight.</p>
+```
+* CSS
+```
+p.light {   
+    font-weight: lighter;
+}
+p.bold {   
+    font-weight: bold;
+}
+p.bolder {
+    font-weight: bolder;
+}
+```
+QUIZ: 
+The font-weight Property
+Which CSS property is used for bolding the text?  _font-weight_
+
+* The font-weight Property
+* You can also define the font weight with a number from 100 (thin) to 900 (thick),
+* according to how thick you want the text to be.
+* 400 is the same as normal, and 700 is the same as bold.
+* The HTML:
+```
+<p class="light">This is a font with a "lighter" weight.</p>
+<p class="thick">This is a font with a "bold" weight.</p>
+<p class="thicker">This is a font with a "700" weight.</p>
+```
+* CSS
+```
+p.light {
+    font-weight: lighter;
+}
+p.thick {
+    font-weight: bold;
+}
+p.thicker {
+    font-weight: 700;
+}
+```
+* https://www.sololearn.com/learning/1023/1087/1238/1
+
+QUIZ: What numerica values are used for the font-weight property? 
+_100 to 900_
+
+
+
+## [Font-Variant](https://www.sololearn.com/learning/1023/1088/1239/1)
+## [Color](https://www.sololearn.com/learning/1023/1089/1240/1)
+## [Aligning Text Horizontally](https://www.sololearn.com/learning/1023/1090/1243/1)
+## [aligning Text vertically](https://www.sololearn.com/learning/1023/1091/1244/1)
+## [Text-Decoration](https://www.sololearn.com/learning/1023/1092/1247/1)
 ## [Indenting the Text](#)
 ## [Text-Shadow](#)
 ## [Text-Transform](#)

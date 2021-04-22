@@ -1052,12 +1052,35 @@ switch(lowercaseLetter) {
 ```
 
 
-## [Adding a Default Option in Switch Statements](#)
-*
-* CODE ASSIGNMENT:
+## [Adding a Default Option in Switch Statements](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/adding-a-default-option-in-switch-statements)
+* In a switch statement you may not be able to specify all possible values as case statements. 
+* Instead, you can add the default statement which will be executed if no matching case statements are found. 
+* Think of it like the final else statement in an if/else chain.
+* A default statement should be the last case.
+```
+switch (num) {
+  case value1:
+    statement1;
+    break;
+  case value2:
+    statement2;
+    break;
+    ...
+  default:
+    defaultStatement;
+    break;
+}
+```
+* CODE ASSIGNMENT: Write a switch statement to set answer for the following conditions:
+```
+a - apple
+b - bird
+c - cat
+default - stuff
+```
 
 
-## [Multiple Identical Options in Switch Statements](#)
+## [Multiple Identical Options in Switch Statements](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/multiple-identical-options-in-switch-statements)
 *
 * CODE ASSIGNMENT:
 
