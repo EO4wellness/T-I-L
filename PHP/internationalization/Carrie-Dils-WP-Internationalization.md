@@ -170,5 +170,5 @@
 * [Translator Handbook](https://translate.wordpress.org/)
 * [How to use GlotPress](https://remkus.devries.frl/how-to-use-glotpress-for-your-translations/)
 
-[Course Code Snippets](https://github.com/EO4wellness/T-I-L/blob/main/PHP/internationalization/WordPress_internationalization.php)
+### [Course Code Snippets](https://github.com/EO4wellness/T-I-L/blob/main/PHP/internationalization/WordPress_internationalization.php)
 
