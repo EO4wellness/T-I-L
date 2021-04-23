@@ -24,7 +24,7 @@ JavaScript is a high-level programming language that all modern web browsers sup
 
 ### Course Outline: 
 * [Basic JavaScript](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/Basic-JavaScript.md) (111 units)
-* [ES6](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/ES6.md) (31 units) 
+* [ES6](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/ES6.md) (31 units) | [Update Notes](https://medium.com/swlh/array-helper-methods-in-es6-28fc5e5a5dc9)
 * [Regular Expressions](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/Regular-Expressions.md) (33 units) 
 * [Debugging](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/Debugging.md) (12 units)
 * [Basic Data Structures](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/Basic-Data-Structures.md) (20 units)
