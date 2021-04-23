@@ -15,6 +15,7 @@
 * https://codelounge.dev/12-resources-to-improve-your-css-skills-and-speed-up-css-development
 * [CSS Variables](https://dev.to/afif/what-no-one-told-you-about-css-variables-553o)
 * [Animations](https://dev.to/babib/amazing-pure-html-and-css-background-animations-4dim)
+* [Psuedo Code](https://www.smashingmagazine.com/2021/04/guide-supported-modern-css-pseudo-class-selectors/)
 
 # Top Resources to get CSS Snippets.
 
