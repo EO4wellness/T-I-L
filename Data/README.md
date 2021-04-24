@@ -1,3 +1,8 @@
+# Big Data Resources:
+* [5 Gobal Data Resources](https://youtu.be/yGwub5OE3PQ)
+* [GELD Teaser](https://youtu.be/GpCarC_I3Ao) and [GELD website](https://blog.gdeltproject.org/)
+* Examples using [big data](https://youtu.be/A6nWZKZpL3k)
+
 Dec 3, 2020 Course Notes. 
 
 Really enjoyed this lesson. Thought I would share some of my course notes from today's study session with this material.
@@ -200,6 +205,10 @@ Complexity Analysis
     Let's compute time complexity with the help of master theorem T(N)=aT(Nb)+Θ(Nd)T(N) = aT\left(\frac{N}{b}\right) + \Theta(N^d)T(N)=aT(bN​)+Θ(Nd). The equation represents dividing the problem up into aaa subproblems of size Nb\frac{N}{b}bN​ in Θ(Nd)\Theta(N^d)Θ(Nd) time. Here at step there is only one subproblem a = 1, its size is a half of the initial problem b = 2, and all this happens in a constant time d = 0. That means that log⁡ba=d\log_b{a} = dlogb​a=d and hence we're dealing with case 2 that results in O(nlog⁡balog⁡d+1N)\mathcal{O}(n^{\log_b{a}} \log^{d + 1} N)O(nlogb​alogd+1N) = O(log⁡N)\mathcal{O}(\log N)O(logN) time complexity.
 
     Space complexity : O(1)\mathcal{O}(1)O(1) since it's a constant space solution.
+    
+
+
+
     
     
 Return to Studies here: https://leetcode.com/explore/learn/card/binary-search/138/background/974/ 

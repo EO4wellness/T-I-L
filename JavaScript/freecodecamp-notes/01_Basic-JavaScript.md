@@ -1081,18 +1081,86 @@ default - stuff
 
 
 ## [Multiple Identical Options in Switch Statements](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/multiple-identical-options-in-switch-statements)
-*
-* CODE ASSIGNMENT:
+* If the break statement is omitted from a switch statement's case, 
+* the following case statement(s) are executed 
+* until a break is encountered. 
+* If you have multiple inputs with the same output, 
+* you can represent them in a switch statement like this:
+```
+var result = "";
+switch(val) {
+  case 1:
+  case 2:
+  case 3:
+    result = "1, 2, or 3";
+    break;
+  case 4:
+    result = "4 alone";
+}
+
+```
+* Cases for 1, 2, and 3 will all produce the same result.
+
+* CODE ASSIGNMENT: 
+Write a switch statement to set answer for the following ranges:
+1-3 - Low
+4-6 - Mid
+7-9 - High
+
+Note: You will need to have a case statement for each number in the range.
 
 
-## [Replacing If Else Chains with Switch](#)
-*
-* CODE ASSIGNMENT:
+
+## [Replacing If Else Chains with Switch](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/replacing-if-else-chains-with-switch)
+* If you have many options to choose from, a switch statement can be easier to write 
+* than many chained if/else if statements. 
+* The following:
+```
+if (val === 1) {
+  answer = "a";
+} else if (val === 2) {
+  answer = "b";
+} else {
+  answer = "c";
+}
+```
+* can be replaced with:
+```
+switch(val) {
+  case 1:
+    answer = "a";
+    break;
+  case 2:
+    answer = "b";
+    break;
+  default:
+    answer = "c";
+}
+```
+* CODE ASSIGNMENT:  Change the chained if/else if statements into a switch statement. 
 
 
-## [Returning Boolean Values from Functions](#)
-*
-* CODE ASSIGNMENT:
+## [Returning Boolean Values from Functions](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/returning-boolean-values-from-functions)
+* You may recall from Comparison with the Equality Operator that 
+* all comparison operators return a boolean true or false value.
+* Sometimes people use an if/else statement to do a comparison, like this:
+```
+function isEqual(a,b) {
+  if (a === b) {
+    return true;
+  } else {
+    return false;
+  }
+}
+```
+* But there's a better way to do this. 
+* Since === returns true or false, we can return the result of the comparison:
+```
+function isEqual(a,b) {
+  return a === b;
+}
+```
+* CODE ASSIGNMENT: Fix the function isLess to remove the if/else statements.
 
 
 ## [Return Early Pattern for Functions](#)
