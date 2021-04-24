@@ -1111,14 +1111,56 @@ Note: You will need to have a case statement for each number in the range.
 
 
 
-## [Replacing If Else Chains with Switch](#)
-*
-* CODE ASSIGNMENT:
+## [Replacing If Else Chains with Switch](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/replacing-if-else-chains-with-switch)
+* If you have many options to choose from, a switch statement can be easier to write 
+* than many chained if/else if statements. 
+* The following:
+```
+if (val === 1) {
+  answer = "a";
+} else if (val === 2) {
+  answer = "b";
+} else {
+  answer = "c";
+}
+```
+* can be replaced with:
+```
+switch(val) {
+  case 1:
+    answer = "a";
+    break;
+  case 2:
+    answer = "b";
+    break;
+  default:
+    answer = "c";
+}
+```
+* CODE ASSIGNMENT:  Change the chained if/else if statements into a switch statement. 
 
 
-## [Returning Boolean Values from Functions](#)
-*
-* CODE ASSIGNMENT:
+## [Returning Boolean Values from Functions](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/returning-boolean-values-from-functions)
+* You may recall from Comparison with the Equality Operator that 
+* all comparison operators return a boolean true or false value.
+* Sometimes people use an if/else statement to do a comparison, like this:
+```
+function isEqual(a,b) {
+  if (a === b) {
+    return true;
+  } else {
+    return false;
+  }
+}
+```
+* But there's a better way to do this. 
+* Since === returns true or false, we can return the result of the comparison:
+```
+function isEqual(a,b) {
+  return a === b;
+}
+```
+* CODE ASSIGNMENT: Fix the function isLess to remove the if/else statements.
 
 
 ## [Return Early Pattern for Functions](#)
