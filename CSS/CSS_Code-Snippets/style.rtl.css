@@ -1,0 +1,16 @@
+/*the code snippet below is stypical of left-to-right style.css */
+
+    float: right; 
+    margin-left: 1em; 
+    text-align: left; 
+	
+
+/*the code below is right-to-left changes to the above style sheet
+this would typically be named style.rtl.css when used
+this is typically used in localiation */
+
+    float: left; 
+    margin-left: 0; 
+    margin-right: 1em;
+    text-align: right; 
+	
