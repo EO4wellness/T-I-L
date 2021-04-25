@@ -123,16 +123,14 @@
 <?php
 // set up variables 
   $user = 'Carrie';
-  $employee_number = 99
+  $employee_number = 99;
 // pass variables into translation-friendly sprint function 
-  $greeting = sprintf(
-    __( 'Hello %s! You're employee %d.', 'my-text-domain'), 
-    $user, $employee_number 
-  );
+  $greeting = sprintf(__( 'Hello %s! You are employee %d.', 'my-text-domain' ), $user , $employee_number );
 ?>
 
+
 /* From language to language word ordering in sentence structure varies 
-# the translator therefore often has to change the sentence structure
+* the translator therefore often has to change the sentence structure
 # this is solved via ARGUMENT SWAPPING
 # argument swapping lets the translator determine which argument is placed where 
 #
@@ -195,9 +193,9 @@ $string = sprint( _n( 'There is %d comment', 'There are %d comments', $comment_n
 
 <?php
 //example word: lead whose translation depends on context 
-$string = _x ( 'Lead', 'a leash for a dog', 'my-text-domain' );
-$string = _x ( 'Lead', 'a metal', 'my-text-domain' );
-$string = _x ( 'Lead', 'a verb meaning to innfluence or guide others, 'my-text-domain' );
+  $string = _x ( 'Lead', 'a leash for a dog', 'my-text-domain' );
+  $string = _x ( 'Lead', 'a metal', 'my-text-domain' );
+  $string = _x ( 'Lead', 'a verb meaning to innfluence or guide others', 'my-text-domain' );
 ?>
 
 /* JavaScriipt
@@ -247,12 +245,12 @@ wp_localize_script ( 'my-simple-script', 'my_vars' ,
 ?>
 
 /* text of the my-simple-script.js file 
-#
-# alert( 'Hello World! ');
-#
-# alert( my_vas.message1 );
-#
-# alert( my_vas.message2 );
+*
+* alert( 'Hello World! ');
+*
+* alert( my_vas.message1 );
+*
+* alert( my_vas.message2 );
 */
 
 
