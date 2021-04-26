@@ -625,9 +625,50 @@ _100 to 900_
 ## [Letter-spacing](#)
 ## [Word-Spacing](#)
 ## [White-Spacing](#)
-## [Model 2 Quiz](#)
+## [Model 2 Quiz](https://www.sololearn.com/learning/1023/2332/1293/2)
+
+1. What is the correct CSS syntax for making all P elements bold? 
+- p {font-weight:bold;} This Is The Correct Answer 
+- <p style-"text-size:bold">
+- p {text-size:bold;}
+- <p style="font-size:bold">
+
+2. fill in the blanks to make the paragraph red and bold
+```
+p {
+  color: red: 
+  font-weight: bold;
+  text-decoration:none;
+  font-size; 16px;
+}
+```
+
+3. fill in the blanks ot make all the text of the H1 elements bold, red and 14 pixels 
+
+```
+h1 {
+  font-size:14px;
+  font-weight:bold;
+  color:read; 
+}
+```
+![results](https://github.com/EO4wellness/T-I-L/blob/main/CSS/images/2021-04-25-CSS-Module2-Quiz.jpg)
 
 # Properties 
+
+![box-model](https://github.com/EO4wellness/T-I-L/blob/main/CSS/images/example_box-model.jpg)
+
+## The CSS Box Model 
+* All HTML elements can be considered as boxes
+* the CSS box model represents the design and layout of th esite 
+* it is made up of margins, borders, paddings, and content
+* the properties work in the same order: top, right, bottom, left
+
+QUIZ: The CSS Box Model: In what order do the properties work in the box? 
+
+A:  top right bottom left 
+
+
 # Positioining and Layout
 # CSS3 Basics
 # transitions and Transformas
