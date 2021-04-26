@@ -1184,14 +1184,47 @@ myFun();
 * CODE ASSIGNMENT: Modify the function abTest so that if a or b are less than 0 the function will immediately exit with a value of undefined. Hint: Remember that undefined is a keyword, not a string.
 
 
+## [Counting Cards](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/counting-cards)
+* In the casino game Blackjack, a player can gain an advantage over the house by keeping track of the relative number of high 
+* and low cards remaining in the deck. This is called Card Counting.
+* Having more high cards remaining in the deck favors the player. 
+* Each card is assigned a value according to the table below. 
+* When the count is positive, the player should bet high. 
+* When the count is zero or negative, the player should bet low.
+```
+Count Change	Cards
++1	        2, 3, 4, 5, 6
+0	        7, 8, 9
+-1	        10, 'J', 'Q', 'K', 'A'
+```
+* CODE ASSIGNMENT: You will write a card counting function. It will receive a card parameter, which can be a number or a string, and increment or decrement the global count variable according to the card's value (see table). The function will then return a string with the current count and the string Bet if the count is positive, or Hold if the count is zero or negative. The current count and the player's decision (Bet or Hold) should be separated by a single space.
+```
+Example Outputs: -3 Hold or 5 Bet
 
-## [Counting Cards](#)
-*
-* CODE ASSIGNMENT:
+Hint
+Do NOT reset count to 0 when value is 7, 8, or 9.
+Do NOT return an array.
+Do NOT include quotes (single or double) in the output.
+```
 
+## [Build JavaScript Objects](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/build-javascript-objects)
+* You may have heard the term object before.
+* Objects are similar to arrays, except that instead of using indexes to access 
+* and modify their data, you access the data in objects through what are called properties.
+* Objects are useful for storing data in a structured way, and can represent real world objects, like a cat.
+```
+var cat = {
+  "name": "Whiskers",
+  "legs": 4,
+  "tails": 1,
+  "enemies": ["Water", "Dogs"]
+};
+```
+* In In this example, all the properties are stored as strings, such as - name, legs, and tails. 
+* However, you can also use numbers as properties. 
+* You can even omit the quotes for single-word string properties, as follows:
 
-## [Build JavaScript Objects](#)
-*
+Here's a sample cat object:
 * CODE ASSIGNMENT:
 
 
