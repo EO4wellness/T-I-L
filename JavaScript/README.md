@@ -3,15 +3,15 @@
 * [READING:](https://dev.to/axlyaguana11/concepts-you-need-to-know-if-you-are-a-javascript-beginner-5am0?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email) 
 
 ## Learning Resources 
-* FreeCode Camp - Introduction to JavaScript
+### FreeCode Camp - Introduction to JavaScript
  - [link to FCC course](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
  - [link to my course notes](https://github.com/EO4wellness/T-I-L/tree/main/JavaScript/freecodecamp-notes)
  - [link to my course coding solutions](https://github.com/EO4wellness/T-I-L/tree/main/JavaScript/freecodecamp-exercises)
  - [course projects](https://github.com/EO4wellness/T-I-L/tree/main/JavaScript/freecodecamp-exercises/10.JavaScriptAlgorithmsDataStructureProjects)
-* W3Schools
+### W3Schools
 -  [link to course](https://www.w3schools.com/js/default.asp)
 -  [link to my course notes & code samples](https://github.com/EO4wellness/T-I-L/tree/main/JavaScript/W3Schools)
-* [Udacity](https://github.com/EO4wellness/leary-leerie/tree/master/Intro-to-JavaScript)
+### [Udacity](https://github.com/EO4wellness/leary-leerie/tree/master/Intro-to-JavaScript)
 * [JavaScriptCamp](https://www.jscamp.app/docs/javascript00)
 * https://javascript30.com/
 
@@ -21,18 +21,19 @@ JavaScript is a high-level programming language that all modern web browsers sup
 ## Free Code Camp course
 * It is recommended this course will take 300 hours to complete. 
 * Course Name: JavaScript Algorithms and Data Structures Certification
+* [my course work](https://github.com/EO4wellness/T-I-L/tree/main/JavaScript/freecodecamp-notes)
 
 ### Course Outline: 
-* [Basic JavaScript](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/Basic-JavaScript.md) (111 units)
-* [ES6](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/ES6.md) (31 units) | [Update Notes](https://medium.com/swlh/array-helper-methods-in-es6-28fc5e5a5dc9)
-* [Regular Expressions](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/Regular-Expressions.md) (33 units) 
-* [Debugging](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/Debugging.md) (12 units)
-* [Basic Data Structures](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/Basic-Data-Structures.md) (20 units)
-* [Basic Algorithm Scripting](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/Basic-Algorithm-Scripting.md) (16 units)
-* [Object Oriented Programming](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/Object-Oriented-Programming.md) (26 units)
-* [Functional Porgramming](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/Functional-Porgramming.md) (24 units)
-* [Intermediate algorithm Scripting](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/Intermediate-Algorithm-Scripting.md) (21 units)
-* [JavaScript Algorithms and Data Structures Projects](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/JavaScript-Algorithms-and-Data-Structures-Projects.md) (5 units) 
+* [Basic JavaScript](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/01_Basic-JavaScript.md) (111 units)
+* [ES6](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/02_ES6.md) (31 units) | [Update Notes](https://medium.com/swlh/array-helper-methods-in-es6-28fc5e5a5dc9)
+* [Regular Expressions](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/03_Regular-Expressions.md) (33 units) 
+* [Debugging](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/04_Debugging.md) (12 units)
+* [Basic Data Structures](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/05_Basic-Data-Structures.md) (20 units)
+* [Basic Algorithm Scripting](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/06_Basic-Algorithm-Scripting.md) (16 units)
+* [Object Oriented Programming](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/07_Object-Oriented-Programming.md) (26 units)
+* [Functional Porgramming](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/08_Functional-Porgramming.md) (24 units)
+* [Intermediate algorithm Scripting](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/09_Intermediate-Algorithm-Scripting.md) (21 units)
+* [JavaScript Algorithms and Data Structures Projects](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/10_JavaScript-Algorithms-and-Data-Structures-Projects.md) (5 units) 
 
 
 ## Udacity

@@ -1184,28 +1184,93 @@ myFun();
 * CODE ASSIGNMENT: Modify the function abTest so that if a or b are less than 0 the function will immediately exit with a value of undefined. Hint: Remember that undefined is a keyword, not a string.
 
 
+## [Counting Cards](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/counting-cards)
+* In the casino game Blackjack, a player can gain an advantage over the house by keeping track of the relative number of high 
+* and low cards remaining in the deck. This is called Card Counting.
+* Having more high cards remaining in the deck favors the player. 
+* Each card is assigned a value according to the table below. 
+* When the count is positive, the player should bet high. 
+* When the count is zero or negative, the player should bet low.
+```
+Count Change	Cards
++1	        2, 3, 4, 5, 6
+0	        7, 8, 9
+-1	        10, 'J', 'Q', 'K', 'A'
+```
+* CODE ASSIGNMENT: You will write a card counting function. It will receive a card parameter, which can be a number or a string, and increment or decrement the global count variable according to the card's value (see table). The function will then return a string with the current count and the string Bet if the count is positive, or Hold if the count is zero or negative. The current count and the player's decision (Bet or Hold) should be separated by a single space.
+```
+Example Outputs: -3 Hold or 5 Bet
 
-## [Counting Cards](#)
-*
-* CODE ASSIGNMENT:
+Hint
+Do NOT reset count to 0 when value is 7, 8, or 9.
+Do NOT return an array.
+Do NOT include quotes (single or double) in the output.
+```
+
+## [Build JavaScript Objects](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/build-javascript-objects)
+* You may have heard the term object before.
+* Objects are similar to arrays, except that instead of using indexes to access 
+* and modify their data, you access the data in objects through what are called properties.
+* Objects are useful for storing data in a structured way, and can represent real world objects, like a cat.
+```
+var cat = {
+  "name": "Whiskers",
+  "legs": 4,
+  "tails": 1,
+  "enemies": ["Water", "Dogs"]
+};
+```
+* In In this example, all the properties are stored as strings, such as - name, legs, and tails. 
+* However, you can also use numbers as properties. 
+* You can even omit the quotes for single-word string properties, as follows:
+
+Here's a sample cat object:
+* CODE ASSIGNMENT: Make an object that represents a dog called myDog which contains the properties name (a string), legs, tails and friends.
+You can set these object properties to whatever values you want, as long as name is a string, legs and tails are numbers, and friends is an array.
 
 
-## [Build JavaScript Objects](#)
-*
-* CODE ASSIGNMENT:
+
+## [Accessing Object Properties with Dot Notation](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/accessing-object-properties-with-dot-notation)
+* There are two ways to access the properties of an object: dot notation (.) 
+* and bracket notation ([]), similar to an array.
+* Dot notation is what you use when you know the name of the property you're trying to access ahead of time.
+* Here is a sample of using dot notation (.) to read an object's property:
+```
+var myObj = {
+  prop1: "val1",
+  prop2: "val2"
+};
+var prop1val = myObj.prop1;
+var prop2val = myObj.prop2;
+```
+* prop1val would have a value of the string val1, and prop2val would have a value of the string val2.
+
+* CODE ASSIGNMENT:  Read in the property values of testObj using dot notation. Set the variable hatValue equal to the object's property hat and set the variable shirtValue equal to the object's property shirt.
 
 
-## [Accessing Object Properties with Dot Notation](#)
-*
-* CODE ASSIGNMENT:
+## [Accessing Object Properties with Bracket Notation](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/accessing-object-properties-with-bracket-notation)
+*  The second way to access the properties of an object is bracket notation ([]). 
+*  If the property of the object you are trying to access has a space in its name, you will need to use bracket notation.
+*  However, you can still use bracket notation on object properties without spaces.
+*  Here is a sample of using bracket notation to read an object's property:
+```
+var myObj = {
+  "Space Name": "Kirk",
+  "More Space": "Spock",
+  "NoSpace": "USS Enterprise"
+};
+myObj["Space Name"];
+myObj['More Space'];
+myObj["NoSpace"];
+```
+* myObj["Space Name"] would be the string Kirk, myObj['More Space'] would be the string Spock, 
+* and myObj["NoSpace"] would be the string USS Enterprise.
+* Note that property names with spaces in them must be in quotes (single or double).
+
+* CODE ASSIGNMENT: Read the values of the properties an entree and the drink of testObj using bracket notation and assign them to entreeValue and drinkValue respectively. 
 
 
-## [Accessing Object Properties with Bracket Notation](#)
-*
-* CODE ASSIGNMENT:
-
-
-## [Accessing Object Properties with Variables](#)
+## [Accessing Object Properties with Variables](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/accessing-object-properties-with-variables)
 *
 * CODE ASSIGNMENT:
 

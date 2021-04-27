@@ -615,12 +615,254 @@ _100 to 900_
 
 
 ## [Font-Variant](https://www.sololearn.com/learning/1023/1088/1239/1)
+* The CSS font-variant property allows you to convert your font to all small caps. 
+* The values can be set as normal, small-caps, and inherit. 
+* [Code Example](https://www.sololearn.com/learning/1023/1088/1239/1)
+* The HTML
+```
+<p class="normal">Paragraph font variant set to normal.</p>
+<p class="small">Paragraph font variant set to small-caps.</p>
+```
+* The CSS
+```
+p.normal {
+    font-variant: normal;
+}
+p.small {
+    font-variant: small-caps;
+}
+```
+* Not every font supports CSS font-variant, so be sure to test before you publish. 
+
+QUIZ: 
+Make the text of the paragraph small capitals:
+```
+p {font-variant: small-caps;}
+```
+
 ## [Color](https://www.sololearn.com/learning/1023/1089/1240/1)
+* The CSS color property specifies the color of the text.
+* One method of specifying the color of the text 
+* is using a color name: like red, green, blue, etc.
+* Here's an example of changing the color of your font.
+* the HTML
+```
+<p class="example">The text inside the paragraph is green.</p>
+The text outside the paragraph is black (by default). 
+```
+* the CSS
+```
+p.example {
+    color: green;
+}
+```
+* https://www.sololearn.com/learning/1023/1089/1240/1
+
+QUIZ: 
+```
+p.colored {
+  color:green;
+}
+```
+
+### The Color Property 
+* Another way of defining colors is using hexadecimal values and RGB.
+* Hexadecimal form is a pound sign (#) followed by at most, 6 hex values (0-F).
+* RGB defines the individual values for Red, Green, and Blue.
+* In the example below, we use hexadecimal value 
+* to set the heading color to blue, and RGB form to make the paragraph red. 
+* HTML
+```
+<h1>This is a heading</h1>
+<p class="example">This is a paragraph</p>
+```
+* CSS
+```
+h1 {
+    color: #0000FF;
+}
+p.example {
+    color: rgb(255,0,0);
+}
+```
+* https://www.sololearn.com/learning/1023/1089/1241/1
+
+Quiz: 
+Which of the following options are accepted by the color property?
+- hexadecimal
+- octal
+- color names 
+
+Correct Answers: hexadecimal and color names 
+
+
+
 ## [Aligning Text Horizontally](https://www.sololearn.com/learning/1023/1090/1243/1)
+* The text-align Property
+* The text-align property specifies the horizontal alignment of text in an element.
+* By default, text on your website is aligned to the left. 
+* However, at times you may require a different alignment.
+* text-align property values are as follows: left, right, center, and justify.
+* The HTML:
+```
+<p class="left">This paragraph is aligned to <strong>left.</strong></p>
+<p class="right">This paragraph is aligned to <strong>right.</strong></p>
+<p class="center">This paragraph is aligned to <strong>center.</strong></p>
+```
+* css
+```
+p.left {
+    text-align: left;
+}
+p.right {
+    text-align: right;
+}
+p.center {
+    text-align: center;
+}
+```
+* When text-align is set to "justify", 
+* each line is stretched so that every line has equal width, 
+* and the left and right margins are straight (as in magazines and newspapers).
+* https://www.sololearn.com/learning/1023/1090/1243/1
+
+Quiz:  Which of the values below is NOT applicable for the text-align property? 
+- left 
+- center
+- even (this isn't connected so this is the correct answer)
+- right 
+
+
+
 ## [aligning Text vertically](https://www.sololearn.com/learning/1023/1091/1244/1)
+* The vertical-align Property
+* The vertical-align property sets an element's vertical alignment. 
+* Commonly used values are top, middle, and bottom.
+* The example below shows how to vertically align the text between the table. 
+* HTML
+```
+<table border="1" cellpadding="2" cellspacing="0" style="height: 150px;">
+  <tr>
+     <td class="top">Top</td>
+     <td class="middle">Middle</td>
+     <td class="bottom">Bottom</td>
+  </tr>
+</table>
+```
+* CSS
+```
+td.top {
+    vertical-align: top;
+}
+td.middle {
+    vertical-align: middle;
+}
+td.bottom {
+    vertical-align: bottom;
+}
+```
+* Code 
+
+Quiz: The Vertical-Align Property 
+Fill in the blanks to set the vertical alignment of all elements having class="test" to bottom: 
+```
+.test {
+  vertical-align:bottom; 
+}
+```
+
+The vertical-align Property
+The vertical-align property also takes the following values: baseline, sub, super, % and px (or pt, cm).
+The example below shows the difference between them. 
+https://www.sololearn.com/learning/1023/1091/1245/1
+Instead of px values, you can use pt (points), cm (centimeters) and % (percentage) values.
+
+Quiz: Negative values can be used with the vertical-align property: True. 
+
+The vertical-align Property
+
+
+Vertical align property does not act the same way for all elements.
+For example, some additional CSS styling is needed for div elements. 
+
+<div class="main">
+   <div class="paragraph">
+   This text is aligned to the middle
+   </div>
+</div>
+https://www.sololearn.com/learning/1023/1091/1246/1
+display: inline-table; and display: table-cell; styling rules are applied to make the vertical-align property work with divs.
+
+QUIZ: does the vertical-align property act the same way for all elements?
+no. 
+
+
+
 ## [Text-Decoration](https://www.sololearn.com/learning/1023/1092/1247/1)
+The text-decoration Property
+
+
+The text-decoration property specifies how the text will be decorated.
+
+Commonly used values are:
+none - The default value, this defines a normal text
+inherit - Inherits this property from its parent element
+overline - Draws a horizontal line above the text
+underline - Draws a horizontal line below the text
+line-through - draws a horizontal line through the text (substitutes the HTML <s> tag)
+
+The example below demonstrates the difference between each value.
+
+The HTML:
+<p class="none">This is default style of the text (none).</p>
+<p class="inherit">This text inherits the decoration of the parent.</p>
+<p class="overline">This is overlined text.</p>
+<p class="underline">This is underlined text.</p>
+<p class="line-through">This is lined-through text.</p>
+https://www.sololearn.com/learning/1023/1092/1247/1
+You can combine the underline, overline, or line-through values in a space-separated list to add multiple decoration lines.
+
+Quiz: 
+The text-decoaration property 
+What value of the text-decoration property substitutes the HTMLS Tag?
+- line-through (this is the correct answer) 
+- underline
+- overline
+- blink 
+
+The text-decoration Property
+Another value of text-decoration property is blink which makes the text blink.
+CSS syntax looks like this:
+text-decoration: blink; 
+CSS
+This value is valid but is deprecated and most browsers ignore it. 
+
+QUIZ: 
+The text-decoration property 
+Fillin the blanks to make the text underlined
+```
+#mystyle {
+  text-decoration: underline; 
+}
+```
+
+
 ## [Indenting the Text](#)
-## [Text-Shadow](#)
+The text-indent Property
+The text-indent property specifies how much horizontal space should be left before the beginning of the first line of the text. Property values are length (px, pt, cm, em, etc.), %, and inherit.
+The HTML:
+<p>This is an example of 
+<strong>text-indent </strong> property. 
+First line of our text is indented to the right in 60px. 
+Besides pixels you can also use other measurement units, 
+like pt, cm, em, etc. </p>
+https://www.sololearn.com/learning/1023/1093/1249/1
+Negative values are allowed. The first line will be indented to the left if the value is negative.
+
+Quiz: The Text-Indent Property 
+The position of which block is specified by the text-indent property? My answer: the first line of the text block. 
+
+## [Text-Shadow](https://www.sololearn.com/learning/1023/1094/1251/1)
 ## [Text-Transform](#)
 ## [Letter-spacing](#)
 ## [Word-Spacing](#)
