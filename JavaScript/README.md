@@ -3,15 +3,15 @@
 * [READING:](https://dev.to/axlyaguana11/concepts-you-need-to-know-if-you-are-a-javascript-beginner-5am0?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email) 
 
 ## Learning Resources 
-* FreeCode Camp - Introduction to JavaScript
+### FreeCode Camp - Introduction to JavaScript
  - [link to FCC course](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
  - [link to my course notes](https://github.com/EO4wellness/T-I-L/tree/main/JavaScript/freecodecamp-notes)
  - [link to my course coding solutions](https://github.com/EO4wellness/T-I-L/tree/main/JavaScript/freecodecamp-exercises)
  - [course projects](https://github.com/EO4wellness/T-I-L/tree/main/JavaScript/freecodecamp-exercises/10.JavaScriptAlgorithmsDataStructureProjects)
-* W3Schools
+### W3Schools
 -  [link to course](https://www.w3schools.com/js/default.asp)
 -  [link to my course notes & code samples](https://github.com/EO4wellness/T-I-L/tree/main/JavaScript/W3Schools)
-* [Udacity](https://github.com/EO4wellness/leary-leerie/tree/master/Intro-to-JavaScript)
+### [Udacity](https://github.com/EO4wellness/leary-leerie/tree/master/Intro-to-JavaScript)
 * [JavaScriptCamp](https://www.jscamp.app/docs/javascript00)
 * https://javascript30.com/
 
