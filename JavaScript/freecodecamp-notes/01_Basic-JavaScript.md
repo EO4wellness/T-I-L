@@ -1225,20 +1225,52 @@ var cat = {
 * You can even omit the quotes for single-word string properties, as follows:
 
 Here's a sample cat object:
-* CODE ASSIGNMENT:
+* CODE ASSIGNMENT: Make an object that represents a dog called myDog which contains the properties name (a string), legs, tails and friends.
+You can set these object properties to whatever values you want, as long as name is a string, legs and tails are numbers, and friends is an array.
 
 
-## [Accessing Object Properties with Dot Notation](#)
-*
-* CODE ASSIGNMENT:
+
+## [Accessing Object Properties with Dot Notation](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/accessing-object-properties-with-dot-notation)
+* There are two ways to access the properties of an object: dot notation (.) 
+* and bracket notation ([]), similar to an array.
+* Dot notation is what you use when you know the name of the property you're trying to access ahead of time.
+* Here is a sample of using dot notation (.) to read an object's property:
+```
+var myObj = {
+  prop1: "val1",
+  prop2: "val2"
+};
+var prop1val = myObj.prop1;
+var prop2val = myObj.prop2;
+```
+* prop1val would have a value of the string val1, and prop2val would have a value of the string val2.
+
+* CODE ASSIGNMENT:  Read in the property values of testObj using dot notation. Set the variable hatValue equal to the object's property hat and set the variable shirtValue equal to the object's property shirt.
 
 
-## [Accessing Object Properties with Bracket Notation](#)
-*
-* CODE ASSIGNMENT:
+## [Accessing Object Properties with Bracket Notation](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/accessing-object-properties-with-bracket-notation)
+*  The second way to access the properties of an object is bracket notation ([]). 
+*  If the property of the object you are trying to access has a space in its name, you will need to use bracket notation.
+*  However, you can still use bracket notation on object properties without spaces.
+*  Here is a sample of using bracket notation to read an object's property:
+```
+var myObj = {
+  "Space Name": "Kirk",
+  "More Space": "Spock",
+  "NoSpace": "USS Enterprise"
+};
+myObj["Space Name"];
+myObj['More Space'];
+myObj["NoSpace"];
+```
+* myObj["Space Name"] would be the string Kirk, myObj['More Space'] would be the string Spock, 
+* and myObj["NoSpace"] would be the string USS Enterprise.
+* Note that property names with spaces in them must be in quotes (single or double).
+
+* CODE ASSIGNMENT: Read the values of the properties an entree and the drink of testObj using bracket notation and assign them to entreeValue and drinkValue respectively. 
 
 
-## [Accessing Object Properties with Variables](#)
+## [Accessing Object Properties with Variables](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/accessing-object-properties-with-variables)
 *
 * CODE ASSIGNMENT:
 
