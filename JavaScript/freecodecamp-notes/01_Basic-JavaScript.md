@@ -1272,12 +1272,17 @@ myObj["NoSpace"];
 
 ## [Accessing Object Properties with Variables](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/accessing-object-properties-with-variables)
 *
-* CODE ASSIGNMENT:
+* CODE ASSIGNMENT: Set the playerNumber variable to 16. Then, use the variable to look up the player's name and assign it to player.
 
 
-## [Updating Object Properties](#)
-*
-* CODE ASSIGNMENT:
+## [Updating Object Properties](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/updating-object-properties)
+* After you've created a JavaScript object, 
+* you can update its properties at any time just 
+* like you would update any other variable. 
+* You can use either dot or bracket notation to update.
+
+For example, let's look at ourDog:
+* CODE ASSIGNMENT: Update the myDog object's name property. Let's change her name from Coder to Happy Coder. You can use either dot or bracket notation.
 
 
 ## [Add New Properties to a JavaScript Object](#)
