@@ -1285,17 +1285,62 @@ For example, let's look at ourDog:
 * CODE ASSIGNMENT: Update the myDog object's name property. Let's change her name from Coder to Happy Coder. You can use either dot or bracket notation.
 
 
-## [Add New Properties to a JavaScript Object](#)
-*
-* CODE ASSIGNMENT:
+## [Add New Properties to a JavaScript Object](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/add-new-properties-to-a-javascript-object)
+* You can add new properties to existing JavaScript objects
+* this is done the same way you would modify them
+* here is an example of adding "bark" property to "ourDog"
+```
+ourDog.bark = "bow-wow";
+```
+* or
+```
+ourDog["bark"] = "bow-wow";
+```
+* now when we evaluate ourDog.bark we will get back bow-wow
+* example: 
+```
+var ourDog = {
+  "name": "Camper",
+  "legs": 4,
+  "tails": 1,
+  "friends": ["everything!"]
+};
+
+ourDog.bark = "bow-wow";
+```
+* CODE ASSIGNMENT: Add a bark property to myDog and set it to a dog sound, such as "woof". You may use either dot or bracket notation.
 
 
-## [Delete Properties from a JavaScript Object](#)
-*
-* CODE ASSIGNMENT:
+## [Delete Properties from a JavaScript Object](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/delete-properties-from-a-javascript-object)
+* We can also delete properties from objects like this:
+```
+delete ourDog.bark;
+```
+* Example:
+```
+var ourDog = {
+  "name": "Camper",
+  "legs": 4,
+  "tails": 1,
+  "friends": ["everything!"],
+  "bark": "bow-wow"
+};
+
+delete ourDog.bark;
+```
+* After the last line shown above, ourDog looks like:
+```
+{
+  "name": "Camper",
+  "legs": 4,
+  "tails": 1,
+  "friends": ["everything!"]
+}
+```
+* CODE ASSIGNMENT: Delete the tails property from myDog. You may use either dot or bracket notation.
 
 
-## [Using Objects for Lookups](#)
+## [Using Objects for Lookups](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/using-objects-for-lookups)
 *
 * CODE ASSIGNMENT:
 
