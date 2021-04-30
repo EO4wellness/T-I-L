@@ -1351,7 +1351,7 @@ table {
 }
 ```
 * [Template Example](https://www.sololearn.com/learning/1023/1108/1285/1)
-
+-
 
 ## Styling the Links 
 ## Customizing the Mouse Cursor 
