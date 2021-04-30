@@ -1219,7 +1219,63 @@ A:  top right bottom left
 
 
 # Positioining and Layout
+* There are 8 units of study.
+
+## The Display Property 
+## The visibility Property 
+## Positioning 
+## Floating 
+## The Clear Property 
+## The overflow Property 
+## The z-index Property 
+## Module 4 QUIZ: 
+
 # CSS3 Basics
-# transitions and Transformas
+* There are 12 units in this topic. 
+## Introduction to CSS3
+## Vendor Prefixes 
+## Rounded Corners 
+## Box-Shadow
+## Box Shadow Techniques 
+## Transparency Effect 
+## Text-Shadow 
+## Pseudo Classes 
+## Pseudo Elements
+## Word-Wrap
+## @font-face
+## Module 5 Quiz: 
+
+# Gradients and Backgrounds 
+* There are 8 units of study in this module. 
+## Lindear Gradients
+## Radial Gradients
+## Background-Size
+## Background-clip
+## Transparent Borders 
+## Multiple Background Images 
+## Opacity
+## Module 6 Quiz
+
+
+# Transitions and Transforms
+* There are 8 units of study in this module. 
+
+## Transitions
+## Transformed: Rotate()
+## Transform Origin, Translate(), Skew()
+## Scale(), Multiple Tranformations
+## Keyframes and Animation 
+## Animation Properties 
+## 3D Transforms 
+## Module 7 Quiz: 
+
 # CSS Filters 
+* There are 5 units in this study topic. 
+
+## CSS Filters 
+## Filter Functions 
+## Opacity and Brightness 
+## Using Multiple CSS Filters 
+## Module 8 Quiz 
+
 # Certification
