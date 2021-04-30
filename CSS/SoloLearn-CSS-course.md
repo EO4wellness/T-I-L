@@ -799,26 +799,24 @@ no.
 
 
 ## [Text-Decoration](https://www.sololearn.com/learning/1023/1092/1247/1)
-The text-decoration Property
-
-
-The text-decoration property specifies how the text will be decorated.
-
-Commonly used values are:
-none - The default value, this defines a normal text
-inherit - Inherits this property from its parent element
-overline - Draws a horizontal line above the text
-underline - Draws a horizontal line below the text
-line-through - draws a horizontal line through the text (substitutes the HTML <s> tag)
-
-The example below demonstrates the difference between each value.
-
+* The text-decoration Property
+* The text-decoration property specifies how the text will be decorated.
+* Commonly used values are:
+- none - The default value, this defines a normal text
+- inherit - Inherits this property from its parent element
+- overline - Draws a horizontal line above the text
+- underline - Draws a horizontal line below the text
+- line-through - draws a horizontal line through the text (substitutes the HTML <s> tag)
+* The example below demonstrates the difference between each value.
+```
 The HTML:
 <p class="none">This is default style of the text (none).</p>
 <p class="inherit">This text inherits the decoration of the parent.</p>
 <p class="overline">This is overlined text.</p>
 <p class="underline">This is underlined text.</p>
 <p class="line-through">This is lined-through text.</p>
+```
+    
 https://www.sololearn.com/learning/1023/1092/1247/1
 You can combine the underline, overline, or line-through values in a space-separated list to add multiple decoration lines.
 
@@ -830,11 +828,11 @@ What value of the text-decoration property substitutes the HTMLS Tag?
 - overline
 - blink 
 
-The text-decoration Property
-Another value of text-decoration property is blink which makes the text blink.
-CSS syntax looks like this:
-text-decoration: blink; 
-CSS
+* The text-decoration Property
+* Another value of text-decoration property is blink which makes the text blink.
+* CSS syntax looks like this:
+```text-decoration: blink; ```
+* CSS
 This value is valid but is deprecated and most browsers ignore it. 
 
 QUIZ: 
