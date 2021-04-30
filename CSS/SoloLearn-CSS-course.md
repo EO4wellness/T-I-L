@@ -1351,17 +1351,216 @@ table {
 }
 ```
 * [Template Example](https://www.sololearn.com/learning/1023/1108/1285/1)
--
 
-## Styling the Links 
-## Customizing the Mouse Cursor 
+QUIZ: The empty-cells Property
+Fill in the blanks to hide the empty cells of the table.
+```
+table {
+    empty-cells: hide; 
+}
+```
+
+### The table-layout Property
+* The table-layout specifies how the width of table columns is calculated. 
+* The possible values are:
+- auto - when column or cell width are not explicitly set
+- the column width will be in proportion to the amount of content in the cells that make up the column
+- fixed - when column or cell width are not explicitly set
+- the column width will not be affected by the amount of content in the cells that make up the column.
+* The table layout is set to auto by default.
+* The example below shows the difference between auto and fixed.
+* The HTML:
+```
+<p>Table-layout is set to <strong>auto</strong></p>
+<table class="auto">
+  <tr>
+    <td width=“10%">500.000.000.000.000</td>
+    <td width="90%">20.000</td>
+  </tr>
+</table>
+
+<p>Table-layout is set to <strong>fixed</strong></p>
+<table class="fixed">
+  <tr>
+    <td width="10%">500.000.000.000.000</td>
+    <td width="90%">20.000</td>
+  </tr>
+</table>
+```
+* The CSS: 
+```
+table {
+    border-collapse: separate;
+    width: 100%;
+    border: 1px solid gray;
+} 
+td {
+    border: 1px solid gray;
+}
+table.auto {
+    table-layout: auto;
+}
+table.fixed {
+    table-layout: fixed;
+}
+```
+* [Results](https://www.sololearn.com/learning/1023/1108/1286/1)
+
+
+QUIZ: The table-layout Property
+What is the default value of the table-layout property?  auto
+
+
+
+## [Styling the Links](https://www.sololearn.com/learning/1023/1109/1287/1)
+
+### Setting Styles to Links:
+* Links can be styled with any CSS property (e.g., color, font-family, background, etc.).
+* In addition, links can be styled differently, 
+* depending on what state they are in. The following pseudo selectors are available:
+- a:link - defines the style for normal unvisited links
+- a:visited - defines the style for visited links
+- a:active - a link becomes active once you click on it
+- a:hover - a link is hovered when the mouse is over it
+* The example below creates a link that will change the style when the mouse is moved over it.
+* The HTML:
+```
+<p><a href="http://www.sololearn.com" target="_blank">
+   This link is hovered when we mouse over it
+</a></p>
+```
+* The CSS:
+```
+a:hover {
+    color: red;
+}
+```
+* [Example](https://www.sololearn.com/learning/1023/1109/1287/1)
+* When setting the style for several link states, there are some order rules:
+- a:hover MUST come after a:link and a:visited
+- a:active MUST come after a:hover
+
+QUIZ: Setting Styles to Links
+Of what type are the :link, :visited, :active and :hover selectors?
+- pseudo (correct answer) 
+- universal
+- E type 
+
+### Links' Text Decoration
+* By default, text links are underlined by the browser.
+* One of the most common uses of CSS with links is to remove the underline. 
+* In the example below, the text-decoration property is used to remove the underline.
+* The HTML:
+```
+<p><a href="http://www.sololearn.com" target="_blank">
+   This link has no underline.
+</a></p>
+```
+* The CSS:
+```
+a:link {
+    text-decoration: none;
+}
+```
+* The following properties are used to control the look and feel of links:
+- border:none - removes border from images with links
+- outline:none - removes the dotted border on clicked lines in IE
+
+QUIZ: Links' Text Decoration
+What value is used to remove borders of images with links? 
+``` border:none;```
+
+
+## [Customizing the Mouse Cursor](https://www.sololearn.com/learning/1023/1110/1290/1)
+
+### Setting the Mouse Cursor Style
+* CSS allows you to set your desired cursor style when you mouse over an element. 
+* For example, you can change your cursor into a hand icon, 
+* help icon, and much more, rather than using the default pointer.
+* In the example below, the mouse pointer is set to a help icon when we mouse over the span element: 
+* HTML
+```
+<span style="cursor:help;">
+   Do you need help?
+</span>
+```
+
+Quiz: Setting the Mouse Cursor Style
+Which property allows you to change the style of the mouse cursor?
+``` cursor ```
+
+### The cursor Property Values
+* There are numerous other possible values for the cursor property, such as:
+- default - default cursor
+- crosshair - cursor displays as crosshair
+- pointer - cursor displays hand icon
+* The list of possible values is quite long.
+* The image below demonstrates the various available styles:
+* CSS allows you to set your desired cursor style when you mouse over an element.
+
+![Cursor Styles](https://github.com/EO4wellness/T-I-L/blob/main/CSS/images/css-possible-cursor-styles.jpg)
+
+QUIZ: The cursor Property Values
+What value of the cursor property displays a plus icon? _crosshair_
+
+### The default Value
+* Usually, the appearance of the mouse cursor is altered 
+* to provide a more interesting experience for website visitors. 
+* However, choosing the wrong cursor style can be misleading, as well.
+* For example, if the cursor value is set to default, 
+* users may not "see" the links. 
+* Choose your mouse cursor styles carefully.
+
+QUIZ: The default Value
+Drag and drop from the options below to make the cursor appear as a pointer on paragraphs:
+```
+p {
+    cursor: pointer; 
+}
+```
+
 ## Module 3 Quiz
 
+1. Add the padding values, so that it has 10 pixels to the top, 15 pixels to the bottom, 5 pixels to the right, 10 pixels to the left:
+```
+padding: 10px 5px 15px 10px;
+```
+
+2. How do you make a list not display bullet points?
+- list-style-type: no bullet 
+- list-style-type: none (correct answer) 
+- bulletpoints: none
+- list: none 
+
+3. Fill in the blanks:
+```
+body {
+   background-image:url("sample.png");
+   background-repeat: repeat-x;
+}
+
+a:hover
+{
+text-decoration :underline;
+color: #000000;
+cursor: crosshair;
+}
+```
+
+4.  Make the cursor appear as a crosshair on all links of the web page:
+```
+a {
+    cursor: crosshair; 
+}
+```
 
 # Positioining and Layout
 * There are 8 units of study.
 
-## The Display Property 
+## [The Display Property](https://www.sololearn.com/learning/1023/1112/1297/1)
+
+
+
 ## The visibility Property 
 ## Positioning 
 ## Floating 
