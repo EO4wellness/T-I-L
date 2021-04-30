@@ -4,6 +4,7 @@
 
 # The Basics
 * Welcome to the CSS course! 
+* There are six units of study in The Basics 
 
 ## What is CSS
 * CSS stands for Cascading Style Sheets.
@@ -817,7 +818,7 @@ The HTML:
 <p class="line-through">This is lined-through text.</p>
 ```
     
-https://www.sololearn.com/learning/1023/1092/1247/1
+[Example Code](https://www.sololearn.com/learning/1023/1092/1247/1)<br>
 You can combine the underline, overline, or line-through values in a space-separated list to add multiple decoration lines.
 
 Quiz: 
@@ -845,7 +846,7 @@ Fillin the blanks to make the text underlined
 ```
 
 
-## [Indenting the Text](#)
+## [Indenting the Text](https://www.sololearn.com/learning/1023/1093/1249/1)
 The text-indent Property
 The text-indent property specifies how much horizontal space should be left before the beginning of the first line of the text. Property values are length (px, pt, cm, em, etc.), %, and inherit.
 The HTML:
@@ -861,7 +862,96 @@ Quiz: The Text-Indent Property
 The position of which block is specified by the text-indent property? My answer: the first line of the text block. 
 
 ## [Text-Shadow](https://www.sololearn.com/learning/1023/1094/1251/1)
-## [Text-Transform](#)
+* The text-shadow Property
+* The text-shadow property adds shadow to text.
+* It takes four values: 
+- the first value defines the distance of the shadow in the x (horizontal) direction
+- the second value sets the distance in the y (vertical) direction
+- the third value defines the blur of the shadow
+- and the fourth value sets the color.
+* The HTML: ```<h1>Text-shadow example</h1>```
+* CSS:
+ ```h1 {
+    color: blue;
+    font-size: 30pt;
+    text-shadow: 5px 2px 4px grey;
+}
+``` 
+* In the example above, we created a shadow using the following parameters:
+```
+5px – the X-coordinate
+2px – the Y-coordinate
+4px – the blur radius
+grey – the color of the shadow 
+```
+* [Template](https://www.sololearn.com/learning/1023/1094/1251/1)
+* To add more than one shadow to the text, add a comma-separated list of shadows.
+
+QUIZ: The Text-Shadow Property 
+What is the format of the value for the text-shadow property? 
+- upper-left position down-right position blur color
+- horizontal position vertical potion blur color (this is correct) 
+- width height depth color 
+
+### text-shadow with Blur Effect
+* When working with shadows, you can use any CSS-supported color format.
+* For the x and y offsets, various types of units can be used (like px, cm, mm, in, pc, pt, etc).
+* Negative values are also supported.
+* The example below creates a blue drop-shadow, 
+* two pixels higher than the main text, 
+* one pixel to the left of it, and with a 0.5em blur:
+* The HTML:
+```<h1>Text-shadow with blur effect</h1>```
+* The CSS:
+```
+h1 {
+    font-size: 20pt;   
+    text-shadow: rgba(0,0,255,1) -1px -2px 0.5em; 
+}
+```
+* [Basic Template](https://www.sololearn.com/learning/1023/1094/1252/1)
+* Internet Explorer 9 and earlier do not support the text-shadow property.
+
+QUIZ: Text-Shadow with Blur Effect 
+Create a text shadow with horizontal and vertical distance of 5px and blur radius of 2px. 
+```
+p {
+  text-shadow: 5px 5px 2px; 
+}
+```
+
+## [Text-Transform](https://www.sololearn.com/learning/1023/1095/1253/1)
+* The text-transform Property
+* The text-transform CSS property specifies how to capitalize an element's text. 
+* For example, it can be used to make text appear with each word capitalized.
+
+* The HTML:
+```
+<p class="capitalize">
+
+    The value capitalize transforms the first 
+
+    character in each word to uppercase; 
+
+    all other characters remain unaffected.
+
+</p>
+```
+* CSS:
+```
+p.capitalize {
+    text-transform: capitalize;
+}
+```
+
+QUIZ: The text-transform Property
+Drag and drop from the options below to make each word capitalized in the paragraph:
+```
+p.capfirst {
+    text-transform:capitalize; 
+}
+```
+
 ## [Letter-spacing](#)
 ## [Word-Spacing](#)
 ## [White-Spacing](#)
@@ -907,6 +997,90 @@ h1 {
 QUIZ: The CSS Box Model: In what order do the properties work in the box? 
 
 A:  top right bottom left 
+
+### text-transform Values
+* Using text-transform property you can make text appear in all-uppercase or all-lowercase. 
+* Here is an example:
+* The HTML:
+```
+<p class="uppercase">This value transforms all characters to uppercase.</p>
+
+<p class="lowercase">This value transforms all characters to lowercase.</p>
+```
+* CSS
+```
+p.uppercase {
+    text-transform: uppercase;
+}
+p.lowercase {
+    text-transform: lowercase;
+}
+```
+* The value none will produce no capitalization effect at all. 
+
+QUIZ: 
+text-transform Values
+Which option is NOT supported by the text-transform property?
+- small-caps (correct answer--this is not supported) 
+- none
+- capitalize
+- uppercase
+
+[letter spacing](https://www.sololearn.com/learning/1023/1096/1255/1)
+
+The letter-spacing property specifies the space between characters in a text. The values can be set as:
+- normal defines the default style with no extra space between characters
+- length defines an extra space between characters using measurement units like px, pt, cm, mm, etc.;
+- inherit inherits the property from its parent element;
+
+The HTML:
+```
+<p class="normal">This paragraph has no additional letter-spacing applied.</p>
+
+<p class="positive ">This paragraph is letter-spaced at 4px.</p>
+```
+The CSS
+```
+p.normal { 
+    letter-spacing: normal;
+}
+p.positive { 
+    letter-spacing: 4px;
+}
+```
+
+QUIZ: The letter-spacing Property
+Drag and drop from the options below to set the letter spacing of the paragraph:
+```
+p {
+    letter-spacing: 4px; 
+}
+```
+
+### Using Negative Values
+* For defining an extra space between characters, negative values are also permitted.
+* Here is an example demonstrating the difference between positive and negative values:
+* The HTML:
+```
+<p class="positive">This paragraph is letter-spaced at 4px.</p>
+<p class="negative">This paragraph is letter-spaced at -1.5px</p>
+```
+* The CSS:
+```
+p.positive { 
+    letter-spacing: 4px; 
+}
+p.negative { 
+    letter-spacing: -1.5px; 
+}
+```
+* Always test your result, to ensure the text is readable.
+
+QUIZ: Using Negative Values
+Fill in the blank to make the letter spacing -1cm:
+``` letter-spacing: -1cm" ```
+
+### [Word Spacing Property](https://www.sololearn.com/learning/1023/1097/1257/1)
 
 
 # Positioining and Layout
