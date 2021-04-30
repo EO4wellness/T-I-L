@@ -921,6 +921,33 @@ p {
 ```
 
 ## [Text-Transform](https://www.sololearn.com/learning/1023/1095/1253/1)
+* Using text-transform property you can make text appear in all-uppercase or all-lowercase. 
+* Here is an example:
+* The HTML:
+```
+<p class="uppercase">This value transforms all characters to uppercase.</p>
+
+<p class="lowercase">This value transforms all characters to lowercase.</p>
+```
+* CSS
+```
+p.uppercase {
+    text-transform: uppercase;
+}
+p.lowercase {
+    text-transform: lowercase;
+}
+```
+* The value none will produce no capitalization effect at all. 
+
+QUIZ: 
+text-transform Values
+Which option is NOT supported by the text-transform property?
+- small-caps (correct answer--this is not supported) 
+- none
+- capitalize
+- uppercase
+
 * The text-transform Property
 * The text-transform CSS property specifies how to capitalize an element's text. 
 * For example, it can be used to make text appear with each word capitalized.
@@ -952,81 +979,7 @@ p.capfirst {
 }
 ```
 
-## [Letter-spacing](#)
-## [Word-Spacing](#)
-## [White-Spacing](#)
-## [Model 2 Quiz](https://www.sololearn.com/learning/1023/2332/1293/2)
-
-1. What is the correct CSS syntax for making all P elements bold? 
-- p {font-weight:bold;} This Is The Correct Answer 
-- <p style-"text-size:bold">
-- p {text-size:bold;}
-- <p style="font-size:bold">
-
-2. fill in the blanks to make the paragraph red and bold
-```
-p {
-  color: red: 
-  font-weight: bold;
-  text-decoration:none;
-  font-size; 16px;
-}
-```
-
-3. fill in the blanks ot make all the text of the H1 elements bold, red and 14 pixels 
-
-```
-h1 {
-  font-size:14px;
-  font-weight:bold;
-  color:read; 
-}
-```
-![results](https://github.com/EO4wellness/T-I-L/blob/main/CSS/images/2021-04-25-CSS-Module2-Quiz.jpg)
-
-# Properties 
-
-![box-model](https://github.com/EO4wellness/T-I-L/blob/main/CSS/images/example_box-model.jpg)
-
-## The CSS Box Model 
-* All HTML elements can be considered as boxes
-* the CSS box model represents the design and layout of th esite 
-* it is made up of margins, borders, paddings, and content
-* the properties work in the same order: top, right, bottom, left
-
-QUIZ: The CSS Box Model: In what order do the properties work in the box? 
-
-A:  top right bottom left 
-
-### text-transform Values
-* Using text-transform property you can make text appear in all-uppercase or all-lowercase. 
-* Here is an example:
-* The HTML:
-```
-<p class="uppercase">This value transforms all characters to uppercase.</p>
-
-<p class="lowercase">This value transforms all characters to lowercase.</p>
-```
-* CSS
-```
-p.uppercase {
-    text-transform: uppercase;
-}
-p.lowercase {
-    text-transform: lowercase;
-}
-```
-* The value none will produce no capitalization effect at all. 
-
-QUIZ: 
-text-transform Values
-Which option is NOT supported by the text-transform property?
-- small-caps (correct answer--this is not supported) 
-- none
-- capitalize
-- uppercase
-
-[letter spacing](https://www.sololearn.com/learning/1023/1096/1255/1)
+## [Letter-spacing][letter spacing](https://www.sololearn.com/learning/1023/1096/1255/1)
 
 The letter-spacing property specifies the space between characters in a text. The values can be set as:
 - normal defines the default style with no extra space between characters
@@ -1080,11 +1033,249 @@ QUIZ: Using Negative Values
 Fill in the blank to make the letter spacing -1cm:
 ``` letter-spacing: -1cm" ```
 
-### [Word Spacing Property](https://www.sololearn.com/learning/1023/1097/1257/1)
+## [Word Spacing Property](https://www.sololearn.com/learning/1023/1097/1257/1)
+*  The word-spacing property specifies the space between words in a text. 
+*  Just like the letter-spacing property, you can set the word-spacing values as normal, length, and inherit.
+* The HTML:
+```
+<p class="normal">This paragraph has no additional word-spacing applied.</p>
+<p class="px">This paragraph is word-spaced at 30px.</p>
+```
+* CSS
+```
+p.normal { 
+    word-spacing: normal;
+}
+p.px { 
+    word-spacing: 30px;
+}
+```
+* When a weird spacing is used, and it is necessary to keep the selected paragraph with normal word spacing, the normal option is usually used.
+
+QUIZ: The word-spacing Property
+Fill in the blanks to make the word-spacing 15px:
+``` 
+p {
+    word-spacing:15px;
+}
+```
+
+### Measurement Units
+* To define an extra space between words,
+*  you can use positive measurement values 
+*  like px, pt, pc, cm, mm, inches, em, and ex.
+*  Negative values are also permitted.
+*   Here is an example to show the difference.
+* The HTML:
+```
+<p class="positive">This paragraph is word-spaced at 20px.</p>
+<p class="negative">This paragraph is word-spaced at -5px.</p>
+```
+* The CSS: 
+```
+p.positive { 
+    word-spacing: 20px;
+}
+p.negative { 
+    word-spacing: -5px;
+}
+```
+
+QUIZ: Measurement Units
+Which measurement units CANNOT be used with the word-spacing property?
+- points
+- pixels
+- feet,yards (this is the correct answer) 
+- cm, mm, inches 
+
+## [White-Spacing](https://www.sololearn.com/learning/1023/1098/1259/1)
+* The White-Space property
+* The white-space property specifies how white-space inside an element is handled. 
+* The values can be set as normal, inherit, nowrap, etc.
+* The nowrap value makes the text continue on the same line until a ```<br>``` tag is encountered,
+*  and also collapses all sequences of whitespace into a single whitespace.
+* The HTML:
+``` <p>
+This paragraph has         multiple spaces      and
+a line break, but it will be ignored, as we used the nowrap value. 
+</p>
+```
+* The CSS: 
+```
+p {
+    white-space: nowrap;
+}
+```
+
+QUIZ:
+The white-space Property
+Which of the following indicate the purpose of the "nowrap" option?
+- It separates paragraphs (incorrect) 
+- It puts the whole text in one line (correct) 
+- It collapses all sequences of white space into a single whitespace
+(correct)
+
+### The white-space Values
+* The white-space property also supports other values:
+- pre - text will only wrap on line breaks and white space
+- pre-line - text will wrap where there is a break in code, but extra white space is still ignored
+- pre-wrap - text will wrap when necessary, and on line breaks
+* Here is an example in which all three values are used:
+* The HTML:
+```
+<p class="pre"> 
+In the markup we have multiple            spaces 
+and a line break. 
+</p>
+<p class="preline"> 
+In the markup we have multiple            spaces 
+and a line break, but in the result multiple spaces are ignored. 
+</p>
+<p class="prewrap"> 
+In the markup we have              multiple 
+spaces and a line break.
+</p>
+```
+* CSS 
+```
+p.pre {
+    white-space: pre;
+}
+p.preline {
+    white-space: pre-line;
+}
+p.prewrap {
+    white-space: pre-wrap;
+}
+```
+* [template](https://www.sololearn.com/learning/1023/1098/1260/1)
+* Pre-wrap value behaves as the pre value, except that it adds extra line breaks to prevent the text breaking out of the element's box.
+
+QUIZ: The white-space Values
+What is the difference between the "pre" and "pre-line" options?
+- "pre" accepts all line-breaks and whitespace, while "pre-line" ignores the whitespace (correct) 
+- "pre-line" accepts all line-breaks and whitespace, while "pre" ignores the line-breaks (incorrect) 
+- There is no difference (incorrect) 
+
+## [Model 2 Quiz](https://www.sololearn.com/learning/1023/2332/1293/2)
+
+1. What is the correct CSS syntax for making all P elements bold? 
+- p {font-weight:bold;} This Is The Correct Answer 
+- <p style-"text-size:bold">
+- p {text-size:bold;}
+- <p style="font-size:bold">
+
+2. fill in the blanks to make the paragraph red and bold
+```
+p {
+  color: red: 
+  font-weight: bold;
+  text-decoration:none;
+  font-size; 16px;
+}
+```
+
+3. fill in the blanks ot make all the text of the H1 elements bold, red and 14 pixels 
+
+```
+h1 {
+  font-size:14px;
+  font-weight:bold;
+  color:read; 
+}
+```
+![results](https://github.com/EO4wellness/T-I-L/blob/main/CSS/images/2021-04-25-CSS-Module2-Quiz.jpg)
+
+# Properties 
+* There are 13 Units of study in this section
+![box-model](https://github.com/EO4wellness/T-I-L/blob/main/CSS/images/example_box-model.jpg)
+
+
+## Introducing the Box Model: 
+
+
+### The CSS Box Model 
+* All HTML elements can be considered as boxes
+* the CSS box model represents the design and layout of th esite 
+* it is made up of margins, borders, paddings, and content
+* the properties work in the same order: top, right, bottom, left
+
+QUIZ: The CSS Box Model: In what order do the properties work in the box? 
+
+A:  top right bottom left 
+
+## Understanding the Box Model 
+## Borders 
+## Width and Height 
+## Background-Color
+## Background-Image
+## Background-Repeat
+## Background-Attachment 
+## Styling the Lists 
+## Styling the Tables 
+## Styling the Links 
+## Customizing the Mouse Cursor 
+## Module 3 Quiz
 
 
 # Positioining and Layout
+* There are 8 units of study.
+
+## The Display Property 
+## The visibility Property 
+## Positioning 
+## Floating 
+## The Clear Property 
+## The overflow Property 
+## The z-index Property 
+## Module 4 QUIZ: 
+
 # CSS3 Basics
-# transitions and Transformas
+* There are 12 units in this topic. 
+## Introduction to CSS3
+## Vendor Prefixes 
+## Rounded Corners 
+## Box-Shadow
+## Box Shadow Techniques 
+## Transparency Effect 
+## Text-Shadow 
+## Pseudo Classes 
+## Pseudo Elements
+## Word-Wrap
+## @font-face
+## Module 5 Quiz: 
+
+# Gradients and Backgrounds 
+* There are 8 units of study in this module. 
+## Lindear Gradients
+## Radial Gradients
+## Background-Size
+## Background-clip
+## Transparent Borders 
+## Multiple Background Images 
+## Opacity
+## Module 6 Quiz
+
+
+# Transitions and Transforms
+* There are 8 units of study in this module. 
+
+## Transitions
+## Transformed: Rotate()
+## Transform Origin, Translate(), Skew()
+## Scale(), Multiple Tranformations
+## Keyframes and Animation 
+## Animation Properties 
+## 3D Transforms 
+## Module 7 Quiz: 
+
 # CSS Filters 
+* There are 5 units in this study topic. 
+
+## CSS Filters 
+## Filter Functions 
+## Opacity and Brightness 
+## Using Multiple CSS Filters 
+## Module 8 Quiz 
+
 # Certification
