@@ -1187,11 +1187,11 @@ h1 {
 ![results](https://github.com/EO4wellness/T-I-L/blob/main/CSS/images/2021-04-25-CSS-Module2-Quiz.jpg)
 
 # Properties 
-* There are 13 Units of study in this section
+* There are 13 Units of study in this section<br>
 ![box-model](https://github.com/EO4wellness/T-I-L/blob/main/CSS/images/example_box-model.jpg)
 
 
-## Introducing the Box Model: 
+## [Introducing the Box Model](https://www.sololearn.com/learning/1023/1099/1262/1):
 
 
 ### The CSS Box Model 
@@ -1204,7 +1204,31 @@ QUIZ: The CSS Box Model: In what order do the properties work in the box?
 
 A:  top right bottom left 
 
-## Understanding the Box Model 
+### More on Box Models 
+* Every element of the webpage is a BOX
+* CSS uses the box model to determine how big the boxes are and how to place them
+* the box model is also used to calculate the actual width and height of the HTML elements 
+
+QUIZ: More on Box Models
+According to the box model, every element on a web page is a: Box.
+
+## [Understanding the Box Model](https://www.sololearn.com/learning/1023/1100/1264/1) 
+
+### Total Width of an Element
+* When working with boxes, it is important to understand how the total width of an element is calculated.
+* For example, the total width of the box with paddings will be the sum of width plus padding left and padding right
+
+[padding-width-example!](https://github.com/EO4wellness/T-I-L/blob/main/CSS/images/padding-example1.jpg)
+
+* Here is another box with margins, border, and paddings.
+* The total width is the sum of left and right margins, left and right borders, left and right paddings, and the actual width of the content.
+
+[padding-example2!](https://github.com/EO4wellness/T-I-L/blob/main/CSS/images/padding-example2.jpg)
+
+* When you set the width and height properties of an element with CSS, you set the width and height of the content area.
+When setting a background-color to a box, it covers the content area, as well as the padding.
+
+
 ## Borders 
 ## Width and Height 
 ## Background-Color
