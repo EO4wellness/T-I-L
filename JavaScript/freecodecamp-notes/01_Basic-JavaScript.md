@@ -1271,7 +1271,33 @@ myObj["NoSpace"];
 
 
 ## [Accessing Object Properties with Variables](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/accessing-object-properties-with-variables)
-*
+*  Another use of bracket notation on objects is to access a property which is stored as the value of a variable. 
+*  This can be very useful for iterating through an object's properties or when accessing a lookup table.
+*  Here is an example of using a variable to access a property:
+```
+var dogs = {
+  Fido: "Mutt",  Hunter: "Doberman",  Snoopie: "Beagle"
+};
+var myDog = "Hunter";
+var myBreed = dogs[myDog];
+console.log(myBreed);
+```
+*  The string Doberman would be displayed in the console.
+*  Another way you can use this concept is when the property's name is collected dynamically during the program execution, as follows:
+```
+var someObj = {
+  propName: "John"
+};
+function propPrefix(str) {
+  var s = "prop";
+  return s + str;
+}
+var someProp = propPrefix("Name");
+console.log(someObj[someProp]);
+```
+* someProp would have a value of the string propName, and the string John would be displayed in the console.
+* Note that we do not use quotes around the variable name when using it to access the property because we are using the value of the variable, not the name.
+
 * CODE ASSIGNMENT: Set the playerNumber variable to 16. Then, use the variable to look up the player's name and assign it to player.
 
 
@@ -1341,18 +1367,112 @@ delete ourDog.bark;
 
 
 ## [Using Objects for Lookups](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/using-objects-for-lookups)
-*
-* CODE ASSIGNMENT:
+* Objects can be thought of as a key/value storage, like a dictionary. 
+* If you have tabular data, you can use an object to lookup values 
+* rather than a switch statement or an if/else chain. 
+* This is most useful when you know that your input data is limited to a certain range.
+* Here is an example of a simple reverse alphabet lookup:
+```
+var alpha = {
+  1:"Z",
+  2:"Y",
+  3:"X",
+  4:"W",
+  ...
+  24:"C",
+  25:"B",
+  26:"A"
+};
+alpha[2];
+alpha[24];
 
+var value = 2;
+alpha[value];
+```
+* alpha[2] is the string Y, alpha[24] is the string C, and alpha[value] is the string Y.
 
-## [Testing Objects for Properties](#)
-*
-* CODE ASSIGNMENT:
+* CODE ASSIGNMENT: Convert the switch statement into an object called lookup. Use it to look up val and assign the associated string to the result variable.
+```
+  var lookup = {
+    "alpha": "Adams",
+    "bravo": "Boston",
+    "charlie": "Chicago",
+    "delta": "Denver",
+    "echo": "Easy",
+    "foxtrot":"Frank",
+  };
+  result=lookup[val]
+```
 
+## [Testing Objects for Properties](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/testing-objects-for-properties)
+* Sometimes it is useful to check if the property of a given object exists or not. 
+* We can use the .hasOwnProperty(propname) method of objects
+*  to determine if that object has the given property name. 
+*  .hasOwnProperty() returns true or false if the property is found or not.
+*  Example
+```
+var myObj = {
+  top: "hat",
+  bottom: "pants"
+};
+myObj.hasOwnProperty("top");
+myObj.hasOwnProperty("middle");
+```
+* The first hasOwnProperty returns true, while the second returns false.
 
-## [Manipulating Complex Objects](#)
-*
-* CODE ASSIGNMENT:
+* CODE ASSIGNMENT: Modify the function checkObj to test if an object passed to the function (obj) contains a specific property (checkProp). If the property is found, return that property's value. If not, return "Not Found".
+if(obj.hasOwnProperty(checkProp)) {
+  return obj[checkProp];
+  } else { 
+  return "Not Found";
+  }
+
+## [Manipulating Complex Objects](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/manipulating-complex-objects)
+* Sometimes you may want to store data in a flexible Data Structure. 
+* A JavaScript object is one way to handle flexible data. 
+* They allow for arbitrary combinations of strings, numbers, booleans, arrays, functions, and objects.
+* Here's an example of a complex data structure:
+```
+var ourMusic = [
+  {
+    "artist": "Daft Punk",
+    "title": "Homework",
+    "release_year": 1997,
+    "formats": [ 
+      "CD", 
+      "Cassette", 
+      "LP"
+    ],
+    "gold": true
+  }
+];
+```
+* This is an array which contains one object inside. 
+* The object has various pieces of metadata about an album. 
+* It also has a nested formats array.
+*  If you want to add more album records, 
+*  you can do this by adding records to the top level array. 
+*  Objects hold data in a property, which has a key-value format. 
+*  In the example above, "artist": 
+*  "Daft Punk" is a property that has a key of artist 
+*  and a value of Daft Punk. 
+*  JavaScript Object Notation or JSON is a related data interchange format used to store data.
+```
+{
+  "artist": "Daft Punk",
+  "title": "Homework",
+  "release_year": 1997,
+  "formats": [ 
+    "CD",
+    "Cassette",
+    "LP"
+  ],
+  "gold": true
+}
+```
+* Note: You will need to place a comma after every object in the array, unless it is the last object in the array.
+
+* CODE ASSIGNMENT: Add a new album to the myMusic array. Add artist and title strings, release_year number, and a formats array of strings.
 
 
 ## [Accessing Nested Objects](#)
