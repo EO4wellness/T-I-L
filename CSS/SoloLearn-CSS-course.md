@@ -921,6 +921,33 @@ p {
 ```
 
 ## [Text-Transform](https://www.sololearn.com/learning/1023/1095/1253/1)
+* Using text-transform property you can make text appear in all-uppercase or all-lowercase. 
+* Here is an example:
+* The HTML:
+```
+<p class="uppercase">This value transforms all characters to uppercase.</p>
+
+<p class="lowercase">This value transforms all characters to lowercase.</p>
+```
+* CSS
+```
+p.uppercase {
+    text-transform: uppercase;
+}
+p.lowercase {
+    text-transform: lowercase;
+}
+```
+* The value none will produce no capitalization effect at all. 
+
+QUIZ: 
+text-transform Values
+Which option is NOT supported by the text-transform property?
+- small-caps (correct answer--this is not supported) 
+- none
+- capitalize
+- uppercase
+
 * The text-transform Property
 * The text-transform CSS property specifies how to capitalize an element's text. 
 * For example, it can be used to make text appear with each word capitalized.
@@ -952,81 +979,7 @@ p.capfirst {
 }
 ```
 
-## [Letter-spacing](#)
-## [Word-Spacing](#)
-## [White-Spacing](#)
-## [Model 2 Quiz](https://www.sololearn.com/learning/1023/2332/1293/2)
-
-1. What is the correct CSS syntax for making all P elements bold? 
-- p {font-weight:bold;} This Is The Correct Answer 
-- <p style-"text-size:bold">
-- p {text-size:bold;}
-- <p style="font-size:bold">
-
-2. fill in the blanks to make the paragraph red and bold
-```
-p {
-  color: red: 
-  font-weight: bold;
-  text-decoration:none;
-  font-size; 16px;
-}
-```
-
-3. fill in the blanks ot make all the text of the H1 elements bold, red and 14 pixels 
-
-```
-h1 {
-  font-size:14px;
-  font-weight:bold;
-  color:read; 
-}
-```
-![results](https://github.com/EO4wellness/T-I-L/blob/main/CSS/images/2021-04-25-CSS-Module2-Quiz.jpg)
-
-# Properties 
-
-![box-model](https://github.com/EO4wellness/T-I-L/blob/main/CSS/images/example_box-model.jpg)
-
-## The CSS Box Model 
-* All HTML elements can be considered as boxes
-* the CSS box model represents the design and layout of th esite 
-* it is made up of margins, borders, paddings, and content
-* the properties work in the same order: top, right, bottom, left
-
-QUIZ: The CSS Box Model: In what order do the properties work in the box? 
-
-A:  top right bottom left 
-
-### text-transform Values
-* Using text-transform property you can make text appear in all-uppercase or all-lowercase. 
-* Here is an example:
-* The HTML:
-```
-<p class="uppercase">This value transforms all characters to uppercase.</p>
-
-<p class="lowercase">This value transforms all characters to lowercase.</p>
-```
-* CSS
-```
-p.uppercase {
-    text-transform: uppercase;
-}
-p.lowercase {
-    text-transform: lowercase;
-}
-```
-* The value none will produce no capitalization effect at all. 
-
-QUIZ: 
-text-transform Values
-Which option is NOT supported by the text-transform property?
-- small-caps (correct answer--this is not supported) 
-- none
-- capitalize
-- uppercase
-
-[letter spacing](https://www.sololearn.com/learning/1023/1096/1255/1)
+## [Letter-spacing][letter spacing](https://www.sololearn.com/learning/1023/1096/1255/1)
 
 The letter-spacing property specifies the space between characters in a text. The values can be set as:
 - normal defines the default style with no extra space between characters
@@ -1081,6 +1034,54 @@ Fill in the blank to make the letter spacing -1cm:
 ``` letter-spacing: -1cm" ```
 
 ### [Word Spacing Property](https://www.sololearn.com/learning/1023/1097/1257/1)
+
+## [White-Spacing](#)
+## [Model 2 Quiz](https://www.sololearn.com/learning/1023/2332/1293/2)
+
+1. What is the correct CSS syntax for making all P elements bold? 
+- p {font-weight:bold;} This Is The Correct Answer 
+- <p style-"text-size:bold">
+- p {text-size:bold;}
+- <p style="font-size:bold">
+
+2. fill in the blanks to make the paragraph red and bold
+```
+p {
+  color: red: 
+  font-weight: bold;
+  text-decoration:none;
+  font-size; 16px;
+}
+```
+
+3. fill in the blanks ot make all the text of the H1 elements bold, red and 14 pixels 
+
+```
+h1 {
+  font-size:14px;
+  font-weight:bold;
+  color:read; 
+}
+```
+![results](https://github.com/EO4wellness/T-I-L/blob/main/CSS/images/2021-04-25-CSS-Module2-Quiz.jpg)
+
+# Properties 
+
+![box-model](https://github.com/EO4wellness/T-I-L/blob/main/CSS/images/example_box-model.jpg)
+
+## The CSS Box Model 
+* All HTML elements can be considered as boxes
+* the CSS box model represents the design and layout of th esite 
+* it is made up of margins, borders, paddings, and content
+* the properties work in the same order: top, right, bottom, left
+
+QUIZ: The CSS Box Model: In what order do the properties work in the box? 
+
+A:  top right bottom left 
+
+
+
+
 
 
 # Positioining and Layout
