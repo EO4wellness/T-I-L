@@ -1218,12 +1218,12 @@ According to the box model, every element on a web page is a: Box.
 * When working with boxes, it is important to understand how the total width of an element is calculated.
 * For example, the total width of the box with paddings will be the sum of width plus padding left and padding right
 
-[padding-width-example!](https://github.com/EO4wellness/T-I-L/blob/main/CSS/images/padding-example1.jpg)
+![padding-width-example](https://github.com/EO4wellness/T-I-L/blob/main/CSS/images/padding-example1.jpg)
 
 * Here is another box with margins, border, and paddings.
 * The total width is the sum of left and right margins, left and right borders, left and right paddings, and the actual width of the content.
 
-[padding-example2!](https://github.com/EO4wellness/T-I-L/blob/main/CSS/images/padding-example2.jpg)
+![padding-example2](https://github.com/EO4wellness/T-I-L/blob/main/CSS/images/padding-example2.jpg)
 
 * When you set the width and height properties of an element with CSS, you set the width and height of the content area.
 When setting a background-color to a box, it covers the content area, as well as the padding.
