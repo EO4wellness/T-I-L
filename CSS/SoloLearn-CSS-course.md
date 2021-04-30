@@ -1033,9 +1033,130 @@ QUIZ: Using Negative Values
 Fill in the blank to make the letter spacing -1cm:
 ``` letter-spacing: -1cm" ```
 
-### [Word Spacing Property](https://www.sololearn.com/learning/1023/1097/1257/1)
+## [Word Spacing Property](https://www.sololearn.com/learning/1023/1097/1257/1)
+*  The word-spacing property specifies the space between words in a text. 
+*  Just like the letter-spacing property, you can set the word-spacing values as normal, length, and inherit.
+* The HTML:
+```
+<p class="normal">This paragraph has no additional word-spacing applied.</p>
+<p class="px">This paragraph is word-spaced at 30px.</p>
+```
+* CSS
+```
+p.normal { 
+    word-spacing: normal;
+}
+p.px { 
+    word-spacing: 30px;
+}
+```
+* When a weird spacing is used, and it is necessary to keep the selected paragraph with normal word spacing, the normal option is usually used.
 
-## [White-Spacing](#)
+QUIZ: The word-spacing Property
+Fill in the blanks to make the word-spacing 15px:
+``` 
+p {
+    word-spacing:15px;
+}
+```
+
+### Measurement Units
+* To define an extra space between words,
+*  you can use positive measurement values 
+*  like px, pt, pc, cm, mm, inches, em, and ex.
+*  Negative values are also permitted.
+*   Here is an example to show the difference.
+* The HTML:
+```
+<p class="positive">This paragraph is word-spaced at 20px.</p>
+<p class="negative">This paragraph is word-spaced at -5px.</p>
+```
+* The CSS: 
+```
+p.positive { 
+    word-spacing: 20px;
+}
+p.negative { 
+    word-spacing: -5px;
+}
+```
+
+QUIZ: Measurement Units
+Which measurement units CANNOT be used with the word-spacing property?
+- points
+- pixels
+- feet,yards (this is the correct answer) 
+- cm, mm, inches 
+
+## [White-Spacing](https://www.sololearn.com/learning/1023/1098/1259/1)
+* The White-Space property
+* The white-space property specifies how white-space inside an element is handled. 
+* The values can be set as normal, inherit, nowrap, etc.
+* The nowrap value makes the text continue on the same line until a ```<br>``` tag is encountered,
+*  and also collapses all sequences of whitespace into a single whitespace.
+* The HTML:
+``` <p>
+This paragraph has         multiple spaces      and
+a line break, but it will be ignored, as we used the nowrap value. 
+</p>
+```
+* The CSS: 
+```
+p {
+    white-space: nowrap;
+}
+```
+
+QUIZ:
+The white-space Property
+Which of the following indicate the purpose of the "nowrap" option?
+- It separates paragraphs (incorrect) 
+- It puts the whole text in one line (correct) 
+- It collapses all sequences of white space into a single whitespace
+(correct)
+
+### The white-space Values
+* The white-space property also supports other values:
+- pre - text will only wrap on line breaks and white space
+- pre-line - text will wrap where there is a break in code, but extra white space is still ignored
+- pre-wrap - text will wrap when necessary, and on line breaks
+* Here is an example in which all three values are used:
+* The HTML:
+```
+<p class="pre"> 
+In the markup we have multiple            spaces 
+and a line break. 
+</p>
+<p class="preline"> 
+In the markup we have multiple            spaces 
+and a line break, but in the result multiple spaces are ignored. 
+</p>
+<p class="prewrap"> 
+In the markup we have              multiple 
+spaces and a line break.
+</p>
+```
+* CSS 
+```
+p.pre {
+    white-space: pre;
+}
+p.preline {
+    white-space: pre-line;
+}
+p.prewrap {
+    white-space: pre-wrap;
+}
+```
+* [template](https://www.sololearn.com/learning/1023/1098/1260/1)
+* Pre-wrap value behaves as the pre value, except that it adds extra line breaks to prevent the text breaking out of the element's box.
+
+QUIZ: The white-space Values
+What is the difference between the "pre" and "pre-line" options?
+- "pre" accepts all line-breaks and whitespace, while "pre-line" ignores the whitespace (correct) 
+- "pre-line" accepts all line-breaks and whitespace, while "pre" ignores the line-breaks (incorrect) 
+- There is no difference (incorrect) 
+
 ## [Model 2 Quiz](https://www.sololearn.com/learning/1023/2332/1293/2)
 
 1. What is the correct CSS syntax for making all P elements bold? 
@@ -1066,10 +1187,14 @@ h1 {
 ![results](https://github.com/EO4wellness/T-I-L/blob/main/CSS/images/2021-04-25-CSS-Module2-Quiz.jpg)
 
 # Properties 
-
+* There are 13 Units of study in this section
 ![box-model](https://github.com/EO4wellness/T-I-L/blob/main/CSS/images/example_box-model.jpg)
 
-## The CSS Box Model 
+
+## Introducing the Box Model: 
+
+
+### The CSS Box Model 
 * All HTML elements can be considered as boxes
 * the CSS box model represents the design and layout of th esite 
 * it is made up of margins, borders, paddings, and content
@@ -1079,9 +1204,18 @@ QUIZ: The CSS Box Model: In what order do the properties work in the box?
 
 A:  top right bottom left 
 
-
-
-
+## Understanding the Box Model 
+## Borders 
+## Width and Height 
+## Background-Color
+## Background-Image
+## Background-Repeat
+## Background-Attachment 
+## Styling the Lists 
+## Styling the Tables 
+## Styling the Links 
+## Customizing the Mouse Cursor 
+## Module 3 Quiz
 
 
 # Positioining and Layout
