@@ -806,7 +806,7 @@ no.
 - inherit - Inherits this property from its parent element
 - overline - Draws a horizontal line above the text
 - underline - Draws a horizontal line below the text
-- line-through - draws a horizontal line through the text (substitutes the HTML <s> tag)
+- line-through - draws a horizontal line through the text (substitutes the HTML ```<s>``` tag)
 * The example below demonstrates the difference between each value.
 ```
 The HTML:
