@@ -1228,7 +1228,6 @@ According to the box model, every element on a web page is a: Box.
 * When you set the width and height properties of an element with CSS, you set the width and height of the content area.
 When setting a background-color to a box, it covers the content area, as well as the padding.
 
-
 ## Borders 
 ## Width and Height 
 ## Background-Color
@@ -1236,7 +1235,124 @@ When setting a background-color to a box, it covers the content area, as well as
 ## Background-Repeat
 ## Background-Attachment 
 ## Styling the Lists 
-## Styling the Tables 
+
+## [Styling the Tables](https://www.sololearn.com/learning/1023/1108/1283/1)
+* The Table Properties
+* The look of an HTML table can be greatly improved with CSS.
+* The border-collapse property specifies whether the table borders 
+* are collapsed into a single border 
+* or separated as default. 
+* If the borders are separate, 
+* the border-spacing property can be used to change the spacing.
+* The HTML:
+``` 
+<table border="1">
+   <tr>
+     <td>Red</td>
+     <td>Green</td>
+   </tr>
+   <tr>
+      <td>Blue</td>
+      <td>Yellow</td>
+   </tr>
+</table>
+```
+* The CSS:
+```
+table {
+    border-collapse: separate;
+    border-spacing: 20px 40px;
+}
+```
+* [Template](https://www.sololearn.com/learning/1023/1108/1283/1)
+
+QUIZ: The Table Properties
+The properties regarding table borders are:
+- border-length
+- border-collapse (correct)
+- table-border-style
+- border-spacing (correct) 
+
+### The caption-side Property
+* The caption-side property specifies the position of a table caption. 
+* The values can be set as top or bottom.
+* In the example below, we specify the placement of a table caption to top.
+* The HTML:
+```
+<table border="1">
+<caption>Some of Our Courses</caption>
+<tr>
+  <th>Course name</th>
+  <th>Lessons</th>
+  <th>Quizzes</th>
+</tr>
+<tr>
+  <td>C++</td>
+  <td>81</td>
+  <td>363</td>
+</tr>
+<tr>
+  <td>JavaScript</td>
+  <td>48</td>
+  <td>144</td>
+</tr>
+<tr>
+  <td>HTML</td>
+  <td>38</td>
+  <td>119</td>
+</tr>
+<tr>
+  <td>CSS</td>
+  <td>70</td>
+  <td>174</td>
+</tr>
+</table>
+```
+* The CSS:
+ ```caption {
+    caption-side: top;
+}
+```
+* [Result](https://www.sololearn.com/learning/1023/1108/1284/1)
+
+QUIZ: The caption-side Property
+Fill in the blanks to position the caption of the table at the bottom:
+```
+caption {
+    caption-side:bottom;
+}
+```
+
+### The empty-cells Property
+* The empty-cells property specifies whether 
+* or not to display borders and background on empty cells in a table.
+* Possible values are:
+- show: the borders of an empty cell are rendered
+- hide: the borders of an empty cell are not drawn
+* Here is the empty-cells property that is used to hide borders of empty cells in the <table> element.
+* The HTML:
+```
+<table border="1">
+  <tr>
+    <td>HTML</td>
+    <td>CSS</td>
+  </tr>
+  <tr>
+    <td>JavaScript</td>
+    <td></td>
+  </tr>
+</table>
+```
+* The CSS:
+```
+table {
+    border-collapse: separate;
+    empty-cells: hide;
+}
+```
+* [Template Example](https://www.sololearn.com/learning/1023/1108/1285/1)
+-
+
 ## Styling the Links 
 ## Customizing the Mouse Cursor 
 ## Module 3 Quiz
