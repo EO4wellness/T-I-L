@@ -36,7 +36,7 @@ Which is the correct statement?
 * The HTML:
 ```
 <script>
-   ...
+    // javascript would go here inside the HTML document 
 </script>
 ```
 * Heads up!
@@ -93,7 +93,7 @@ console.log("JavaScript is awesome!")
 
 QUIZ: Output to console
 Complete the code to output "Hi!" to the console.
-``` console.log("Hi!")
+``` console.log("Hi!")```
 
 ## [Variables](https://www.sololearn.com/learning/1024/1128/1362/1)
 
