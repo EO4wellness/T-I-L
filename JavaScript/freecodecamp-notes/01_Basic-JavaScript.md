@@ -1430,7 +1430,7 @@ if(obj.hasOwnProperty(checkProp)) {
 ## [Manipulating Complex Objects](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/manipulating-complex-objects)
 * Sometimes you may want to store data in a flexible Data Structure. 
 * A JavaScript object is one way to handle flexible data. 
-* They allow for arbitrary combinations of strings, numbers, booleans, arrays, functions, and objects.
+* They allow for arbitrary combinations of strings, numbers, booleans, arrays, functions, and objects. 
 * Here's an example of a complex data structure:
 ```
 var ourMusic = [
