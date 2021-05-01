@@ -94,7 +94,7 @@ console.log("JavaScript is awesome!")
 
 QUIZ: Output to console
 Complete the code to output "Hi!" to the console.
-``` console.log("Hi!")```
+``` console.log("Hi!") ```
 
 ## [Variables](https://www.sololearn.com/learning/1024/1128/1362/1)
 * Variables are containers for storing data values.
@@ -154,8 +154,7 @@ var my_variable = 32;
 var x = 100;
 document.write(X);
 ```
-* output (because there is a smaller-case x and a capital-case X)
-```
+* output is an error (because there is a smaller-case x and a capital-case X)
 * That’s right! An error. That’s because x and X are different, and we didn't declare the X variable.
 * Brace yourself for more rules!
 - The first character of a variable name must be a letter, underscore (_), or a dollar sign ($) (Subsequent characters can be letters, digits, underscores, or dollar signs).
