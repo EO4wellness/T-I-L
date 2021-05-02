@@ -1545,12 +1545,34 @@ Note: A copy of the recordCollection object is used for the tests.
 
 
 
-## [Iterate with JavaScript While Loops](#)
-*
-* CODE ASSIGNMENT:
+## [Iterate with JavaScript While Loops](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/iterate-with-javascript-while-loops)
+* You can run the same code multiple times by using a loop.
+* The first type of loop we will learn is called a while loop
+*  because it runs while a specified condition is true 
+*  and stops once that condition is no longer true.
+```
+var ourArray = [];
+var i = 0;
+while(i < 5) {
+  ourArray.push(i);
+  i++;
+}
+```
+* In the code example above, 
+* the while loop will execute 5 times 
+* and append the numbers 0 through 4 to ourArray.
+* CODE ASSIGNMENT: Add the numbers 5 through 0 (inclusive) in descending order to myArray using a while loop.
+```
+var myArray = [];
 
+var i = 0;
+while(i < 5) {
+  myArray.push(i);
+  i++;
+}
+```
 
-## [Iterate with JavaScript For Loops](#)
+## [Iterate with JavaScript For Loops](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/iterate-with-javascript-for-loops)
 *
 * CODE ASSIGNMENT:
 
