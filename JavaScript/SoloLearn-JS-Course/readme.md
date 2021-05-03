@@ -172,9 +172,71 @@ Which of these characters can we use to start a variable?
 - underscore sign (_) (Correct) 
 
 ## [Comments](https://www.sololearn.com/learning/1024/1126/1356/1)
+* Statements are instructions within our program which get executed. 
+* Comments are not executed.  They never run.
+* The program ignores comments. 
+* Any code after a double sash //
+* or between /* and */
+* are treated as a comment
+* comments are ignored and not executed
+* comments are just there for people to read
+* to write a single line comment, use double sashes like this: 
+```
+// This is a single line comment
+```
+* why write code which is never going to be executed? 
+* it isn't a waste of time
+* comments are a great idea
+* especially comments relating to large functions
+* they help make our code more readable to our future self and others
+* Heads Up! ``` alert() ``` is used to create a message box in JS
+```
+alert("This is an alert box!")
+```
 
+QUIZ: JavaScript Comments
+What does a single line comment look like?
+- %%this is a comment
+- ** this is a comment 
+- // this is a comment (Correct)
+- <!--this is a comment-->
 
-## Data Types 
+### Multiple-Line Comments
+* What if we have more to say?
+* If we want to create a multi-line comment,
+* we write it between /*and */
+* Like this:
+```
+/* This code 
+   creates an 
+   alert box */
+alert("This is an alert box!");
+```
+* Heads up!
+* We use comments to describe and explain what the code is doing.
+
+QUIZ:  Multiple-Line Comments
+Create a multi-line comment in JavaScript.
+```
+/* This is a 
+multiple line 
+comment*/
+```
+
+## [Data Types](https://www.sololearn.com/learning/1024/1129/1370/1) 
+* Data Types
+* The term data type refers to the types of values a program can work with. 
+* The sky's the limit with JavaScript variables,
+*  which can hold a bunch of different data types–numbers, strings, arrays, you name it.
+* Let's start simple though.
+* Numbers can be written with or without decimals. Like this:
+``` var num = 42; // A number without decimals ```
+* Numbers can be written with or without decimals
+* Heads up!
+* Changing this variable is a breeze, 
+* just assign to it any other data type value,
+*  like num = 'some random string'.
+
 ## Module 1 Quiz
 
 # Basic Concepts (7 lessons)
