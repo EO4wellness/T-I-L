@@ -367,6 +367,142 @@ console.log(name);
 # Basic Concepts (7 lessons)
 ## Math Operators 
 ### [Arithmetic Operators](https://www.sololearn.com/learning/1024/1130/1375/1)
+The name might be a bit of a giveaway but, Arithmetic operators pretty perform arithmetic functions on numbers (both literals and variables). 
+
+```
+Operator | Description | Example 
+ +         | Addition   | 25 + 5 + 30
+ 
+ -         | Subtraction | 25 - 5 =20
+ 
+ *          | Multiplication | 10 * 20 = 200
+ 
+ /          | Division          | 20/2=100
+ 
+ %          | Modulus           | 56%3=2
+ 
+ ++         | Increment         | var a = 1-; a++, Now a=11
+ 
+ --         | Decrement         | var a=10; a--; Now a-9
+
+```
+contentImageBelow you can see the addition operator (+) in action determining the sum of two numbers.
+
+```
+var x = 10 + 5;
+document.write(x);
+```
+You can add as many numbers or variables together as you want or need to.
+
+```
+var x = 10;
+var y = x + 5 + 22 + 45 + 6548;
+document.write(y);
+```
+Heads up!
+You can get the result of a string expression using the eval() function, which takes a string expression argument like eval("10 * 20 + 8") and returns the result. If the argument is empty, it returns undefined.
+
+
+QUIZ: Arithmetic Operators
+What will the following statements display?
+```
+var test=5+7;
+document.write(test);
+```
+
+- 12  (correct) 
+- 5+7
+- Test 
+
+### Multiplication
+
+Want to hear a joke?
+What tool is best suited for math?...Multi-pliers!
+JavaScript is pretty good at math too though!
+
+We use the * operator to multiply one number by the other.
+Like this:
+```
+var x = 10 * 5;
+document.write(x);
+```
+
+Heads up!
+10 * '5' or '10' * '5' will give the same result. But trying to multiply a number with string values that aren’t numbers, like 'sololearn' * 5 will return NaN (Not a Number). 
+
+QUIZ: Multiplication 
+What character do we use for multiplication? 
+- & 
+- * (correct) 
+- X
+
+### Division
+
+What’s a swimmer's favorite kind of math?... Dive-ision!
+Sorry! Back to business!
+
+We use the / operator to perform division operations.
+Like this:
+```
+var x = 100 / 5;
+document.write(x);
+```
+Heads up!
+Beware of situations where there could be a division by 0, things get messed up when we do impossible math! 
+
+QUIZ: Division 
+What character do we use for division? 
+ answer: / 
+ 
+### The Modulus
+
+Time to talk remainders. You hated them in school, but they’re pretty easy here, promise.
+
+The Modulus (%) operator returns the division remainder (what’s left over).
+
+Like this:
+```
+var myVariable = 26 % 6;
+document.write(myVariable);
+```
+Because you’re left with a remainder of 2 when you divide 26 by 6.
+Heads up!
+In JavaScript, we can use the modulus operator on integers AND on floating point numbers.
+
+QUIZ: The Modulus
+What’s the result of using a modulus operator for 38%5? 
+
+My Answer: 3 (38 divided by 5 is 7 with a remainder of 3) 
+
+### Increment & Decrement
+
+"Wait I've heard of an increment, but what the heck is a decrement?" We hear some of you say. Well, throw an increment into reverse and presto, you got yourself a decrement. Let’s dig a little deeper...
+
+Increment ++
+The increment operator increases the numeric value of its operand by 1. When placed before the operand, it’ll return the incremented value. When placed after it, it’ll return the original value and then increments the operand.
+
+Decrement --
+The decrement operator decreases the numeric value of its operand by 1. When placed before the operand, it’ll return the decremented value. When placed after the operand, it’ll return the original value and then decrements the operand.
+
+Some examples:content
+
+Operator | Descriptor | Example | Result 
+var++ | Post Increment | Var a=0, b=10; var a=b++ | a=10 and b=11
+++var | Pre Increment | var a=0, b=10; 0, b=10; var a=++b | a=11 and b=11
+var-- | Post Decrement | var a=var a=b--. | a=10 and b=9
+--var | Pre Decrement | var a=0, b=10; var a=--b; | a=9 and b=9
+
+
+Heads up!
+Just like the math you learned in school, you can change the order of the arithmetic operations by using parentheses.
+Like this: var x = (100 + 50) * 3;
+
+QUIZ: Increment & Decrement 
+What are increment and decrement used for? 
+- To get the remainder of the division of two numbers 
+- Adding or subtracting 1 from a numver  (correct) 
+- To change the sing of the number to + or -
+
 
 ## [Assignment Operators](https://www.sololearn.com/learning/1024/1131/1382/1)
 * Next in a series very logically named operators is: 
@@ -566,7 +702,17 @@ Explanation: It will take 150/40 = 3.75 hours to cover the distance, which is eq
 
 
 # Conditionals and Loops (10 lessons)
-## Unit
+## The If Statement
+## The ELSE Statement 
+## The Switch Statement 
+## The For Loop 
+## The While Loop
+## The Do..While Loop
+## Bread and Continue 
+## Module 3 Quiz 
+## The Snail in the Well Project 
+
+
 
 # Functions (7 lessons)
 ## Unit
