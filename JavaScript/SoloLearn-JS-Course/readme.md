@@ -368,6 +368,203 @@ console.log(name);
 ## Math Operators 
 ### [Arithmetic Operators](https://www.sololearn.com/learning/1024/1130/1375/1)
 
+## [Assignment Operators](https://www.sololearn.com/learning/1024/1131/1382/1)
+* Next in a series very logically named operators is: 
+* Assingment Operators 
+* We use these to assign values to JS variables 
+```
+Chart:
+Operator: Example:  Is Equivalent to: 
+=  | x=y | x=y
++= | x+=y | x= x+ y
+-= | x-=y | x = x-y
+*= | x*=y | x = x * y
+/= | x/=y | x = x/y
+%= | x%=y | x=x%y
+```
+* You can use multiple assignment operators in one line, such as x -= y += 9.
+
+QUIZ: Assignment Operators 
+Calculate and enter the resulting value of this expression: 
+```
+var result = 20;
+result *=5
+```
+My Answer: 100 
+
+## [Comparison Operators](https://www.sololearn.com/learning/1024/1132/1384/1)
+
+We can use comparison operators in logical statements to find out if variables or values are different.
+
+You get either true or false.
+For example, the equal to (==) operator checks whether the operands' values are equal.
+
+Heads up!
+You can compare all types of data with comparison operators, they’ll always return true or false. 
+
+QUIZ: Comparison Operators
+What do comparison operators return?
+- false (correct answer)
+- wrong (incorrect)
+- true (correct answer)
+- right (incorrect)
+
+* Check out this table to see a breakdown of Comparison Operators
+```
+Operator | Description | Example 
+==      | Equal to      | 5 == 10 False 
+===     | Identical to (equal and of the same data type) | 5===10 Flase
+!=      | Not equal to      | 5!=10 true
+!==     | Not identical     | 1)!==10 false 
+>       | Greater than      | 10 > 5 true
+>=      | Greater than or equal to | 10 >=5 true 
+<       | Less than         | 10 < 5 false 
+<=      | less than or equal to | 10 , = 5 false 
+
+```
+Heads up!
+One important thing to remember when we use operators, is that they only work when they’re comparing the same data type; numbers with numbers, strings with strings, you get the idea. 
+
+QUIZ: Comparison Operators 
+Enter the corresponding operators accordng to the comments at the right
+```
+val1 == val2 // are equal 
+val1 != val 2 // not equal 
+val1 < val 2//less than 
+val1 === val2 // are strict equal 
+```
+
+## [Logical or Boolean Operators](https://www.sololearn.com/learning/1024/1133/1387/1)
+
+### Logical Operators
+Logical Operators, also known as Boolean Operators, (or the Vulcan Operators….ok, that one isn't true) evaluate an expression and return true or false.
+Check out the table below to see more details on the logical operators (AND, OR, NOT). 
+```
+Logical Operators 
+&& Returns true, if both operands are true 
+|| Returns true, if one of hte operands is true 
+! Returns true, if the oerand is false and it returns false if the operand is true. 
+```
+You can check all types of data; comparison operators always return true or false. 
+
+QUIZ: Logical Operators
+Logical AND (&&) returns true if:
+- If one of the operands is true, but not both 
+- If both operands are true. (correct) 
+- If only one of the operands is true. 
+
+### Logical Operators
+Let's take a look at an example. Here we’ve connected two Boolean expressions with the AND operator. 
+``` document.write((4 > 2) && (10 < 15)); ```
+For this expression to be true, both conditions need to be true.
+- The first condition determines whether 4 is greater than 2, which is true.
+- The second condition determines whether 10 is less than 15, which is also true.
+
+Ta da! The whole expression is true...very logical!
+
+### Conditional (Ternary) Operator
+
+Conditional, or Ternary, operators assign a value to a variable, based on some condition.
+
+This is what the syntax would look like: 
+``` variable = (condition) ? value1: value2  ```
+
+And another example: 
+```
+var age = 42;
+var isAdult = (age < 18) ? "Too young": "Old enough";
+document.write(isAdult);
+```
+
+If the variable age is a value below 18, the value of the variable isAdult will be "Too young". Otherwise the value of isAdult will be "Old enough".
+Heads up!
+With logical operators you can connect as many expressions as you want or need to. 
+
+QUIZ: Logical Operators 
+Logical NOT returns true if: 
+- The operaand is true
+- The operand is false. (correct) 
+
+## String Operators 
+String Operators
+
+
+Time to introduce the most useful operator for strings...drum roll please.
+
+...Concatenation.
+
+We can use concatenation (represented by the + sign) to build strings made up of multiple smaller strings, or by joining strings with other types. Check it out: 
+
+```
+var mystring1 = "I am learning ";
+var mystring2 = "JavaScript with SoloLearn.";
+document.write(mystring1 + mystring2);
+```
+This example declares and initializes two string variables, and then concatenates them. Simple...but super useful! 
+
+Heads up!
+Numbers in quotes are treated as strings: So "42" is not the number 42, it’s a string that includes the two separate characters, 4 and 2. 
+
+Quiz: String Operators
+What’s the output of the following code?
+```
+var x = "50";
+var y = "100";
+document.write(x+y);
+```
+
+- 50100 (correct) 
+- Null
+- 150 
+- 5000
+
+## Module 2 Quiz
+
+1. Which of these names are acceptable for JavaScript variables?
+```
+- total%sum
+- firstNumber (correct)
+- 1tv
+- _module (correct) 
+```
+
+2. Fill in the data types of the data shown below in the comments field: 
+
+12 // number 
+"some text" // string
+true // boolean 
+
+3. What's the result of the expression var1&&var2, if var1=true and var2=false?
+ 
+- undefined 
+- true
+- false (correct) 
+
+
+
+## Trip Planner Project 
+```
+function main() {
+    var distance = parseInt(readLine(), 10);
+    //your code goes here
+    var travelTime = (distance/40) * 60
+    console.log(travelTime)
+}
+```
+End of Module Project: Trip Planner
+
+You need to plan a road trip. You are traveling at an average speed of 40 miles an hour.
+Given a distance in miles as input (the code to take input is already present), output to the console the time it will take you to cover it in minutes.
+
+Sample Input:
+150
+
+Sample Output:
+225
+Explanation: It will take 150/40 = 3.75 hours to cover the distance, which is equivalent to 3.75*60 = 225 minutes. 
+
+
+
 # Conditionals and Loops (10 lessons)
 ## Unit
 
