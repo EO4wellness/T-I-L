@@ -1,6 +1,8 @@
 # A Brief History
 Python, is a widely used programming language.  Python has 3 major versions.  The current version in usei s Python 3.  Python 3 is not backwards compatible with earlier versions of Python.  Those learning Python should use version 3.  Generally speaking, unless you have old files in earlier versions, the older versions of Python are needed. Python was created by Guido Van Rossum.  Gudio Van Rossum noted the name "Python" was derived from the British comedy series "Monty Python's Flying Circus".
 
+# Python Reading: 
+* [File Extensions in Python-what do they all mean?](http://dcjtech.info/topic/python-file-extensions/)
 
 # Use Cases 
 Python 3 is widely used and has many use-cases spanning multiple business, programming, and hobby applications. 
