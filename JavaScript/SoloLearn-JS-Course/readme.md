@@ -237,10 +237,136 @@ comment*/
 * just assign to it any other data type value,
 *  like num = 'some random string'.
 
+QUIZ: Data Types
+Fill in the blanks to declare a variable age and assign it the number 18:
+``` 
+var age = 18;
+```
+
+
+### Strings
+* Ok, let’s turn up the heat...
+* In JavaScript we can use strings to store and manipulate text.
+* A string can be any text wrapped in quotes. 
+* Single or double quotes, it doesn’t matter, 
+* so long as you’re consistent with them. Like this:
+```var name = 'John';
+   var text = "My name is John Smith";
+```
+* What if we want to use quotes inside a string though?? 
+* No problem! You can use quotes inside a string, 
+* as long as they don't match the quotes
+*  enclosing the string itself. Take a look:
+```
+var text = "My name is 'John' ";
+```
+* Heads up!
+* You can get double quotes inside of double quotes using the escape character like this: \" or \' inside of single quotes.
+
+QUIZ: Strings
+To create a string, we need to put the text inside....
+- <string> </string> tag (incorrect, this looks like HTML not JS)
+- Quotastion Marks (Correct answer) 
+- / symbols (incorrect, this is closer to comments)
+
+### Strings
+* Now is a good time to talk about the backslash 
+* (\) escape character. 
+* He comes to the rescue when you need to put quotes 
+* within strings (and a bunch of other situations) 
+* by transforming special characters into string characters.
+* Take a look:
+```
+var sayHello = 'Hello world! \'I am a JavaScript programmer.\' ';
+document.write(sayHello);
+```
+* But the escape character (\) isn’t just for quotes, 
+* it works when you need to put 
+* other special characters inside strings too! '
+
+```
+SPECIAL CHARACTERS CODE AND OUTPUTS CHART
+\' Single Quote 
+\" Double Quote 
+\\ backslash 
+\n new line (equivalent to ending this lin and going to the next)
+\r carriage return  (equivalent to "enter") 
+\t tab 
+\b backspace 
+\f form feed (equivalent to pint on the next page) 
+```
+* Heads up!
+If you start a string with a single quote, then you need to end it with a single quote too. This applies to double quotes. Otherwise, JavaScript will get confused. Poor JavaScript.
+
+QUIZ: Strings 
+Which of the following is the ecape character? 
+- \ (correct) 
+- " (incorrect)
+- /* (incorrect) 
+- / (incorrect) 
+
+### Booleans
+* Not just fun to say, Booleans in JavaScript 
+* serve a useful function by leting you have one of two values, 
+* either true or false.
+* when you need a data type that can
+*  only have one of two possible values, like Yes/No, on/off or true/false, 
+* look no further than Mr Boolean.
+*  Let’s look at an example:
+```
+var isActive = true; 
+var isHoliday = false;
+```
+* Heads up!
+* The Boolean value of 0 (zero), null, undefined, 
+* empty string is false. 
+* Everything with a "real" value is true.
+
+QUIZ: Booleans:
+Which two values does the Boolean data type accept? 
+- false  (correct) 
+- right
+- wrong
+- true  (correct) 
+
 ## Module 1 Quiz
+1. Fill in the blanks to output "JS is cool!" to the console:
+```
+console.log("JS is cool!");
+```
+
+2.  Declare a variable called x, assign the value 42 to it and output it to the console.
+```
+x = 42;
+console.log(x);
+```
+
+3. What is the output of this code?
+```
+//x=8;
+x=2;
+//x=3;
+console.log(x);
+```
+Choices include:
+- 3
+- 8
+- 0
+- 2 (this is correct as the other math operations are in comments and therefore ignored) 
+
+4. Rearrange to form valid JavaScript code that declares a variable and outputs it to the console.
+```
+<script>
+name = "James";
+console.log(name);
+</script>
+```
+
+
 
 # Basic Concepts (7 lessons)
-## Unit
+## Math Operators 
+### [Arithmetic Operators](https://www.sololearn.com/learning/1024/1130/1375/1)
 
 # Conditionals and Loops (10 lessons)
 ## Unit
