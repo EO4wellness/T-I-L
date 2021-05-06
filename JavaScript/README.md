@@ -56,6 +56,12 @@ JavaScript is a high-level programming language that all modern web browsers sup
 * https://github.com/EO4wellness/T-I-L/tree/main/JavaScript/W3Schools
 
 
+### Daily Dev Tips:
+* https://devdojo.com/emmaturner/20-javascript-shorthand-to-save-time
+* https://brayanarrieta.hashnode.dev/new-javascript-features-ecmascript-2021-with-examples
+* https://javascript.plainenglish.io/3-ways-to-write-elegant-javascript-df9d02cb97b5
+* https://dzone.com/articles/structure-javascript-code
+
 
 [@Ravinwashere (on twitter)](https://twitter.com/ravinwashere/status/1370249223057281025) recommends doing the following "beginner" projects to add to your portfolio
 10 Vanilla JavaScript Projects For Total Beginners.
@@ -70,6 +76,7 @@ JavaScript is a high-level programming language that all modern web browsers sup
 - List View or Grid View
 - Full Screen View Document
 - Create Discord Bot(s) in JS [Dicord Developers Portal](https://discord.com/developers/applications/823685318648660080/bot) | [FCC YouTube Video](https://www.youtube.com/watch?v=7rU_KyudGBY) time stamp to resume study/project @ about 26 minutes. | [Start of Project](https://replit.com/@EO4wellness/Encourage-Bot-JS-FCC#index.js) and another article [Build Discord Bot with JS](https://javascript.plainenglish.io/build-your-first-discord-bot-with-node-js-82d29ab0fa21)
+- Projects to work on once studies are completed: https://devwriteups.com/30-javascript-project-ideas-for-beginners-intermediate-and-pro-developer-with-huge-resources 
 
 ## Selected Topics - JavaScript Reading
 [list of reading topics with links to articles](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/topics-reading.md)
