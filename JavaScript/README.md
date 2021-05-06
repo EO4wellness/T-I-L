@@ -76,6 +76,7 @@ JavaScript is a high-level programming language that all modern web browsers sup
 - List View or Grid View
 - Full Screen View Document
 - Create Discord Bot(s) in JS [Dicord Developers Portal](https://discord.com/developers/applications/823685318648660080/bot) | [FCC YouTube Video](https://www.youtube.com/watch?v=7rU_KyudGBY) time stamp to resume study/project @ about 26 minutes. | [Start of Project](https://replit.com/@EO4wellness/Encourage-Bot-JS-FCC#index.js) and another article [Build Discord Bot with JS](https://javascript.plainenglish.io/build-your-first-discord-bot-with-node-js-82d29ab0fa21)
+- Projects to work on once studies are completed: https://devwriteups.com/30-javascript-project-ideas-for-beginners-intermediate-and-pro-developer-with-huge-resources 
 
 ## Selected Topics - JavaScript Reading
 [list of reading topics with links to articles](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/topics-reading.md)
