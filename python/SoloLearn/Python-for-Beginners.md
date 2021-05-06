@@ -235,6 +235,8 @@ print(3 * '7')
 
 ## Control Flow (8 lessons) 
 
+![simple bmi calculator](https://github.com/EO4wellness/T-I-L/blob/main/python/SoloLearn/Images/2021-05-06-bmi-calculator.jpg)
+
 ## Lists (8 lessons)
 
 ## Functions (9 lessons) 
