@@ -151,8 +151,85 @@ great""")
 - 5
 
 ### [Concatenation](https://www.sololearn.com/learning/1157/4587/11720/1)
+* In Python math works with words as well as numbers.
+* So not only can we add integers and floats, but also strings,
+* using something called concatenation, which can be done on any
+* two strings. Like this: ``` print("Spam" + 'eggs') ``` 
+* And it even works with numbers! 
+* Strings containing numbers are still added as strings 
+* rather than integers. Like this: ``` print("2" + "2") ```
+* But don’t try to add a string to a number! 
+* Even though they might look similar, 
+* they are two different entities,
+* so doing this will break the code and produce an error.
 
+QUIZ: Concatenation
+Fill in the blanks to produce “Python rocks”.
 
+``` print("Python " + "rocks") ``` 
+
+### String Operations
+* You may not be able to add strings to integers,
+* but you can multiply by them!
+* Multiplying a string by an integer, 
+* produces a repeated version of the original string. 
+* Like this:
+```
+print("spam" * 3)
+print(4 * '2')
+```
+* But don’t try to multiply a string by another string. 
+* This will just generate an error. 
+* The same will happen if you try to multiply a string by a float,
+* even if the float is a number.
+
+QUIZ: String Operations
+What is the output of this code?
+```
+print(3 * '7')
+```
+777
+
+### Module 2 Quiz: 
+1. Which of the following is a string? 
+- 42.0 
+- '42' (correct)
+- 42
+
+2. Fill in the blanks to output "Welcome".
+```  print("Welcome") ```
+
+3. What's theoutput of this code? 
+``` print("42"+'5') ```
+- error 
+- 425 (correct)
+- 42.5 
+- 47
+
+4. Fill in the blanks to output "ABC":
+``` print("A"+"B"+"C") ```
+
+5. Which of the following is the escape character?
+- \ (correct) 
+- * 
+- +
+- /
+
+### [Leaderboard:](https://www.sololearn.com/learning/eom-project/1157/1058)
+* Strings
+* You need to make a program for a leaderboard.
+* The program needs to output the numbers 1 to 9, 
+* each on a separate line, 
+* followed by a dot:
+* Example:
+ ```
+1.
+2.
+3.
+```
+* You can use the \n newline character to create line breaks, 
+* or, alternatively, 
+* create the desired output using three double quotes """.
 
 ## Variables (7 lessons)
 
