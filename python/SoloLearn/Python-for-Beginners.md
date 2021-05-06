@@ -46,6 +46,7 @@ _ Python 3 (correct)
 * Easy, right? You’ll be triggering the singularity in no time! 
 * The print statement is always followed by parentheses 
 * containing the output we want to generate.
+* [My very frist code in this course](https://github.com/EO4wellness/T-I-L/blob/main/python/SoloLearn/code-scripts/SL_Hello-World.py)
 
 QUIZ: Hello World!
 Drag and Drop the correct option to output "Learning Python".
@@ -63,6 +64,7 @@ print('Spam and eggs...')
 * Viola. Each print statement will output its text on a new line.
 * Python code contains lots of references to Monty Python. 
 * So you’ll see "spam" and "eggs" used as placeholder variables.
+* [My second code in this course](https://github.com/EO4wellness/T-I-L/blob/main/python/SoloLearn/code-scripts/SL_Hello-World-multi-line-example.py) this one adds a bit of personal flare (i.e. my love of learning other languages) to the original code, above.
 
 ### Simple Operations 
 ### Data Types 
@@ -235,6 +237,9 @@ print(3 * '7')
 
 ## Control Flow (8 lessons) 
 
+### Project
+
+[Simple BMI Calculator-My Code](https://github.com/EO4wellness/T-I-L/blob/main/python/SoloLearn/code-scripts/BMI-Calculator.py)
 ![simple bmi calculator](https://github.com/EO4wellness/T-I-L/blob/main/python/SoloLearn/Images/2021-05-06-bmi-calculator.jpg)
 
 ## Lists (8 lessons)
