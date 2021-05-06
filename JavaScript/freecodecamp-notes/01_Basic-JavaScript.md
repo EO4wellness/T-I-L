@@ -1475,56 +1475,286 @@ var ourMusic = [
 * CODE ASSIGNMENT: Add a new album to the myMusic array. Add artist and title strings, release_year number, and a formats array of strings.
 
 
-## [Accessing Nested Objects](#)
-*
-* CODE ASSIGNMENT:
+## [Accessing Nested Objects](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/accessing-nested-objects)
+* The sub-properties of objects can be accessed by chaining together the dot or bracket notation.
+* Here is a nested object:
+```
+var ourStorage = {
+  "desk": {
+    "drawer": "stapler"
+  },
+  "cabinet": {
+    "top drawer": { 
+      "folder1": "a file",
+      "folder2": "secrets"
+    },
+    "bottom drawer": "soda"
+  }
+};
+ourStorage.cabinet["top drawer"].folder2;
+ourStorage.desk.drawer;
+```
+* ourStorage.cabinet["top drawer"].folder2 would be the string secrets, and ourStorage.desk.drawer would be the string stapler.
+* CODE ASSIGNMENT: Access the myStorage object and assign the contents of the glove box property to the gloveBoxContents variable. Use dot notation for all properties where possible, otherwise use bracket notation.
 
 
-## [Accessing Nested Arrays](#)
-*
-* CODE ASSIGNMENT:
+## [Accessing Nested Arrays](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/accessing-nested-arrays)
+* As we have seen in earlier examples, objects can contain both nested objects and nested arrays. 
+* Similar to accessing nested objects, array bracket notation can be chained to access nested arrays.
+* Here is an example of how to access a nested array:
+```
+var ourPets = [
+  {
+    animalType: "cat",
+    names: [
+      "Meowzer",
+      "Fluffy",
+      "Kit-Cat"
+    ]
+  },
+  {
+    animalType: "dog",
+    names: [
+      "Spot",
+      "Bowser",
+      "Frankie"
+    ]
+  }
+];
+ourPets[0].names[1];
+ourPets[1].names[0];
+```
+* ourPets[0].names[1] would be the string Fluffy, and ourPets[1].names[0] would be the string Spot.
+
+* CODE ASSIGNMENT: Using dot and bracket notation, set the variable secondTree to the second item in the trees list from the myPlants object. 
 
 
-## [Record Collection](#)
-*
-* CODE ASSIGNMENT:
+## [Record Collection](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/record-collection)
+* CODE ASSIGNMENT: 
+You are given an object literal representing a part of your musical album collection. Each album has a unique id number as its key and several other properties. Not all albums have complete information.
+
+You start with an updateRecords function that takes an object literal, records, containing the musical album collection, an id, a prop (like artist or tracks), and a value. Complete the function using the rules below to modify the object passed to the function.
+
+    Your function must always return the entire record collection object.
+    If prop isn't tracks and value isn't an empty string, update or set that album's prop to value.
+    If prop is tracks but the album doesn't have a tracks property, create an empty array and add value to it.
+    If prop is tracks and value isn't an empty string, add value to the end of the album's existing tracks array.
+    If value is an empty string, delete the given prop property from the album.
+
+Note: A copy of the recordCollection object is used for the tests.
 
 
-## [Iterate with JavaScript While Loops](#)
-*
-* CODE ASSIGNMENT:
+
+## [Iterate with JavaScript While Loops](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/iterate-with-javascript-while-loops)
+* You can run the same code multiple times by using a loop.
+* The first type of loop we will learn is called a while loop
+*  because it runs while a specified condition is true 
+*  and stops once that condition is no longer true.
+```
+var ourArray = [];
+var i = 0;
+while(i < 5) {
+  ourArray.push(i);
+  i++;
+}
+```
+* In the code example above, 
+* the while loop will execute 5 times 
+* and append the numbers 0 through 4 to ourArray.
+* CODE ASSIGNMENT: Add the numbers 5 through 0 (inclusive) in descending order to myArray using a while loop.
+```
+var myArray = [];
+
+var i = 0;
+while(i < 5) {
+  myArray.push(i);
+  i++;
+}
+```
+
+## [Iterate with JavaScript For Loops](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/iterate-with-javascript-for-loops)
+* You can run the same code multiple times by using a loop
+* the most common type of JavaScript loop is known as a "FOR" loop
+* the name is due to the fact it runs for a specific number of times
+* loops are decalared with 3 optional expression separated by semicolons
+* format: ``` for (a; b; c) ```
+* in the format above:
+- a stands for the initalization statement 
+- b is the condition statemtn
+- c is the final expression
+* The initalization statement is executed one time only 
+* the initialization statement executes before the loop starts
+* this statement is typically used to define and set up your loop variable
+* the condition statemetn is evaluated at the beginning of every loop iteration 
+* it will continue as long as it evaluates to true
+* when the condition is false, at the start of the new iteration, the loop will stop executing
+* if the condition starts false, the loop will never execute
+* likewise, if the condition always remains true, the loop will never stop executing
+* the final expression i sexecuted at the end of each loop iteration
+* this is prior to th enext condition check 
+* the final expression usually increments or decrements your loop counter
+* Time for an EXAMPLE:
+* In the following example we initialize with i = 0 
+* and iterate while our condition i < 5 is true.
+*  We'll increment i by 1 in each loop iteration
+*   with i++ as our final expression.
+```
+var ourArray = [];
+for (var i = 0; i < 5; i++) {
+  ourArray.push(i);
+}
+```
+* ourArray will now have the value [0,1,2,3,4].
+* CODE ASSIGNMENT: Use a for loop to push the values 1 through 5 onto myArray.
 
 
-## [Iterate with JavaScript For Loops](#)
-*
-* CODE ASSIGNMENT:
+## [Iterate Odd Numbers With a For Loop](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/iterate-odd-numbers-with-a-for-loop)
+*  For loops don't have to iterate one at a time. 
+*  By changing our final-expression, 
+*  we can count by even numbers.
+*  We'll start at i = 0 
+*  and loop while i < 10. 
+*  We'll increment i by 2 each loop with i += 2.
+```
+var ourArray = [];
+for (var i = 0; i < 10; i += 2) {
+  ourArray.push(i);
+}
+```
+* ourArray will now contain [0,2,4,6,8].
+*  Let's change our initialization 
+*  so we can count by odd numbers.
+
+* CODE ASSIGNMENT: Push the odd numbers from 1 through 9 to myArray using a for loop. 
 
 
-## [Iterate Odd Numbers With a For Loop](#)
-Not Passed
-## [Count Backwards With a For Loop](#)
-*
-* CODE ASSIGNMENT:
+## [Count Backwards With a For Loop](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/count-backwards-with-a-for-loop)
+* A for loop can also count backwards, 
+* so long as we can define the right conditions.
+* In order to decrement by two each iteration, 
+* we'll need to change our initialization, condition, and final expression.
+* We'll start at i = 10 and loop while i > 0.
+*  We'll decrement i by 2 each loop with i -= 2.
+```
+var ourArray = [];
+for (var i = 10; i > 0; i -= 2) {
+  ourArray.push(i);
+}
+```
+* ourArray will now contain [10,8,6,4,2]. 
+* Let's change our initialization
+*  and final expression so we can count backwards
+*  by twos to create an array of descending odd numbers.
+
+* CODE ASSIGNMENT: Push the odd numbers from 9 through 1 to myArray using a for loop.
 
 
-## [Iterate Through an Array with a For Loop](#)
-*
-* CODE ASSIGNMENT:
+## [Iterate Through an Array with a For Loop](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/iterate-through-an-array-with-a-for-loop)
+*  A common task in JavaScript is to iterate through the contents of an array. 
+*  One way to do that is with a for loop. 
+*  This code will output each element of the array arr to the console:
+```
+var arr = [10, 9, 8, 7, 6];
+for (var i = 0; i < arr.length; i++) {
+   console.log(arr[i]);
+}
+```
+* Remember that arrays have zero-based indexing, 
+* which means the last index of the array is length - 1.
+* Our condition for this loop is i < arr.length,
+* which stops the loop when i is equal to length. 
+* In this case the last iteration is i === 4 i.e.
+*  when i becomes equal to arr.length - 1 
+*  and outputs 6 to the console. 
+*  Then i increases to 5, and the loop 
+*  terminates because i < arr.length is false.
+
+* CODE ASSIGNMENT: Declare and initialize a variable total to 0. Use a for loop to add the value of each element of the myArr array to total.
 
 
-## [Nesting For Loops](#)
-*
-* CODE ASSIGNMENT:
+## [Nesting For Loops](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/nesting-for-loops)
+* If you have a multi-dimensional array, 
+* you can use the same logic as the prior waypoint
+*  to loop through both the array and any sub-arrays. 
+*  Here is an example:
+```
+var arr = [
+  [1,2], [3,4], [5,6]
+];
+for (var i=0; i < arr.length; i++) {
+  for (var j=0; j < arr[i].length; j++) {
+    console.log(arr[i][j]);
+  }
+}
+```
+* This outputs each sub-element in arr one at a time. 
+* Note that for the inner loop, 
+* we are checking the .length of arr[i], 
+* since arr[i] is itself an array.
+
+* CODE ASSIGNMENT: Modify function multiplyAll so that it returns the product of all the numbers in the sub-arrays of arr.
+* [This one takes a while](https://forum.freecodecamp.org/t/freecodecamp-challenge-guide-nesting-for-loops/18248/9) to start to "see" the concept
 
 
-## [Iterate with JavaScript Do...While Loops](#)
-*
-* CODE ASSIGNMENT:
+## [Iterate with JavaScript Do...While Loops](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/iterate-with-javascript-do---while-loops)
+* The next type of loop you will learn is called a do...while loop. It is called a do...while loop because it will first do one pass of the code inside the loop no matter what, and then continue to run the loop while the specified condition evaluates to true.
+```
+var ourArray = [];
+var i = 0;
+do {
+  ourArray.push(i);
+  i++;
+} while (i < 5);
+```
+The example above behaves similar to other types of loops, and the resulting array will look like [0, 1, 2, 3, 4]. However, what makes the do...while different from other loops is how it behaves when the condition fails on the first check. Let's see this in action: Here is a regular while loop that will run the code in the loop as long as i < 5:
+```
+var ourArray = []; 
+var i = 5;
+while (i < 5) {
+  ourArray.push(i);
+  i++;
+}
+```
+In this example, we initialize the value of ourArray to an empty array and the value of i to 5. When we execute the while loop, the condition evaluates to false because i is not less than 5, so we do not execute the code inside the loop. The result is that ourArray will end up with no values added to it, and it will still look like [] when all of the code in the example above has completed running. Now, take a look at a do...while loop:
+```
+var ourArray = []; 
+var i = 5;
+do {
+  ourArray.push(i);
+  i++;
+} while (i < 5);
+```
+In this case, we initialize the value of i to 5, just like we did with the while loop. When we get to the next line, there is no condition to evaluate, so we go to the code inside the curly braces and execute it. We will add a single element to the array and then increment i before we get to the condition check. When we finally evaluate the condition i < 5 on the last line, we see that i is now 6, which fails the conditional check, so we exit the loop and are done. At the end of the above example, the value of ourArray is [5]. Essentially, a do...while loop ensures that the code inside the loop will run at least once. Let's try getting a do...while loop to work by pushing values to an array.
+
+* CODE ASSIGNMENT: Change the while loop in the code to a do...while loop so the loop will push only the number 10 to myArray, and i will be equal to 11 when your code has finished running.
 
 
-## [Replace Loops using Recursion](#)
-*
-* CODE ASSIGNMENT:
+## [Replace Loops using Recursion](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/replace-loops-using-recursion)
+* Recursion is the concept that a function can be expressed in terms of itself. To help understand this, start by thinking about the following task: multiply the first n elements of an array to create the product of those elements. Using a for loop, you could do this:
+```
+  function multiply(arr, n) {
+    var product = 1;
+    for (var i = 0; i < n; i++) {
+        product *= arr[i];
+    }
+    return product;
+  }
+```
+However, notice that multiply(arr, n) == multiply(arr, n - 1) * arr[n - 1]. That means you can rewrite multiply in terms of itself and never need to use a loop.
+```
+  function multiply(arr, n) {
+    if (n <= 0) {
+      return 1;
+    } else {
+      return multiply(arr, n - 1) * arr[n - 1];
+    }
+  }
+```
+The recursive version of multiply breaks down like this. In the base case, where n <= 0, it returns 1. For larger values of n, it calls itself, but with n - 1. That function call is evaluated in the same way, calling multiply again until n <= 0. At this point, all the functions can return and the original multiply returns the answer.
+
+Note: Recursive functions must have a base case when they return without calling the function again (in this example, when n <= 0), otherwise they can never finish executing.
+
+* CODE ASSIGNMENT: Write a recursive function, sum(arr, n), that returns the sum of the first n elements of an array arr.
 
 
 ## [Profile Lookup](#)
