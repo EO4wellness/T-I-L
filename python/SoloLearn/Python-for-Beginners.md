@@ -243,6 +243,13 @@ print(3 * '7')
 ![simple bmi calculator](https://github.com/EO4wellness/T-I-L/blob/main/python/SoloLearn/Images/2021-05-06-bmi-calculator.jpg)
 
 ## Lists (8 lessons)
+* Great work getting this far! 
+* You’ll be a Python master in no time.
+* Let’s kick off module 5 by talking about lists
+* At their simplest, Lists are used to store items.
+* We can create a list by using square brackets with commas separating items. 
+* Like this: ``` words = ["Hello", "world", "!"]  ```
+
 
 ## Functions (9 lessons) 
 
