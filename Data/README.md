@@ -1,6 +1,7 @@
 # Data Science 
 * Learning with [SoloLearn's course](https://www.sololearn.com/learning/1093) and my [course notes](https://github.com/EO4wellness/T-I-L/tree/main/Data/SoloLearn-Data-Science)
 * [Overiew: Data Science Terms](https://www.marketingaiinstitute.com/blog/20-data-science-and-ai-terms-you-need-to-know)
+* Distinction: [Data Analyst vs Data Science](https://news.codecademy.com/data-analyst-vs-data-scientist/)
 
 # Big Data Resources:
 * [5 Gobal Data Resources](https://youtu.be/yGwub5OE3PQ)
