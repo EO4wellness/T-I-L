@@ -11,3 +11,7 @@
 * [Python Core](#)
 * [Python Intermediate](#)
 
+## Certs 
+
+![PythonBasicSL](https://www.sololearn.com/certificates/course/en/15619122/1157/landscape/png)
+
