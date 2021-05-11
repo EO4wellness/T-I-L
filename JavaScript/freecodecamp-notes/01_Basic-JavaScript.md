@@ -1757,9 +1757,14 @@ Note: Recursive functions must have a base case when they return without calling
 * CODE ASSIGNMENT: Write a recursive function, sum(arr, n), that returns the sum of the first n elements of an array arr.
 
 
-## [Profile Lookup](#)
-*
-* CODE ASSIGNMENT:
+## [Profile Lookup](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/profile-lookup)
+* CODE ASSIGNMENT: We have an array of objects representing different people in our contacts lists.
+* A lookUpProfile function that takes name and a property (prop) as arguments has been pre-written for you.
+* The function should check if name is an actual contact's firstName and the given property (prop) is a property of that contact.
+* If both are true, then return the "value" of that property.
+* If name does not correspond to any contacts then return the string No such contact.
+* If prop does not correspond to any valid properties of a contact found to match name then return the string No such property.
+
 
 
 ## [Generate Random Fractions with JavaScript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/generate-random-fractions-with-javascript)
