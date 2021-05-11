@@ -1774,27 +1774,61 @@ Note: Recursive functions must have a base case when they return without calling
 
 
 
-## [Generate Random Whole Numbers with JavaScript](#)
-*
-* CODE ASSIGNMENT:
+## [Generate Random Whole Numbers with JavaScript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/generate-random-whole-numbers-with-javascript)
+* to generate random whole numbers we: 
+  1. Use ``` Math.random() ``` to generate a random decimal
+  2. multiply that random decimal by 20
+  3. use another function ``` Math.floor() ```
+     to round the number down to its nearest whole number 
+* remember that ``` ath.random() ``` can never quite return a 1 
+* because we are rounding down, it is impossible to actually get 20
+* this technique will give us whole numbers between 0 and 19
+* pulling together all of this lesson, this is what our code looks like 
+``` Math.floor(Math.random() * 20); ```
+* we are calling Math.random()
+* we are multiplying the result by 20 
+* then we are passing the value to Math.floor()
+* which is a function to round the value down to the nearest whole number. 
+* Thus we have gerated random whole numbers. 
+* CODE ASSIGNMENT:  Use this technique to generate and return a random whole number between 0 and 9.
 
 
-## [Generate Random Whole Numbers within a Range](#)
-*
-* CODE ASSIGNMENT:
+## [Generate Random Whole Numbers within a Range](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/generate-random-whole-numbers-within-a-range)
+*  Instead of generating a random whole number between zero and a given number like we did before, we can generate a random whole number that falls within a range of two specific numbers.To do this, we'll define a minimum number min and a maximum number max.
+Here's the formula we'll use. Take a moment to read it and try to understand what this code is doing:
+``` Math.floor(Math.random() * (max - min + 1)) + min ```
+* CODE ASSIGNMENT: Create a function called randomRange that takes a range myMin and myMax and returns a random whole number that's greater than or equal to myMin, and is less than or equal to myMax, inclusive.
 
 
-## [Use the parseInt Function](#)
-*
-* CODE ASSIGNMENT:
+## [Use the parseInt Function](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/use-the-parseint-function)
+* The parseInt() function parses a string
+*  and returns an integer. Here's an example:
+``` var a = parseInt("007"); ```
+* The above function converts the string 007 to the integer 7. 
+* If the first character in the string
+*  can't be converted into a number,
+*   then it returns NaN.
+
+* CODE ASSIGNMENT: Use parseInt() in the convertToInteger function so it converts the input string str into an integer, and returns it.
 
 
-## [Use the parseInt Function with a Radix](#)
-*
-* CODE ASSIGNMENT:
+## [Use the parseInt Function with a Radix](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/use-the-parseint-function-with-a-radix)
+* The parseInt() function parses a string and returns an integer.
+* It takes a second argument for the radix, 
+* which specifies the base of the number in the string. 
+* The radix can be an integer between 2 and 36.
+* The function call looks like:
+```parseInt(string, radix);```
+* And here's an example:
+``` var a = parseInt("11", 2); ```
+* The radix variable says that 11 is in the binary system, 
+* or base 2. 
+* This example converts the string 11 to an integer 3.
+
+* CODE ASSIGNMENT: Use parseInt() in the convertToInteger function so it converts a binary number to an integer and returns it.
 
 
-## [Use the Conditional (Ternary) Operator](#)
+## [Use the Conditional (Ternary) Operator](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/use-the-conditional-ternary-operator)
 *
 * CODE ASSIGNMENT:
 
