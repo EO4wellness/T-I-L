@@ -20,3 +20,4 @@ This is the area of AI/ML application, which interests me the most.
 # Papers
 * I have also created a [AI/ML/NLP resource to log and record papers](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/reading-study-resouces.md) I've read in this topic. 
 * [Facial Recognition](https://hackernoon.com/6-best-open-source-projects-for-real-time-face-recognition-vr1w34x5)
+* [Speed Up Panda](https://link.medium.com/GEssE8raegb)
