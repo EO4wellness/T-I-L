@@ -17,4 +17,8 @@
 ## 09 Intermediate algorithm Scripting (21 units)
 
 ## 10 JavaScript Algorithms and Data Structures Projects (5 units) 
-
+* Project 1: Palindrome Checker 
+* Project 2: Roman Numeral Converter 
+* Project 3: Caesars Cipher 
+* Project 4: Telephone Number Validator 
+* Project 5: Cash Register 
