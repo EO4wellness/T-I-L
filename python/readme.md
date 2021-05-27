@@ -3,6 +3,7 @@ Python, is a widely used programming language.  Python has 3 major versions.  Th
 
 # Python Reading: 
 * [File Extensions in Python-what do they all mean?](http://dcjtech.info/topic/python-file-extensions/)
+* [Things you can do with Python](https://mr-unity-buddy.hashnode.dev/9-amazing-things-to-do-with-python)
 
 # Use Cases 
 Python 3 is widely used and has many use-cases spanning multiple business, programming, and hobby applications. 
