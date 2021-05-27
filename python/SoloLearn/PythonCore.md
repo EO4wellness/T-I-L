@@ -98,8 +98,63 @@ which option is output by this code?
 - 8
 
 ### 4.1 [Floats](https://www.sololearn.com/learning/1073/2272/4564/1)
+* Floats are used in Python to represent numbers that aren't integers (whole numbers).
+Some examples of numbers that are represented as floats are 0.5 and -7.8237591.
+They can be created directly by entering a number with a decimal point, or by using operations such as division on integers.
+
+```
+print( 3/4 )
+print( 0.42 )
+```
+This code example outputs:  0.75 /n 0.42
+
+Computers can't store floats perfectly accurately, in the same way that we can't write down the complete decimal expansion of 1/3 (0.3333333333333333...). Keep this in mind, because it often leads to infuriating bugs!
+
+QUIZ: Which of these will not be stored as a float?
+- 7.0
+- 7 (correct answer) 
+- 2/4 
+
+
+As you saw previously, dividing any two integers produces a float.
+A float is also produced by running an operation on two floats, or on a float and an integer.
+
+```
+print( 8 / 2 )
+print( 6 * 7.0 )
+print( 4 + 1.65 )
+```
+The output of this example is: 4.0 /n 42.0 /n 5.65 
+
+A float can be added to an integer, because Python silently converts the integer to a float.
+
+Quiz: 
+what is the outcome of this code?
+print(1+2+3+4.0+5)
+my answer: 15.0 
+
+
 ### 5.1 Exponentiation 
-### 6.1 Quotient and Remainder 
+Besides addition, subtraction, multiplication, and division, Python also supports exponentiation, which is the raising of one number to the power of another. This operation is performed using two asterisks.
+You can chain exponentiations together. In other words, you can rise a number to multiple powers. For example, 2**3**2.
+
+QUIZ: 
+print 5 raised to the 3rd power
+
+``` print(5**3)```
+
+You can also use floats in exponentiation.
+
+For example, the following code will result in the square root of 9:
+Note that the result will be a float.
+
+QUIZ: what is the output of this code? 
+print(8**(1/3))
+2.0 
+
+
+
+### 6.1 [Quotient and Remainder](https://www.sololearn.com/learning/1073/4430/4566/1)
 ### 7.1 Module 1 Quiz 
 ### 8.1 Code Project - Exponentiation 
 
