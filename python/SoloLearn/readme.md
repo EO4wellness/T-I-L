@@ -8,7 +8,7 @@
 
 ## Courses
 * [Python for Beginners](https://github.com/EO4wellness/T-I-L/blob/main/python/SoloLearn/Python-for-Beginners.md) | [SoloLearn](https://www.sololearn.com/learning/1157)
-* [Python Core](https://github.com/EO4wellness/T-I-L/tree/main/python/SoloLearn) | [SoloLearn](https://www.sololearn.com/learning/1073)
+* [Python Core](https://github.com/EO4wellness/T-I-L/blob/main/python/SoloLearn/PythonCore.md) | [SoloLearn](https://www.sololearn.com/learning/1073)
 * [Python Intermediate](https://github.com/EO4wellness/T-I-L/blob/main/python/SoloLearn/Python-Intermediate.md) | [SoloLearn](https://www.sololearn.com/learning/1158)
 * [Python for Data Science](https://github.com/EO4wellness/T-I-L/blob/main/python/SoloLearn/Python-for-DataScience.md) | [SoloLearn](https://www.sololearn.com/learning/1161)
 * [Python Data Structures](https://github.com/EO4wellness/T-I-L/blob/main/python/SoloLearn/PythonDataStructures.md) | [SoloLearn](https://www.sololearn.com/learning/1159)
