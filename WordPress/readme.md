@@ -23,6 +23,8 @@
 
 ## WP Plugins: 
 * [Plugin Creation](https://webdesign.tutsplus.com/tutorials/create-a-custom-wordpress-plugin-from-scratch--net-2668)
+* [PHP](https://webdesign.tutsplus.com/tutorials/learn-php-for-wordpress-creating-the-first-php-file--cms-34711)
+* [WP Projects](https://code.tutsplus.com/articles/learn-to-code-wordpress-plugins-with-these-3-practical-projects--cms-33920)
 
 ## WP Security:  
 * [WP Own Built-In Security](https://wordpress.org/about/security/)
