@@ -260,7 +260,65 @@ Hope this helps.
 
 ## Strings and Variables (10 Units of Study) 
 ### 1.1 [Strings](https://www.sololearn.com/learning/1073/2274/4567/1)
+* to use text, you have to use strings
+* a string is created by entering text between two single qutation marks
+* alternatively, you can put text between two double quotation marks
+* The delimiter (" or ') used for a string doesn't affect how it behaves in any way.
+* Example: 
+```
+print("Python is fun!")
+print('Always look on the bright side of life')
+```
+QUIZ: complete the code to output "hello world" 
+```
+print("Hello world!")
+```
+
+* Backslash
+* Some characters can't be directly included in a string. For instance, double quotes can't be directly included in a double quote string; this would cause it to end prematurely.
+
+Characters like these must be escaped by placing a backslash before them.
+Double quotes only need to be escaped in double quote strings, and the same is true for single quote strings.
+
+For Example:
+```
+print('Brian\'s mother: He\'s not an angel. He\'s a very naughty boy!')
+
+```
+
+Backslashes can also be used to escape tabs, arbitrary Unicode characters, and various other things that can't be reliably printed.
+
+QUIZ: Backslash
+Complete the code to output a string containing a single quote.
+
+print('I\'m learning!')
+
 ### 2.1 Newlines
+Newlines
+\n represents a new line 
+it can be usedin strings to create multi-line output 
+similarly \t represents a tab 
+
+QUIZ: Newlines 
+Which of the following options results in exactly two lines? 
+- 'one \' two \' three'
+- "Some \n text \n goes here"
+- Hello World"
+- "Hello \n world" (correct answer) 
+
+Newlines will be automatically added for strings that are created using three quotes
+For example: 
+
+HOw many lines will the following code output? 
+```
+print("Hi")
+print("""THis
+is
+great""")
+```
+four lines of output 
+
+
 ### 3.1 String Operations 
 ### 4.1 Variables
 ### 5.1 Working with Variables 
