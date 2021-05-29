@@ -34,6 +34,13 @@
 19. Take a look at the script.  Don't worry-we will walk thru it line-by-line. For now, let's see how powerful these simple, 60 lines of code, can be.  You can do so by clicking the Green PLAY button. 
 20.  This is just an intro!  More to come. . . 
 
+## Recommender Systems
+* Specific thing
+Not general
+Recommends things to people based on their previous preferences
+Other names a.k.a 
+
+
 # Course Overview: 
 * Getting Started: 
 * Intro to Python: (or review) 
@@ -49,3 +56,8 @@
 * Case Studies (Keep it Real)
 * Various Hybrid Solutions 
 * More to Explore 
+
+Recommender Systems
+Not a general thing
+Specific
+It is a system which predicts something a specific user might like or prefer based on past history.
