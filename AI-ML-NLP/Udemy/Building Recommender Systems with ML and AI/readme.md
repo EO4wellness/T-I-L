@@ -1,4 +1,7 @@
 # [Udemy Course Link](https://www.udemy.com/share/101XKkAkMSdF5RRH4=/)
+![tweet](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Udemy/Building%20Recommender%20Systems%20with%20ML%20and%20AI/images/2021-05-27-YES.jpg)
+
+
 * today I saw a [tweet](https://twitter.com/comidoc/status/1398357618507268096) about this course being offered for free!
 * Enrolled: 2021-05-27
 * sundog-education.com/RecSys
