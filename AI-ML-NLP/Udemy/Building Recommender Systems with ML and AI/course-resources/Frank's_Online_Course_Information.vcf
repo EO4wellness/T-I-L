@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION;TYPE=WORK:3.0
+FN;CHARSET=UTF-8:Frank Kane
+N;CHARSET=UTF-8:Frank Kane;;;;
+PROFILE:VCARD
+ADR;CHARSET=UTF-8:;;100 Seville Chase Dr.;Winter Springs;FL;32708;USA
+EMAIL:fkane@sundog-soft.com
+ORG;CHARSET=UTF-8:Sundog Education
+URL:http://www.sundog-education.com/
+END:VCARD
