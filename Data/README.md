@@ -5,6 +5,8 @@
 
 # Data Structures:
 * [Types](https://dev.to/fahimulhaq/top-8-data-structures-for-coding-interviews-and-practice-interview-questions-2pb)
+* If you want to know about all those data structures, then visit the lesson 'Data Structure' in Sololearn | https://www.sololearn.com/learn/773/?ref=app
+
 
 
 # Big Data Resources:
