@@ -3,6 +3,10 @@
 * [Overiew: Data Science Terms](https://www.marketingaiinstitute.com/blog/20-data-science-and-ai-terms-you-need-to-know)
 * Distinction: [Data Analyst vs Data Science](https://news.codecademy.com/data-analyst-vs-data-scientist/)
 
+# Data Structures:
+* [Types](https://dev.to/fahimulhaq/top-8-data-structures-for-coding-interviews-and-practice-interview-questions-2pb)
+
+
 # Big Data Resources:
 * [5 Gobal Data Resources](https://youtu.be/yGwub5OE3PQ)
 * [GELD Teaser](https://youtu.be/GpCarC_I3Ao) and [GELD website](https://blog.gdeltproject.org/)
