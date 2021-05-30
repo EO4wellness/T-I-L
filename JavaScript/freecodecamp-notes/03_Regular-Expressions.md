@@ -7,9 +7,32 @@ This section contains 33 sections and coding challenges
 
 positive and negative lookaheads, and other techniques to match any text you want.
 
-Using the Test Method
+# [1. Using the Test Method](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/using-the-test-method)
+* Began study of this session on May 30th, 2021.
+* Regular Expressions are used in programming languages to match parts of strings. 
+* you create patterns to help you do that matching. 
+* For example, let's say you want to find "the" in a string "The dog chased the cat"
+* You could use the following regular expression: ```/the/```
+* notice the quote marks are not required with the regular expression.
+* JS has multiple ways to use regexes. 
+* one way to test a regex is using the ``` .test() ``` method 
+* the ``` .test() ``` method takes the regex
+* and applies it to a string
+* which is placed inside the parentheses 
+* and returns true or false 
+* if your pattern is found or not 
+* Example: 
+```
+let testStr = "freeCodeCamp";
+let testRegex = /Code/;
+testRegex.test(testStr);
+```
+* The test method here returns TRUE 
+* CODE CHALLENGE: apply the regex meRegex on the string myString using the .text() method.
 
-Match Literal Strings
+NOTE TO SELF: I have to be careful.  Several times I typoed TEXT for TEST.  
+
+# [2. Match Literal Strings](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/match-literal-strings)
 
 Match a Literal String with Different Possibilities
 
