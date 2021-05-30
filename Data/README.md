@@ -23,9 +23,20 @@
 * [GELD Teaser](https://youtu.be/GpCarC_I3Ao) and [GELD website](https://blog.gdeltproject.org/)
 * Examples using [big data](https://youtu.be/A6nWZKZpL3k)
 
+
 # Data Science 
 * Learning with [SoloLearn's course](https://www.sololearn.com/learning/1093) and my [course notes](https://github.com/EO4wellness/T-I-L/tree/main/Data/SoloLearn-Data-Science)
 * [Overiew: Data Science Terms](https://www.marketingaiinstitute.com/blog/20-data-science-and-ai-terms-you-need-to-know)
 * Distinction: [Data Analyst vs Data Science](https://news.codecademy.com/data-analyst-vs-data-scientist/)
+
+
+# Data Practice 
+* Ran into some UNEXPECTED Data Practice in May, 2021
+* Required re-installing the OS to get it to work again!  
+* Data corruption is a real thing, which should be planned for BEFORE it occurs. 
+* Even the BEST troubleshooting, sometimes fails. 
+
+
+![Corrupted Data Issue](#) 
 
 
