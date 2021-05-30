@@ -319,8 +319,44 @@ great""")
 four lines of output 
 
 
-### 3.1 String Operations 
-### 4.1 Variables
+### 3.1 [String Operations](https://www.sololearn.com/learning/1073/2427/4952/1)
+* Concatenation 
+* as with integers and floats
+* strings in Python can be added
+* using a process called CONCATENATION
+* which can be done on any two strings
+``` print("Spam" + 'eggs')```
+* even if your strings contain numbers 
+* they are still added as strings rather than integers
+``` print('2' + '2') ```
+* Adding a string to a number produces an error
+* as even though they might look similar
+* they are two different entities 
+
+QUIZ: code for output of Python is Awesome using concatenation
+``` print("Python" + "is" + "awesome")```
+
+* string operations
+* strings can also be multipled by integers 
+* this produces a repeated version of the original string
+* the order of the string and the integer doesn't matter
+* however, the string usually comes first
+``` print('spam' * 3)
+print (4 * "2") ```
+* strings cannot be ultipled by other strings
+strings also cannot be multipled by floast
+even if the floats are whole numbers 
+
+quiz: 
+what is the output of this code?
+``` 
+print(3*'7`) 
+```
+777
+
+
+### 4.1 [Variables](https://www.sololearn.com/learning/1073/2428/4957/1)
+
 ### 5.1 Working with Variables 
 ### 6.1 Taking User Input  
 ### 7.1 Working with Input 

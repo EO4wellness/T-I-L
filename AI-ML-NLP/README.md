@@ -4,6 +4,7 @@
 
 # ML (Machine Learning) 
 * [Within SQL](https://www.freecodecamp.org/news/machine-learning-directly-in-sql/)
+* [Data resource](https://archive.ics.uci.edu/ml/index.php)
 
 # NLP (Natural Laungage Processing)
 This is the area of AI/ML application, which interests me the most. 
