@@ -33,67 +33,88 @@ testRegex.test(testStr);
 NOTE TO SELF: I have to be careful.  Several times I typoed TEXT for TEST.  
 
 # [2. Match Literal Strings](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/match-literal-strings)
+* In the last challenge, you searched for the word Hello 
+* using the regular expression /Hello/. 
+* That regex searched for a literal match of the string Hello. 
+* Here's another example searching for a literal match 
+* of the string Kevin:
+```
+let testStr = "Hello, my name is Kevin.";
+let testRegex = /Kevin/;
+testRegex.test(testStr);
+```
+* The above example code will return true.
+* Any other forms of Kevin will not match. 
+* For example, the regex /Kevin/ will not match kevin or KEVIN.
+```
+let wrongRegex = /kevin/;
+wrongRegex.test(testStr);
+```
+* The above example code will return false.
+* In a future challenge will show how to match those other forms as well.
 
-Match a Literal String with Different Possibilities
+* CODE CHALLENGE: Complete the regex waldoRegex to find "Waldo" in the string waldoIsHiding with a literal match.
 
-Ignore Case While Matching
+## [3. Match a Literal String with Different Possibilities](#)
 
-Extract Matches
+## [4. Ignore Case While Matching](#)
 
-Find More Than the First Match
+## [5. Extract Matches](#)
 
-Match Anything with Wildcard Period
+## [6. Find More Than the First Match](#)
 
-Match Single Character with Multiple Possibilities
+## [7. Match Anything with Wildcard Period](#)
 
-Match Letters of the Alphabet
+## [8. Match Single Character with Multiple Possibilities](#)
 
-Match Numbers and Letters of the Alphabet
+## [9. Match Letters of the Alphabet](#)
 
-Match Single Characters Not Specified
+## [10. Match Numbers and Letters of the Alphabet](#)
 
-Match Characters that Occur One or More Times
+## [11. Match Single Characters Not Specified](#)
 
-Match Characters that Occur Zero or More Times
+## [12. Match Characters that Occur One or More Times](#)
 
-Find Characters with Lazy Matching
+## [13. Match Characters that Occur Zero or More Times](#)
 
-Find One or More Criminals in a Hunt
+## [14. Find Characters with Lazy Matching](#)
 
-Match Beginning String Patterns
+## [15. Find One or More Criminals in a Hunt](#)
 
-Match Ending String Patterns
+## [16. Match Beginning String Patterns](#)
 
-Match All Letters and Numbers
+## [17. Match Ending String Patterns](#)
 
-Match Everything But Letters and Numbers
+## [18. Match All Letters and Numbers](#)
 
-Match All Numbers
+## [19. Match Everything But Letters and Numbers](#)
 
-Match All Non-Numbers
+## [20. Match All Numbers](#)
 
-Restrict Possible Usernames
+## [21. Match All Non-Numbers](#)
 
-Match Whitespace
+## [22. Restrict Possible Usernames](#)
 
-Match Non-Whitespace Characters
+## [23. Match Whitespace](#)
 
-Specify Upper and Lower Number of Matches
+## [24. Match Non-Whitespace Characters](#)
 
-Specify Only the Lower Number of Matches
+## [25. Specify Upper and Lower Number of Matches](#)
 
-Specify Exact Number of Matches
+## [26. Specify Only the Lower Number of Matches](#)
 
-Check for All or None
+## [27. Specify Exact Number of Matches](#)
 
-Positive and Negative Lookahead
+## [28. Check for All or None](#)
 
-Check For Mixed Grouping of Characters
+## [29. Positive and Negative Lookahead](#)
 
-Reuse Patterns Using Capture Groups
+## [30. Check For Mixed Grouping of Characters](#)
 
-Use Capture Groups to Search and Replace
+## [31. Reuse Patterns Using Capture Groups](#)
 
-Remove Whitespace from Start and End
+## [32. Use Capture Groups to Search and Replace](#)
+
+## [33. Remove Whitespace from Start and End](#)
 	
 Nav: [Basic JavaScript](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/Basic-JavaScript.md) | [ES6](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/ES6.md) | [Regular Expressions](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/Regular-Expressions.md) |  [Debugging](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/Debugging.md) | [Basic Data Structures](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/Basic-Data-Structures.md) | [Basic Algorithm Scripting] |  [Object Oriented Programming] | [Functional Porgramming] | [Intermediate algorithm Scripting] | [JavaScript Algorithms and Data Structures Projects]
