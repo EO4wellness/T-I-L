@@ -20,3 +20,11 @@ A place to learn about automation of various every-day, routine, tasks.
 ## Google 
 
 ## Nutanix 
+
+## Package Managers 
+* Today (June, 2021) I discovered the concept of Package Managers while attempting to read someone's code and follow along with a discussion.  In their Git repo's readme, it said the prefered package manager for their code was... but that you could use a number of other package managers...it listed them and it listed the different command lines you'd type to install their code from their repo.  
+* [Automation: Improve Workflow With Package Managers-Package Managers Help Boost Software Development](Automation: Improve Workflow With Package Managers)
+* [WIKI Article on Package Managers and/or Package Management Systems](https://en.wikipedia.org/wiki/Package_manager)
+* [FCC JavaScript Package Managers](https://www.freecodecamp.org/news/javascript-package-managers-101-9afd926add0a/)
+* [Comparing JS Package Managers: Yarn, NPM, PNPM](https://blog.logrocket.com/javascript-package-managers-compared/)
+* [Yarn, npm, bower, jspm, volo compared](https://www.dunebook.com/best-javascript-package-managers/)
