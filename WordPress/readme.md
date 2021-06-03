@@ -2,10 +2,11 @@
 
 
 # WP Topics: 
-* Below are articles worth reading, realted to WP:
+Below are articles worth reading, realted to WP:
 * [Should Developers Use WordPress-one point of view](https://hackernoon.com/should-web-developers-use-wordpress-15193u9w) - I would add to the "Pros" that if you are learning to code, WP is a FABULOUS way to learn to READ code and THINK logically, studying how others have successfully coded.  I would also add to the "Pros" list that it can help you learn about security and security related issues. Further I would add to the "pros" list that if your goal is to make money to earn a living, WP is the MOST popular way for non coders to get started online, and there is a large market place for for those who know WP. Further, if you are just learning coding, there is a robust and supportive community in which to participate, gain experience, find help and so forth.  I would add to the "cons" list that over-time it will limit you and become a crutch if you rely on it exclusively too long. 
 * [How to Hide a Mobile Menu in WordPress (Beginner’s Guide)](https://www.wpbeginner.com/wp-tutorials/how-to-hide-a-mobile-menu-in-wordpress-beginners-guide/) - further this website, in general, is excellent for learning all kinds of things you may need to learn about WP (or the specific version of WP you are using). 
 * [WP Onion](https://www.producthunt.com/posts/wponion) - I didn't know there were "frameworks" for WP.  I need to look into this topic more! 
+* [WP Blocks](https://css-tricks.com/a-crash-course-in-wordpress-block-filters/)
 
 ## WP Layouts:
 * [Blocks-Using this New Feature Smarter](https://theeventscalendar.com/blog/wordpress/how-to-work-with-wordpress-block-patterns/)
