@@ -117,8 +117,32 @@ let result = extractStr.match(codingRegex);
 ```
 
 ## [6. Find More Than the First Match](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/find-more-than-the-first-match)
+* So far, you have only been able to extract or search a pattern once.
+```
+let testStr = "Repeat, Repeat, Repeat";
+let ourRegex = /Repeat/;
+testStr.match(ourRegex);
+```
+Here match would return ["Repeat"].
 
-## [7. Match Anything with Wildcard Period](#)
+To search or extract a pattern more than once, you can use the g flag.
+```
+let repeatRegex = /Repeat/g;
+testStr.match(repeatRegex);
+```
+And here match returns the value ["Repeat", "Repeat", "Repeat"]
+
+* CODE CHALLENGE: 
+
+Using the regex starRegex, find and extract both Twinkle words from the string twinkleStar.
+
+Note
+You can have multiple flags on your regex like /search/gi
+
+
+## [7. Match Anything with Wildcard Period](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/match-anything-with-wildcard-period)
+* 
+* CODE CHALLENGE: 
 
 ## [8. Match Single Character with Multiple Possibilities](#)
 
