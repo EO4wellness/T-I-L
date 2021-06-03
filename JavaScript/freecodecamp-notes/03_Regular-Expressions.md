@@ -72,12 +72,51 @@ wrongRegex.test(testStr);
 * CODE CHALLENGE: Complete the regex petRegex to match the pets dog, cat, bird, or 
 
 ## [4. Ignore Case While Matching](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/ignore-case-while-matching)
-* 
+* Up until now, you've looked at regexes to do literal matches of strings. 
+* But sometimes, you might want to also match case differences.
+* Case (or sometimes letter case) is the difference between uppercase letters and lowercase letters. 
+* Examples of uppercase are A, B, and C. Examples of lowercase are a, b, and c.
+* You can match both cases using what is called a flag. 
+* There are other flags but here you'll focus on the flag that ignores case - the i flag. 
+* You can use it by appending it to the regex. An example of using this flag is /ignorecase/i. 
+* This regex can match the strings ignorecase, igNoreCase, and IgnoreCase.
+
 * CODE CHALLENGE: Write a regex fccRegex to match freeCodeCamp, no matter its case. Your regex should not match any abbreviations or variations with spaces.
 
-## [5. Extract Matches](#)
+I didn't see a place to report this within FCC but this is the first coding lesson and challenge, that I had no clue what they were getting at.  I understood what was desired.  I understood the logic behind solving the problem.  I didn't understand the syntax which was expected and therefore I think this lesson could be helped, greatly, thru a syntax example being given. 
 
-## [6. Find More Than the First Match](#)
+## [5. Extract Matches](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/extract-matches)
+* So far, you have only been checking if a pattern exists or not within a string. 
+* You can also extract the actual matches you found with the .match() method.
+* To use the .match() method, apply the method on a string and pass in the regex inside the parentheses.
+* Here's an example:
+```
+"Hello, World!".match(/Hello/);
+let ourStr = "Regular expressions";
+let ourRegex = /expressions/;
+ourStr.match(ourRegex);
+```
+* Here the first match would return ["Hello"] and the second would return ["expressions"].
+* Note that the .match syntax is the "opposite" of the .test method you have been using thus far:
+```
+'string'.match(/regex/);
+/regex/.test('string');
+```
+* CODE CHALLENGE: Apply the .match() method to extract the string coding. 
+challenge starting code: 
+```
+let extractStr = "Extract the word 'coding' from this string.";
+let codingRegex = /change/; // Change this line
+let result = extractStr; // Change this line
+```
+my code: 
+```
+let extractStr = "Extract the word 'coding' from this string.";
+let codingRegex = /coding/; 
+let result = extractStr.match(codingRegex); 
+```
+
+## [6. Find More Than the First Match](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/find-more-than-the-first-match)
 
 ## [7. Match Anything with Wildcard Period](#)
 
