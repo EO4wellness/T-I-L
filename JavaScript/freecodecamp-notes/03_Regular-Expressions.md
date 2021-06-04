@@ -141,10 +141,30 @@ You can have multiple flags on your regex like /search/gi
 
 
 ## [7. Match Anything with Wildcard Period](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/match-anything-with-wildcard-period)
-* 
-* CODE CHALLENGE: 
+* Sometimes you don't need to know the exact characters in your patterns. 
+* Sometimes you need to but just don't know. 
+* For example, what are all of the words which match a misspelling?
+* This is when we use a wildcard character. 
+* The wildcard character ```.``` will match any one character
+* the Wild Card is also called DOT or PERIOD 
+* you can use the wildcard character just like any other character in the regex.
+* for example, if you want to match hug huh hut and hum
+* then use regex /hu/ to match all four words
+```
+let humStr = "I'll hum a song";
+let hugStr = "Bear hug";
+let huRegex = /hu./;
+huRegex.test(humStr);
+huRegex.test(hugStr);
+```
+* Both of these test calls would return true.
 
-## [8. Match Single Character with Multiple Possibilities](#)
+* CODE CHALLENGE: Complete the regex unRegex so that it matches the strings run, sun, fun, pun, nun, and bun. Your regex should use the wildcard character.
+
+
+## [8. Match Single Character with Multiple Possibilities](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/match-single-character-with-multiple-possibilities)
+* 
+* CODE CHALLENGE:
 
 ## [9. Match Letters of the Alphabet](#)
 
