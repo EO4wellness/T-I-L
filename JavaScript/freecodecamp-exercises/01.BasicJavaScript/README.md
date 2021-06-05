@@ -1,6 +1,6 @@
 ## [01 Basic JavaScript](https://github.com/EO4wellness/T-I-L/tree/main/JavaScript/freecodecamp-exercises/01.BasicJavaScript) (111 units)
 
-## 02 ES6 (31 units) 
+## [02 ES6](https://github.com/EO4wellness/T-I-L/tree/main/JavaScript/freecodecamp-exercises/02.ES6) (31 units) 
 
 ## 03 Regular Expressions (33 units) 
 
