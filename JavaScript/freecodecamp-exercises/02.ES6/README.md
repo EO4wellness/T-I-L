@@ -1,8 +1,8 @@
-## 01 Basic JavaScript (111 units)
+## [01 Basic JavaScript](https://github.com/EO4wellness/T-I-L/tree/main/JavaScript/freecodecamp-exercises/01.BasicJavaScript) (111 units)
 
-## 02 ES6 (31 units) 
+## [02 ES6](https://github.com/EO4wellness/T-I-L/tree/main/JavaScript/freecodecamp-exercises/02.ES6) (31 units) 
 
-## 03 Regular Expressions (33 units) 
+## [03 Regular Expressions](https://github.com/EO4wellness/T-I-L/tree/main/JavaScript/freecodecamp-exercises/03.RegularExpressions) (33 units) 
 
 ## 04 Debugging (12 units)
 
@@ -17,4 +17,3 @@
 ## 09 Intermediate algorithm Scripting (21 units)
 
 ## 10 JavaScript Algorithms and Data Structures Projects (5 units) 
-
