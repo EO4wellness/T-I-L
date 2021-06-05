@@ -2,7 +2,7 @@
 
 ## [02 ES6](https://github.com/EO4wellness/T-I-L/tree/main/JavaScript/freecodecamp-exercises/02.ES6) (31 units) 
 
-## 03 Regular Expressions (33 units) 
+## [03 Regular Expressions](https://github.com/EO4wellness/T-I-L/tree/main/JavaScript/freecodecamp-exercises/03.RegularExpressions) (33 units) 
 
 ## 04 Debugging (12 units)
 
