@@ -1,8 +1,8 @@
-## [01 Basic JavaScript](https://github.com/EO4wellness/T-I-L/tree/main/JavaScript/freecodecamp-exercises/01.BasicJavaScript) (111 units)
+## [01 Basic JavaScript](https://github.com/EO4wellness/T-I-L/tree/main/JavaScript/freecodecamp-exercises/01.BasicJavaScript) (111 units) - Completed: 2021-05-10
 
-## [02 ES6](https://github.com/EO4wellness/T-I-L/tree/main/JavaScript/freecodecamp-exercises/02.ES6) (31 units) 
+## [02 ES6](https://github.com/EO4wellness/T-I-L/tree/main/JavaScript/freecodecamp-exercises/02.ES6) (31 units) - Completed: 2021-05-29
 
-## [03 Regular Expressions](https://github.com/EO4wellness/T-I-L/tree/main/JavaScript/freecodecamp-exercises/03.RegularExpressions) (33 units) 
+## [03 Regular Expressions](https://github.com/EO4wellness/T-I-L/tree/main/JavaScript/freecodecamp-exercises/03.RegularExpressions) (33 units) - Ongoing
 
 ## [04 Debugging](#) (12 units)
 
