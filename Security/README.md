@@ -6,6 +6,7 @@ Cybrary (training programs)
 [Javascript Exploit](https://thehackernews.com/2021/04/new-javascript-exploit-can-now-carry.html)
 
 # Malware Threats 
+* [GitHub updates its Policy](https://thehackernews.com/2021/06/github-updates-policy-to-remove-exploit.html)
 
 ## Course Intro:
 * Course Link: [cybrary On Demand Course](https://www.cybrary.it/course/malware-threats)
