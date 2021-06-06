@@ -185,14 +185,76 @@ bogStr.match(bgRegex);
 
 
 ## [9. Match Letters of the Alphabet](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/match-letters-of-the-alphabet)
+* You saw how you can use character sets to specify a group 
+* of characters to match, 
+* but that's a lot of typing when you need to 
+* match a large range of characters 
+* (for example, every letter in the alphabet). 
+* Fortunately, there is a built-in feature that 
+* makes this short and simple.
+* Inside a character set, you can define a range of characters
+*  to match using a hyphen character: -.
+*  For example, to match lowercase letters a through e you would use [a-e].
+```
+let catStr = "cat";
+let batStr = "bat";
+let matStr = "mat";
+let bgRegex = /[a-e]at/;
+catStr.match(bgRegex);
+batStr.match(bgRegex);
+matStr.match(bgRegex);
+```
+* In Order, the 3 match calls would return the valutes ["cat"].["bat"]and null
+* CODE CHALLENGE: Match all the letters in the string quoteSample.
+* Note: Be sure to match both uppercase and lowercase letters.
 
-## [10. Match Numbers and Letters of the Alphabet](#)
 
-## [11. Match Single Characters Not Specified](#)
+## [10. Match Numbers and Letters of the Alphabet](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/match-numbers-and-letters-of-the-alphabet)
+* Using the hyphen (-) to match a range of characters 
+* is not limited to letters. It also works to match a range of numbers.
+* For example, /[0-5]/ matches any number between 0 and 5, 
+* including the 0 and 5.
+* Also, it is possible to combine a range of letters 
+* and numbers in a single character set.
+```
+let jennyStr = "Jenny8675309";
+let myRegex = /[a-z0-9]/ig;
+jennyStr.match(myRegex);
+```
+* CODE CHALLENGE: Create a single regex that matches a range of letters between h and s, and a range of numbers between 2 and 6. Remember to include the appropriate flags in the regex.
 
-## [12. Match Characters that Occur One or More Times](#)
 
-## [13. Match Characters that Occur Zero or More Times](#)
+## [11. Match Single Characters Not Specified](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/match-single-characters-not-specified)
+* So far, you have created a set of characters 
+* that you want to match, 
+* but you could also create a set of characters 
+* that you do not want to match. 
+* These types of character sets are called negated character sets.
+* To create a negated character set, you place a caret character (^) 
+* after the opening bracket 
+* and before the characters you do not want to match.
+* For example, /[^aeiou]/gi matches all characters 
+* that are not a vowel. 
+* Note that characters like ```., !, [, @, / ```
+* and white space are matched - 
+* the negated vowel character set only excludes the vowel characters.
+
+* CODE CHALLENGE: Create a single regex that matches all characters that are not a number or a vowel. Remember to include the appropriate flags in the regex.
+
+## [12. Match Characters that Occur One or More Times](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/match-characters-that-occur-one-or-more-times)
+* 
+
+Sometimes, you need to match a character (or group of characters) that appears one or more times in a row. This means it occurs at least once, and may be repeated.
+
+You can use the + character to check if that is the case. Remember, the character or pattern has to be present consecutively. That is, the character has to repeat one after the other.
+
+For example, /a+/g would find one match in abc and return ["a"]. Because of the +, it would also find a single match in aabc and return ["aa"].
+
+If it were instead checking the string abab, it would find two matches and return ["a", "a"] because the a characters are not in a row - there is a b between them. Finally, since there is no a in the string bcd, it wouldn't find a match.
+
+* CODE CHALLENGE: You want to find matches when the letter s occurs one or more times in Mississippi. Write a regex that uses the + sign.
+
+## [13. Match Characters that Occur Zero or More Times](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/match-characters-that-occur-zero-or-more-times)
 
 ## [14. Find Characters with Lazy Matching](#)
 
