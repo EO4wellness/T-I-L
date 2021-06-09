@@ -7,3 +7,4 @@
 * To successfully use Git you must learn to overcome mistakes. 
 * [Undoing Mistakes-1](https://www.smashingmagazine.com/2021/05/undoing-mistakes-git-part1/)
 * [Undoing Mistakes-2](https://www.smashingmagazine.com/2021/05/undoing-mistakes-git-part2/)
+* Yet another [Undoing Mistakes article](https://gist.github.com/silent1mezzo/1670623)
