@@ -229,6 +229,15 @@ Studied several lessons today 12-7-2020 in the ND
 * https://leetcode.com/explore/learn/card/binary-search/138/background/971/
 * [How to Learn Code from your Home](https://techcrunch.com/2012/08/21/5-ways-to-learn-code-from-the-comfort-of-your-own-browser/)
 * [Women Who Code Member Resources](https://www.womenwhocode.com/resources)
+* [KD Nuggest](https://www.kdnuggets.com/2021/06/double-income-data-science-machine-learning.html)
+* [DataScience Curriculum with Advanced Math](https://www.freecodecamp.org/news/building-a-data-science-curriculum-with-advanced-math-and-machine-learning/)
+* [Python Code Examples](https://www.freecodecamp.org/news/python-code-examples-sample-script-coding-tutorial-for-beginners/)
+* [NGNG Handbook](https://www.freecodecamp.org/news/the-nginx-handbook/)
+* [Cross Site Request Forgery - Security - Prevent it](https://www.freecodecamp.org/news/what-is-cross-site-request-forgery/)
+* [Productivity Keyboard Shortcuts](https://www.freecodecamp.org/news/keyboard-shortcuts-improve-productivity/)
+* [Email Newsletters](https://www.freecodecamp.org/news/how-to-create-an-email-newsletter-design-layout-send/)
+* [CSS Ideas](https://www.freecodecamp.org/news/use-css-selectors-to-style-webpage/)
+* [Color Picker, Code Instruction, Sandbox](https://www.w3schools.com/)
 
 ### WordPress
 * https://www.wpbeginner.com/wp-tutorials/how-to-hide-a-mobile-menu-in-wordpress-beginners-guide/ 

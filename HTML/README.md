@@ -14,7 +14,7 @@
 * [What the Flexbox](https://github.com/EO4wellness/What-The-Flexbox/blob/eo4wellness/readme.md)
 * https://dev.to/surajondev/40-useful-resources-for-mastering-web-1i0h 
 * https://dev.to/satishnaikawadi2001/free-and-useful-resources-for-web-development-in-2021-53in
-* 
+* https://frontendmasters.github.io/bootcamp/  and https://frontendmasters.com/bootcamp/introduction-html/creating-content/ recommended by other scholars on LinkedIn
 
 ## My HTML Coursework: 
 * [Udacity](#)
