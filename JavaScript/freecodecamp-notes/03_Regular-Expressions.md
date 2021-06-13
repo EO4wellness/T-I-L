@@ -272,28 +272,24 @@ In order, the three match calls would return the values ["goooooooo"], ["g"], an
 CODE CHALLENGE: For this challenge, chewieQuote has been initialized as the string Aaaaaaaaaaaaaaaarrrgh! behind the scenes. Create a regex chewieRegex that uses the * character to match an uppercase A character immediately followed by zero or more lowercase a characters in chewieQuote. Your regex does not need flags or character classes, and it should not match any of the other quotes.
 
 ## [14. Find Characters with Lazy Matching](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/find-characters-with-lazy-matching)
-* 
-
-In regular expressions, a greedy match finds the longest possible part of a string that fits the regex pattern and returns it as a match. The alternative is called a lazy match, which finds the smallest possible part of the string that satisfies the regex pattern.
-
-You can apply the regex /t[a-z]*i/ to the string "titanic". This regex is basically a pattern that starts with t, ends with i, and has some letters in between.
-
-Regular expressions are by default greedy, so the match would return ["titani"]. It finds the largest sub-string possible to fit the pattern.
-
-However, you can use the ? character to change it to lazy matching. "titanic" matched against the adjusted regex of /t[a-z]*?i/ returns ["ti"].
-
-Note: Parsing HTML with regular expressions should be avoided, but pattern matching an HTML string with regular expressions is completely fine.
+* In regular expressions, a greedy match finds the longest possible part of a string 
+* that fits the regex pattern and returns it as a match. 
+* The alternative is called a lazy match, which finds the smallest possible part of the string that satisfies the regex pattern.
+* You can apply the regex /t[a-z]*i/ to the string "titanic". 
+* This regex is basically a pattern that starts with t, ends with i, and has some letters in between.
+* Regular expressions are by default greedy, so the match would return ["titani"]. 
+* It finds the largest sub-string possible to fit the pattern.
+* However, you can use the ? character to change it to lazy matching. 
+* "titanic" matched against the adjusted regex of /t[a-z]*?i/ returns ["ti"].
+* Note: Parsing HTML with regular expressions should be avoided, 
+* but pattern matching an HTML string with regular expressions is completely fine.
 
 CODE CHALLENGE: Fix the regex /<.*>/ to return the HTML tag <h1> and not the text "<h1>Winter is coming</h1>". Remember the wildcard . in a regular expression matches any character.
 
 ## [15. Find One or More Criminals in a Hunt](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/find-one-or-more-criminals-in-a-hunt)
-* 
-
-Time to pause and test your new regex writing skills. A group of criminals escaped from jail and ran away, but you don't know how many. However, you do know that they stay close together when they are around other people. You are responsible for finding all of the criminals at once.
-
-Here's an example to review how to do this:
-
-The regex /z+/ matches the letter z when it appears one or more times in a row. It would find matches in all of the following strings:
+* Time to pause and test your new regex writing skills. A group of criminals escaped from jail and ran away, but you don't know how many. However, you do know that they stay close together when they are around other people. You are responsible for finding all of the criminals at once.Here's an example to review how to do this:
+* The regex /z+/ matches the letter z when it appears one or more times in a row. 
+* It would find matches in all of the following strings:
 ```
 "z"
 "zzzzzz"
@@ -301,7 +297,7 @@ The regex /z+/ matches the letter z when it appears one or more times in a row. 
 "zzzzABC"
 "abczzzzzzzzzzzzzzzzzzzzzabc"
 ```
-But it does not find matches in the following strings since there are no letter z characters:
+* But it does not find matches in the following strings since there are no letter z characters:
 ```
 ""
 "ABC"
