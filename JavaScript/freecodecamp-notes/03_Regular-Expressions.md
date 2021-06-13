@@ -283,8 +283,8 @@ oPhrase.match(goRegex);
 * Note: Parsing HTML with regular expressions should be avoided, 
 * but pattern matching an HTML string with regular expressions is completely fine.
 
-* CODE CHALLENGE: Fix the``` regex /<.*>/``` to return the HTML tag <h1> and not the text "<h1>Winter is coming</h1>". 
-	Remember the wildcard . in a regular expression matches any character.
+* CODE CHALLENGE: Fix the``` regex /<.*>/``` to return the ```HTML tag <h1> and not the text "<h1>Winter is coming</h1>".``` 
+	Remember the ```wildcard . ``` in a regular expression matches any character.
 
 ## [15. Find One or More Criminals in a Hunt](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/find-one-or-more-criminals-in-a-hunt) 
 * Time to pause and test your new regex writing skills. A group of criminals escaped from jail and ran away, but you don't know how many. However, you do know that they stay close together when they are around other people. You are responsible for finding all of the criminals at once.Here's an example to review how to do this:
@@ -310,7 +310,7 @@ oPhrase.match(goRegex);
 * Prior challenges showed that regular expressions can be used to look for a number of matches. 
 * They are also used to search for patterns in specific positions in strings.
 * In an earlier challenge, you used the caret character (^) inside a character set to create 
-* a negated character set in the form [^thingsThatWillNotBeMatched]. 
+* a negated character set in the form ```[^thingsThatWillNotBeMatched]```. 
 * Outside of a character set, the caret is used to search for patterns at the beginning of strings.
 ```
 let firstString = "Ricky is first and can be found.";
@@ -324,7 +324,7 @@ firstRegex.test(notFirst);
 * CODE CHALLENGE: Use the caret character in a regex to find Cal only in the beginning of the string rickyAndCal.
 
 	
-## [17. Match Ending String Patterns](#)
+## [17. Match Ending String Patterns](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/match-ending-string-patterns)
 * In the last challenge, you learned to use the caret character 
 * to search for patterns at the beginning of strings. 
 * There is also a way to search for patterns at the end of strings.
