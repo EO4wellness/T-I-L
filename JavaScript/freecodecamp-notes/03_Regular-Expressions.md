@@ -242,22 +242,21 @@ jennyStr.match(myRegex);
 * CODE CHALLENGE: Create a single regex that matches all characters that are not a number or a vowel. Remember to include the appropriate flags in the regex.
 
 ## [12. Match Characters that Occur One or More Times](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/match-characters-that-occur-one-or-more-times)
-* 
-
-Sometimes, you need to match a character (or group of characters) that appears one or more times in a row. This means it occurs at least once, and may be repeated.
-
-You can use the + character to check if that is the case. Remember, the character or pattern has to be present consecutively. That is, the character has to repeat one after the other.
-
-For example, /a+/g would find one match in abc and return ["a"]. Because of the +, it would also find a single match in aabc and return ["aa"].
-
-If it were instead checking the string abab, it would find two matches and return ["a", "a"] because the a characters are not in a row - there is a b between them. Finally, since there is no a in the string bcd, it wouldn't find a match.
+*  Sometimes, you need to match a character (or group of characters) that appears one or more times in a row. 
+*  This means it occurs at least once, and may be repeated.
+*  You can use the + character to check if that is the case. 
+*  Remember, the character or pattern has to be present consecutively. 
+*  That is, the character has to repeat one after the other.
+*  For example, /a+/g would find one match in abc and return ["a"]. 
+*  Because of the +, it would also find a single match in aabc and return ["aa"].
+*  If it were instead checking the string abab, it would find two matches and return ["a", "a"] because the a characters are not in a row - there is a b between them. Finally, since there is no a in the string bcd, it wouldn't find a match.
 
 * CODE CHALLENGE: You want to find matches when the letter s occurs one or more times in Mississippi. Write a regex that uses the + sign.
 
 ## [13. Match Characters that Occur Zero or More Times](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/match-characters-that-occur-zero-or-more-times)
-* challenge used the plus + sign to look for characters that occur one or more times. There's also an option that matches characters that occur zero or more times.
-
-The character to do this is the asterisk or star: *.
+* challenge used the plus + sign to look for characters that occur one or more times. 
+* There's also an option that matches characters that occur zero or more times.
+* The character to do this is the asterisk or star: *.
 ```
 let soccerWord = "gooooooooal!";
 let gPhrase = "gut feeling";
@@ -267,33 +266,30 @@ soccerWord.match(goRegex);
 gPhrase.match(goRegex);
 oPhrase.match(goRegex);
 ```
-In order, the three match calls would return the values ["goooooooo"], ["g"], and null.
+* In order, the three match calls would return the values ["goooooooo"], ["g"], and null.
 
-CODE CHALLENGE: For this challenge, chewieQuote has been initialized as the string Aaaaaaaaaaaaaaaarrrgh! behind the scenes. Create a regex chewieRegex that uses the * character to match an uppercase A character immediately followed by zero or more lowercase a characters in chewieQuote. Your regex does not need flags or character classes, and it should not match any of the other quotes.
+* CODE CHALLENGE: For this challenge, chewieQuote has been initialized as the string Aaaaaaaaaaaaaaaarrrgh! behind the scenes. Create a regex chewieRegex that uses the * character to match an uppercase A character immediately followed by zero or more lowercase a characters in chewieQuote. Your regex does not need flags or character classes, and it should not match any of the other quotes.
 
 ## [14. Find Characters with Lazy Matching](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/find-characters-with-lazy-matching)
-* 
+* In regular expressions, a greedy match finds the longest possible part of a string 
+* that fits the regex pattern and returns it as a match. 
+* The alternative is called a lazy match, which finds the smallest possible part of the string that satisfies the regex pattern.
+* You can apply the ```regex /t[a-z]*i/``` to the string "titanic". 
+* This regex is basically a pattern that starts with t, ends with i, and has some letters in between.
+* Regular expressions are by default greedy, so the match would return ["titani"]. 
+* It finds the largest sub-string possible to fit the pattern.
+* However, you can use the ? character to change it to lazy matching. 
+* "titanic" matched against the adjusted ```regex of /t[a-z]*?i/ returns ["ti"]```.
+* Note: Parsing HTML with regular expressions should be avoided, 
+* but pattern matching an HTML string with regular expressions is completely fine.
 
-In regular expressions, a greedy match finds the longest possible part of a string that fits the regex pattern and returns it as a match. The alternative is called a lazy match, which finds the smallest possible part of the string that satisfies the regex pattern.
+* CODE CHALLENGE: Fix the``` regex /<.*>/``` to return the ```HTML tag <h1> and not the text "<h1>Winter is coming</h1>".``` 
+	Remember the ```wildcard . ``` in a regular expression matches any character.
 
-You can apply the regex /t[a-z]*i/ to the string "titanic". This regex is basically a pattern that starts with t, ends with i, and has some letters in between.
-
-Regular expressions are by default greedy, so the match would return ["titani"]. It finds the largest sub-string possible to fit the pattern.
-
-However, you can use the ? character to change it to lazy matching. "titanic" matched against the adjusted regex of /t[a-z]*?i/ returns ["ti"].
-
-Note: Parsing HTML with regular expressions should be avoided, but pattern matching an HTML string with regular expressions is completely fine.
-
-CODE CHALLENGE: Fix the regex /<.*>/ to return the HTML tag <h1> and not the text "<h1>Winter is coming</h1>". Remember the wildcard . in a regular expression matches any character.
-
-## [15. Find One or More Criminals in a Hunt](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/find-one-or-more-criminals-in-a-hunt)
-* 
-
-Time to pause and test your new regex writing skills. A group of criminals escaped from jail and ran away, but you don't know how many. However, you do know that they stay close together when they are around other people. You are responsible for finding all of the criminals at once.
-
-Here's an example to review how to do this:
-
-The regex /z+/ matches the letter z when it appears one or more times in a row. It would find matches in all of the following strings:
+## [15. Find One or More Criminals in a Hunt](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/find-one-or-more-criminals-in-a-hunt) 
+* Time to pause and test your new regex writing skills. A group of criminals escaped from jail and ran away, but you don't know how many. However, you do know that they stay close together when they are around other people. You are responsible for finding all of the criminals at once.Here's an example to review how to do this:
+* The regex /z+/ matches the letter z when it appears one or more times in a row. 
+* It would find matches in all of the following strings:
 ```
 "z"
 "zzzzzz"
@@ -301,7 +297,7 @@ The regex /z+/ matches the letter z when it appears one or more times in a row. 
 "zzzzABC"
 "abczzzzzzzzzzzzzzzzzzzzzabc"
 ```
-But it does not find matches in the following strings since there are no letter z characters:
+* But it does not find matches in the following strings since there are no letter z characters:
 ```
 ""
 "ABC"
@@ -311,40 +307,137 @@ But it does not find matches in the following strings since there are no letter 
 	
 	
 ## [16. Match Beginning String Patterns](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/match-beginning-string-patterns)
-* 
-
-Prior challenges showed that regular expressions can be used to look for a number of matches. They are also used to search for patterns in specific positions in strings.
-
-In an earlier challenge, you used the caret character (^) inside a character set to create a negated character set in the form [^thingsThatWillNotBeMatched]. Outside of a character set, the caret is used to search for patterns at the beginning of strings.
-
+* Prior challenges showed that regular expressions can be used to look for a number of matches. 
+* They are also used to search for patterns in specific positions in strings.
+* In an earlier challenge, you used the caret character (^) inside a character set to create 
+* a negated character set in the form ```[^thingsThatWillNotBeMatched]```. 
+* Outside of a character set, the caret is used to search for patterns at the beginning of strings.
+```
 let firstString = "Ricky is first and can be found.";
 let firstRegex = /^Ricky/;
 firstRegex.test(firstString);
 let notFirst = "You can't find Ricky now.";
 firstRegex.test(notFirst);
-
-The first test call would return true, while the second would return false.
+```
+* The first test call would return true, while the second would return false.
 
 * CODE CHALLENGE: Use the caret character in a regex to find Cal only in the beginning of the string rickyAndCal.
 
 	
-## [17. Match Ending String Patterns](#)
+## [17. Match Ending String Patterns](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/match-ending-string-patterns)
+* In the last challenge, you learned to use the caret character 
+* to search for patterns at the beginning of strings. 
+* There is also a way to search for patterns at the end of strings.
+* You can search the end of strings 
+* using the dollar sign character $ at the end of the regex.
+```
+let theEnding = "This is a never ending story";
+let storyRegex = /story$/;
+storyRegex.test(theEnding);
+let noEnding = "Sometimes a story will have to end";
+storyRegex.test(noEnding);
+```
+* The first test call would return true, while the second would return false.
 
-## [18. Match All Letters and Numbers](#)
+* CODE CHALLENGE: Use the anchor character ($) to match the string caboose at the end of the string caboose.
 
-## [19. Match Everything But Letters and Numbers](#)
+## [18. Match All Letters and Numbers](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/match-all-letters-and-numbers)
+* Using character classes, you were able to search for all letters of the alphabet with [a-z]. 
+* This kind of character class is common enough that there is a shortcut for it, although it includes a few extra characters as well.
+* The closest character class in JavaScript to match the alphabet is \w. This shortcut is equal to [A-Za-z0-9_]. 
+* This character class matches upper and lowercase letters plus numbers. 
+* Note, this character class also includes the underscore character (_).
+```
+let longHand = /[A-Za-z0-9_]+/;
+let shortHand = /\w+/;
+let numbers = "42";
+let varNames = "important_var";
+longHand.test(numbers);
+shortHand.test(numbers);
+longHand.test(varNames);
+shortHand.test(varNames);
+```
+* All four of these test calls would return true.
+* CODE CHALLENGE: Use the shorthand character class \w to count the number of alphanumeric characters in various quotes and strings.
 
-## [20. Match All Numbers](#)
+## [19. Match Everything But Letters and Numbers](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/match-everything-but-letters-and-numbers)
+* You've learned that you can use a shortcut to match alphanumerics [A-Za-z0-9_] using \w. 
+* A natural pattern you might want to search for is the opposite of alphanumerics.
+* You can search for the opposite of the \w with \W. Note, the opposite pattern uses a capital letter. 
+* This shortcut is the same as [^A-Za-z0-9_].
+```
+let shortHand = /\W/;
+let numbers = "42%";
+let sentence = "Coding!";
+numbers.match(shortHand);
+sentence.match(shortHand);
+```
+* The first match call would return the value ["%"] and the second would return ["!"].
 
-## [21. Match All Non-Numbers](#)
+* CODE CHALLENGE: Use the shorthand character class \W to count the number of non-alphanumeric characters in various quotes and strings. 
 
-## [22. Restrict Possible Usernames](#)
+## [20. Match All Numbers](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/match-all-numbers)
+* You've learned shortcuts for common string patterns like alphanumerics. 
+* Another common pattern is looking for just digits or numbers.
+* The shortcut to look for digit characters is \d, with a lowercase d. 
+* This is equal to the character class [0-9], which looks for a single character of any number between zero and nine.
 
-## [23. Match Whitespace](#)
+* CODE CHALLENGE: Use the shorthand character class \d to count how many digits are in movie titles. Written out numbers ("six" instead of 6) do not count.
+
+## [21. Match All Non-Numbers](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/match-all-non-numbers)
+*  The last challenge showed how to search for digits using the shortcut \d with a lowercase d. 
+* You can also search for non-digits using a similar shortcut that uses an uppercase D instead.
+* The shortcut to look for non-digit characters is \D. This is equal to the character class [^0-9], 
+* which looks for a single character that is not a number between zero and nine.
+
+* CODE CHALLENGE: Use the shorthand character class for non-digits \D to count how many non-digits are in movie titles.
+
+## [22. Restrict Possible Usernames](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/restrict-possible-usernames)
+* Usernames are used everywhere on the internet. 
+* They are what give users a unique identity on their favorite sites.
+* You need to check all the usernames in a database. 
+* Here are some simple rules that users have to follow when creating their username.
+* Usernames can only use alpha-numeric characters.
+* The only numbers in the username have to be at the end. 
+* There can be zero or more of them at the end. Username cannot start with the number.
+* Username letters can be lowercase and uppercase.
+* Usernames have to be at least two characters long. A two-character username can only use alphabet letters as characters.
+
+* CODE CHALLLENGE: Change the regex userCheck to fit the constraints listed above.
+
+## [23. Match Whitespace](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/match-whitespace)
+* The challenges so far have covered matching letters of the alphabet and numbers. 
+* You can also match the whitespace or spaces between letters.
+* You can search for whitespace using \s, which is a lowercase s. 
+* This pattern not only matches whitespace, but also carriage return, tab, form feed, and new line characters. 
+* You can think of it as similar to the character class [ \r\t\f\n\v].
+```
+let whiteSpace = "Whitespace. Whitespace everywhere!"
+let spaceRegex = /\s/g;
+whiteSpace.match(spaceRegex);
+```
+* This match call would return [" ", " "].
+
+* CODE CHALLLENGE: Change the regex countWhiteSpace to look for multiple whitespace characters in a string.
 
 ## [24. Match Non-Whitespace Characters](#)
+* 
 
-## [25. Specify Upper and Lower Number of Matches](#)
+You learned about searching for whitespace using \s, with a lowercase s. You can also search for everything except whitespace.
+
+Search for non-whitespace using \S, which is an uppercase s. This pattern will not match whitespace, carriage return, tab, form feed, and new line characters. You can think of it being similar to the character class [^ \r\t\f\n\v].
+
+let whiteSpace = "Whitespace. Whitespace everywhere!"
+let nonSpaceRegex = /\S/g;
+whiteSpace.match(nonSpaceRegex).length;
+
+The value returned by the .length method would be 32.
+
+* CODE CHALLENGE Change the regex countNonWhiteSpace to look for multiple non-whitespace characters in a string.
+
+## [25. Specify Upper and Lower Number of Matches](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/specify-upper-and-lower-number-of-matches)
+* 
+* CODE CHALLENGE 
 
 ## [26. Specify Only the Lower Number of Matches](#)
 
