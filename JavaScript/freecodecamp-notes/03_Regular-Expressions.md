@@ -454,20 +454,101 @@ The first test call would return true, while the second would return false.
 
 * CODE CHALLENGE Change the regex ohRegex to match the entire phrase Oh no only when it has 3 to 6 letter h's.
 
-## [26. Specify Only the Lower Number of Matches](#)
+## [26. Specify Only the Lower Number of Matches](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/specify-only-the-lower-number-of-matches)
+* You can specify the lower and upper number of patterns with quantity specifiers using curly brackets. 
+* Sometimes you only want to specify the lower number of patterns with no upper limit.
+* To only specify the lower number of patterns, keep the first number followed by a comma.
+* For example, to match only the string hah with the letter a appearing at least 3 times, 
+* your regex would be ```/ha{3,}h/.```
+```
+let A4 = "haaaah";
+let A2 = "haah";
+let A100 = "h" + "a".repeat(100) + "h";
+let multipleA = /ha{3,}h/;
+multipleA.test(A4);
+multipleA.test(A2);
+multipleA.test(A100);
+```
+* In order, the three test calls would return true, false, and true.
 
-## [27. Specify Exact Number of Matches](#)
+* CODE CHALLENGE: Change the regex haRegex to match the word Hazzah only when it has four or more letter z's.
 
-## [28. Check for All or None](#)
+## [27. Specify Exact Number of Matches](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/specify-exact-number-of-matches)
+* You can specify the lower and upper number of patterns with quantity specifiers using curly brackets. 
+* Sometimes you only want a specific number of matches.
+* To specify a certain number of patterns, just have that one number between the curly brackets.
+* For example, to match only the word hah with the letter a 3 times, your regex would be``` /ha{3}h/```.
+```
+let A4 = "haaaah";
+let A3 = "haaah";
+let A100 = "h" + "a".repeat(100) + "h";
+let multipleHA = /ha{3}h/;
+multipleHA.test(A4);
+multipleHA.test(A3);
+multipleHA.test(A100);
+```
+* In order, the three test calls would return false, true, and false.
 
-## [29. Positive and Negative Lookahead](#)
+* CODE CHALLENGE: Change the regex timRegex to match the word Timber only when it has four letter m's.
 
-## [30. Check For Mixed Grouping of Characters](#)
+
+## [28. Check for All or None](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/check-for-all-or-none)
+* Sometimes the patterns you want to search for may have parts of it that may or may not exist. 
+* However, it may be important to check for them nonetheless.
+* You can specify the possible existence of an element with a question mark, ?. 
+* This checks for zero or one of the preceding element. 
+* You can think of this symbol as saying the previous element is optional.
+* For example, there are slight differences in American and British English 
+* and you can use the question mark to match both spellings.
+```
+let american = "color";
+let british = "colour";
+let rainbowRegex= /colou?r/;
+rainbowRegex.test(american);
+rainbowRegex.test(british);
+```
+* Both uses of the test method would return true.
+
+* CODE CHALLENGE: Change the regex favRegex to match both the American English (favorite) and the British English (favourite) version of the word.
+
+## [29. Positive and Negative Lookahead](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/positive-and-negative-lookahead)
+* Lookaheads are patterns that tell JavaScript to look-ahead in your string to check for patterns further along. This can be useful when you want to search for multiple patterns over the same string.
+* There are two kinds of lookaheads: positive lookahead and negative lookahead.
+* A positive lookahead will look to make sure the element in the search pattern is there, but won't actually match it. A positive lookahead is used as ```(?=...)``` where the ... is the required part that is not matched.
+* On the other hand, a negative lookahead will look to make sure the element in the search pattern is not there. A negative lookahead is used as ```(?!...)``` where the ... is the pattern that you do not want to be there. The rest of the pattern is returned if the negative lookahead part is not present.
+* Lookaheads are a bit confusing but some examples will help.
+```
+let quit = "qu";
+let noquit = "qt";
+let quRegex= /q(?=u)/;
+let qRegex = /q(?!u)/;
+quit.match(quRegex);
+noquit.match(qRegex);
+```
+* Both of these match calls would return ```["q"]```.
+* A more practical use of lookaheads is to check two or more patterns in one string. Here is a (naively) simple password checker that looks for between 3 and 6 characters and at least one number:
+```
+let password = "abc123";
+let checkPass = /(?=\w{3,6})(?=\D*\d)/;
+checkPass.test(password);
+```
+
+* CODE CHALLENGE: A more practical use of lookaheads is to check two or more patterns in one string. Here is a (naively) simple password checker that looks for between 3 and 6 characters and at least one number:
+
+## [30. Check For Mixed Grouping of Characters](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/check-for-mixed-grouping-of-characters)
+* 
+* CODE CHALLENGE: 
 
 ## [31. Reuse Patterns Using Capture Groups](#)
+* 
+* CODE CHALLENGE: 
 
 ## [32. Use Capture Groups to Search and Replace](#)
+* 
+* CODE CHALLENGE: 
 
 ## [33. Remove Whitespace from Start and End](#)
+* 
+* CODE CHALLENGE: 
 	
 Nav: [Basic JavaScript](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/01_Basic-JavaScript.md) | [ES6](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/02_ES6.md) | [Regular Expressions](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/03_Regular-Expressions.md) |  [Debugging](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/04_Debugging.md) | [Basic Data Structures](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/05_Basic-Data-Structures.md) | [Basic Algorithm Scripting](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/06_Basic-Algorithm-Scripting.md) |  [Object Oriented Programming](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/07_Object-Oriented-Programming.md) | [Functional Porgramming](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/08_Functional-Porgramming.md) | [Intermediate algorithm Scripting](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/09_Intermediate-Algorithm-Scripting.md) | [JavaScript Algorithms and Data Structures Projects](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/10_JavaScript-Algorithms-and-Data-Structures-Projects.md)
