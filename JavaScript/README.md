@@ -62,6 +62,7 @@ JavaScript is a high-level programming language that all modern web browsers sup
 * https://brayanarrieta.hashnode.dev/new-javascript-features-ecmascript-2021-with-examples
 * https://javascript.plainenglish.io/3-ways-to-write-elegant-javascript-df9d02cb97b5
 * https://dzone.com/articles/structure-javascript-code
+* https://code.tutsplus.com/articles/best-free-and-open-source-javascript-animation-libraries--cms-37072
 
 
 [@Ravinwashere (on twitter)](https://twitter.com/ravinwashere/status/1370249223057281025) recommends doing the following "beginner" projects to add to your portfolio
