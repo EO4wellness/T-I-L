@@ -61,6 +61,11 @@ Hello world!
 # Python Reading: 
 * [File Extensions in Python-what do they all mean?](http://dcjtech.info/topic/python-file-extensions/)
 * [Things you can do with Python](https://mr-unity-buddy.hashnode.dev/9-amazing-things-to-do-with-python)
+* [Python Cheat Sheet](https://betterprogramming.pub/a-python-package-developers-cheat-sheet-3efb9e9454c7)
+* [Another Python Cheat Sheet](https://dev.to/ericchapman/my-beloved-python-cheat-sheet-4kpk)
+* [Data Types Cheat Sheet](https://codingnuts.tech/python-cheat-sheet-for-beginners)
+* [Python RegEx](https://www.kdnuggets.com/2018/04/python-regular-expressions-cheat-sheet.html)
+* [PIP Cheat Sheet](https://opensource.com/article/19/11/python-pip-cheat-sheet)
 
 # Use Cases 
 Python 3 is widely used and has many use-cases spanning multiple business, programming, and hobby applications. 
