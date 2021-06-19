@@ -8,6 +8,9 @@
  - [link to my course notes](https://github.com/EO4wellness/T-I-L/tree/main/JavaScript/freecodecamp-notes)
  - [link to my course coding solutions](https://github.com/EO4wellness/T-I-L/tree/main/JavaScript/freecodecamp-exercises)
  - [course projects](https://github.com/EO4wellness/T-I-L/tree/main/JavaScript/freecodecamp-exercises/10.JavaScriptAlgorithmsDataStructureProjects)
+ - [RegEx Cheat Sheet](https://code.tutsplus.com/tutorials/a-simple-regex-cheat-sheet--cms-31278)
+
+
 ### W3Schools
 -  [link to course](https://www.w3schools.com/js/default.asp)
 -  [link to my course notes & code samples](https://github.com/EO4wellness/T-I-L/tree/main/JavaScript/W3Schools)
