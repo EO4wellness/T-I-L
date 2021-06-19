@@ -43,7 +43,7 @@ Hello world!
 - Go to Windows search
 - Type IDLE
 - Paste a shortcut to the software (to your course project folder, to your desktop, to startmenu, or to taskbar)--as we will be using it a lot. 
-* 
+* [Script Examples to get started](https://www.freecodecamp.org/news/python-code-examples-sample-script-coding-tutorial-for-beginners/)
 
 # Beginners Tutorials and Guides
 * [Sololearn](https://www.sololearn.com)
