@@ -7,6 +7,34 @@
 * In this course, you'll learn how to use the JavaScript console to debug programs 
 * and prevent common issues before they happen.
 
+## Open JS Console:
+* This varries by Browser Type.  
+* Google your browser for documentation or updates
+* At the current time you can open the JavaScript console in the following browsers:
+```
+Depending on your browser, in order to open up the JavaScript console you need to:
+Chrome:
+
+    Click the the following: Menu->More Tools->Developer Tools->Console tab
+    or else , for keyboard shortcut: Ctrl + Shift + J (Windows/Linux)
+
+Firefox:
+
+    Click the the following: Menu->Developer->Web Console
+    or else , for keyboard shortcut: Ctrl + Shift + K (Windows/Linux)
+
+Safari:
+
+    Click the the following: Safari->Preferences->Advanced
+    and to the option presented enable: “Show Develop menu in menu bar”
+    Lastly, click: Develop->Show Error Console
+
+Edge:
+
+    Click the the following: ‘’…’’ symbol->Developer Tools-> Console tab
+
+```
+
 ## 01. [Use the JavaScript Console to Check the Value of a Variable](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/debugging/use-the-javascript-console-to-check-the-value-of-a-variable)
 * Both Chrome and Firefox have excellent JavaScript consoles, also known as DevTools, for debugging your JavaScript.
 * You can find Developer tools in your Chrome's menu or Web Console in Firefox's menu. If you're using a different browser, or a mobile phone, we strongly recommend switching to desktop Firefox or Chrome.
@@ -17,62 +45,70 @@ console.log('Hello world!');
 ```
 
 * CODE ASSIGNMENT: Use the console.log() method to print the value of the variable a where noted in the code.
+[My Code](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-exercises/04.Debugging/01_use-the-javascript-console-to-check-the-value-of-a-variable.js)
 
+## 02. [Understanding the Differences between the freeCodeCamp and Browser Console](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/debugging/understanding-the-differences-between-the-freecodecamp-and-browser-console)
+* When you run ordinary JavaScript, the browser's console will display your console.log() statements the exact number of times it is called.
 
-## 02. [Understanding the Differences between the freeCodeCamp and Browser Console]()
+The freeCodeCamp console will print your console.log() statements a short time after the editor detects a change in the script, as well as during testing.
+
+The freeCodeCamp console is cleared before the tests are run and, to avoid spam, only prints the logs during the first test (see the note below for exceptions).
+
+If you would like to see every log for every test, run the tests, and open the browser console. If you prefer to use the browser console, and want it to mimic the freeCodeCamp console, place console.clear() before any other console calls, to clear the browser console.
+
+Note: console.logs inside functions are printed to the freeCodeCamp console whenever those functions are called. This can help debugging functions that are called during testing.
+* CODE ASSIGNMENT: First, use console.log to log the output variable. Then, use console.clear to clear the browser console. 
+[My Code](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-exercises/04.Debugging/02_understanding-the-differences-between-the-freecodecamp-and-browser-console.js)
+
+## 03. [Use typeof to Check the Type of a Variable](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/debugging/use-typeof-to-check-the-type-of-a-variable)
 * 
 * CODE ASSIGNMENT: 
-
-
-## 03. [Use typeof to Check the Type of a Variable]()
-* 
-* CODE ASSIGNMENT: 
-
+[My Code](#)
 
 ## 04. [Catch Misspelled Variable and Function Names]()
 * 
 * CODE ASSIGNMENT: 
-
+[My Code](#)
 
 ## 05. [Catch Unclosed Parentheses, Brackets, Braces and Quotes]()
 * 
 * CODE ASSIGNMENT: 
-
+[My Code](#)
 
 ## 06. [Catch Mixed Usage of Single and Double Quotes]()
 * 
 * CODE ASSIGNMENT: 
-
+[My Code](#)
 
 ## 07. [Catch Use of Assignment Operator Instead of Equality Operator]()
 * 
 * CODE ASSIGNMENT: 
-
+[My Code](#)
 
 ## 08. [Catch Missing Open and Closing Parenthesis After a Function Call]()
 * 
 * CODE ASSIGNMENT: 
-
+[My Code](#)
 
 ## 09. [Catch Arguments Passed in the Wrong Order When Calling a Function]()
 * 
 * CODE ASSIGNMENT: 
-
+[My Code](#)
 
 ## 10. [Catch Off By One Errors When Using Indexing]()
 * 
 * CODE ASSIGNMENT: 
-
+[My Code](#)
 
 ## 11. [Use Caution When Reinitializing Variables Inside a Loop]()
 * 
 * CODE ASSIGNMENT: 
-
+[My Code](#)
 
 ## 12. [Prevent Infinite Loops with a Valid Terminal Condition]()
 * 
 * CODE ASSIGNMENT: 
-
+[My Code](#)
 
 ## Finished Debug Section: ![completion date](#)
 
