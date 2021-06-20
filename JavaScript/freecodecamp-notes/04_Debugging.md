@@ -162,11 +162,11 @@ Here varOne is the function myFunction, and varTwo is the string You rock!.
 ## 09. [Catch Arguments Passed in the Wrong Order When Calling a Function](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/debugging/catch-arguments-passed-in-the-wrong-order-when-calling-a-function)
 Continuing the discussion on calling functions, the next bug to watch out for is when a function's arguments are supplied in the incorrect order. If the arguments are different types, such as a function expecting an array and an integer, this will likely throw a runtime error. If the arguments are the same type (all integers, for example), then the logic of the code won't make sense. Make sure to supply all required arguments, in the proper order to avoid these issues.
 * CODE ASSIGNMENT: The function raiseToPower raises a base to an exponent. Unfortunately, it's not called properly - fix the code so the value of power is the expected 8.
-[My Code](#)
+[My Code](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-exercises/04.Debugging/09_catch-arguments-passed-in-the-wrong-order-when-calling-a-function.js)
 
-## 10. [Catch Off By One Errors When Using Indexing]()
+## 10. [Catch Off By One Errors When Using Indexing](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/debugging/catch-off-by-one-errors-when-using-indexing)
 * 
-* CODE ASSIGNMENT: 
+* CODE ASSIGNMENT: Fix the two indexing errors in the following function so all the numbers 1 through 5 are printed to the console.
 [My Code](#)
 
 ## 11. [Use Caution When Reinitializing Variables Inside a Loop]()
