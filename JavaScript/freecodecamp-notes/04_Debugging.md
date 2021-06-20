@@ -119,11 +119,30 @@ const allSameQuotes = 'I\'ve had a perfectly wonderful evening, but this wasn\'t
 [My Code - Option 2](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-exercises/04.Debugging/06b_catch-mixed-usage-of-single-and-double-quotes.js)
 
 ## 07. [Catch Use of Assignment Operator Instead of Equality Operator](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/debugging/catch-use-of-assignment-operator-instead-of-equality-operator)
-* 
-* CODE ASSIGNMENT: 
-[My Code](#)
 
-## 08. [Catch Missing Open and Closing Parenthesis After a Function Call]()
+
+Branching programs, i.e. ones that do different things if certain conditions are met, rely on if, else if, and else statements in JavaScript. The condition sometimes takes the form of testing whether a result is equal to a value.
+
+This logic is spoken (in English, at least) as "if x equals y, then ..." which can literally translate into code using the =, or assignment operator. This leads to unexpected control flow in your program.
+
+As covered in previous challenges, the assignment operator (=) in JavaScript assigns a value to a variable name. And the == and === operators check for equality (the triple === tests for strict equality, meaning both value and type are the same).
+
+The code below assigns x to be 2, which evaluates as true. Almost every value on its own in JavaScript evaluates to true, except what are known as the "falsy" values: false, 0, "" (an empty string), NaN, undefined, and null.
+```
+let x = 1;
+let y = 2;
+if (x = y) {
+
+} else {
+
+}
+```
+In this example, the code block within the if statement will run for any value of y, unless y is falsy. The else block, which we expect to run here, will not actually run.
+
+* CODE ASSIGNMENT: Fix the condition so the program runs the right branch, and the appropriate value is assigned to result.
+[My Code](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-exercises/04.Debugging/07_catch-use-of-assignment-operator-instead-of-equality-operator.js)
+
+## 08. [Catch Missing Open and Closing Parenthesis After a Function Call](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/debugging/catch-missing-open-and-closing-parenthesis-after-a-function-call)
 * 
 * CODE ASSIGNMENT: 
 [My Code](#)
