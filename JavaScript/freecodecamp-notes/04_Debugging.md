@@ -61,11 +61,23 @@ Note: console.logs inside functions are printed to the freeCodeCamp console when
 [My Code](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-exercises/04.Debugging/02_understanding-the-differences-between-the-freecodecamp-and-browser-console.js)
 
 ## 03. [Use typeof to Check the Type of a Variable](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/debugging/use-typeof-to-check-the-type-of-a-variable)
-* 
-* CODE ASSIGNMENT: 
-[My Code](#)
+You can use typeof to check the data structure, or type, of a variable. This is useful in debugging when working with multiple data types. If you think you're adding two numbers, but one is actually a string, the results can be unexpected. Type errors can lurk in calculations or function calls. Be careful especially when you're accessing and working with external data in the form of a JavaScript Object Notation (JSON) object.
 
-## 04. [Catch Misspelled Variable and Function Names]()
+Here are some examples using typeof:
+```
+console.log(typeof "");
+console.log(typeof 0);
+console.log(typeof []);
+console.log(typeof {});
+```
+In order, the console will display the strings string, number, object, and object.
+
+JavaScript recognizes six primitive (immutable) data types: Boolean, Null, Undefined, Number, String, and Symbol (new with ES6) and one type for mutable items: Object. Note that in JavaScript, arrays are technically a type of object.
+
+* CODE ASSIGNMENT: Add two console.log() statements to check the typeof each of the two variables seven and three in the code.
+[My Code](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-exercises/04.Debugging/03_use-typeof-to-check-the-type-of-a-variable.js)
+
+## 04. [Catch Misspelled Variable and Function Names](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/debugging/catch-misspelled-variable-and-function-names)
 * 
 * CODE ASSIGNMENT: 
 [My Code](#)
