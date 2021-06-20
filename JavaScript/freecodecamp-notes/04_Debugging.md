@@ -78,11 +78,15 @@ JavaScript recognizes six primitive (immutable) data types: Boolean, Null, Undef
 [My Code](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-exercises/04.Debugging/03_use-typeof-to-check-the-type-of-a-variable.js)
 
 ## 04. [Catch Misspelled Variable and Function Names](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/debugging/catch-misspelled-variable-and-function-names)
-* 
-* CODE ASSIGNMENT: 
-[My Code](#)
 
-## 05. [Catch Unclosed Parentheses, Brackets, Braces and Quotes]()
+The console.log() and typeof methods are the two primary ways to check intermediate values and types of program output. Now it's time to get into the common forms that bugs take. One syntax-level issue that fast typers can commiserate with is the humble spelling error.
+
+Transposed, missing, or mis-capitalized characters in a variable or function name will have the browser looking for an object that doesn't exist - and complain in the form of a reference error. JavaScript variable and function names are case-sensitive.
+
+* CODE ASSIGNMENT: Fix the two spelling errors in the code so the netWorkingCapital calculation works.
+[My Code](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-exercises/04.Debugging/04_catch-misspelled-variable-and-function-names.js)
+
+## 05. [Catch Unclosed Parentheses, Brackets, Braces and Quotes](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/debugging/catch-unclosed-parentheses-brackets-braces-and-quotes)
 * 
 * CODE ASSIGNMENT: 
 [My Code](#)
