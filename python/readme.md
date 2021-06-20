@@ -67,6 +67,8 @@ Hello world!
 * [Data Types Cheat Sheet](https://codingnuts.tech/python-cheat-sheet-for-beginners)
 * [Python RegEx](https://www.kdnuggets.com/2018/04/python-regular-expressions-cheat-sheet.html)
 * [PIP Cheat Sheet](https://opensource.com/article/19/11/python-pip-cheat-sheet)
+* [Learning Flask Framework](https://dev.to/gajesh/the-complete-flask-beginner-tutorial-124i)
+* [Flask Application Creation](https://dzone.com/articles/python-flask-code-generator)
 
 # Use Cases 
 Python 3 is widely used and has many use-cases spanning multiple business, programming, and hobby applications. 
