@@ -165,13 +165,36 @@ Continuing the discussion on calling functions, the next bug to watch out for is
 [My Code](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-exercises/04.Debugging/09_catch-arguments-passed-in-the-wrong-order-when-calling-a-function.js)
 
 ## 10. [Catch Off By One Errors When Using Indexing](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/debugging/catch-off-by-one-errors-when-using-indexing)
-* 
-* CODE ASSIGNMENT: Fix the two indexing errors in the following function so all the numbers 1 through 5 are printed to the console.
-[My Code](#)
 
-## 11. [Use Caution When Reinitializing Variables Inside a Loop]()
-* 
-* CODE ASSIGNMENT: 
+
+Off by one errors (sometimes called OBOE) crop up when you're trying to target a specific index of a string or array (to slice or access a segment), or when looping over the indices of them. JavaScript indexing starts at zero, not one, which means the last index is always one less than the length of the item. If you try to access an index equal to the length, the program may throw an "index out of range" reference error or print undefined.
+
+When you use string or array methods that take index ranges as arguments, it helps to read the documentation and understand if they are inclusive (the item at the given index is part of what's returned) or not. Here are some examples of off by one errors:
+```
+let alphabet = "abcdefghijklmnopqrstuvwxyz";
+let len = alphabet.length;
+for (let i = 0; i <= len; i++) {
+  console.log(alphabet[i]);
+}
+for (let j = 1; j < len; j++) {
+  console.log(alphabet[j]);
+}
+for (let k = 0; k < len; k++) {
+  console.log(alphabet[k]);
+}
+```
+The first example here loops one too many times, and the second loops one too few times (missing the first index, 0). The third example is correct.
+
+* CODE ASSIGNMENT: Fix the two indexing errors in the following function so all the numbers 1 through 5 are printed to the console.
+[My Code](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-exercises/04.Debugging/10_catch-off-by-one-errors-when-using-indexing.js)
+
+## 11. [Use Caution When Reinitializing Variables Inside a Loop](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/debugging/use-caution-when-reinitializing-variables-inside-a-loop)
+
+Sometimes it's necessary to save information, increment counters, or re-set variables within a loop. A potential issue is when variables either should be reinitialized, and aren't, or vice versa. This is particularly dangerous if you accidentally reset the variable being used for the terminal condition, causing an infinite loop.
+
+Printing variable values with each cycle of your loop by using console.log() can uncover buggy behavior related to resetting, or failing to reset a variable.
+
+* CODE ASSIGNMENT: The following function is supposed to create a two-dimensional array with m rows and n columns of zeroes. Unfortunately, it's not producing the expected output because the row variable isn't being reinitialized (set back to an empty array) in the outer loop. Fix the code so it returns a correct 3x2 array of zeroes, which looks like [[0, 0], [0, 0], [0, 0]].
 [My Code](#)
 
 ## 12. [Prevent Infinite Loops with a Valid Terminal Condition]()
