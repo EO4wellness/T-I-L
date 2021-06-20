@@ -195,9 +195,9 @@ Sometimes it's necessary to save information, increment counters, or re-set vari
 Printing variable values with each cycle of your loop by using console.log() can uncover buggy behavior related to resetting, or failing to reset a variable.
 
 * CODE ASSIGNMENT: The following function is supposed to create a two-dimensional array with m rows and n columns of zeroes. Unfortunately, it's not producing the expected output because the row variable isn't being reinitialized (set back to an empty array) in the outer loop. Fix the code so it returns a correct 3x2 array of zeroes, which looks like [[0, 0], [0, 0], [0, 0]].
-[My Code](#)
+[My Code](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-exercises/04.Debugging/11_use-caution-when-reinitializing-variables-inside-a-loop.js)
 
-## 12. [Prevent Infinite Loops with a Valid Terminal Condition]()
+## 12. [Prevent Infinite Loops with a Valid Terminal Condition](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/debugging/prevent-infinite-loops-with-a-valid-terminal-condition)
 * 
 * CODE ASSIGNMENT: 
 [My Code](#)
