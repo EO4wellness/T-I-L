@@ -96,11 +96,29 @@ One way to avoid this mistake is as soon as the opening character is typed, imme
 [My Code](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-exercises/04.Debugging/05_catch-unclosed-parentheses-brackets-braces-and-quotes.js)
 
 ## 06. [Catch Mixed Usage of Single and Double Quotes](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/debugging/catch-mixed-usage-of-single-and-double-quotes)
-* 
-* CODE ASSIGNMENT: 
-[My Code](#)
 
-## 07. [Catch Use of Assignment Operator Instead of Equality Operator]()
+JavaScript allows the use of both single (') and double (") quotes to declare a string. Deciding which one to use generally comes down to personal preference, with some exceptions.
+
+Having two choices is great when a string has contractions or another piece of text that's in quotes. Just be careful that you don't close the string too early, which causes a syntax error.
+
+Here are some examples of mixing quotes:
+```
+const grouchoContraction = "I've had a perfectly wonderful evening, but this wasn't it.";
+const quoteInString = "Groucho Marx once said 'Quote me as saying I was mis-quoted.'";
+const uhOhGroucho = 'I've had a perfectly wonderful evening, but this wasn't it.';
+```
+The first two are correct, but the third is incorrect.
+
+Of course, it is okay to use only one style of quotes. You can escape the quotes inside the string by using the backslash (\) escape character:
+```
+const allSameQuotes = 'I\'ve had a perfectly wonderful evening, but this wasn\'t it.';
+```
+
+* CODE ASSIGNMENT: Fix the string so it either uses different quotes for the href value, or escape the existing ones. Keep the double quote marks around the entire string.
+[My Code - Option 1](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-exercises/04.Debugging/06a_catch-mixed-usage-of-single-and-double-quotes.js) | 
+[My Code - Option 2](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-exercises/04.Debugging/06b_catch-mixed-usage-of-single-and-double-quotes.js)
+
+## 07. [Catch Use of Assignment Operator Instead of Equality Operator](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/debugging/catch-use-of-assignment-operator-instead-of-equality-operator)
 * 
 * CODE ASSIGNMENT: 
 [My Code](#)
