@@ -19,5 +19,6 @@ This is the area of AI/ML application, which interests me the most.
 
 
 # Papers
-[Log: AI/ML/NLP Papers](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/reading-study-resouces.md)
+* [Log: AI/ML/NLP Papers](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/reading-study-resouces.md)
+* [NLP Lessons](https://explosion.ai/blog/applied-nlp-thinking)
 
