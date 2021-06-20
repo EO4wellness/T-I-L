@@ -6,6 +6,7 @@ To use Python, you must first install it. I've had my download set up since 2019
 * [Python Download and Installation Instructions](https://www.python.org/downloads/)<br>
 * [Download Python for various OS](https://wiki.python.org/moin/BeginnersGuide/Download)<br>
 * [Anaconda](https://www.anaconda.com/products/individual)<br>
+* [Automation with Python](https://www.kdnuggets.com/2021/06/5-tasks-automate-python.html)
 * Windows 10 Installation: 
  - Type "Python" in the windows search window.  
  - It will take you to the windows 10 Python app store
