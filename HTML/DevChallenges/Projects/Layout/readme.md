@@ -6,3 +6,6 @@
 * [Template](https://codepen.io/pen?template=NWpJBGb)
 * GitHub [copy of Template](https://github.com/EO4wellness/T-I-L/blob/main/HTML/DevChallenges/Projects/Layout/starter-code.html)
 * [My Challenge Template/Entry on CodePen](https://codepen.io/eo4wellness/pen/bGqyqoa)
+
+
+Challange Tags: #cpc-magazine #codepenchallenge 
