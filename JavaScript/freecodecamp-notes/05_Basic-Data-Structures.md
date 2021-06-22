@@ -9,65 +9,156 @@
 * Began Course of study: 2021-06-21
 
 
-1. [Use an Array to Store a Collection of Data](#)
+1. [Use an Array to Store a Collection of Data](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/use-an-array-to-store-a-collection-of-data)
 
+
+The below is an example of the simplest implementation of an array data structure. This is known as a one-dimensional array, meaning it only has one level, or that it does not have any other arrays nested within it. Notice it contains booleans, strings, and numbers, among other valid JavaScript data types:
+```
+let simpleArray = ['one', 2, 'three', true, false, undefined, null];
+console.log(simpleArray.length);
+```
+The console.log call displays 7.
+
+All arrays have a length property, which as shown above, can be very easily accessed with the syntax Array.length. A more complex implementation of an array can be seen below. This is known as a multi-dimensional array, or an array that contains other arrays. Notice that this array also contains JavaScript objects, which we will examine very closely in our next section, but for now, all you need to know is that arrays are also capable of storing complex objects.
+```
+let complexArray = [
+  [
+    {
+      one: 1,
+      two: 2
+    },
+    {
+      three: 3,
+      four: 4
+    }
+  ],
+  [
+    {
+      a: "a",
+      b: "b"
+    },
+    {
+      c: "c",
+      d: "d"
+    }
+  ]
+];
+```
+
+CODE ASSIGNEMENT: We have defined a variable called yourArray. Complete the statement by assigning an array of at least 5 elements in length to the yourArray variable. Your array should contain at least one string, one number, and one boolean.
+[My Code](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-exercises/05.BasicDataStructures/01_use-an-array-to-store-a-collection-of-data.js)
 
 2. [Access an Array's Contents Using Bracket Notation](#)
 
+CODE ASSIGNEMENT: 
+[My Code]()
 
 3. [Add Items to an Array with push() and unshift()](#)
+
+CODE ASSIGNEMENT: 
+[My Code]()
 
 
 4. [Remove Items from an Array with pop() and shift()](#)
 
+CODE ASSIGNEMENT: 
+[My Code]()
+
 
 5. [Remove Items Using splice()](#)
+
+CODE ASSIGNEMENT: 
+[My Code]()
 
 
 6. [Add Items Using splice()](#)
 
+CODE ASSIGNEMENT: 
+[My Code]()
+
 
 7. [Copy Array Items Using slice()](#)
+
+CODE ASSIGNEMENT: 
+[My Code]()
 
 
 8. [Copy an Array with the Spread Operator](#)
 
+CODE ASSIGNEMENT: 
+[My Code]()
+
 
 9. [Combine Arrays with the Spread Operator](#)
+
+CODE ASSIGNEMENT: 
+[My Code]()
 
 
 10. [Check For The Presence of an Element With indexOf()](#)
 
+CODE ASSIGNEMENT: 
+[My Code]()
+
 
 11. [Iterate Through All an Array's Items Using For Loops](#)
+
+CODE ASSIGNEMENT: 
+[My Code]()
 
 
 12. [Create complex multi-dimensional arrays](#)
 
+CODE ASSIGNEMENT: 
+[My Code]()
+
 
 13. [Add Key-Value Pairs to JavaScript Objects](#)
+
+CODE ASSIGNEMENT: 
+[My Code]()
 
 
 14. [Modify an Object Nested Within an Object](#)
 
+CODE ASSIGNEMENT: 
+[My Code]()
+
 
 15. [Access Property Names with Bracket Notation](#)
+
+CODE ASSIGNEMENT: 
+[My Code]()
 
 
 16. [Use the delete Keyword to Remove Object Properties](#)
 
+CODE ASSIGNEMENT: 
+[My Code]()
+
 
 17. [Check if an Object has a Property](#)
+
+CODE ASSIGNEMENT: 
+[My Code]()
 
 
 18. [Iterate Through the Keys of an Object with a for...in Statement](#)
 
+CODE ASSIGNEMENT: 
+[My Code]()
 
-19. [Generate an Array of All Object Keys with Object.keys()
-Not Passed](#)
+
+19. [Generate an Array of All Object Keys with Object.keys(#)
+
+CODE ASSIGNEMENT: 
+[My Code]()
 
 
 20. [Modify an Array Stored in an Object](#)
+
+CODE ASSIGNEMENT: 
+[My Code]()
 
 
 Course Completion: ![Date of completion](#)
