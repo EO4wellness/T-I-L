@@ -2,6 +2,32 @@
 Almost no program can work properly without data. Python has a number of built-in data structures, which allow you to store, organize, and manage your data. In this course, we will learn about different Python Data Structures such as strings, lists, dictionaries, tuples, sets, and much more.
 
 ## Working with Strings 
+1.1 Data Structures 
+2.1 Strings 
+3.1 Accessing Strings 
+3.2 How Many Vowels? 
+4.1 String Operations 
+5.1 Manipulating strings 
+6.1 Module Quiz
+7.1 Code Project 
+Letter Frequency
+
+
+You are making a program to analyze text.
+Take the text as the first input and a letter as the second input, and output the frequency of that letter in the text as a whole percentage.
+
+Sample Input:
+hello
+l
+
+Sample Output:
+40
+
+The letter l appears 2 times in the text hello, which has 5 letters. So, the frequency would be (2/5)*100 = 40.
+Division result is a float. Use the int() function to convert the result to an integer.
+
+![code-project](https://github.com/EO4wellness/T-I-L/blob/main/python/SoloLearn/Images/code-1-data-structures_letter-frequency.jpg) 
+
 
 ## Lists 
 
