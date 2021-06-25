@@ -182,3 +182,13 @@ Applications
 Linked lists are useful when your data is linked. For example when you need undo/redo functionality, the nodes can represent the state with links to the previous and next states. Another example would be a playlist of music, where each clip is linked with the next one.
 Linked lists can also be used to create other data structures, such as stack, queues and graphs. 
 
+Quiz
+In a linked list, what should the last item's link point to? 
+
+Choices: 
+0  
+None  
+itself
+
+My Answer: None.
+
