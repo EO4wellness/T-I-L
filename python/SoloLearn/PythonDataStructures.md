@@ -192,3 +192,59 @@ itself
 
 My Answer: None.
 
+Linked List in Python  
+Each node will include data and the link to the next node.
+
+Let's start by creating the Node class:  
+``n
+class Node:
+  def __init__(self, data, next):
+    self.data = data
+    self.next = next 
+``` 
+Now we can create the LinkedList class with the corresponding methods:  
+```
+class LinkedList:
+  def __init__(self):
+    self.head = None
+    
+  def add_at_front(self, data):
+    self.head = Node(data, self.head)      
+
+  def add_at_end(self, data):
+    if not self.head:
+      self.head = Node(data, None)
+        return
+    curr = self.head
+return
+    curr = self.head
+    while curr.next:
+      curr = curr.next
+    curr.next = Node(data, None)
+
+  def get_last_node(self):
+    n = self.head
+    while(n.next != None):
+      n = n.next
+    return n.data
+
+  def print_list(self):
+    n = self.head
+    while n != None:
+      print(n.data, end = " => ")
+      n = n.next
+    print()  
+```
+  
+The add_at_front() method adds a new Node as the head of the list and links the previous head to it.
+The add_at_end() method iterates to the end of the list using a while loop and adds the new node as the link of the last node.  
+Run the code and see how it works!
+
+Quiz:
+Fill in the blanks to iterate over the linked list named myList and output the data of each node  
+```
+x = myList.  head  
+while   x != None:  
+  print(x.  data  )  
+  x = x.  next
+```
