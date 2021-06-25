@@ -124,6 +124,30 @@ CODE ASSIGNEMENT: We have defined a function, popShift, which takes an array as 
 
 5. [Remove Items Using splice()](#)
 
+ Remove Items Using
+ splice ( )
+ Ok, so we've learned how tc
+ remove elements from the
+ beginning and end of arrays
+ using shift ( ) and pop ( ) ,
+ but what if we want to
+ remove an element from
+ somewhere in the middle?
+ Or remove more than one
+ element at once? Well,
+ that'swhere spliceo
+ comes in. splice ( ) allows
+ us to do just that: remove
+ any number of consecutive
+ elements from anywhere in
+ an array.
+ splice( ) can take up to3
+ parameters, but for now,
+ we'll focus on just the first 2
+ The first two parameters of
+ splice ( ) are integers
+ which represent indexes, or
+ nnsitions. of the arrav that
 CODE ASSIGNEMENT: 
 [My Code]()
 
