@@ -85,5 +85,5 @@ There is no way to learn code other than getting experience coding.  Here are so
 
 ![SoloLearn Basic Python](https://www.sololearn.com/certificates/course/en/15619122/1157/landscape/png)
 
-
+![Sololearn Data Structures](https://github.com/EO4wellness/T-I-L/blob/main/python/SoloLearn/Images/cert-15619122-1159.png)
 
