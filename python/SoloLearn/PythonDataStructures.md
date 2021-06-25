@@ -203,7 +203,7 @@ class Node:
     self.next = next 
 ``` 
 Now we can create the LinkedList class with the corresponding methods:  
-```
+
 class LinkedList:
   def __init__(self):
     self.head = None
@@ -248,3 +248,149 @@ while   x != None:
   print(x.  data  )  
   x = x.  next
 ``` 
+
+## Graph
+Graphs are used to represent many real-life applications like networks, transportation paths of a city, and social network connections.
+
+A graph is a set of connected nodes where each node is called a Vertex and the connection between two of them is called an Edge.
+
+Here is an example graph:
+
+![contentImage](https://api.sololearn.com/DownloadFile?id=4552)
+
+This can represent, for example, connections on a social network, where each Vertex represents a person and the Edges represent connections.
+
+Quiz: Graph
+A node of a graph is called a:
+
+Choices: 
+- Circle
+- Vertex (my answer) 
+- Edge
+- Path
+
+Graph in Python
+A graph can be represented using a square matrix, where each element represents the edges: 0 indicates no edge, while 1 indicates an edge. The rows and columns represent the vertices.
+
+For example:
+```
+0 1 1
+
+1 0 0
+
+1 0 0
+```
+ 
+The matrix above represents a graph with 3 vertices (that's why it's a 3x3 matrix).
+The 1s represent the edges. There are 2 edges: the 1st vertex is connected with the 2nd and 3rd.
+There are four 1s in the matrix, because if A is connected with B, then B is connected to A.
+This type of matrix is called an adjacency matrix, because it shows if the corresponding vertices are adjacent or not.
+
+Quiz: 
+Graph in Python
+Consider a graph with 5 vertices.
+How many elements will the corresponding adjacency matrix contain?
+My Answer: 25 
+
+
+
+[Graph in Python](https://www.sololearn.com/learning/1159/4743/12180/1)
+
+
+Let's implement the Graph class: We store the matrix in a two-dimensional list, called adj.
+The __init__ method creates the adj matrix with the given size (number of vertices) and initializes all values to zeros.
+The add_edge() method is used to add an edge by setting the corresponding values to 1.
+Similarly, the remove_edge() method sets the values to 0.
+Run the code to see their implementation and the whole program in action!
+
+Quiz: 
+Graph in Python
+True or False: for any "x" and "y" in an adjacency matrix "m", m[x][y] == m[y][x] 
+False
+True (my answer) 
+
+End of Module Quiz: 
+
+1. You are using a stack to store numbers. Which number will be on top of the stack after the following actions:
+```
+push(8)
+
+push(1)
+
+pop()
+
+push(4)
+
+push(2)
+
+pop()
+
+pop()
+```
+My answer: 8 
+
+
+2. How many nodes are there in the following graph, which is represented as an adjacency matrix?
+
+```
+0100
+
+1000
+
+0001
+
+0010
+```
+My answer: 4 
+
+3. Drag and drop the behavior names to their corresponding data structures.
+
+Stack: LIFO
+Queue: FIFO
+
+
+4. You are given an adjacency matrix of a graph.
+
+
+
+How many edges does the first node have?
+```
+011
+100
+100
+```
+My answer: 2 
+
+End of Course Coding Assingment: 
+
+Balanced Parentheses
+
+
+Parentheses are balanced, if all opening parentheses have their corresponding closing parentheses.
+
+Given an expression as input, we need to find out whether the parentheses are balanced or not.
+For example, "(x+y)*(z-2*(6))" is balanced, while "7-(3(2*9))4) (1" is not balanced.
+
+The problem can be solved using a stack.
+Push each opening parenthesis to the stack and pop the last inserted opening parenthesis whenever a closing parenthesis is encountered.
+If the closing bracket does not correspond to the opening bracket, then stop and say that the brackets are not balanced.
+Also, after checking all the parentheses, we need to check the stack to be empty -- if it's not empty, then the parentheses are not balanced.
+
+Implement the balanced() function to return True if the parentheses in the given expression are balanced, and False if not.
+
+Sample Input:
+(a( ) eee) )
+
+Sample Output:
+False
+You can use a simple list for a stack. Use list.insert(0, item) to push on the stack, and list.pop(0) to pop the top item. You can access the top element of the stack using list[0].
+
+Given: 
+```
+def balanced(expression):
+    #your code goes here
+    
+
+print(balanced(input()))
+```
+
