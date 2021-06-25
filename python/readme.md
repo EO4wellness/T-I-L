@@ -58,6 +58,7 @@ Hello world!
 * [Free Code Camp Python Certification](https://www.freecodecamp.org/learn) and my [course notes from this resource](https://github.com/EO4wellness/T-I-L/tree/main/python/FreeCode-Camp)
 * https://renanmf.com/string-manipulation-in-python/
 * https://learn.datacamp.com/
+* [52 Weeks of Python](https://courses.davidbombal.com/courses/enrolled/1170936)
 
 # Python Reading: 
 * [File Extensions in Python-what do they all mean?](http://dcjtech.info/topic/python-file-extensions/)
