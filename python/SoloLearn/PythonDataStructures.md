@@ -394,3 +394,21 @@ def balanced(expression):
 print(balanced(input()))
 ```
 
+```
+def balanced(expression):
+    count = 0 
+    for char in expression:
+        if char == "(":
+            count += 1
+        elif char == ")":
+            if count == 0:
+                return False
+            count -= 1 
+    return count == 0
+
+print(balanced(input()))
+```
+
+![finished](https://github.com/EO4wellness/T-I-L/blob/main/python/SoloLearn/Images/2021-06-25-finished-SL-Python-Data-Structures.jpg)
+
+![certificate](https://www.sololearn.com/certificates/course/en/15619122/1159/landscape/png)
