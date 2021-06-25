@@ -119,7 +119,7 @@ greetings would have the value [], and popped would have the value hello.
 
 CODE ASSIGNEMENT: We have defined a function, popShift, which takes an array as an argument and returns a new array. Modify the function, using pop() and shift(), to remove the first and last elements of the argument array, and assign the removed elements to their corresponding variables, so that the returned array contains their values.
 
-[My Code]()
+[My Code](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-exercises/05.BasicDataStructures/04_remove-items-from-an-array-with-pop-and-shift.js)
 
 
 5. [Remove Items Using splice()](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/remove-items-using-splice)
