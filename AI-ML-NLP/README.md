@@ -8,6 +8,7 @@
 
 # NLP (Natural Laungage Processing)
 This is the area of AI/ML application, which interests me the most. 
+[Free Online NLP course](https://huggingface.co/course/chapter1)
 
 # Studies
 * This "T-I-L" repository is a chronical outlining my studies in various areas of tech, although I did also add some of my learning of various spoken/written human languages, to be able to more quickly come-up-to-speed learning MD and gaining enough experience in MD to really be able to properly put text on a page, the way I wanted to format it, without having to think much about the markdown "code" to do so.
