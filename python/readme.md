@@ -60,6 +60,7 @@ Hello world!
 * https://learn.datacamp.com/
 * [52 Weeks of Python](https://courses.davidbombal.com/courses/enrolled/1170936)
 * How to [Use Python for Data Visualization](https://www.analyticsvidhya.com/blog/2021/06/guide-to-data-visualization-with-python-part-1/)
+* Amazing!: [Data Visualization](https://www.kdnuggets.com/2021/06/create-interactive-3d-chart-share.html)
 * [color text](https://pythonawesome.com/print-text-color-and-text-format-on-term-with-python/)
 
 # Python Reading: 
