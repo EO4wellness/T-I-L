@@ -60,6 +60,7 @@ Hello world!
 * https://learn.datacamp.com/
 * [52 Weeks of Python](https://courses.davidbombal.com/courses/enrolled/1170936)
 * How to [Use Python for Data Visualization](https://www.analyticsvidhya.com/blog/2021/06/guide-to-data-visualization-with-python-part-1/)
+* [color text](https://pythonawesome.com/print-text-color-and-text-format-on-term-with-python/)
 
 # Python Reading: 
 * [File Extensions in Python-what do they all mean?](http://dcjtech.info/topic/python-file-extensions/)
