@@ -1,12 +1,12 @@
 # [jQuery](https://www.sololearn.com/learning/1082) 
 * SL Course: https://www.sololearn.com/learning/1082 
-* Code examples:
+* Code examples: https://github.com/EO4wellness/T-I-L/tree/main/JavaScript/frameworks/jQuery/code-snippets
 * jQuery traits: 
    - makes your websit4es more interactive
    - used to create effects and animations 
    - handling events 
    - plus more 
-* Begain study: 2021-06-26
+* Began study: 2021-06-26
 
 ## [Overview](https://www.sololearn.com/learning/1082/2782/5928/1) 
 1.1 What is jQuery
@@ -45,6 +45,9 @@ Quiz: Fill in the blanks to change the elements HTML to "Test" using pure JavaSc
 var e = document.getElementById('test');
  e  .innerHTML  =  "Test";
  ```
+ 
+[Lesson's Code](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/frameworks/jQuery/code-snippets/SL_1.1-code-example.js)
+
 
 2.1 [Getting Started](https://www.sololearn.com/learning/1082/2785/5935/1)
 
