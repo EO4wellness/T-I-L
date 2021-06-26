@@ -1,10 +1,11 @@
 # [jQuery](https://www.sololearn.com/learning/1082) 
 * SL Course: https://www.sololearn.com/learning/1082 
 * Code examples:
-* makes your websit4es more interactive
-* used to create effects and animations 
-* handling events 
-* + more 
+* jQuery traits: 
+   - makes your websit4es more interactive
+   - used to create effects and animations 
+   - handling events 
+   - plus more 
 * Begain study: 2021-06-26
 
 ## [Overview](https://www.sololearn.com/learning/1082/2782/5928/1) 
