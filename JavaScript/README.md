@@ -1,6 +1,6 @@
 # JavaScript
 * An outline of my journey to learn JavaScript 
-* [READING:](https://dev.to/axlyaguana11/concepts-you-need-to-know-if-you-are-a-javascript-beginner-5am0?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email) 
+* READING: [Beginner JavaScript](https://dev.to/axlyaguana11/concepts-you-need-to-know-if-you-are-a-javascript-beginner-5am0) | [Basic Big Picture Overview](https://medium.com/geekculture/all-you-need-to-know-about-javascript-143fba311477)
 
 ## Learning Resources 
 ### FreeCode Camp - Introduction to JavaScript
