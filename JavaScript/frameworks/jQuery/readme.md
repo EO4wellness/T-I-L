@@ -1,7 +1,7 @@
 # jQuery
+* "Write less, do more" 
 * JS framework
 * quick library 
-* "Write less, do more" 
 * [jQuery website](https://jquery.com/)
 * [jQuery Mobile Website](https://jquerymobile.com/)
 * [jQuery User Interface](https://jqueryui.com/)
@@ -14,6 +14,7 @@
 * [W3 Schools Tutorial](https://www.w3schools.com/jquERy/default.asp)
 * [Edureka! YouTube Video Course](https://www.youtube.com/watch?v=HgvIox6ehkM)
 * [jQuery Cheatsheet-Beauty!](https://oscarotero.com/jquery/)
+* [Help Forum](https://forum.jquery.com/)
 
 ## Reading: 
 * [You Might Not Need jQuery](http://youmightnotneedjquery.com/)
