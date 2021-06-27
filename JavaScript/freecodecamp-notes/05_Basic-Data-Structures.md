@@ -171,13 +171,37 @@ CODE ASSIGNEMENT: We have defined a function, htmlColorNames, which takes an arr
 
 7. [Copy Array Items Using slice()](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/copy-array-items-using-slice)
 
-CODE ASSIGNEMENT: 
+
+The next method we will cover is slice(). Rather than modifying an array, slice() copies or extracts a given number of elements to a new array, leaving the array it is called upon untouched. slice() takes only 2 parameters — the first is the index at which to begin extraction, and the second is the index at which to stop extraction (extraction will occur up to, but not including the element at this index). Consider this:
+
+let weatherConditions = ['rain', 'snow', 'sleet', 'hail', 'clear'];
+
+let todaysWeather = weatherConditions.slice(1, 3);
+
+todaysWeather would have the value ['snow', 'sleet'], while weatherConditions would still have ['rain', 'snow', 'sleet', 'hail', 'clear'].
+
+In effect, we have created a new array by extracting elements from an existing array.
+
+
+CODE ASSIGNEMENT: We have defined a function, forecast, that takes an array as an argument. Modify the function using slice() to extract information from the argument array and return a new array that contains the string elements warm and sunny.
+
 [My Code]()
 
 
-8. [Copy an Array with the Spread Operator](#)
+8. [Copy an Array with the Spread Operator](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/copy-an-array-with-the-spread-operator)
 
-CODE ASSIGNEMENT: 
+
+
+While slice() allows us to be selective about what elements of an array to copy, among several other useful tasks, ES6's new spread operator allows us to easily copy all of an array's elements, in order, with a simple and highly readable syntax. The spread syntax simply looks like this: ...
+
+In practice, we can use the spread operator to copy an array like so:
+
+let thisArray = [true, true, undefined, false, null];
+let thatArray = [...thisArray];
+
+thatArray equals [true, true, undefined, false, null]. thisArray remains unchanged and thatArray contains the same elements as thisArray.
+
+CODE ASSIGNEMENT: We have defined a function, copyMachine which takes arr (an array) and num (a number) as arguments. The function is supposed to return a new array made up of num copies of arr. We have done most of the work for you, but it doesn't work quite right yet. Modify the function using spread syntax so that it works correctly (hint: another method we have already covered might come in handy here!).
 [My Code]()
 
 
