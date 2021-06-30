@@ -18,7 +18,7 @@ Example:
 this is from the [savynick YouTube video](https://youtu.be/JbMgOKlj5fE)
 
 GUI SSH SHELL for WINDOWS:
-- PuTTY
+- [PuTTY](https://youtu.be/pWDHUlvcAsg)
 - ZOC 
 - SecureCRT
 - Tera Term 
@@ -26,3 +26,21 @@ GUI SSH SHELL for WINDOWS:
 - xterm 
 
 ![logos](#)
+
+### Setup Step 
+(done once--then it is always available)
+1. Windows Key 
+2. Type Manage Optional Features 
+3. + Add a Feature 
+4. OpenSSH Client 
+5. Enter 
+
+tip: nothing happens on screen. 
+to verify you've installed this feature: 
+1. Windows key 
+2. Type Manage Optional Features.
+3. Locate OpenSSH Client in the list of installed features. 
+4. It is now ready to use in the steps outlined above. 
+
+# BASH
+[8 Video Series](https://www.youtube.com/watch?v=eH8Z9zeywq0&list=RDCMUCTfabOKD7Yty6sDF4POBVqA&start_radio=1)
