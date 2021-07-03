@@ -279,15 +279,48 @@ CODE ASSIGNEMENT:
 [My Code]()
 
 
-14. [Modify an Object Nested Within an Object](#)
+14. [Modify an Object Nested Within an Object](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/modify-an-object-nested-within-an-object)
 
-CODE ASSIGNEMENT: 
+
+Now let's take a look at a slightly more complex object. Object properties can be nested to an arbitrary depth, and their values can be any type of data supported by JavaScript, including arrays and even other objects. Consider the following:
+```
+let nestedObject = {
+  id: 28802695164,
+  date: 'December 31, 2016',
+  data: {
+    totalUsers: 99,
+    online: 80,
+    onlineStatus: {
+      active: 67,
+      away: 13,
+      busy: 8
+    }
+  }
+};
+```
+nestedObject has three properties: id (value is a number), date (value is a string), and data (value is an object with its nested structure). While structures can quickly become complex, we can still use the same notations to access the information we need. To assign the value 10 to the busy property of the nested onlineStatus object, we use dot notation to reference the property:
+```
+nestedObject.data.onlineStatus.busy = 10;
+```
+
+
+CODE ASSIGNEMENT: Here we've defined an object userActivity, which includes another object nested within it. Set the value of the online key to 45.
+
 [My Code]()
 
 
-15. [Access Property Names with Bracket Notation](#)
+15. [Access Property Names with Bracket Notation](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/access-property-names-with-bracket-notation)
 
-CODE ASSIGNEMENT: 
+
+In the first object challenge we mentioned the use of bracket notation as a way to access property values using the evaluation of a variable. For instance, imagine that our foods object is being used in a program for a supermarket cash register. We have some function that sets the selectedFood and we want to check our foods object for the presence of that food. This might look like:
+```
+let selectedFood = getCurrentFood(scannedItem);
+let inventory = foods[selectedFood];
+```
+This code will evaluate the value stored in the selectedFood variable and return the value of that key in the foods object, or undefined if it is not present. Bracket notation is very useful because sometimes object properties are not known before runtime or we need to access them in a more dynamic way.
+
+CODE ASSIGNEMENT: We've defined a function, checkInventory, which receives a scanned item as an argument. Return the current value of the scannedItem key in the foods object. You can assume that only valid keys will be provided as an argument to checkInventory.
+
 [My Code]()
 
 
