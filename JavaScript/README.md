@@ -9,6 +9,7 @@
  - [link to my course coding solutions](https://github.com/EO4wellness/T-I-L/tree/main/JavaScript/freecodecamp-exercises)
  - [course projects](https://github.com/EO4wellness/T-I-L/tree/main/JavaScript/freecodecamp-exercises/10.JavaScriptAlgorithmsDataStructureProjects)
  - [RegEx Cheat Sheet](https://code.tutsplus.com/tutorials/a-simple-regex-cheat-sheet--cms-31278)
+ - [70 places to learn JS for free](https://devdojo.com/shreya/learn-javascript)
 
 
 ### W3Schools
