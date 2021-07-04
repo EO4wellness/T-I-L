@@ -218,7 +218,7 @@ Using spread syntax, we have just achieved an operation that would have been mor
 
 CODE ASSIGNEMENT: We have defined a function spreadOut that returns the variable sentence. Modify the function using the spread operator so that it returns the array ['learning', 'to', 'code', 'is', 'fun'].
 
-[My Code]()
+[My Code](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-exercises/05.BasicDataStructures/09_combine-arrays-with-the-spread-operator.js)
 
 
 10. [Check For The Presence of an Element With indexOf()](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/check-for-the-presence-of-an-element-with-indexof)
@@ -237,7 +237,7 @@ indexOf('dates') returns -1, indexOf('oranges') returns 2, and indexOf('pears') 
 
 CODE ASSIGNEMENT: indexOf() can be incredibly useful for quickly checking for the presence of an element on an array. We have defined a function, quickCheck, that takes an array and an element as arguments. Modify the function using indexOf() so that it returns true if the passed element exists on the array, and false if it does not.
 
-[My Code]()
+[My Code](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-exercises/05.BasicDataStructures/10_check-for-the-presence-of-an-element-with-indexof.js)
 
 
 11. [Iterate Through All an Array's Items Using For Loops](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/iterate-through-all-an-arrays-items-using-for-loops)
@@ -264,19 +264,19 @@ Using a for loop, this function iterates through and accesses each element of th
 
 
 CODE ASSIGNEMENT: We have defined a function, filteredArray, which takes arr, a nested array, and elem as arguments, and returns a new array. elem represents an element that may or may not be present on one or more of the arrays nested within arr. Modify the function, using a for loop, to return a filtered version of the passed array such that any array nested within arr containing elem has been removed.
-[My Code]()
+[My Code](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-exercises/05.BasicDataStructures/11_iterate-through-all-an-arrays-items-using-for-loops.js)
 
 
 12. [Create complex multi-dimensional arrays](#)
 
 CODE ASSIGNEMENT: 
-[My Code]()
+[My Code](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-exercises/05.BasicDataStructures/12_create-complex-multi-dimensional-arrays.js)
 
 
 13. [Add Key-Value Pairs to JavaScript Objects](#)
 
 CODE ASSIGNEMENT: 
-[My Code]()
+[My Code](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-exercises/05.BasicDataStructures/13_add-key-value-pairs-to-javascript-objects.js)
 
 
 14. [Modify an Object Nested Within an Object](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/modify-an-object-nested-within-an-object)
@@ -306,7 +306,7 @@ nestedObject.data.onlineStatus.busy = 10;
 
 CODE ASSIGNEMENT: Here we've defined an object userActivity, which includes another object nested within it. Set the value of the online key to 45.
 
-[My Code]()
+[My Code](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-exercises/05.BasicDataStructures/14_modify-an-object-nested-within-an-object.js)
 
 
 15. [Access Property Names with Bracket Notation](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/access-property-names-with-bracket-notation)
@@ -336,7 +336,7 @@ Let's revisit our foods object example one last time. If we wanted to remove the
 delete foods.apples;
 ```
 CODE ASSIGNEMENT: Use the delete keyword to remove the oranges, plums, and strawberries keys from the foods object.
-[My Code]()
+[My Code](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-exercises/05.BasicDataStructures/16_use-the-delete-keyword-to-remove-object-properties.js)
 
 
 17. [Check if an Object has a Property](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/check-if-an-object-has-a-property)
@@ -350,7 +350,7 @@ users.hasOwnProperty('Alan');
 Both of these would return true.
 
 CODE ASSIGNEMENT: Finish writing the function so that it returns true if the object passed to it contains all four names, Alan, Jeff, Sarah and Ryan and returns false otherwise.
-[My Code]()
+[My Code](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-exercises/05.BasicDataStructures/17_check-if-an-object-has-a-property.js)
 
 
 18. [Iterate Through the Keys of an Object with a for...in Statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/iterate-through-the-keys-of-an-object-with-a-for---in-statement)
