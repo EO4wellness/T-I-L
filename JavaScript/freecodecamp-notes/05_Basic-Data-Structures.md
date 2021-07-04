@@ -321,7 +321,7 @@ This code will evaluate the value stored in the selectedFood variable and return
 
 CODE ASSIGNEMENT: We've defined a function, checkInventory, which receives a scanned item as an argument. Return the current value of the scannedItem key in the foods object. You can assume that only valid keys will be provided as an argument to checkInventory.
 
-[My Code]()
+[My Code](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-exercises/05.BasicDataStructures/15_access-property-names-with-bracket-notation.js)
 
 
 16. [Use the delete Keyword to Remove Object Properties](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/use-the-delete-keyword-to-remove-object-properties)
