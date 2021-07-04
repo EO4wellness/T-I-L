@@ -324,19 +324,36 @@ CODE ASSIGNEMENT: We've defined a function, checkInventory, which receives a sca
 [My Code]()
 
 
-16. [Use the delete Keyword to Remove Object Properties](#)
+16. [Use the delete Keyword to Remove Object Properties](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/use-the-delete-keyword-to-remove-object-properties)
 
-CODE ASSIGNEMENT: 
+
+Now you know what objects are and their basic features and advantages. In short, they are key-value stores which provide a flexible, intuitive way to structure data, and, they provide very fast lookup time. Throughout the rest of these challenges, we will describe several common operations you can perform on objects so you can become comfortable applying these useful data structures in your programs.
+
+In earlier challenges, we have both added to and modified an object's key-value pairs. Here we will see how we can remove a key-value pair from an object.
+
+Let's revisit our foods object example one last time. If we wanted to remove the apples key, we can remove it by using the delete keyword like this:
+```
+delete foods.apples;
+```
+CODE ASSIGNEMENT: Use the delete keyword to remove the oranges, plums, and strawberries keys from the foods object.
 [My Code]()
 
 
-17. [Check if an Object has a Property](#)
+17. [Check if an Object has a Property](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/check-if-an-object-has-a-property)
 
-CODE ASSIGNEMENT: 
+
+Now we can add, modify, and remove keys from objects. But what if we just wanted to know if an object has a specific property? JavaScript provides us with two different ways to do this. One uses the hasOwnProperty() method and the other uses the in keyword. If we have an object users with a property of Alan, we could check for its presence in either of the following ways:
+
+users.hasOwnProperty('Alan');
+'Alan' in users;
+
+Both of these would return true.
+
+CODE ASSIGNEMENT: Finish writing the function so that it returns true if the object passed to it contains all four names, Alan, Jeff, Sarah and Ryan and returns false otherwise.
 [My Code]()
 
 
-18. [Iterate Through the Keys of an Object with a for...in Statement](#)
+18. [Iterate Through the Keys of an Object with a for...in Statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/iterate-through-the-keys-of-an-object-with-a-for---in-statement)
 
 CODE ASSIGNEMENT: 
 [My Code]()
