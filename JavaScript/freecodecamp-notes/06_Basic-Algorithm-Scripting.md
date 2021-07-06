@@ -67,53 +67,95 @@ This challenge can be solved with the .endsWith() method, which was introduced i
 [My Code - Example 3](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-exercises/06.BasicAlgorithmScripting/06_c_confirm-the-ending.js)
 
 
-# [07- ]()
-CODE CHALLENGE: 
+# [07-Repeat a String Repeat a String](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/repeat-a-string-repeat-a-string)
+CODE CHALLENGE: Repeat a given string ```str``` (first argument) for ```num``` times (second argument). Return an empty string if ```num``` is not a positive number. For the purpose of this challenge, do not use the built-in ```.repeat()``` method.
 [My Code](#)
 
 
-# [08- ]()
-CODE CHALLENGE: 
+# [08-Truncate a String](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/truncate-a-string)
+CODE CHALLENGE: Truncate a string (first argument) if it is longer than the given maximum string length (second argument). Return the truncated string with a ... ending.
 [My Code](#)
 
 
-# [09- ]()
-CODE CHALLENGE: 
+# [09-Finders Keepers](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/finders-keepers)
+CODE CHALLENGE: Create a function that looks through an array arr and returns the first element in it that passes a 'truth test'. This means that given an element x, the 'truth test' is passed if func(x) is true. If no element passes the test, return undefined.
 [My Code](#)
 
 
-# [10- ]()
+# [10-Boo who](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/boo-who)
 CODE CHALLENGE: 
+
+Check if a value is classified as a boolean primitive. Return true or false.
+
+Boolean primitives are true and false.
+
 [My Code](#)
 
 
-# [11- ]()
+# [11-Title Case a Sentence](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/title-case-a-sentence)
 CODE CHALLENGE: 
+
+Return the provided string with the first letter of each word capitalized. Make sure the rest of the word is in lower case.
+
+For the purpose of this exercise, you should also capitalize connecting words like the and of.
+
 [My Code](#)
 
 
-# [12- ]()
+# [12-Slice and Splice](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/slice-and-splice)
 CODE CHALLENGE: 
+
+You are given two arrays and an index.
+
+Copy each element of the first array into the second array, in order.
+
+Begin inserting elements at index n of the second array.
+
+Return the resulting array. The input arrays should remain the same after the function runs.
+
 [My Code](#)
 
 
-# [13- ]()
+# [13-Falsy Bouncer](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/falsy-bouncer)
 CODE CHALLENGE: 
+
+Remove all falsy values from an array.
+
+Falsy values in JavaScript are false, null, 0, "", undefined, and NaN.
+
+Hint: Try converting each value to a Boolean.
+
 [My Code](#)
 
 
-# [14- ]()
+# [14-Where do I Belong](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/where-do-i-belong)
 CODE CHALLENGE: 
+
+Return the lowest index at which a value (second argument) should be inserted into an array (first argument) once it has been sorted. The returned value should be a number.
+
+For example, getIndexToIns([1,2,3,4], 1.5) should return 1 because it is greater than 1 (index 0), but less than 2 (index 1).
+
+Likewise, getIndexToIns([20,3,5], 19) should return 2 because once the array has been sorted it will look like [3,5,20] and 19 is less than 20 (index 2) and greater than 5 (index 1).
+
 [My Code](#)
 
 
-# [15- ]()
+# [15-Mutations](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/mutations)
 CODE CHALLENGE: 
+
+Return true if the string in the first element of the array contains all of the letters of the string in the second element of the array.
+
+For example, ["hello", "Hello"], should return true because all of the letters in the second string are present in the first, ignoring case.
+
+The arguments ["hello", "hey"] should return false because the string hello does not contain a y.
+
+Lastly, ["Alien", "line"], should return true because all of the letters in line are present in Alien.
+
 [My Code](#)
 
 
-# [16- ]()
-CODE CHALLENGE: 
+# [16-Chunky Monkey](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/chunky-monkey)
+CODE CHALLENGE: Write a function that splits an array (first argument) into groups the length of size (second argument) and returns them as a two-dimensional array.
 [My Code](#)
 
 	
