@@ -69,12 +69,12 @@ This challenge can be solved with the .endsWith() method, which was introduced i
 
 # [07-Repeat a String Repeat a String](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/repeat-a-string-repeat-a-string)
 CODE CHALLENGE: Repeat a given string ```str``` (first argument) for ```num``` times (second argument). Return an empty string if ```num``` is not a positive number. For the purpose of this challenge, do not use the built-in ```.repeat()``` method.
-[My Code](#)
+[My Code](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-exercises/06.BasicAlgorithmScripting/07_repeat-a-string-repeat-a-string.js)
 
 
 # [08-Truncate a String](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/truncate-a-string)
 CODE CHALLENGE: Truncate a string (first argument) if it is longer than the given maximum string length (second argument). Return the truncated string with a ... ending.
-[My Code](#)
+[My Code](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-exercises/06.BasicAlgorithmScripting/08_truncate-a-string.js)
 
 
 # [09-Finders Keepers](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/finders-keepers)
