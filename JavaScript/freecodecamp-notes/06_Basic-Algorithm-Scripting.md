@@ -99,7 +99,7 @@ Return the provided string with the first letter of each word capitalized. Make 
 
 For the purpose of this exercise, you should also capitalize connecting words like the and of.
 
-[My Code](#)
+[My Code](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-exercises/06.BasicAlgorithmScripting/11_title-case-a-sentence.js)
 
 
 # [12-Slice and Splice](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/slice-and-splice)
