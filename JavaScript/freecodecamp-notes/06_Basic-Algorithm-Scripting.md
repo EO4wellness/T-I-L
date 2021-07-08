@@ -89,7 +89,7 @@ Check if a value is classified as a boolean primitive. Return true or false.
 
 Boolean primitives are true and false.
 
-[My Code](#)
+[My Code](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-exercises/06.BasicAlgorithmScripting/10_boo-who.js)
 
 
 # [11-Title Case a Sentence](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/title-case-a-sentence)
