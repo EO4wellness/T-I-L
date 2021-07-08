@@ -79,7 +79,7 @@ CODE CHALLENGE: Truncate a string (first argument) if it is longer than the give
 
 # [09-Finders Keepers](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/finders-keepers)
 CODE CHALLENGE: Create a function that looks through an array arr and returns the first element in it that passes a 'truth test'. This means that given an element x, the 'truth test' is passed if func(x) is true. If no element passes the test, return undefined.
-[My Code](#)
+[My Code](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-exercises/06.BasicAlgorithmScripting/09_finders-keepers.js)
 
 
 # [10-Boo who](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/boo-who)
