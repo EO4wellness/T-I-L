@@ -79,7 +79,7 @@ CODE CHALLENGE: Truncate a string (first argument) if it is longer than the give
 
 # [09-Finders Keepers](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/finders-keepers)
 CODE CHALLENGE: Create a function that looks through an array arr and returns the first element in it that passes a 'truth test'. This means that given an element x, the 'truth test' is passed if func(x) is true. If no element passes the test, return undefined.
-[My Code](#)
+[My Code](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-exercises/06.BasicAlgorithmScripting/09_finders-keepers.js)
 
 
 # [10-Boo who](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/boo-who)
@@ -89,7 +89,7 @@ Check if a value is classified as a boolean primitive. Return true or false.
 
 Boolean primitives are true and false.
 
-[My Code](#)
+[My Code](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-exercises/06.BasicAlgorithmScripting/10_boo-who.js)
 
 
 # [11-Title Case a Sentence](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/title-case-a-sentence)
@@ -99,7 +99,7 @@ Return the provided string with the first letter of each word capitalized. Make 
 
 For the purpose of this exercise, you should also capitalize connecting words like the and of.
 
-[My Code](#)
+[My Code](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-exercises/06.BasicAlgorithmScripting/11_title-case-a-sentence.js)
 
 
 # [12-Slice and Splice](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/slice-and-splice)
@@ -113,7 +113,7 @@ Begin inserting elements at index n of the second array.
 
 Return the resulting array. The input arrays should remain the same after the function runs.
 
-[My Code](#)
+[My Code](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-exercises/06.BasicAlgorithmScripting/12_slice-and-splice.js)
 
 
 # [13-Falsy Bouncer](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/falsy-bouncer)
@@ -125,7 +125,7 @@ Falsy values in JavaScript are false, null, 0, "", undefined, and NaN.
 
 Hint: Try converting each value to a Boolean.
 
-[My Code](#)
+[My Code](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-exercises/06.BasicAlgorithmScripting/13_falsy-bouncer.js)
 
 
 # [14-Where do I Belong](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/where-do-i-belong)
@@ -137,7 +137,7 @@ For example, getIndexToIns([1,2,3,4], 1.5) should return 1 because it is greater
 
 Likewise, getIndexToIns([20,3,5], 19) should return 2 because once the array has been sorted it will look like [3,5,20] and 19 is less than 20 (index 2) and greater than 5 (index 1).
 
-[My Code](#)
+[My Code](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-exercises/06.BasicAlgorithmScripting/14_where-do-i-belong.js)
 
 
 # [15-Mutations](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/mutations)
@@ -151,12 +151,16 @@ The arguments ["hello", "hey"] should return false because the string hello does
 
 Lastly, ["Alien", "line"], should return true because all of the letters in line are present in Alien.
 
-[My Code](#)
+[My Code](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-exercises/06.BasicAlgorithmScripting/15_mutations.js)
 
 
 # [16-Chunky Monkey](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/chunky-monkey)
 CODE CHALLENGE: Write a function that splits an array (first argument) into groups the length of size (second argument) and returns them as a two-dimensional array.
-[My Code](#)
+[My Code](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-exercises/06.BasicAlgorithmScripting/16_chunky-monkey.js)
+
+![Finished-Study-of-Section](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/Images/2021-07-09-FINISHED-fcc-js-section.jpg)
+
+![section-completed](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/Images/2021-07-09_fcc-js-basic-algorithms-completed.jpg)
 
 	
 Nav: [Basic JavaScript](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/01_Basic-JavaScript.md) | [ES6](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/02_ES6.md) | [Regular Expressions](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/03_Regular-Expressions.md) |  [Debugging](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/04_Debugging.md) | [Basic Data Structures](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/05_Basic-Data-Structures.md) | [Basic Algorithm Scripting](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/06_Basic-Algorithm-Scripting.md) |  [Object Oriented Programming](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/07_Object-Oriented-Programming.md) | [Functional Porgramming](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/08_Functional-Porgramming.md) | [Intermediate algorithm Scripting](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/09_Intermediate-Algorithm-Scripting.md) | [JavaScript Algorithms and Data Structures Projects](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/10_JavaScript-Algorithms-and-Data-Structures-Projects.md)
