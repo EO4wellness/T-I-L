@@ -4,19 +4,51 @@ OOP, or Object Oriented Programming, is one of the major approaches to the softw
 In this course, you'll learn the basic principles of OOP in JavaScript including the ```this``` keyword, prototype chains, constructors, and inheritance.
 
 
-## 01 [Create a Basic JavaScript Object](#) 
+## 01 [Create a Basic JavaScript Object](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/create-a-basic-javascript-object) 
+
 Notes:
-Code Assignement: 
-[My Code](#)
+
+Think about things people see every day, like cars, shops, and birds. These are all objects: tangible things people can observe and interact with.
+
+What are some qualities of these objects? A car has wheels. Shops sell items. Birds have wings.
+
+These qualities, or properties, define what makes up an object. Note that similar objects share the same properties, but may have different values for those properties. For example, all cars have wheels, but not all cars have the same number of wheels.
+
+Objects in JavaScript are used to model real-world objects, giving them properties and behavior just like their real-world counterparts. Here's an example using these concepts to create a duck object:
+
+let duck = {
+  name: "Aflac",
+  numLegs: 2
+};
+
+This duck object has two property/value pairs: a name of Aflac and a numLegs of 2.
+
+Code Assignement: Create a dog object with name and numLegs properties, and set them to a string and a number, respectively. 
+
+[My Code](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-exercises/07.ObjectOrientedProgramming/01_create-a-basic-javascript-object.js)
 
 
-## 02 [Use Dot Notation to Access the Properties of an Object](#) 
-Notes:
-Code Assignement: 
-[My Code](#)
+## 02 [Use Dot Notation to Access the Properties of an Object](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/use-dot-notation-to-access-the-properties-of-an-object) 
+
+Notes: 
+
+The last challenge created an object with various properties. Now you'll see how to access the values of those properties. Here's an example:
+
+let duck = {
+  name: "Aflac",
+  numLegs: 2
+};
+console.log(duck.name);
+
+Dot notation is used on the object name, duck, followed by the name of the property, name, to access the value of Aflac.
 
 
-## 03 [Create a Method on an Object](#) 
+Code Assignement:  Print both properties of the dog object to your console.
+
+[My Code](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-exercises/07.ObjectOrientedProgramming/02_use-dot-notation-to-access-the-properties-of-an-object.js)
+
+
+## 03 [Create a Method on an Object](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/create-a-method-on-an-object) 
 Notes:
 Code Assignement: 
 [My Code](#)
