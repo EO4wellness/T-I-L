@@ -49,18 +49,53 @@ Code Assignement:  Print both properties of the dog object to your console.
 
 
 ## 03 [Create a Method on an Object](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/create-a-method-on-an-object) 
+
 Notes:
-Code Assignement: 
-[My Code](#)
+Objects can have a special type of property, called a method.
+
+Methods are properties that are functions. This adds different behavior to an object. Here is the duck example with a method:
+```
+let duck = {
+  name: "Aflac",
+  numLegs: 2,
+  sayName: function() {return "The name of this duck is " + duck.name + ".";}
+};
+duck.sayName();
+```
+The example adds the sayName method, which is a function that returns a sentence giving the name of the duck. Notice that the method accessed the name property in the return statement using duck.name. The next challenge will cover another way to do this.
+
+Code Assignement: Using the dog object, give it a method called sayLegs. The method should return the sentence This dog has 4 legs.
+
+[My Code](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-exercises/07.ObjectOrientedProgramming/03_create-a-method-on-an-object.js)
 
 
-## 04 [Make Code More Reusable with the this Keyword](#) 
-Notes:
-Code Assignement: 
-[My Code](#)
+## 04 [Make Code More Reusable with the this Keyword](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/make-code-more-reusable-with-the-this-keyword)
+
+Notes: 
+
+The last challenge introduced a method to the duck object. It used duck.name dot notation to access the value for the name property within the return statement:
+```
+sayName: function() {return "The name of this duck is " + duck.name + ".";}
+```
+While this is a valid way to access the object's property, there is a pitfall here. If the variable name changes, any code referencing the original name would need to be updated as well. In a short object definition, it isn't a problem, but if an object has many references to its properties there is a greater chance for error.
+
+A way to avoid these issues is with the this keyword:
+```
+let duck = {
+  name: "Aflac",
+  numLegs: 2,
+  sayName: function() {return "The name of this duck is " + this.name + ".";}
+};
+```
+this is a deep topic, and the above example is only one way to use it. In the current context, this refers to the object that the method is associated with: duck. If the object's name is changed to mallard, it is not necessary to find all the references to duck in the code. It makes the code reusable and easier to read.
+
+Code Assignement: Modify the dog.sayLegs method to remove any references to dog. Use the duck example for guidance.
+
+[My Code](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-exercises/07.ObjectOrientedProgramming/04_make-code-more-reusable-with-the-this-keyword.js)
 
 
-## 05 [Define a Constructor Function](#) 
+## 05 [Define a Constructor Function](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/define-a-constructor-function) 
+
 Notes:
 Code Assignement: 
 [My Code](#)
