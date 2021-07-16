@@ -96,15 +96,33 @@ Code Assignement: Modify the dog.sayLegs method to remove any references to dog.
 
 ## 05 [Define a Constructor Function](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/define-a-constructor-function) 
 
-Notes:
-Code Assignement: 
-[My Code](#)
+Notes: Constructors are functions that create new objects. 
+They define properties and behaviors that will belong to the new object. 
+Think of them as a blueprint for the creation of new objects.
+
+Here is an example of a constructor:
+```
+function Bird() {
+  this.name = "Albert";
+  this.color = "blue";
+  this.numLegs = 2;
+}
+```
+This constructor defines a Bird object with properties name, color, and numLegs set to Albert, blue, and 2, respectively. Constructors follow a few conventions:
+
+    Constructors are defined with a capitalized name to distinguish them from other functions that are not constructors.
+    Constructors use the keyword this to set properties of the object they will create. Inside the constructor, this refers to the new object it will create.
+    Constructors define properties and behaviors instead of returning a value as other functions might.
+
+
+Code Assignement: Create a constructor, Dog, with properties name, color, and numLegs that are set to a string, a string, and a number, respectively.
+[My Code](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-exercises/07.ObjectOrientedProgramming/05_define-a-constructor-function.js)
 
 
 ## 06 [Use a Constructor to Create Objects](#) 
 Notes:
 Code Assignement: 
-[My Code](#)
+[My Code]()
 
 
 ## 07 [Extend Constructors to Receive Arguments](#) 
