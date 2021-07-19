@@ -6,21 +6,19 @@ In this course, you'll learn the basic principles of OOP in JavaScript including
 
 ## 01 [Create a Basic JavaScript Object](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/create-a-basic-javascript-object) 
 
-Notes:
-
-Think about things people see every day, like cars, shops, and birds. These are all objects: tangible things people can observe and interact with.
+Notes: Think about things people see every day, like cars, shops, and birds. These are all objects: tangible things people can observe and interact with.
 
 What are some qualities of these objects? A car has wheels. Shops sell items. Birds have wings.
 
 These qualities, or properties, define what makes up an object. Note that similar objects share the same properties, but may have different values for those properties. For example, all cars have wheels, but not all cars have the same number of wheels.
 
 Objects in JavaScript are used to model real-world objects, giving them properties and behavior just like their real-world counterparts. Here's an example using these concepts to create a duck object:
-
+```
 let duck = {
   name: "Aflac",
   numLegs: 2
 };
-
+```
 This duck object has two property/value pairs: a name of Aflac and a numLegs of 2.
 
 Code Assignement: Create a dog object with name and numLegs properties, and set them to a string and a number, respectively. 
@@ -30,16 +28,14 @@ Code Assignement: Create a dog object with name and numLegs properties, and set 
 
 ## 02 [Use Dot Notation to Access the Properties of an Object](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/use-dot-notation-to-access-the-properties-of-an-object) 
 
-Notes: 
-
-The last challenge created an object with various properties. Now you'll see how to access the values of those properties. Here's an example:
-
+Notes: The last challenge created an object with various properties. Now you'll see how to access the values of those properties. Here's an example:
+``
 let duck = {
   name: "Aflac",
   numLegs: 2
 };
 console.log(duck.name);
-
+``
 Dot notation is used on the object name, duck, followed by the name of the property, name, to access the value of Aflac.
 
 
@@ -50,8 +46,7 @@ Code Assignement:  Print both properties of the dog object to your console.
 
 ## 03 [Create a Method on an Object](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/create-a-method-on-an-object) 
 
-Notes:
-Objects can have a special type of property, called a method.
+Notes:  Objects can have a special type of property, called a method.
 
 Methods are properties that are functions. This adds different behavior to an object. Here is the duck example with a method:
 ```
@@ -71,9 +66,7 @@ Code Assignement: Using the dog object, give it a method called sayLegs. The met
 
 ## 04 [Make Code More Reusable with the this Keyword](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/make-code-more-reusable-with-the-this-keyword)
 
-Notes: 
-
-The last challenge introduced a method to the duck object. It used duck.name dot notation to access the value for the name property within the return statement:
+Notes:  The last challenge introduced a method to the duck object. It used duck.name dot notation to access the value for the name property within the return statement:
 ```
 sayName: function() {return "The name of this duck is " + duck.name + ".";}
 ```
@@ -110,20 +103,23 @@ function Bird() {
 ```
 This constructor defines a Bird object with properties name, color, and numLegs set to Albert, blue, and 2, respectively. Constructors follow a few conventions:
 
-    Constructors are defined with a capitalized name to distinguish them from other functions that are not constructors.
-    Constructors use the keyword this to set properties of the object they will create. Inside the constructor, this refers to the new object it will create.
-    Constructors define properties and behaviors instead of returning a value as other functions might.
+Constructors are defined with a capitalized name to distinguish 
+them from other functions that are not constructors.
+
+Constructors use the keyword this to set properties of the object they will create. 
+Inside the constructor, this refers to the new object it will create.
+    
+Constructors define properties and behaviors instead of returning a value as other functions might.
 
 
 Code Assignement: Create a constructor, Dog, with properties name, color, and numLegs that are set to a string, a string, and a number, respectively.
+
 [My Code](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-exercises/07.ObjectOrientedProgramming/05_define-a-constructor-function.js)
 
 
 ## 06 [Use a Constructor to Create Objects](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/use-a-constructor-to-create-objects) 
-Notes: 
-
-Here's the Bird constructor from the previous challenge:
-
+Notes: Here's the Bird constructor from the previous challenge:
+```
 function Bird() {
   this.name = "Albert";
   this.color  = "blue";
@@ -131,59 +127,58 @@ function Bird() {
 }
 
 let blueBird = new Bird();
-
+```
 NOTE: this inside the constructor always refers to the object being created.
 
 Notice that the new operator is used when calling a constructor. This tells JavaScript to create a new instance of Bird called blueBird. Without the new operator, this inside the constructor would not point to the newly created object, giving unexpected results. Now blueBird has all the properties defined inside the Bird constructor:
-
+```
 blueBird.name;
 blueBird.color;
 blueBird.numLegs;
-
+```
 Just like any other object, its properties can be accessed and modified:
-
+```
 blueBird.name = 'Elvira';
 blueBird.name;
-
+```
 
 Code Assignement: Use the Dog constructor from the last lesson to create a new instance of Dog, assigning it to a variable hound.
+
 [My Code](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-exercises/07.ObjectOrientedProgramming/06_use-a-constructor-to-create-objects.js)
 
 
 ## 07 [Extend Constructors to Receive Arguments](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/extend-constructors-to-receive-arguments) 
-Notes: 
-
-The Bird and Dog constructors from the last challenge worked well. However, notice that all Birds that are created with the Bird constructor are automatically named Albert, are blue in color, and have two legs. What if you want birds with different values for name and color? It's possible to change the properties of each bird manually but that would be a lot of work:
-
+Notes: The Bird and Dog constructors from the last challenge worked well. However, notice that all Birds that are created with the Bird constructor are automatically named Albert, are blue in color, and have two legs. What if you want birds with different values for name and color? It's possible to change the properties of each bird manually but that would be a lot of work:
+```
 let swan = new Bird();
 swan.name = "Carlos";
 swan.color = "white";
-
+```
 Suppose you were writing a program to keep track of hundreds or even thousands of different birds in an aviary. It would take a lot of time to create all the birds, then change the properties to different values for every one. To more easily create different Bird objects, you can design your Bird constructor to accept parameters:
-
+```
 function Bird(name, color) {
   this.name = name;
   this.color = color;
   this.numLegs = 2;
 }
-
+```
 Then pass in the values as arguments to define each unique bird into the Bird constructor: let cardinal = new Bird("Bruce", "red"); This gives a new instance of Bird with name and color properties set to Bruce and red, respectively. The numLegs property is still set to 2. The cardinal has these properties:
-
+```
 cardinal.name
 cardinal.color
 cardinal.numLegs
-
+```
 The constructor is more flexible. It's now possible to define the properties for each Bird at the time it is created, which is one way that JavaScript constructors are so useful. They group objects together based on shared characteristics and behavior and define a blueprint that automates their creation.
 
 Code Assignement: Create another Dog constructor. This time, set it up to take the parameters name and color, and have the property numLegs fixed at 4. Then create a new Dog saved in a variable terrier. Pass it two strings as arguments for the name and color properties.
+
 [My Code](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-exercises/07.ObjectOrientedProgramming/07_extend-constructors-to-receive-arguments.js)
 
 
 ## 08 [Verify an Object's Constructor with instanceof](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/verify-an-objects-constructor-with-instanceof) 
-Notes:
 
-Anytime a constructor function creates a new object, that object is said to be an instance of its constructor. JavaScript gives a convenient way to verify this with the instanceof operator. instanceof allows you to compare an object to a constructor, returning true or false based on whether or not that object was created with the constructor. Here's an example:
-
+Notes: Anytime a constructor function creates a new object, that object is said to be an instance of its constructor. JavaScript gives a convenient way to verify this with the instanceof operator. instanceof allows you to compare an object to a constructor, returning true or false based on whether or not that object was created with the constructor. Here's an example:
+```
 let Bird = function(name, color) {
   this.name = name;
   this.color = color;
@@ -193,11 +188,11 @@ let Bird = function(name, color) {
 let crow = new Bird("Alexis", "black");
 
 crow instanceof Bird;
-
+```
 This instanceof method would return true.
 
 If an object is created without using a constructor, instanceof will verify that it is not an instance of that constructor:
-
+```
 let canary = {
   name: "Mildred",
   color: "Yellow",
@@ -205,17 +200,16 @@ let canary = {
 };
 
 canary instanceof Bird;
-
+```
 This instanceof method would return false.
 
 Code Assignement: Create a new instance of the House constructor, calling it myHouse and passing a number of bedrooms. Then, use instanceof to verify that it is an instance of House.
+
 [My Code](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-exercises/07.ObjectOrientedProgramming/08_verify-an-objects-constructor-with-instanceof.js)
 
 
 ## 09 [Understand Own Properties](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/understand-own-properties) 
-Notes:
-
-In the following example, the Bird constructor defines two properties: name and numLegs:
+Notes:In the following example, the Bird constructor defines two properties: name and numLegs:
 ```
 function Bird(name) {
   this.name  = name;
@@ -240,7 +234,8 @@ console.log(ownProps);
 The console would display the value ["name", "numLegs"].
  
 Code Assignement: Add the own properties of canary to the array ownProps. 
-[My Code](#)
+
+[My Code](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-exercises/07.ObjectOrientedProgramming/09_understand-own-properties.js)
 
 
 ## 10 [Use Prototype Properties to Reduce Duplicate Code](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/use-prototype-properties-to-reduce-duplicate-code) 
@@ -261,11 +256,13 @@ console.log(canary.numLegs);
 Since all instances automatically have the properties on the prototype, think of a prototype as a "recipe" for creating objects. Note that the prototype for duck and canary is part of the Bird constructor as Bird.prototype. Nearly every object in JavaScript has a prototype property which is part of the constructor function that created it.
 
 Code Assignement: Add a numLegs property to the prototype of Dog
-[My Code](#)
+
+[My Code](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-exercises/07.ObjectOrientedProgramming/10_use-prototype-properties-to-reduce-duplicate-code.js)
 
 
 ## 11 [Iterate Over All Properties](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/iterate-over-all-properties) 
-Notes:You have now seen two kinds of properties: own properties and prototype properties. Own properties are defined directly on the object instance itself. And prototype properties are defined on the prototype.
+
+Notes: You have now seen two kinds of properties: own properties and prototype properties. Own properties are defined directly on the object instance itself. And prototype properties are defined on the prototype.
 ```
 function Bird(name) {
   this.name = name;  //own property
@@ -296,7 +293,7 @@ console.log(ownProps) would display ["name"] in the console, and console.log(pro
 
 Code Assignement: Add all of the own properties of beagle to the array ownProps. Add all of the prototype properties of Dog to the array prototypeProps. 
 
-[My Code](#)
+[My Code](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-exercises/07.ObjectOrientedProgramming/11_iterate-over-all-properties.js)
 
 
 ## 12 [Understand the Constructor Property](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/understand-the-constructor-property) 
@@ -326,7 +323,7 @@ Note: Since the constructor property can be overwritten (which will be covered i
 
 Code Assignement: Write a joinDogFraternity function that takes a candidate parameter and, using the constructor property, return true if the candidate is a Dog, otherwise return false. 
 
-[My Code](#)
+[My Code](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-exercises/07.ObjectOrientedProgramming/12_understand-the-constructor-property.js)
 
 
 ## 13 [Change the Prototype to a New Object](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/change-the-prototype-to-a-new-object) 
@@ -359,7 +356,7 @@ Bird.prototype = {
 
 Code Assignement: Add the property numLegs and the two methods eat() and describe() to the prototype of Dog by setting the prototype to a new object. 
 
-[My Code](#)
+[My Code](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-exercises/07.ObjectOrientedProgramming/13_change-the-prototype-to-a-new-object.js)
 
 
 ## 14 [Remember to Set the Constructor Property when Changing the Prototype](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/remember-to-set-the-constructor-property-when-changing-the-prototype) 
@@ -385,79 +382,117 @@ Bird.prototype = {
   }
 };
 ```
-Code Assignement:  Define the constructor property on the Dog prototype. 
+Code Assignement:  Define the constructor property on the Dog prototype.
+
 [My Code](#)
 
 
 ## 15 [Understand Where an Object’s Prototype Comes From](#) 
+
 Notes:
+
 Code Assignement: 
+
 [My Code](#)
 
 
 ## 16 [Understand the Prototype Chain](#) 
+
 Notes:
+
 Code Assignement: 
+
 [My Code](#)
 
 
+
 ## 17 [Use Inheritance So You Don't Repeat Yourself](#) 
+
 Notes:
+
 Code Assignement: 
+
 [My Code](#)
 
 
 ## 18 [Inherit Behaviors from a Supertype](#) 
+
 Notes:
+
 Code Assignement: 
+
 [My Code](#)
 
 
 ## 19 [Set the Child's Prototype to an Instance of the Parent](#) 
+
 Notes:
+
 Code Assignement: 
+
 [My Code](#)
 
 
 ## 20 [Reset an Inherited Constructor Property](#) 
+
 Notes:
+
 Code Assignement: 
+
 [My Code](#)
 
 
 ## 21 [Add Methods After Inheritance](#) 
+
 Notes:
+
 Code Assignement: 
+
 [My Code](#)
 
 
 ## 22 [Override Inherited Methods](#) 
+
 Notes:
+
 Code Assignement: 
+
 [My Code](#)
 
 
 ## 23 [Use a Mixin to Add Common Behavior Between Unrelated Objects](#) 
+
 Notes:
+
 Code Assignement: 
+
 [My Code](#)
 
 
 ## 24 [Use Closure to Protect Properties Within an Object from Being Modified Externally](#) 
+
 Notes:
+
 Code Assignement: 
+
 [My Code](#)
 
 
 ## 25 [Understand the Immediately Invoked Function Expression (IIFE)](#) 
+
 Notes:
+
 Code Assignement: 
+
 [My Code](#)
 
 
 ## 26 [Use an IIFE to Create a Module](#) 
+
 Notes:
+
 Code Assignement: 
+
 [My Code](#)
 
 
