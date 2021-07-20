@@ -387,16 +387,28 @@ Code Assignement:  Define the constructor property on the Dog prototype.
 [My Code](#)
 
 
-## 15 [Understand Where an Object’s Prototype Comes From](#) 
+## 15 [Understand Where an Object’s Prototype Comes From](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/understand-where-an-objects-prototype-comes-from) 
 
-Notes:
+Notes:  Just like people inherit genes from their parents, an object inherits its prototype directly from the constructor function that created it. For example, here the Bird constructor creates the duck object:
+```
+function Bird(name) {
+  this.name = name;
+}
 
-Code Assignement: 
+let duck = new Bird("Donald");
+```
+duck inherits its prototype from the Bird constructor function. You can show this relationship with the isPrototypeOf method:
+```
+Bird.prototype.isPrototypeOf(duck);
+```
+This would return true.
+
+Code Assignement: Use isPrototypeOf to check the prototype of beagle.
 
 [My Code](#)
 
 
-## 16 [Understand the Prototype Chain](#) 
+## 16 [Understand the Prototype Chain](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/understand-the-prototype-chain) 
 
 Notes:
 
