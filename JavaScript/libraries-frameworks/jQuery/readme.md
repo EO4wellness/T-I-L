@@ -16,5 +16,6 @@
 * [jQuery Cheatsheet-Beauty!](https://oscarotero.com/jquery/)
 * [Help Forum](https://forum.jquery.com/)
 
-## Reading: 
+## Topics: 
 * [You Might Not Need jQuery](http://youmightnotneedjquery.com/)
+* [Bootstrap Depreciating jQuery](https://youtu.be/ZEEiHzMejRw)
