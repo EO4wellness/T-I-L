@@ -71,6 +71,10 @@ JavaScript is a high-level programming language that all modern web browsers sup
 
 ## [JavaScript Libraries and Frameworks](https://en.wikipedia.org/wiki/List_of_JavaScript_libraries)
 * Current Fav: jQuery! Love it! 
+* https://kinsta.com/blog/javascript-libraries/ 
+* https://en.wikipedia.org/wiki/JavaScript_graphics_library#Examples
+* https://en.wikipedia.org/wiki/Polymer_(library)
+* https://en.wikipedia.org/wiki/Comparison_of_JavaScript-based_web_frameworks
 
 
 [@Ravinwashere (on twitter)](https://twitter.com/ravinwashere/status/1370249223057281025) recommends doing the following "beginner" projects to add to your portfolio
