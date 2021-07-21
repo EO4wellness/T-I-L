@@ -68,6 +68,9 @@ JavaScript is a high-level programming language that all modern web browsers sup
 * https://dzone.com/articles/structure-javascript-code
 * https://code.tutsplus.com/articles/best-free-and-open-source-javascript-animation-libraries--cms-37072
 
+## [JavaScript Libraries and Frameworks](https://en.wikipedia.org/wiki/List_of_JavaScript_libraries)
+* Current Fav: jQuery! Love it! 
+
 
 [@Ravinwashere (on twitter)](https://twitter.com/ravinwashere/status/1370249223057281025) recommends doing the following "beginner" projects to add to your portfolio
 10 Vanilla JavaScript Projects For Total Beginners.
