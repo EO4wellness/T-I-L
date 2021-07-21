@@ -67,6 +67,7 @@ JavaScript is a high-level programming language that all modern web browsers sup
 * https://javascript.plainenglish.io/3-ways-to-write-elegant-javascript-df9d02cb97b5
 * https://dzone.com/articles/structure-javascript-code
 * https://code.tutsplus.com/articles/best-free-and-open-source-javascript-animation-libraries--cms-37072
+* https://dev.to/bharati21/javascript-loading-techniques-performance-56lp
 
 ## [JavaScript Libraries and Frameworks](https://en.wikipedia.org/wiki/List_of_JavaScript_libraries)
 * Current Fav: jQuery! Love it! 
