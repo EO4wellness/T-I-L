@@ -384,7 +384,7 @@ Bird.prototype = {
 ```
 Code Assignement:  Define the constructor property on the Dog prototype.
 
-[My Code](#)
+[My Code](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-exercises/07.ObjectOrientedProgramming/14_remember-to-set-the-constructor-property-when-changing-the-prototype.js)
 
 
 ## 15 [Understand Where an Object’s Prototype Comes From](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/understand-where-an-objects-prototype-comes-from) 
@@ -405,20 +405,38 @@ This would return true.
 
 Code Assignement: Use isPrototypeOf to check the prototype of beagle.
 
-[My Code](#)
+[My Code](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-exercises/07.ObjectOrientedProgramming/15_understand-where-an-objects-prototype-comes-from.js)
 
 
 ## 16 [Understand the Prototype Chain](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/understand-the-prototype-chain) 
 
-Notes:
+Notes: All objects in JavaScript (with a few exceptions) have a prototype. Also, an object’s prototype itself is an object.
+```
+function Bird(name) {
+  this.name = name;
+}
 
-Code Assignement: 
+typeof Bird.prototype;
+```
+Because a prototype is an object, a prototype can have its own prototype! In this case, the prototype of Bird.prototype is Object.prototype:
+```
+Object.prototype.isPrototypeOf(Bird.prototype);
+```
+How is this useful? You may recall the hasOwnProperty method from a previous challenge:
+```
+let duck = new Bird("Donald");
+duck.hasOwnProperty("name");
+```
+The hasOwnProperty method is defined in Object.prototype, which can be accessed by Bird.prototype, which can then be accessed by duck. This is an example of the prototype chain. In this prototype chain, Bird is the supertype for duck, while duck is the subtype. Object is a supertype for both Bird and duck. Object is a supertype for all objects in JavaScript. Therefore, any object can use the hasOwnProperty method.
 
-[My Code](#)
+
+Code Assignement: Modify the code to show the correct prototype chain.
+
+[My Code](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-exercises/07.ObjectOrientedProgramming/16_understand-the-prototype-chain.js)
 
 
 
-## 17 [Use Inheritance So You Don't Repeat Yourself](#) 
+## 17 [Use Inheritance So You Don't Repeat Yourself](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/use-inheritance-so-you-dont-repeat-yourself) 
 
 Notes:
 
