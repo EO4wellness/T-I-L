@@ -2,6 +2,7 @@
 * "Write less, do more" 
 * JS framework
 * quick library 
+* [Intro Overview Video](https://youtu.be/U4UZVbQ8md0)
 * [jQuery website](https://jquery.com/)
 * [jQuery Mobile Website](https://jquerymobile.com/)
 * [jQuery User Interface](https://jqueryui.com/)
