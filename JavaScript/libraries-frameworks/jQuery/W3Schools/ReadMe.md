@@ -1,4 +1,6 @@
 # [jQuery Tutorial](https://www.w3schools.com/jquery/default.asp)
+[Example Code](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/libraries-frameworks/jQuery/code-snippets/click-to-hide-text.html)
+
 
 ## [Intro](https://www.w3schools.com/jquery/jquery_intro.asp)
 * jQuery is a JavaScript Library.
@@ -35,7 +37,36 @@ One big advantage of using the hosted jQuery from Google:
 
 Many users already have downloaded jQuery from Google when visiting another site. As a result, it will be loaded from cache when they visit your site, which leads to faster loading time. Also, most CDN's will make sure that once a user requests a file from it, it will be served from the server closest to them, which also leads to faster loading time.
 
-[Google CDN Code Snippet]()
+[Google CDN Code Snippet](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/libraries-frameworks/jQuery/code-snippets/jQuery-via-GoogleCDN.html)
+
+### [jQuery Syntax](https://www.w3schools.com/jquery/jquery_syntax.asp)
+* This is VERY basic! 
+* With jQuery you select (query) HTML elements and perform "actions" on them.
+* The jQuery syntax is tailor-made for selecting HTML elements and performing some action on the element(s).
+* Basic syntax is: $(selector).action()
+
+    A $ sign to define/access jQuery
+    A (selector) to "query (or find)" HTML elements
+    A jQuery action() to be performed on the element(s)
+
+* Examples: 
+```
+$(this).hide() - hides the current element.
+
+$("p").hide() - hides all <p> elements.
+
+$(".test").hide() - hides all elements with class="test".
+
+$("#test").hide() - hides the element with id="test".
+```
+
+* jQuery uses CSS syntax to select elements. 
+[CSS Selectors Refresher](https://www.w3schools.com/css/default.asp)
+
+
+The Document Ready Event
+... resume study here 
+
 
 ## Effects 
 
