@@ -1,0 +1,69 @@
+Here is the list of all the projects 👇
+
+Beginner Level Projects
+
+    Band Name Generator
+    Tip Calculator
+    Treasure Island
+    Rock Paper Scissors Game
+    Password Generator
+    Solved problems at reeborg.ca
+    Hangman Game
+    Ceasar Cipher Program
+    Blind Auction
+    Calculator
+    Blackjack Game
+    Guess the Number
+    Debugging practice
+    Higher Lower Game
+    Build a Multi-Page Responsive Website (HTML/CSS/JS)
+    Redesign an Existing Website Template 
+    Design a Small JavaScript Game 
+    Create a Simple Application (to do list, calculator, password generator, etc) 
+    Random Number Generator 
+    Web Scraping using Python 
+    Build a Working Chess Game 
+    Make a social netowrking site (PHP) 
+    Build an Online Ecommerce store 
+    contribute to an open source project 
+
+Intermediate Level Projects
+
+    Coffee Machine Program
+    Coffee Machine Program using OOP
+    Quiz Game
+    The Hirst Painting
+    i) Eatch-A-Sketch & ii) Turtle Race
+    Snake Game (part 1)
+    Snake Game (part 2)
+    Pong Game
+    Turtle Crossing Game
+    Mail Merge Challenge
+    US States Game
+    NATO Alphabet Program
+    Convertors
+    Pomodoro Timer
+    Password Manager (part 1)
+    Password Manager (part 2)
+    Flash Card Program
+
+Intermediate+ Level Projects
+
+    i) Automated monday motivation mails & ii) Autommated Birthday Wisher
+    i) Kanye Quotes App & ii) ISS Overhead Notifier
+    Quizzler App
+    Rain Alert Application
+    Stock Trading News Alert
+    Habbit Tracker
+    Workout Tracker using Google Sheets
+    Flight Deal Finder (part 1)
+    Flight Club (part 2)
+
+Web Foundations
+
+    Introdunction to HTML
+    Intermediate HTML
+    Introduction to CSS
+    Intermediate CSS
+
+Project: Built a personal webiste.
