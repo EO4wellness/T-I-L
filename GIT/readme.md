@@ -13,3 +13,11 @@
 * [GitHub Desktop](https://desktop.github.com/)
 * [Desktop Help Documentation](https://docs.github.com/en/desktop)
 * [How-Tos of all major Git functions](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop)
+
+## Git Hub Organizations 
+* If you are going to code, you need a team, or to be part of a team.  
+* GitHub has you covered with Organizations.  
+* ANYONE can start an organization with GitHub AND invite others to join your organization 
+* [GitHub Organation Security](https://github.blog/2020-07-23-how-to-secure-your-github-organization-and-enterprise-account/)
+* [GitHub Organization Blog Posts](https://dev.to/kritner/using-a-github-organization-to-organize-blog-postsalso-accidentally-hacking-hacktoberfest-42nl)
+* [Managing GitHub Organizations](https://dzone.com/articles/managing-github-organizations-with-github-graphql)
