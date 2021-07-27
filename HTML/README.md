@@ -16,6 +16,7 @@
 * https://dev.to/satishnaikawadi2001/free-and-useful-resources-for-web-development-in-2021-53in
 * https://frontendmasters.github.io/bootcamp/  and https://frontendmasters.com/bootcamp/introduction-html/creating-content/ recommended by other scholars on LinkedIn
 * [Various HTML Templates and Boilerplates](https://www.smashingmagazine.com/2021/06/useful-frontend-boilerplates-starter-kits/)
+* https://www.learn-html.org/
 
 ## My HTML Coursework: 
 * [Udacity](#)
