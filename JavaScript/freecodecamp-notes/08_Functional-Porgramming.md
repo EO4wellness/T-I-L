@@ -22,7 +22,7 @@
 ```
 * The members of freeCodeCamp happen to love tea.
 * Coding Assingment: In the code editor, the prepareTea and getTea functions are already defined for you. Call the getTea function to get 40 cups of tea for the team, and store them in the tea4TeamFCC variable.
-* [My Code]
+* [My Code](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-exercises/08.FunctionalProgramming/01_learn-about-functional-programming.js)
 
 ## 02 [Understand Functional Programming Terminology](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/understand-functional-programming-terminology)
 * Notes: 
@@ -44,138 +44,138 @@ When functions are passed in to or returned from another function, then those fu
 Prepare 27 cups of green tea and 13 cups of black tea and store them in tea4GreenTeamFCC and tea4BlackTeamFCC variables, respectively. Note that the getTea function has been modified so it now takes a function as the first argument.
 ```
 * Coding Assignment: Note: The data (the number of cups of tea) is supplied as the last argument. We'll discuss this more in later lessons.
-* [My Code]()#
+* [My Code](#)
 
 ## 03 [Understand the Hazards of Using Imperative Code](#)
 * Notes: 
 * Coding Assignment: 
-* [My Code]()#
+* [My Code](#)
 
 
 ## 04 [Avoid Mutations and Side Effects Using Functional Programming](#)
 * Notes: 
 * Coding Assignment: 
-* [My Code]()#
+* [My Code](#)
 
 
 ## 05 [Pass Arguments to Avoid External Dependence in a Function](#)
 * Notes: 
 * Coding Assignment: 
-* [My Code]()#
+* [My Code](#)
 
 
 ## 06 [Refactor Global Variables Out of Functions](#)
 * Notes: 
 * Coding Assignment: 
-* [My Code]()#
+* [My Code](#)
 
 
 ## 07 [Use the map Method to Extract Data from an Array](#)
 * Notes: 
 * Coding Assignment: 
-* [My Code]()#
+* [My Code](#)
 
 
 ## 08 [Implement map on a Prototype](#)
 * Notes: 
 * Coding Assignment: 
-* [My Code]()#
+* [My Code](#)
 
 
 ## 09 [Use the filter Method to Extract Data from an Array](#)
 * Notes: 
 * Coding Assignment: 
-* [My Code]()#
+* [My Code](#)
 
 
 ## 10 [Implement the filter Method on a Prototype](#)
 * Notes: 
 * Coding Assignment: 
-* [My Code]()#
+* [My Code](#)
 
 
 ## 11 [Return Part of an Array Using the slice Method](#)
 * Notes: 
 * Coding Assignment: 
-* [My Code]()#
+* [My Code](#)
 
 
 ## 12 [Remove Elements from an Array Using slice Instead of splice](#)
 * Notes: 
 * Coding Assignment: 
-* [My Code]()#
+* [My Code](#)
 
 
 ## 13 [Combine Two Arrays Using the concat Method](#)
 * Notes: 
 * Coding Assignment: 
-* [My Code]()#
+* [My Code](#)
 
 
 ## 14 [Add Elements to the End of an Array Using concat Instead of push](#)
 * Notes: 
 * Coding Assignment: 
-* [My Code]()#
+* [My Code](#)
 
 
 ## 15 [Use the reduce Method to Analyze Data](#)
 * Notes: 
 * Coding Assignment: 
-* [My Code]()#
+* [My Code](#)
 
 
 ## 16 [Use Higher-Order Functions map, filter, or reduce to Solve a Complex Problem](#)
 * Notes: 
 * Coding Assignment: 
-* [My Code]()#
+* [My Code](#)
 
 
 ## 17 [Sort an Array Alphabetically using the sort Method](#)
 * Notes: 
 * Coding Assignment: 
-* [My Code]()#
+* [My Code](#)
 
 
 ## 18 [Return a Sorted Array Without Changing the Original Array](#)
 * Notes: 
 * Coding Assignment: 
-* [My Code]()#
+* [My Code](#)
 
 
 ## 19 [Split a String into an Array Using the split Method](#)
 * Notes: 
 * Coding Assignment: 
-* [My Code]()#
+* [My Code](#)
 
 
 ## 20 [Combine an Array into a String Using the join Method](#)
 * Notes: 
 * Coding Assignment: 
-* [My Code]()#
+* [My Code](#)
 
 
 ## 21 [Apply Functional Programming to Convert Strings to URL Slugs](#)
 * Notes: 
 * Coding Assignment: 
-* [My Code]()#
+* [My Code](#)
 
 
 ## 22 [Use the every Method to Check that Every Element in an Array Meets a Criteria](#)
 * Notes: 
 * Coding Assignment: 
-* [My Code]()#
+* [My Code](#)
 
 
 ## 23 [Use the some Method to Check that Any Elements in an Array Meet a Criteria](#)
 * Notes: 
 * Coding Assignment: 
-* [My Code]()#
+* [My Code](#)
 
 
 ## 24 [Introduction to Currying and Partial Application](#)
 * Notes: 
 * Coding Assignment: 
-* [My Code]()#
+* [My Code](#)
 
 
 ![course Segment Completion date: August , 2021](#)
