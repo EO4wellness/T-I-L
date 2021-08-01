@@ -13,7 +13,7 @@
 ## 07 Object Oriented Programming (26 units)
 
 ## 08 Functional Programming (24 units)
-* 01 [Learn About Functional Programming](#)
+* 01 [Learn About Functional Programming](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-exercises/08.FunctionalProgramming/01_learn-about-functional-programming.js)
 * 02 [Understand Functional Programming Terminology](#)
 * 03 [Understand the Hazards of Using Imperative Code](#)
 * 04 [Avoid Mutations and Side Effects Using Functional Programming](#)
