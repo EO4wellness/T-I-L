@@ -1,6 +1,6 @@
 # Kaggle 30-Days of ML
 * Received invite link on SUSE Cloud Native Foundations Scholarship Slack board from friend. 
-* [Registered](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/Registration.md) via link to google registration form. 
+* [Registered](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/Registration.md) via link to [google registration form](https://www.kaggle.com/thirty-days-of-ml?utm_medium=email&utm_source=gamma&utm_campaign=thirty-days-of-ml&utm_content=last-call). 
 * Later found invite email in my gmail.  
 
 ![Registration](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/Images/2021-07-28-registered.jpg)
