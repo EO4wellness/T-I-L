@@ -1,3 +1,5 @@
+# Registration
+
 Machine learning beginner → Kaggle competitor in 30 days. Non-coders welcome.
 
 Starts August 2nd!
@@ -51,3 +53,5 @@ Yes, you can compete on a team of up to 3 people.
 Will the competition award medals or points?
 
 No, the competition will not award medals or points. We've removed the pressure of medals and points in hopes of creating a more productive learning experience.
+
+Source: Kaggle.com
