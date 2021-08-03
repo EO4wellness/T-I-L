@@ -90,7 +90,8 @@ Consult the [Getting Started Forum](https://www.kaggle.com/getting-started) here
 *[Discord Kaggle Community Guidelines:](https://www.kaggle.com/community-guidelines)
 * [Discord FAQ Getting Started guide]()
 * posted an intro in the discord #introductions channel 
-
+* Missing Emails? [All Assignments List](https://docs.google.com/document/d/1qhf_e61Z5eGvc8b4n2QsnBa6WN91Ypj2Kd8s3TWWx6Q/edit?usp=sharing)
+* 
 
 ### Next? 
 - [ ] Tomorrow's Kaggle 30-Days of ML email (same time, same place) 
