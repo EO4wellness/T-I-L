@@ -86,6 +86,10 @@ Note my Status on the upper-right of the profile---> Competitions Contributor
 ### Questions: 
 Consult the [Getting Started Forum](https://www.kaggle.com/getting-started) here. 
 
+### Discord
+[Discord Kaggle Community Guidelines:](https://www.kaggle.com/community-guidelines)
+
+Then, navigate to the #introductions channel and introduce yourself!
 ### Next? 
 - [ ] Tomorrow's Kaggle 30-Days of ML email (same time, same place) 
 - [ ] Check out: [Kaggle Learn](https://www.kaggle.com/learn)
