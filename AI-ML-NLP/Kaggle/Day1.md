@@ -33,7 +33,7 @@ Note my Status on the upper-right of the profile---> "Competitions Novice"
 - Master 
 - Grandmaster 
 
-[Kaggle-levels](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/Images/01-participation-levels.png)
+![Kaggle-levels](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/Images/01-participation-levels.png)
 
 * To level up you have to complete these tasks:
 - Run 1 notebook or script (today's assignment accomplishes this) 
@@ -41,7 +41,7 @@ Note my Status on the upper-right of the profile---> "Competitions Novice"
 - Make 1 comment 
 - Give 1 upvote 
 
-[Kaggle-level-up-tasks](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/Images/01-level-up-tasks.png)
+![Kaggle-level-up-tasks](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/Images/01-level-up-tasks.png)
 
 * Article: [Kaggle Progression System](https://www.kaggle.com/progression)
 
