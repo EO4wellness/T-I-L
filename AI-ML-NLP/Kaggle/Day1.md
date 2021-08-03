@@ -55,6 +55,15 @@ Note my Status on the upper-right of the profile---> "Competitions Novice"
 - [x] Check back for competition results. 
 - [ ] Learn more - [Course: 3-Hour Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning)
 
+![Titanic-Progress](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/Images/Day1-Titantic-Submission.jpg)
+
+![Very-First-Ever-Kaggle-Submission](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/Images/Day1-very-first-submission.jpg)
+
+![Success-Message](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/Images/Day1-success.jpg)
+
+![Submission-Results](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/Images/Day1-Titanic-Submission-Results.jpg)
+
+
 ## STEP 4: Make a Comment
 * Visit the notebook from the above step once again.  
 * Scroll to the bottom of the notebook. 
@@ -71,7 +80,7 @@ Note my Status on the upper-right of the profile---> "Competitions Novice"
 
 ![Progress](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/Images/Day1-Successful-Contributor.jpg)
 
-![Image of Success](#)
+![Image of Success](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/Images/Day1-contributor-status.jpg)
 Note my Status on the upper-right of the profile---> Competitions Contributor 
 
 ### Questions: 
