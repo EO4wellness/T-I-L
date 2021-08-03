@@ -26,6 +26,8 @@ Alexis Cook
 
 
 ## Day 2: Aug 3, 2021
+[Day 2 Notes](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/Day2.md)
+
 
 ## Day 3: Aug 4, 2021
 
