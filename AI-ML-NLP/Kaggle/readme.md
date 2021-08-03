@@ -26,3 +26,17 @@ Alexis Cook
 
 
 ## Day 2: Aug 3, 2021
+
+
+
+
+### Questions: 
+Consult the [Getting Started Forum](https://www.kaggle.com/getting-started) here. 
+
+### To Do Next: 
+- [ ] Tomorrow's Kaggle 30-Days of ML email (same time, same place) 
+- [ ] Check out: [Kaggle Learn](https://www.kaggle.com/learn)
+- [ ] [Kaggle Competitions](https://www.kaggle.com/competitions)
+- [ ] [Kaggle Datasets](https://www.kaggle.com/datasets)
+- [ ] [Kaggle Notebooks](https://www.kaggle.com/code)
+- [ ] Read Getting Started in the peer-reviewed Discord
