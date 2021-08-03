@@ -27,13 +27,19 @@ Alexis Cook
 
 ## Day 2: Aug 3, 2021
 
+## Day 3: Aug 4, 2021
 
+## Day 4: Aug 5, 2021
 
+## Day 5: Aug 6, 2021
 
+## Day 6: Aug 7, 2021
+
+## Next: 
 ### Questions: 
 Consult the [Getting Started Forum](https://www.kaggle.com/getting-started) here. 
 
-### To Do Next: 
+### To Do: 
 - [ ] Tomorrow's Kaggle 30-Days of ML email (same time, same place) 
 - [ ] Check out: [Kaggle Learn](https://www.kaggle.com/learn)
 - [ ] [Kaggle Competitions](https://www.kaggle.com/competitions)
