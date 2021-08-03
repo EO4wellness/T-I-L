@@ -45,4 +45,4 @@ Consult the [Getting Started Forum](https://www.kaggle.com/getting-started) here
 - [ ] [Kaggle Competitions](https://www.kaggle.com/competitions)
 - [ ] [Kaggle Datasets](https://www.kaggle.com/datasets)
 - [ ] [Kaggle Notebooks](https://www.kaggle.com/code)
-- [ ] Read Getting Started in the peer-reviewed Discord
+- [x] Read Getting Started in the peer-reviewed Discord
