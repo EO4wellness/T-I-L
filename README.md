@@ -239,6 +239,7 @@ Studied several lessons today 12-7-2020 in the ND
 * [CSS Ideas](https://www.freecodecamp.org/news/use-css-selectors-to-style-webpage/)
 * [Color Picker, Code Instruction, Sandbox](https://www.w3schools.com/)
 * https://www.mygreatlearning.com/academy?referrer_code=GL2YOI20CMT-U&arz=1
+* https://github.com/microsoft/Web-Dev-For-Beginners
 
 ### WordPress
 * https://www.wpbeginner.com/wp-tutorials/how-to-hide-a-mobile-menu-in-wordpress-beginners-guide/ 
