@@ -26,6 +26,8 @@ Alexis Cook
 
 
 ## Day 2: Aug 3, 2021
+[Day 2 Notes](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/Day2.md)
+
 
 ## Day 3: Aug 4, 2021
 
@@ -45,4 +47,4 @@ Consult the [Getting Started Forum](https://www.kaggle.com/getting-started) here
 - [ ] [Kaggle Competitions](https://www.kaggle.com/competitions)
 - [ ] [Kaggle Datasets](https://www.kaggle.com/datasets)
 - [ ] [Kaggle Notebooks](https://www.kaggle.com/code)
-- [ ] Read Getting Started in the peer-reviewed Discord
+- [x] Read Getting Started in the peer-reviewed Discord

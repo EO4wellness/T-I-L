@@ -86,10 +86,17 @@ Note my Status on the upper-right of the profile---> Competitions Contributor
 ### Questions: 
 Consult the [Getting Started Forum](https://www.kaggle.com/getting-started) here. 
 
+### Discord
+* [Discord Kaggle Community Guidelines:](https://www.kaggle.com/community-guidelines)
+* [Discord FAQ Getting Started guide](https://support.discord.com/hc/en-us/articles/360045138571)
+* posted an intro in the discord #introductions channel 
+* Missing Emails? [All Assignments List](https://docs.google.com/document/d/1qhf_e61Z5eGvc8b4n2QsnBa6WN91Ypj2Kd8s3TWWx6Q/edit?usp=sharing)
+
+
 ### Next? 
 - [ ] Tomorrow's Kaggle 30-Days of ML email (same time, same place) 
 - [ ] Check out: [Kaggle Learn](https://www.kaggle.com/learn)
 - [ ] [Kaggle Competitions](https://www.kaggle.com/competitions)
 - [ ] [Kaggle Datasets](https://www.kaggle.com/datasets)
 - [ ] [Kaggle Notebooks](https://www.kaggle.com/code)
-- [ ] Read Getting Started in the peer-reviewed Discord
+- [x] Read Getting Started in the peer-reviewed Discord
