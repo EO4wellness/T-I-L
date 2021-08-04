@@ -28,6 +28,8 @@
 
 [x] Discord check in 
 
+## STUDY Activities and Notes:
+
 ![Python Assignment](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/Images/Day2-Python.jpg) 
 
 Apparently, all Kaggle courses have harder, more challenging, questions which they designate with a chili pepper!  Here's my solution from today: 
