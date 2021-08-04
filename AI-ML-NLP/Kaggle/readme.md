@@ -20,7 +20,7 @@ Hope to see you there,
 Alexis Cook 
 ```
 
-[List of ALL assingments]()
+[List of ALL assingments](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/daily-assingment-list.md)
 
 ## Day 1: Aug 2, 2021
 [Day 1 Notes](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/Day1.md)
