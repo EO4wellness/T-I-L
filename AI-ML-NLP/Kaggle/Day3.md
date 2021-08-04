@@ -3,10 +3,12 @@
 
 # Assignment:
 
-![Day3](#)
+![Day3](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/Images/Day3-assignment.jpg)
 
 [x] Read Lesson
+
 [ ] Complete Exercise 
+
 
 
 ## Study Notes:
