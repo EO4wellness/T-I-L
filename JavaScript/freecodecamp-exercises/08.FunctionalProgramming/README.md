@@ -16,7 +16,7 @@
 * 01 [Learn About Functional Programming](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-exercises/08.FunctionalProgramming/01_learn-about-functional-programming.js)
 * 02 [Understand Functional Programming Terminology](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-exercises/08.FunctionalProgramming/02_understand-functional-programming-terminology.js)
 * 03 [Understand the Hazards of Using Imperative Code](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-exercises/08.FunctionalProgramming/03_understand-the-hazards-of-using-imperative-code.js)
-* 04 [Avoid Mutations and Side Effects Using Functional Programming](#)
+* 04 [Avoid Mutations and Side Effects Using Functional Programming](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-exercises/08.FunctionalProgramming/04_avoid-mutations-and-side-effects-using-functional-programming.js)
 * 05 [Pass Arguments to Avoid External Dependence in a Function](#)
 * 06 [Refactor Global Variables Out of Functions](#)
 * 07 [Use the map Method to Extract Data from an Array](#)
