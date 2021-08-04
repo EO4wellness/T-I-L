@@ -59,6 +59,10 @@ Lesson 1 : Hello, Python
 [  ] Return the lowest or highest number
 [  ] ```abs``` returns absolute value
 
+Number Operators: 
+![number-operators](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/Images/Day2-Python-Operators.jpg)
+
+
 Apparently, all Kaggle courses have harder, more challenging, questions which they designate with a chili pepper!  Here's my solution from today: 
 
 ![Chili-Pepper-Question](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/Images/Day2-chili-pepper.jpg)
