@@ -43,4 +43,4 @@ trying to look up a function? then remember to pass in the name of the function 
 ## Links:
 1. [Kaggle Python Course outline](#)
 2. [Kaggle Intro to ML](#)
-3. [Resources](#)
+3. [Resources](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/shared-resources.md)
