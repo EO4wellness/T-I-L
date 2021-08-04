@@ -35,6 +35,7 @@ Alexis Cook
 ![Day2-Email-Assingment](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/Images/Day2-assignment.jpg)
 
 ## Day 3: Aug 4, 2021
+[Day 3 Notes](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/Day3.md)
 
 ## Day 4: Aug 5, 2021
 
