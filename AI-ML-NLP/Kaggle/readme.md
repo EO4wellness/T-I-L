@@ -22,13 +22,13 @@ Alexis Cook
 
 [List of ALL assingments](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/daily-assingment-list.md)
 
-## Day 1: Aug 2, 2021
+## [Day 1: Aug 2, 2021](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/Day1.md)
 [Day 1 Notes](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/Day1.md)
 
 ![Day1-Email-Assingment](https://raw.githubusercontent.com/EO4wellness/T-I-L/main/AI-ML-NLP/Kaggle/Images/Day1-assignment.jpg)
 
 
-## Day 2: Aug 3, 2021
+## [Day 2: Aug 3, 2021](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/Day2.md)
 [Day 2 Notes](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/Day2.md)
 
 
