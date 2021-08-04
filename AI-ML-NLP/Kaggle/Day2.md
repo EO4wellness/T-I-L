@@ -32,6 +32,33 @@
 
 ![Python Assignment](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/Images/Day2-Python.jpg) 
 
+
+Lesson 1 : Hello, Python 
+
+[  ] Needed Python skills
+[  ] Python syntax.
+[  ] Print is a function call
+[  ] print()
+[  ] Functions are called by putting parenthesis after them.
+[  ] Comments in Python begin with a #
+[  ] Colon is this character. :
+[  ] End a code block, to start a new one, with a colon.
+[  ] Strings are encased in either single or double quote marks
+[  ] Multiplication operator *
+[  ] Multiplying a string prints it the number of times it was multiplied
+[  ] int stands for integer
+[  ] float is a decimal place number 
+[  ] Division always gives a float answer
+[  ] // round down
+[  ] Order of operations matter
+[  ] Order Acronym:   PEMDAS
+[  ] PARENTHESES 
+[  ] EXPONENTS
+[  ] MULTIPLICATION/ DIVISION/ADDITION/ SUBTRACTION 
+[  ] min and max function 
+[  ] Return the lowest or highest number
+[  ] ```abs``` returns absolute value
+
 Apparently, all Kaggle courses have harder, more challenging, questions which they designate with a chili pepper!  Here's my solution from today: 
 
 ![Chili-Pepper-Question](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/Images/Day2-chili-pepper.jpg)
