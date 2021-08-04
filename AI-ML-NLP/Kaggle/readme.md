@@ -2,6 +2,7 @@
 * Received invite link on SUSE Cloud Native Foundations Scholarship Slack board from friend. 
 * [Registered](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/Registration.md) via link to [google registration form](https://www.kaggle.com/thirty-days-of-ml?utm_medium=email&utm_source=gamma&utm_campaign=thirty-days-of-ml&utm_content=last-call). 
 * Later found invite email in my gmail.  
+* [Student Shared Resources](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/shared-resources.md)
 
 ![Registration](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/Images/2021-07-28-registered.jpg)
 
@@ -19,6 +20,8 @@ Hope to see you there,
 Alexis Cook 
 ```
 
+[List of ALL assingments](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/daily-assingment-list.md)
+
 ## Day 1: Aug 2, 2021
 [Day 1 Notes](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/Day1.md)
 
@@ -28,6 +31,8 @@ Alexis Cook
 ## Day 2: Aug 3, 2021
 [Day 2 Notes](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/Day2.md)
 
+
+![Day2-Email-Assingment](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/Images/Day2-assignment.jpg)
 
 ## Day 3: Aug 4, 2021
 
