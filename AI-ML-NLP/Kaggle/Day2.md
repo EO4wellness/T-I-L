@@ -41,4 +41,4 @@ DONE!  SUccess.  Today's lesson was fun and enjoyable.  The only issue I had was
 Yesterday they said to do as a bonus 3 hours of study in the Kaggle Intro to Machine Learning course.  I noticed the ML Into course has the same number of lessons 
 as Python, so I'm going to try to do one a day along with the Python lessons. 
 
-![Bonus-Intro-to-ML)(https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/Images/Day2-IntroML-Bonus.jpg)
+![Bonus-Intro-to-ML](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/Images/Day2-IntroML-Bonus.jpg)
