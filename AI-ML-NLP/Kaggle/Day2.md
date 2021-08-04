@@ -20,6 +20,8 @@
 
 # Assignment: 
 ![Today's Assingment](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/Images/Day2-assignment.jpg)
+
+
 [x] Reading Assingment - Python 
 [x] Todays Workbook - Python 
 [x] Discord checkin 
