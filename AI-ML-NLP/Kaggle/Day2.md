@@ -79,3 +79,5 @@ Yesterday they said to do as a bonus 3 hours of study in the Kaggle Intro to Mac
 as Python, so I'm going to try to do one a day along with the Python lessons. 
 
 ![Bonus-Intro-to-ML](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/Images/Day2-IntroML-Bonus.jpg)
+
+[Video Walk thru of Assingment](https://youtu.be/55wRpH4sO-I)
