@@ -36,6 +36,12 @@ Below are articles worth reading, realted to WP:
 ## WP Media-Rich:
 * [Audio](https://css-tricks.com/pinned-audio-wordpress-theme/)
 
+## WP Testing: 
+* [Unit Testing](https://make.wordpress.org/cli/handbook/misc/plugin-unit-tests/)
+* [Intro to Unit Testing for WP](https://blog.nexcess.net/intro-unit-testing-wordpress/)
+* [An Introduction To Automated Testing Of WordPress Plugins With PHPUnit](https://www.smashingmagazine.com/2017/12/automated-testing-wordpress-plugins-phpunit/)
+* [Unit Testing](https://www.macarthur.me/posts/simpler-unit-testing-for-wordpress)
+
 ## Learning Log: 
 🖥️ 2021-03-10: Received notifications of URGENT threat volunerability with an installed theme/vulnerability report about it.  Logged in to discover WP had an available update to 5.7. Read up on the changes in 5.7 which is known as the Esperansa release. <br>
 🏎️ Began this log: 2021-03-10<br>
