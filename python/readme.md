@@ -62,6 +62,7 @@ Hello world!
 * How to [Use Python for Data Visualization](https://www.analyticsvidhya.com/blog/2021/06/guide-to-data-visualization-with-python-part-1/)
 * Amazing!: [Data Visualization](https://www.kdnuggets.com/2021/06/create-interactive-3d-chart-share.html)
 * [color text](https://pythonawesome.com/print-text-color-and-text-format-on-term-with-python/)
+* [David Bombal course](https://courses.davidbombal.com/courses/1170936/lectures/25333851)
 
 # Python Reading: 
 * [File Extensions in Python-what do they all mean?](http://dcjtech.info/topic/python-file-extensions/)
@@ -83,6 +84,7 @@ There is no way to learn code other than getting experience coding.  Here are so
 * Video URL: https://www.youtube.com/watch?v=8ext9G7xspg 
 * [Text To Speech With Python](https://www.udemy.com/share/101wZYAkMSdF5RRH4=/) A Udemy Free course using Pyttsx3, Talkey, Espeak, GTTS(online). 
 * [Fast API - A Framework built on Python](https://fastapi.tiangolo.com/)
+* [Build a Profanity Filter with Python](https://blog.logrocket.com/build-profanity-filter-api-graphql/)
 
 # Certification / Learning
 

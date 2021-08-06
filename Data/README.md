@@ -37,6 +37,9 @@
 * Data corruption is a real thing, which should be planned for BEFORE it occurs. 
 * Even the BEST troubleshooting, sometimes fails. 
 
+# Data Wrangling 
+* [Python: Data Wrangling](https://www.analyticsvidhya.com/blog/2021/08/lets-understand-all-about-data-wrangling/)
+
 
 ![Corrupted Data Issue](#) 
 

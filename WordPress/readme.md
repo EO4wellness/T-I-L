@@ -7,6 +7,7 @@ Below are articles worth reading, realted to WP:
 * [How to Hide a Mobile Menu in WordPress (Beginner’s Guide)](https://www.wpbeginner.com/wp-tutorials/how-to-hide-a-mobile-menu-in-wordpress-beginners-guide/) - further this website, in general, is excellent for learning all kinds of things you may need to learn about WP (or the specific version of WP you are using). 
 * [WP Onion](https://www.producthunt.com/posts/wponion) - I didn't know there were "frameworks" for WP.  I need to look into this topic more! 
 * [WP Blocks](https://css-tricks.com/a-crash-course-in-wordpress-block-filters/)
+* [Environment](https://github.com/alexmacarthur/wp-skateboard)
 
 ## WP Layouts:
 * [Blocks-Using this New Feature Smarter](https://theeventscalendar.com/blog/wordpress/how-to-work-with-wordpress-block-patterns/)
@@ -34,6 +35,12 @@ Below are articles worth reading, realted to WP:
 
 ## WP Media-Rich:
 * [Audio](https://css-tricks.com/pinned-audio-wordpress-theme/)
+
+## WP Testing: 
+* [Unit Testing](https://make.wordpress.org/cli/handbook/misc/plugin-unit-tests/)
+* [Intro to Unit Testing for WP](https://blog.nexcess.net/intro-unit-testing-wordpress/)
+* [An Introduction To Automated Testing Of WordPress Plugins With PHPUnit](https://www.smashingmagazine.com/2017/12/automated-testing-wordpress-plugins-phpunit/)
+* [Unit Testing](https://www.macarthur.me/posts/simpler-unit-testing-for-wordpress)
 
 ## Learning Log: 
 🖥️ 2021-03-10: Received notifications of URGENT threat volunerability with an installed theme/vulnerability report about it.  Logged in to discover WP had an available update to 5.7. Read up on the changes in 5.7 which is known as the Esperansa release. <br>
