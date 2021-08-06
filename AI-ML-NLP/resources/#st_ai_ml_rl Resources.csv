@@ -1,0 +1,30 @@
+﻿Title,Link,Category,Date,Description,Tags,Contributor
+Deep Reinforcement leaning Framework with Parallel training. ,https://github.com/DeNA/HandyRL,Code/Github/Gitlab,6/15/2021,Deep Reinforcement leaning pytroch framewrok which use parallel training. ,RL,Md.Masud.Rana
+AWS deep Racer ML and RL free course,https://www.udacity.com/course/aws-deepracer--ud014,Course,6/16/2021,Udacitty AWS deep Racer ML and RL free course,RL,Dawn
+Transformer-1,https://jalammar.github.io/illustrated-transformer/,Blog Post,6/17/2021,Details about Transformer,ML ( Deep learning base),Md.Masud.Rana
+Python Cheat Sheet for Data Science,https://www.valentinog.com/blog/ds/,Blog Post,,Python Cheat Sheet for Data Science,Others,Dawn
+Data centric AI competition ,https://https-deeplearning-ai.github.io/data-centric-comp/?utm_source=thebatch&utm_medium=newsletter&utm_campaign=dc-ai-competition&utm_content=dl-ai,Blog Post,6/20/2021,,ML ( Deep learning base),Dawn
+Microsoft AI classroom,https://www.microsoft.com/en-in/campaign/microsoftAIforstudents,Course,6/20/2021,,AI (Traditional ML ),JosePraveen
+Building Recommender Systems with Machine Learning and AI,https://www.udemy.com/share/101XKkAkMSdF5RRH4=/,Course,6/20/2021,,ML ( Deep learning base),Dawn
+ML interview books,https://huyenchip.com/ml-interviews-book/,Book,6/23/2021,,ML ( Deep learning base),Md.Masud.Rana
+Baseball and Machine learning- part 2,https://towardsdatascience.com/baseball-and-machine-learning-part-2-a-data-science-approach-to-2021-pitching-projections-530dbfe6dcc4,Blog Post,6/23/2021,,ML ( Deep learning base),Dawn
+Why do you need to creativity in design ai product,https://www.youtube.com/watch?v=TLCZqFu1XZU,Tutorial,6/25/2021,,ML ( Deep learning base),Dawn
+ML system design,https://stanford-cs329s.github.io/,Course,6/25/2021,,ML ( Deep learning base),Md.Masud.Rana
+Docker Foundation course,https://www.youtube.com/watch?v=zJ6WbK9zFpI,Tutorial,6/25/2021,,Others,Akshay.Bhardwaj
+HuggingFace Course -Transformer. ,https://huggingface.co/course/chapter1?fw=pt,Tutorial,6/27/2021,,ML ( Deep learning base),Md.Masud.Rana
+fastai / fastbook,https://github.com/fastai/fastbook,Code/Github/Gitlab,6/29/2021,"These notebooks cover an introduction to deep learning, fastai, and PyTorch.",ML ( Deep learning base),Bearbear
+PyTorch Lightning Tutorials,https://www.pytorchlightning.ai/tutorials,Tutorial,6/29/2021,GET UP TO SPEED Learn with Lightning,"AI (Traditional ML ),ML ( Deep learning base)",Bearbear
+Optuna - A hyperparameter optimization framework,https://optuna.org/,Code/Github/Gitlab,6/29/2021,Optuna - A hyperparameter optimization framework,AI (Traditional ML ),Bearbear
+optuna/optuna: A hyperparameter optimization framework,https://github.com/optuna/optuna,Code/Github/Gitlab,6/29/2021,Optuna GitHub,AI (Traditional ML ),Bearbear
+GPT-2,https://jalammar.github.io/illustrated-gpt2/,Blog Post,6/29/2021,Familiar with GPT-2,ML ( Deep learning base),Bearbear
+BERT,http://jalammar.github.io/illustrated-bert/,Blog Post,6/29/2021,Familiar with BERT history,ML ( Deep learning base),Bearbear
+bert-large-cased,https://huggingface.co/bert-large-cased,Code/Github/Gitlab,6/29/2021,bert-large-cased,ML ( Deep learning base),Bearbear
+transformers pretraind models,https://huggingface.co/transformers/pretrained_models.html,Code/Github/Gitlab,6/29/2021,transformers pretraind models,ML ( Deep learning base),Bearbear
+[Feature Launch] Upgrade to Notebooks on Google Cloud for more compute!,https://www.kaggle.com/product-feedback/159602,Blog Post,6/29/2021,Upgrade to Kaggle Notebooks on Google Cloud,Others,Bearbear
+In order to run AMP (Automatic Mixed Precision) effectively GPU selections,https://www.kaggle.com/discussion/198232,Blog Post,6/29/2021,In order to run AMP (Automatic Mixed Precision) effectively GPU selections,ML ( Deep learning base),Bearbear
+Kaggle BIPOC Grant Talk Notebook,https://www.kaggle.com/hsinwenchang/kaggle-bipoc-grant-talk,Code/Github/Gitlab,6/29/2021,This kernel is an slightly modified version from Jigsaw Unintended Bias in Toxicity Classification discussion originally wrote by sakami meant for let people who access this kernel can have a easy and quick hands on runnable version to experience how Optuna perform hyper-parameters tuning in GPT2 and BERT weight blending.,ML ( Deep learning base),Bearbear
+Non-maximum Suppression (NMS),https://towardsdatascience.com/non-maximum-suppression-nms-93ce178e177c,Blog Post,6/29/2021,Introduce what is Non-maximum Suppression (NMS),ML ( Deep learning base),Bearbear
+Recommendation system - tf-code,https://www.youtube.com/watch?v=BthUPVwA59s,Tutorial,6/30/2021,,ML ( Deep learning base),Dawn
+"Chip Huyen - bring machine learning into production. Through my work with Snorkel AI, NVIDIA, Netflix, and Primer, I’ve helped some of the world’s largest organizations develop and deploy machine learning systems.",https://huyenchip.com/?fbclid=IwAR0wees1qBY8krQqRsCNyDo_Yj2VJzRzAykimJFfG-IRUBYYwTl7psVn40U,Blog Post,7/4/2021,Chip Huyen - Bring machine learning into production.,ML ( Deep learning base),Bearbear
+Recommendation system -kaggle notebook,https://www.kaggle.com/niyamatalmass/lightfm-hybrid-recommendation-system,Blog Post,7/8/2021,,ML ( Deep learning base),Md.Masud.Rana
+Recommendation System - blog post,https://towardsdatascience.com/recommendation-system-in-python-lightfm-61c85010ce17,Blog Post,7/8/2021,,ML ( Deep learning base),Md.Masud.Rana
