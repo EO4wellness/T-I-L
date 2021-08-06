@@ -127,7 +127,7 @@ Adding one to a number is not very exciting, but we can apply these principles w
 
 Note: Both functions should return an array, and any new parameters should be added before the bookName parameter.
 
-* [My Code](#)
+* [My Code](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-exercises/08.FunctionalProgramming/06_refactor-global-variables-out-of-functions.js)
 
 
 ## 07 [Use the map Method to Extract Data from an Array](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/use-the-map-method-to-extract-data-from-an-array)
