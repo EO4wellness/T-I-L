@@ -54,3 +54,11 @@ Consult the [Getting Started Forum](https://www.kaggle.com/getting-started) here
 - [ ] [Kaggle Datasets](https://www.kaggle.com/datasets)
 - [ ] [Kaggle Notebooks](https://www.kaggle.com/code)
 - [x] Read Getting Started in the peer-reviewed Discord
+
+### Discord FAQs:
+* Useful Links giving in FAQs 
+* Kaggle Account [Phone Verification](https://www.kaggle.com/phone-verification-support)
+* Certification for Participation: [Titanic Submission-Day1](https://www.kaggle.com/c/titanic/submissions)
+* [Python](https://www.kaggle.com/learn/python)
+* [Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning)
+* [Intermediate Machine Learning](https://www.kaggle.com/learn/intermediate-machine-learning)
