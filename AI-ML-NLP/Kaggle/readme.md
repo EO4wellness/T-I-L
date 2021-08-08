@@ -62,3 +62,9 @@ Consult the [Getting Started Forum](https://www.kaggle.com/getting-started) here
 * [Python](https://www.kaggle.com/learn/python)
 * [Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning)
 * [Intermediate Machine Learning](https://www.kaggle.com/learn/intermediate-machine-learning)
+* To Reset a coding exercise: 
+- Visit kaggle.com/me/code
+- find the name of the exercise notebook you'd like to restart
+- select delete next to the correct one 
+- return to the course page 
+- start the exercise over again 
