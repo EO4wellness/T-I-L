@@ -43,6 +43,9 @@ Alexis Cook
 
 ## Day 6: Aug 7, 2021
 
+## Day 7: Aug 8, 2021
+[Day 7 Notes](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/Day7.md)
+
 ## Next: 
 ### Questions: 
 Consult the [Getting Started Forum](https://www.kaggle.com/getting-started) here. 
@@ -54,3 +57,17 @@ Consult the [Getting Started Forum](https://www.kaggle.com/getting-started) here
 - [ ] [Kaggle Datasets](https://www.kaggle.com/datasets)
 - [ ] [Kaggle Notebooks](https://www.kaggle.com/code)
 - [x] Read Getting Started in the peer-reviewed Discord
+
+### Discord FAQs:
+* Useful Links giving in FAQs 
+* Kaggle Account [Phone Verification](https://www.kaggle.com/phone-verification-support)
+* Certification for Participation: [Titanic Submission-Day1](https://www.kaggle.com/c/titanic/submissions)
+* [Python](https://www.kaggle.com/learn/python)
+* [Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning)
+* [Intermediate Machine Learning](https://www.kaggle.com/learn/intermediate-machine-learning)
+* To Reset a coding exercise: 
+- Visit kaggle.com/me/code
+- find the name of the exercise notebook you'd like to restart
+- select delete next to the correct one 
+- return to the course page 
+- start the exercise over again 
