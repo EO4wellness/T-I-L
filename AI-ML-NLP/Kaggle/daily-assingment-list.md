@@ -28,7 +28,7 @@ Complete this exercise (from Lesson 5 of the Python course)
 Read this tutorial (from Lesson 6 of the Python course)
 Complete this exercise (from Lesson 6 of the Python course)
 
-## Day 7
+## [Day 7](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/Day7.md)
 Read this tutorial (from Lesson 7 of the Python course)
 Complete this exercise (from Lesson 7 of the Python course)
 
