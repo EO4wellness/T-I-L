@@ -44,7 +44,7 @@ print(pi to 4 significant digits = {:.4}".format(math.pi))
 returns:
 ```
 
-![print-pi](#)
+![print-pi](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/Images/Day7-print-pi.jpg)
 
 * most of the rest of the math module are functions such as ```math.log```
 * Example: 
@@ -61,5 +61,5 @@ returns:
 ![Example-help-math.log](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/Images/Day7-Example_help-math-dot-log.jpg)
 
 
-[Resume Studies with: Other Important Syntax](#)
+[Resume Studies with: Other Important Syntax](https://www.kaggle.com/colinmorris/working-with-external-libraries)
 
