@@ -33,7 +33,7 @@ print(dir(math))
 returns: 
 ```
 
-![print-dir-math-returns](#)
+![print-dir-math-returns](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/Images/Day7-dir-math-returns.jpg)
 
 * The variables listed in dir(math) can be accessed by using dot syntax
 * some of them refer to values like math.pi which contains the value of pi
@@ -45,6 +45,7 @@ returns:
 ```
 
 ![print-pi](#)
+
 * most of the rest of the math module are functions such as ```math.log```
 * Example: 
 ```
@@ -57,7 +58,8 @@ returns:
 * recall if we don't know what math.log does (or any other item in any library) we can call ```help()```
 * Example: 
 
-![Example-help-math.log](#)
+![Example-help-math.log](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/Images/Day7-Example_help-math-dot-log.jpg)
 
 
+[Resume Studies with: Other Important Syntax](#)
 
