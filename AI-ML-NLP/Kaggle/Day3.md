@@ -7,7 +7,7 @@
 
 [x] Read Lesson
 
-[ ] Complete Exercise 
+[x] Complete Exercise 
 
 
 
