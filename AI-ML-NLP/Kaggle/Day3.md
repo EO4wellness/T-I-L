@@ -1,5 +1,8 @@
 # Day 3
 * 8/4/2021
+* it took me a parts of 2 days to finish this assingment
+* i learned a lot about debugging 
+
 
 # Assignment:
 
@@ -41,6 +44,6 @@ trying to look up a function? then remember to pass in the name of the function 
 
 
 ## Links:
-1. [Kaggle Python Course outline](#)
-2. [Kaggle Intro to ML](#)
+1. [Kaggle Python Course outline](https://www.kaggle.com/learn/python)
+2. [Kaggle Intro to ML](https://www.kaggle.com/learn/python)
 3. [Resources](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/shared-resources.md)
