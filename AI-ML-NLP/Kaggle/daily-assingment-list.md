@@ -40,7 +40,7 @@
 [Complete this exercise]( https://www.kaggle.com/kernels/fork/1275185) (from Lesson 6 of the Python course)
 
 
-## [Day 7](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/Day7.md)
+## [Day 7] 
 [Read this tutorial]() (from Lesson 7 of the Python course)
 
 [Complete this exercise]()  (from Lesson 7 of the Python course)
@@ -115,6 +115,18 @@
 
 ## Days 15-30
 Kaggle competition! 
-
 You’ll get the link to join on Day 15!
+
+## Results: 
+* The above links are the daily assingments. 
+* Below are my results. 
+* You can see my daily progress, or lack there of here: 
+* Week 1: Aug 2-8, 2021
+
+![Week1-Completed](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/Images/Week1_Kaggle-30DaysML-2021Challenge.jpg)
+
+
+* Week 2: Aug 9- , 2021
+* Week 3:
+* Week 4: 
 
