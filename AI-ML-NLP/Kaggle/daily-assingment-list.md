@@ -25,17 +25,17 @@ Complete this exercise (from Lesson 3 of the Python course)
 
 
 ## Day 5
-Read this tutorial (from Lesson 4 of the Python course)
+[Read this tutorial](https://www.kaggle.com/colinmorris/lists) (from Lesson 4 of the Python course)
 
-Complete this exercise (from Lesson 4 of the Python course)
+[Complete this exercise](https://www.kaggle.com/eo4wellness/exercise-lists/edit) (from Lesson 4 of the Python course)
 
-Read this tutorial (from Lesson 5 of the Python course)
+[Read this tutorial](https://www.kaggle.com/colinmorris/loops-and-list-comprehensions) (from Lesson 5 of the Python course)
 
-Complete this exercise (from Lesson 5 of the Python course)
+[Complete this exercise](https://www.kaggle.com/eo4wellness/exercise-loops-and-list-comprehensions/edit) (from Lesson 5 of the Python course)
 
 
 ## Day 6
-Read this tutorial (from Lesson 6 of the Python course)
+[Read this tutorial](https://www.kaggle.com/colinmorris/strings-and-dictionaries) (from Lesson 6 of the Python course)
 
 Complete this exercise (from Lesson 6 of the Python course)
 

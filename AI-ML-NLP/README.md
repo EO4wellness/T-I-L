@@ -23,3 +23,12 @@ This is the area of AI/ML application, which interests me the most.
 * [Log: AI/ML/NLP Papers](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/reading-study-resouces.md)
 * [NLP Lessons](https://explosion.ai/blog/applied-nlp-thinking)
 
+# Industry News:
+OpenAI unveiled a new programming language called [Triton](https://list.mg5.mlgn2ca.com/track/click?u=b11a07979bc4eedf18034b12329dd965&id=873fee47e40e44fe&e=0d4b55193b1a1c15) 
+which enables researchers with no CUDA experience 
+to write highly efficient GPU code.
+
+[Triton Dev Guide](https://list.mg5.mlgn2ca.com/track/click?u=b11a07979bc4eedf18034b12329dd965&id=ec542b50ead14be7&e=0d4b55193b1a1c15)
+[Cuda vs Triton](https://list.mg5.mlgn2ca.com/track/click?u=b11a07979bc4eedf18034b12329dd965&id=3572685d5dcc8ae3&e=0d4b55193b1a1c15)
+
+
