@@ -28,7 +28,7 @@ OpenAI unveiled a new programming language called [Triton](https://list.mg5.mlgn
 which enables researchers with no CUDA experience 
 to write highly efficient GPU code.
 
-[Triton Dev Guide]()
+[Triton Dev Guide](https://list.mg5.mlgn2ca.com/track/click?u=b11a07979bc4eedf18034b12329dd965&id=ec542b50ead14be7&e=0d4b55193b1a1c15)
 [Cuda vs Triton](https://list.mg5.mlgn2ca.com/track/click?u=b11a07979bc4eedf18034b12329dd965&id=3572685d5dcc8ae3&e=0d4b55193b1a1c15)
 
 
