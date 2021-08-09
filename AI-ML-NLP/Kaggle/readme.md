@@ -3,10 +3,15 @@
 * [Registered](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/Registration.md) via link to [google registration form](https://www.kaggle.com/thirty-days-of-ml?utm_medium=email&utm_source=gamma&utm_campaign=thirty-days-of-ml&utm_content=last-call). 
 * Later found invite email in my gmail.  
 * [Student Shared Resources](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/shared-resources.md)
+* What's Next? One possibility could be: [TPS August 2021-Things worth trying out this month](https://www.kaggle.com/c/tabular-playground-series-aug-2021/discussion/258009#1456044)
 
-![Registration](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/Images/2021-07-28-registered.jpg)
+
 
 ## Day 0: 30-Days Preview
+* Registration for Event: 
+![Registration](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/Images/2021-07-28-registered.jpg)
+
+* Scope/Overview 
 ```
 Overview of 30 Days of ML:
 
@@ -19,6 +24,7 @@ Next, you’ll be invited to a Kaggle machine learning competition to test your 
 Hope to see you there,
 Alexis Cook 
 ```
+
 
 [List of ALL assingments](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/daily-assingment-list.md)
 
