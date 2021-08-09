@@ -9,6 +9,7 @@
 
 ## Day 0: 30-Days Preview
 * Registration for Event: 
+
 ![Registration](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/Images/2021-07-28-registered.jpg)
 
 * Scope/Overview 
