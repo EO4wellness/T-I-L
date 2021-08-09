@@ -29,6 +29,6 @@ which enables researchers with no CUDA experience
 to write highly efficient GPU code.
 
 [Triton Dev Guide]()
-[Cuda vs Triton]()
+[Cuda vs Triton](https://list.mg5.mlgn2ca.com/track/click?u=b11a07979bc4eedf18034b12329dd965&id=3572685d5dcc8ae3&e=0d4b55193b1a1c15)
 
 
