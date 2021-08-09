@@ -33,7 +33,7 @@ Note my Status on the upper-right of the profile---> "Competitions Novice"
 - Master 
 - Grandmaster 
 
-![Kaggle-levels](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/Images/01-participation-levels.png)
+![Kaggle-levels](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/Images/Day1-participation-levels.png)
 
 * To level up you have to complete these tasks:
 - Run 1 notebook or script (today's assignment accomplishes this) 
@@ -41,7 +41,8 @@ Note my Status on the upper-right of the profile---> "Competitions Novice"
 - Make 1 comment 
 - Give 1 upvote 
 
-![Kaggle-level-up-tasks](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/Images/01-level-up-tasks.png)
+![Kaggle-level-up-tasks](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/Images/Day1-level-up-tasks.png)
+
 
 * Article: [Kaggle Progression System](https://www.kaggle.com/progression)
 
@@ -53,7 +54,8 @@ Note my Status on the upper-right of the profile---> "Competitions Novice"
 - [x] Follow Instructions. 
 - [x] Submit 
 - [x] Check back for competition results. 
-- [ ] Learn more - [Course: 3-Hour Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning)
+- [x] Learn more - [Course: 3-Hour Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning)
+- [ ] 
 
 ![Titanic-Progress](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/Images/Day1-Titantic-Submission.jpg)
 
@@ -84,7 +86,7 @@ Note my Status on the upper-right of the profile---> "Competitions Novice"
 Note my Status on the upper-right of the profile---> Competitions Contributor 
 
 ### Questions: 
-Consult the [Getting Started Forum](https://www.kaggle.com/getting-started) here. 
+Consult the [Getting Started Forum](https://www.kaggle.com/getting-started). 
 
 ### Discord
 * [Discord Kaggle Community Guidelines:](https://www.kaggle.com/community-guidelines)
