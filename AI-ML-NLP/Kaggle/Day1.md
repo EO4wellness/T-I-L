@@ -55,7 +55,7 @@ Note my Status on the upper-right of the profile---> "Competitions Novice"
 - [x] Submit 
 - [x] Check back for competition results. 
 - [x] Learn more - [Course: 3-Hour Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning)
-- [ ] 
+
 
 ![Titanic-Progress](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/Images/Day1-Titantic-Submission.jpg)
 
