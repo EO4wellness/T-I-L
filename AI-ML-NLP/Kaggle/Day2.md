@@ -10,15 +10,20 @@
 * Noticed my results were in from the competition we submitted in yesterday's studies. 
 * Yesterday said to check back later for the results.  
 * Here they are: 
+
 ![Stats](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/Images/Day2-Ranking.jpg)
 
 
 * Also there were new results of things happening on my profile. 
+
 ![Profile-stats-changing](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/Images/Day2-stats.jpg)
+
 
 * These help me visualize what's going on A) at Kaggle b) this event. 
 
+
 # Assignment: 
+
 ![Today's Assingment](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/Images/Day2-assignment.jpg)
 
 
@@ -27,6 +32,7 @@
 [x] Todays Workbook - Python 
 
 [x] Discord check in 
+
 
 ## STUDY Activities and Notes:
 
@@ -59,6 +65,7 @@ Lesson 1 : Hello, Python
 [  ] Return the lowest or highest number
 [  ] ```abs``` returns absolute value
 
+
 Number Operators: 
 ![number-operators](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/Images/Day2-Python-Operators.jpg)
 
@@ -78,6 +85,10 @@ DONE!  SUccess.  Today's lesson was fun and enjoyable.  The only issue I had was
 Yesterday they said to do as a bonus 3 hours of study in the Kaggle Intro to Machine Learning course.  I noticed the ML Into course has the same number of lessons 
 as Python, so I'm going to try to do one a day along with the Python lessons. 
 
+
 ![Bonus-Intro-to-ML](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/Images/Day2-IntroML-Bonus.jpg)
 
+
 [Video Walk thru of Assingment](https://youtu.be/55wRpH4sO-I)
+
+
