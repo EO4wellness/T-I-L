@@ -11,6 +11,7 @@ This is the area of AI/ML application, which interests me the most.
 [Free Online NLP course](https://huggingface.co/course/chapter1)
 
 # Studies
+* Besides annaconda, google colab, amazon sagemaker, you can also run juptyper notebooks for AI/ML/NLP in [VS Code](https://www.freecodecamp.org/news/how-to-use-google-colab-with-vs-code/)
 * This "T-I-L" repository is a chronical outlining my studies in various areas of tech, although I did also add some of my learning of various spoken/written human languages, to be able to more quickly come-up-to-speed learning MD and gaining enough experience in MD to really be able to properly put text on a page, the way I wanted to format it, without having to think much about the markdown "code" to do so.
 * My journey specific to learning more about machine learning and artificial intelligence came after seeing a lot of hoopla (some truthful, some wild imagination) about the topic(s).  I knew I had no clue what was currently going on in this area of tech and wanted to study enough to learn about it--be able to read a published paper about it, for example, and understand what was being dicsussed. Before I knew it, I was a Bertlesmann Tech Scholarship recipient and leraning about AI! Hurray!  Lovely experience, on a side note, and I would highly encourage anyone interested to also check it out!  
 * Been reading papers since and keeping an eye on the tech news about the topic(s) of interest in this area of tech. 
