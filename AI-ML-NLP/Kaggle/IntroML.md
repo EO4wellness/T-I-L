@@ -6,8 +6,12 @@
 This lesson Covers a very basic decision tree model and develops it a bit. 
 
 # Lesson 2: [Basic Data Exploration](https://www.kaggle.com/dansbecker/basic-data-exploration)
+[Notes: Day 8](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/Day8.md)
+
 
 # Lesson 3: Your First Machine Learning Model 
+[Notes: Day 9]() 
+
 
 # Lesson 4: Model Validation 
 
