@@ -10,10 +10,12 @@ This lesson Covers a very basic decision tree model and develops it a bit.
 
 
 # Lesson 3: Your First Machine Learning Model 
-[Notes: Day 9]() 
+![Day 9](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/Images/Day9-assignement.jpg) 
 
 
 # Lesson 4: Model Validation 
+[Notes: Day 9](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/Day9.md)
+
 
 # Lesson 5: Underfitting and Overfitting 
 
