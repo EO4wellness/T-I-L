@@ -1,3 +1,7 @@
+# Day 8: 
+!][assignment](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/Images/Day8-assignment.jpg)
+
+
 # How Models Work
 * While overly simplified, Decision Tree(s) make a good visual reference point to talk about ML models. 
 
@@ -30,3 +34,51 @@
 * Predict the price by tracing thru the decision tree 
 * pick the path (no mater how complex of a tree) by the path which best corresponds to the houses characteristics 
 * LEAF: the place where we make the prediction (at the bottom)
+
+
+# Basic Data Exploration
+
+## Using Pandas
+* the purpose is to get familiar with your data 
+* Pandas is a library 
+* Pandas is an important Data Scientist tool 
+* Pandas can be used to explore and manipulate data 
+* Pandas is abbreviated as PD
+* The command for pandas is: 
+```
+import pandas as pd 
+```
+
+## Data Frame 
+* An  important part of Pandas.  
+* A data frame holds the type of data most commonly thought of as a table 
+* Pandas Dataframe is similar to Excel or SQL table 
+* But pandas has some different, powerful methods
+* Example:
+```
+# save filepath to variable for easier access
+melbourne_file_path = '../input/melbourne-housing-snapshot/melb_data.csv'
+# read the data and store data in DataFrame titled melbourne_data
+melbourne_data = pd.read_csv(melbourne_file_path) 
+# print a summary of the data in Melbourne data
+melbourne_data.describe()
+```
+
+## Data Description/Interpretation
+* COUNT: how many rows have non-missing values 
+* missing data is a big topic (addressed later) 
+* MEAN (average)
+* STD (Standard Deviation) measurment of how numerically spread out the values are from one another 
+* MIN 25% 50% 75% and Max values are from statstics 
+* these are prounced "percentile" such as 25% is twenty-fifth percentile 
+
+# Exercises:
+
+### Step 1: Loading Data: 
+
+![Loading Data](Day8-load-data) 
+
+
+
+### Step 2: Review the Data: 
+![Table](Day8-exercise2)
