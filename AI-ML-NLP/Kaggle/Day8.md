@@ -76,9 +76,9 @@ melbourne_data.describe()
 
 ### Step 1: Loading Data: 
 
-![Loading Data](Day8-load-data) 
+![Loading Data](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/Images/Day8-load-data.jpg) 
 
 
 
 ### Step 2: Review the Data: 
-![Table](Day8-exercise2)
+![Table](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/Images/Day8-exercise2.jpg)
