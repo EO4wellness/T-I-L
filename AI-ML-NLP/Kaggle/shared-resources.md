@@ -22,6 +22,6 @@
 🔹(Day-10): Underfitting, Overfitting & Random Forests: https://lnkd.in/dufzN2Y7<br>
 🔹(Day-11): Machine Learning Model to Predict House Prices (Intro to ML Ends): https://lnkd.in/dFEPCR3q<br>
 🔹(Day-12 Part-1): Handling Missing Values in Datasets: https://lnkd.in/dZsE7RiR<br>
-🔹(Day-12 Part-2): Categorical Variables in Machine Learning: https://lnkd.in/dM77fG5q
-#machinelearning #datascience #deeplearning #artificialintelligence #ai #kaggle #ml<br>
+🔹(Day-12 Part-2): Categorical Variables in Machine Learning: https://lnkd.in/dM77fG5q<br>
+The above list is a repost from LinkedIn of helpful resources if/when stuck in this challenge. <br>
 
