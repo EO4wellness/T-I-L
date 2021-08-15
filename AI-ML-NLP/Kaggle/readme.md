@@ -99,6 +99,10 @@ Alexis Cook
 
 ## Day 12: Aug 13, 2021
 
+[Day 12 Notes](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/Day-12.md)
+
+![Day 12 Assignment](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/Images/Day-12-Assignment.jpg) 
+
 ## Day 13: Aug 14, 2021
 
 [Day 13 Notes](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/Day-13.md)
