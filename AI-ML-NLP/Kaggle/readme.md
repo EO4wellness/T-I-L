@@ -71,6 +71,10 @@ Alexis Cook
 ## Day 7: Aug 8, 2021
 [Day 7 Notes](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/Day7.md)
 
+
+![intro-ml](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/Images/EO4Wellness%20-%20Intro%20to%20Machine%20Learning.png)
+
+
 ## Next: 
 ### Questions: 
 Consult the [Getting Started Forum](https://www.kaggle.com/getting-started) here. 
