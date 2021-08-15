@@ -132,8 +132,55 @@ The predictions are
 ```
 
 ## Exercises: 
+* Today, I had some issues getting this exercise to run properly without error messages. 
+* I watched 4X Kaggle winner Abhishek Thakur's video to work past the issue(s) for today. 
+* https://www.youtube.com/watch?v=Ja6CzCuwbpc 
+* Figured I would also take notes on his presentation while working thru the specific problem. 
+
+### YouTube Notes: 
+* Simple machine learning models all have two things to keep in mind: X and Y 
+* X:   X is your samples and features 
+* Y:   Y is the target varable 
+* f is usually used for "features
+* targets are represented by Y
+* features are represented by X
+* Binary Classification Problem: you only have two targets
+* Multi Classification Problem (lots of targets) 
+* MultiLabel Classification: Y: 1 0 1 0 1 0 1 0 1 0 
+* MultiColumn Regresion (many different floats in many different columns) 
+* Single Column Regresion (one float in each row) 
 
 ### STEP 1: Specify Prediction Target:
+Print Head (just first few rows of data) example: 
+![Day9-print-head-just-1st-few-rows](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/Images/Day9-data.head_example.jpg)
+
+Practice printing the data: 
+![Day9-Data](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/Images/Day9-exercise1_read-data.jpg)
+
+
+Acctual Assignment (not the above practice session for what we just learned) to print the columns: 
+![Columns](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/Images/Day9-exercise1-solution.jpg)
+
 
 ### STEP 2: Create X: 
-![Day9-Exercise2]
+* Note CASE sensitive 
+* This is a capital letter X (and later a LOWER case y) 
+![Day9-Exercise2](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/Images/Day9-exercise2.jpg)
+
+Review the Data: 
+![Day9-Review](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/Images/Day9-review-data-1.jpg)
+
+![Review-Data](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/Images/Day9-review-data-2.jpg)
+
+
+### STEP 3:
+Fit the Model 
+![Step3](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/Images/Day9-exercise3-fit-the-modle.jpg) 
+
+### STEP 4:
+Make Predictions 
+![Predictions](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/Images/Day9-step4-predictions.jpg)
+
+### Results:
+![Think-Results](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/Images/Day9-results.jpg)
+
