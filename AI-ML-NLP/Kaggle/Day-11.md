@@ -25,3 +25,7 @@ rf_model_on_full_data.fit(X, y)
 this is the [2nd submission](https://www.kaggle.com/c/home-data-for-ml-course) since starting the #Kaggle30DaysML
 
 ![Submission](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/Images/Day-11_second-submission.jpg) 
+
+# Week 2: Course Completion: 
+![Course-Completion](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/Images/Week2-Intro-to-ML-Completed_2021-08-15.jpg)
+
