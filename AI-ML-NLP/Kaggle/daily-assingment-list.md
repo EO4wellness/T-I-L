@@ -130,6 +130,7 @@ You’ll get the link to join on Day 15!
 
 ![Week2-Half-Completed](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/Images/Week2-Intro-to-ML-Completed_2021-08-15.jpg)
 
-* Week 3:
+* Week 3: Aug 16- , 2021 
+
 * Week 4: 
 
