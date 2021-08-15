@@ -101,8 +101,15 @@ Alexis Cook
 
 ## Day 13: Aug 14, 2021
 
+[Day 13 Notes](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/Day-13.md)
+
+![Day 13 Assignment](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/Images/Day-13-Assignment.jpg) 
+
 ## Day 14: Aug 15, 2021
 
+[Day 14 Notes](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/Day-14.md)
+
+![Day 14 Assignement](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/Images/Day-14-Assignement.jpg)
 
 
 ##  Self Created Basic Tutorial:  
