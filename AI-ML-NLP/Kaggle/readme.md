@@ -74,6 +74,8 @@ Alexis Cook
 
 ![intro-ml](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/Images/EO4Wellness%20-%20Intro%20to%20Machine%20Learning.png)
 
+Self Created Basic Tutorial:  [How To Submit to Kaggle Competitions](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/Kaggle-Submissions_How-To.md)
+
 
 ## Next: 
 ### Questions: 

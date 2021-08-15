@@ -46,7 +46,7 @@ Lots of Jupyter Notebook cells to run without changes to prep everything before 
 * Seems each time I submit, I forget one or more step. 
 * Over time it will become familiar and habitual. 
 * Until then: notes!  :) 
-* How-To Document: [Kaggle Submissions]()
+* How-To Document: [Kaggle Submissions](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/How-To-Kaggle-Submissions.md)
 
 # [Missing Values](https://www.kaggle.com/alexisbcook/missing-values)
 * Lesson 2 in the course. 
