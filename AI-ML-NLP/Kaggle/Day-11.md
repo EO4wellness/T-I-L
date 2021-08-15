@@ -29,3 +29,6 @@ this is the [2nd submission](https://www.kaggle.com/c/home-data-for-ml-course) s
 # Week 2: Course Completion: 
 ![Course-Completion](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/Images/Week2-Intro-to-ML-Completed_2021-08-15.jpg)
 
+
+# Earned Cert
+![intro-ml-cert](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/Images/EO4Wellness%20-%20Intro%20to%20Machine%20Learning.png)
