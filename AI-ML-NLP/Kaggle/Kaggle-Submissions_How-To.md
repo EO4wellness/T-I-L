@@ -31,4 +31,7 @@ Allready Joined Example:
 
 ![Image3](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/Images/Submission-Instructions3.jpg)
 
+If your submission is a success, this is what you will see. 
+![Success](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/Images/Submission-Instructions_success_message.jpg)
+
 ![Image4](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/Images/Submission-Instructions4.jpg)
