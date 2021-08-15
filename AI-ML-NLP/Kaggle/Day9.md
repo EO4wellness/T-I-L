@@ -1,4 +1,7 @@
-# Day 9: Your First Machine Learning Model 
+# Day 9:
+* August 10, 2021
+* Your First Machine Learning Model 
+
 ![Day9-Assignment](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/Images/Day9-assignement.jpg)
 
 ## Lesson 3: Building your first Model: 
