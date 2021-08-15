@@ -22,3 +22,10 @@ This lesson Covers a very basic decision tree model and develops it a bit.
 # Lesson 6: Random Forests 
 
 # Lesson 7: Machine Learning Competitions 
+
+# Completed: Week 2
+![Complete](https://raw.githubusercontent.com/EO4wellness/T-I-L/main/AI-ML-NLP/Kaggle/Images/Week2-Intro-to-ML-Completed_2021-08-15.jpg)
+
+# Cert
+![Cert](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/Images/EO4Wellness%20-%20Intro%20to%20Machine%20Learning.png) 
+
