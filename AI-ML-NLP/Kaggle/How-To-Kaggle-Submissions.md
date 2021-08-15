@@ -15,10 +15,12 @@ Assumptions:
       The Join Competition example for detecting cancer, and the already enrolled example for the Titanic disaster [See Day 1]() 
 
 Enroll Example: 
+
 ![Cancer-Detection](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/Images/Submission-Instructions_Example-Join-Competition.jpg) 
 
 
 Allready Joined Example: 
+
 ![Titanic](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/Images/Submission-Instructions_Example-Already-Enrolled.jpg)
 
 # Kaggle Submission Process: 
