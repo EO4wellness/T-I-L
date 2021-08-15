@@ -77,7 +77,7 @@ Alexis Cook
 
 ## Day 9: Aug 10, 2021
 
-[Day 9 Notes](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/Day-9.md)
+[Day 9 Notes](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/Day9.md)
 
 ![Day 9 Assignment](https://raw.githubusercontent.com/EO4wellness/T-I-L/main/AI-ML-NLP/Kaggle/Images/Day9-assignement.jpg)
 
