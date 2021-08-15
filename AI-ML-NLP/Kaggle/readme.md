@@ -72,6 +72,20 @@ Alexis Cook
 [Day 7 Notes](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/Day7.md)
 
 
+## Day 8: Aug 9, 2021
+
+## Day 9: Aug 10, 2021
+
+## Day 10: Aug 11, 2021
+
+## Day 11: Aug 12, 2021
+
+## Day 12: Aug 13, 2021
+
+## Day 13: Aug 14, 2021
+
+## Day 14: Aug 15, 2021
+
 ![intro-ml](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/Images/EO4Wellness%20-%20Intro%20to%20Machine%20Learning.png)
 
 Self Created Basic Tutorial:  [How To Submit to Kaggle Competitions](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/Kaggle-Submissions_How-To.md)
