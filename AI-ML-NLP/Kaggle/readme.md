@@ -75,10 +75,17 @@ Alexis Cook
 ## Day 8: Aug 9, 2021
 
 ## Day 9: Aug 10, 2021
+[Day 9 Notes](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/Day-9.md)
+![Day 9 Assignment]()
 
 ## Day 10: Aug 11, 2021
+[Day 10 Notes](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/Day-10.md)
+![Day 10 Assignment]()
+
 
 ## Day 11: Aug 12, 2021
+[Day 11 Notes](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/Day-11.md)
+![Day 11 Assignment]()
 
 ## Day 12: Aug 13, 2021
 
