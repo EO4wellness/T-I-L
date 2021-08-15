@@ -159,34 +159,34 @@ console.log(names);
 The console would display the value [ 'John', 'Amy', 'camperCat' ].
 
 * Coding Assignment: The watchList array holds objects with information on several movies. Use map on watchList to assign a new array of objects to the ratings variable. Each movie in the new array should have only a title key with the name of the film, and a rating key with the IMDB rating. The code in the editor currently uses a for loop to do this, so you should replace the loop functionality with your map expression.
-* [My Code](#)
+* [My Code](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-exercises/08.FunctionalProgramming/07_use-the-map-method-to-extract-data-from-an-array.js)
 
 
 ## 08 [Implement map on a Prototype](#)
 * Notes: 
 * Coding Assignment: 
-* [My Code](#)
+* [My Code](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-exercises/08.FunctionalProgramming/08_implement-map-on-a-prototype.js)
 
 
 ## 09 [Use the filter Method to Extract Data from an Array](#)
 * Notes: 
 * Coding Assignment: 
-* [My Code](#)
+* [My Code](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-exercises/08.FunctionalProgramming/09_use-the-filter-method-to-extract-data-from-an-array.js)
 
 
 ## 10 [Implement the filter Method on a Prototype](#)
 * Notes: 
 * Coding Assignment: 
-* [My Code](#)
+* [My Code](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-exercises/08.FunctionalProgramming/10_implement-the-filter-method-on-a-prototype.js)
 
 
 ## 11 [Return Part of an Array Using the slice Method](#)
 * Notes: 
 * Coding Assignment: 
-* [My Code](#)
+* [My Code](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-exercises/08.FunctionalProgramming/11_return-part-of-an-array-using-the-slice-method.js)
 
 
-## 12 [Remove Elements from an Array Using slice Instead of splice](#)
+## 12 [Remove Elements from an Array Using slice Instead of splice](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-exercises/08.FunctionalProgramming/12_remove-elements-from-an-array-using-slice-instead-of-splice.js)
 * Notes: 
 * Coding Assignment: 
 * [My Code](#)
@@ -195,7 +195,7 @@ The console would display the value [ 'John', 'Amy', 'camperCat' ].
 ## 13 [Combine Two Arrays Using the concat Method](#)
 * Notes: 
 * Coding Assignment: 
-* [My Code](#)
+* [My Code](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-exercises/08.FunctionalProgramming/13_combine-two-arrays-using-the-concat-method.js)
 
 
 ## 14 [Add Elements to the End of an Array Using concat Instead of push](#)
@@ -207,7 +207,7 @@ The console would display the value [ 'John', 'Amy', 'camperCat' ].
 ## 15 [Use the reduce Method to Analyze Data](#)
 * Notes: 
 * Coding Assignment: 
-* [My Code](#)
+* [My Code](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-exercises/08.FunctionalProgramming/15_use-the-reduce-method-to-analyze-data.js)
 
 
 ## 16 [Use Higher-Order Functions map, filter, or reduce to Solve a Complex Problem](#)
