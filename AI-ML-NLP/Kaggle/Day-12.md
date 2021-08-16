@@ -123,9 +123,11 @@ Generalizations:  If less than 1/2 of the entries in a column are missing, then 
 
 ## Step 4: Generate Test Predictions 
 
-![Part A]()
+![Part A](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/Images/Day-12-Step4a-exercise.jpg)
 
-![Part B]()
+![Part B](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/Images/Day-12-Step4b-exercise.jpg)
+
+![Part C](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/Images/Day-12-Step4c-exercise.jpg)
 
 # Submit Results! 
 This is my 4th submission!  WOW!  
