@@ -54,3 +54,13 @@ If your submission is a success, this is what you will see.
 ![Success](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/Images/Submission-Instructions_success_message.jpg)
 
 ![Image4](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/Images/Submission-Instructions4.jpg)
+
+
+## Troubleshooting: 
+* Okay, we don't live in a perfect world!  Typos and other errors happen.  Now what?  
+* One happy accident discovery was the submit option wasn't there following the instructions above.  
+* WHAT?  Yes--there was an error so the option to submit didn't show up.  
+* The notebook "passed" and said "Correct" when I ran it, but it wouldn't give me the option due to a missed line or two in a cell.
+* Here is how that looks (note there isn't any place to click on OUTPUT due to the error-this error didn't show until "OPEN in VIEWER" step)  
+
+![Error](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/Images/Submission-Instructions_Troubleshoot.jpg)
