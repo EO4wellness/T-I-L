@@ -103,20 +103,23 @@ Generalizations:  If less than 1/2 of the entries in a column are missing, then 
 
 ![Part B](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/Images/Day-12-Step1-PartB-exercise1.jpg)
 
+![Part B-continued](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/Images/Day-12-Step1-PartB-exercise2.jpg)
+
+
 ## Step 2: Drop Columns of Missing Values  
 
-![Part A]()
+![Part A](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/Images/Day-12-Step2-exercise.jpg)
 
-![Part B]()
+![Part B](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/Images/Day-12-Step2b-exercise.jpg)
 
 
 ## Step 3: Imputation 
 
-![Part A1]()
+![Part A1](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/Images/Day-12-Step3-exercise.jpg)
 
-![Part A2]()
+![Part A2](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/Images/Day-12-Step3-a2-exercise.jpg)
 
-![Part B]()
+![Part B](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/Images/Day-12-Step3b-exercise.jpg)
 
 ## Step 4: Generate Test Predictions 
 
