@@ -103,7 +103,7 @@ Generalizations:  If less than 1/2 of the entries in a column are missing, then 
 
 ![Part B](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/Images/Day-12-Step1-PartB-exercise1.jpg)
 
-## Step 2: Drop Columns of Missing Values 
+## Step 2: Drop Columns of Missing Values  
 
 ![Part A]()
 
