@@ -33,11 +33,11 @@ If you need to [Review Random Forests](https://www.kaggle.com/dansbecker/random-
 Lots of Jupyter Notebook cells to run without changes to prep everything before arriving at the exercises: 
 
 ## Step 1: Evaluate Several Models 
-![Day12-step1](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/Images/Day12-exercise-step1.jpg)
+![Day12-step1](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/Images/Day-12-exercise-step1.jpg)
 
 
 ## Step 2: Generate Test Predictions
-![Day12-Step2](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/Images/Day12-exercises_step2.jpg)
+![Day12-Step2](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/Images/Day-12-exercises_step2.jpg)
 
 ### Personal Reflections: 
 * WOW!  I just submitted my 3rd ever kaggle submission.  
@@ -46,7 +46,7 @@ Lots of Jupyter Notebook cells to run without changes to prep everything before 
 * Seems each time I submit, I forget one or more step. 
 * Over time it will become familiar and habitual. 
 * Until then: notes!  :) 
-* How-To Document: [Kaggle Submissions](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/How-To-Kaggle-Submissions.md)
+* How-To Document: [Kaggle Submissions](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/Kaggle-Submissions_How-To.md)
 
 # [Missing Values](https://www.kaggle.com/alexisbcook/missing-values)
 * Lesson 2 in this intermediate course. 
@@ -93,7 +93,7 @@ Generalizations:  If less than 1/2 of the entries in a column are missing, then 
 * Again we are working with the [Housing Prices Competition for Kaggle](https://www.kaggle.com/c/home-data-for-ml-course)
 * Getting Started (lots of code to set up our exercises) 
 
-![Getting Started]() 
+![Getting Started](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/Images/Day-12-missing-data-getting-started.jpg) 
 
 ## Step 1: Preliminary Investigation 
 Part A 
