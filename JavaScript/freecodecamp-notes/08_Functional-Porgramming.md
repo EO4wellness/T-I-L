@@ -204,19 +204,29 @@ The console would display the value [ 'John', 'Amy', 'camperCat' ].
 * [My Code](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-exercises/08.FunctionalProgramming/14_add-elements-to-the-end-of-an-array-using-concat-instead-of-push.js)
 
 
-## 15 [Use the reduce Method to Analyze Data](#)
+## 15 [Use the reduce Method to Analyze Data](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/use-higher-order-functions-map-filter-or-reduce-to-solve-a-complex-problem)
 * Notes: 
 * Coding Assignment: 
 * [My Code](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-exercises/08.FunctionalProgramming/15_use-the-reduce-method-to-analyze-data.js)
 
 
 ## 16 [Use Higher-Order Functions map, filter, or reduce to Solve a Complex Problem](#)
-* Notes: 
+* Notes:  
+Now that you have worked through a few challenges using higher-order functions like map(), filter(), and reduce(), 
+you now get to apply them to solve a more complex challenge.
+
 * Coding Assignment: 
+Complete the code for the squareList function using any combination of map(), filter(), and reduce(). 
+The function should return a new array containing the squares of only the positive integers 
+(decimal numbers are not integers) when an array of real numbers is passed to it. 
+An example of an array of real numbers is [-3, 4.8, 5, 3, -3.2].
+
+Note: Your function should not use any kind of for or while loops or the forEach() function.
+
 * [My Code](#)
 
 
-## 17 [Sort an Array Alphabetically using the sort Method](#)
+## 17 [Sort an Array Alphabetically using the sort Method](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/sort-an-array-alphabetically-using-the-sort-method)
 * Notes: 
 * Coding Assignment: 
 * [My Code](#)
