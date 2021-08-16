@@ -50,4 +50,65 @@ Lots of Jupyter Notebook cells to run without changes to prep everything before 
 
 # [Missing Values](https://www.kaggle.com/alexisbcook/missing-values)
 * Lesson 2 in this intermediate course. 
-* 
+* we have 3 ways to deal with missing data/values 
+* Just why does data go missing some times?  
+* Life isn't perfect.  
+* Things don't always match 100% (a 2 bedroom home will never have data for a 3rd or 4th bedroom) 
+* Someone may have missed a question, or skipped it, when filling out a survey. 
+* There may have been some coruption in the data. 
+* Data could have been entered wrong. 
+* Most ML libraries have error messages for missing data. 
+* SciKit-Learn also has such an error message for missing values. 
+* When you see the error messages, you need to use one of these methods: 
+
+## MIssing Value Approaches: 
+1. Simple Option: Drop all columns with missing values. 
+2. Imputation: Fills in the missing values with some number. Usually the "fill" is the mean value for that column. 
+3. Extension to Imputation: You still fill in the missing value with the column mean, but you create a new column 
+   recording if you filled in some data or not. 
+   
+* Each of the 3 methods to deal with missing values has pros and cons. 
+* In the extnesion to imputation, in some cases it is helpful and in other cases it is a waste of time. 
+* In the simple option, it is silly to toss out an entire column for ONE missing row of information 
+* With Imputation you could have the mean over or under representing the missing value(s) 
+
+### Define Function to Measure Quality of Each Approach 
+* Define a function ```score_dataset()``` to compare different approaches dealing with missing values. 
+* The function will report the mean absolute error (MAE) from our random forest model. 
+* Examples: 
+```
+1.  MAE from Approach 1 (Drop columns with missing values):
+183550.22137772635 
+
+2.  MAE from Approach 2 (Imputation):
+178166.46269899711
+
+3. MAE from Approach 3 (An Extension to Imputation):
+178927.503183954 
+```
+
+Generalizations:  If less than 1/2 of the entries in a column are missing, then dropping the column to resolve missing values, also drops a lot of useful info. In this case, Imputation will perform better. 
+
+# Exercise: Lesson 2 Missing Values 
+* Again we are working with the [Housing Prices Competition for Kaggle](https://www.kaggle.com/c/home-data-for-ml-course)
+* Getting Started (lots of code to set up our exercises) 
+
+![Getting Started]() 
+
+## Step 1: Preliminary Investigation 
+Part A 
+
+Part B 
+
+## Step 2: Drop Columns of Missing Values 
+
+## Step 3: Imputation 
+Part A 
+Part B 
+
+## Step 4: Generate Test Predictions 
+Part A 
+Part B 
+
+# Submit Results! 
+This is my 4th submission!  WOW!  
