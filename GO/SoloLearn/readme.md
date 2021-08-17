@@ -6,8 +6,20 @@
 * Let’s Go!
 
 ## Getting Started: 
+1.1 Lesson
+1.2 Practice 
+2.1 Packages 
+3.1 Imports 
+4.1 Comments 
+5.1 Module Quiz: 
+6.1 Code Project 
 
 ## Basic Concepts: 
+7.1 Variables
+8.1 Data Types 
+9.1 Constants 
+
+
 
 ## Functions: 
 
