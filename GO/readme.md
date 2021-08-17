@@ -20,6 +20,8 @@
 * [Master GO Course](https://appliedgo.com/courses/mastergo/contents/5d68dad658535)
 * Practice GO code: https://gophercises.com/  signed up wtih gmail: https://courses.calhoun.io/courses/cor_gophercises  
 * https://exercism.io/tracks/go
+* www.gopl.io
+* 
 
 ## GO Code: 
 * Learn [GO by Example:](https://gobyexample.com/)
@@ -29,6 +31,8 @@
 * Presentations: https://gobyexample.com/
 * [Dynamic Reloading](https://www.youtube.com/watch?v=QVE4k_ry4EY&list=PLVEltXlEeWglOJ42pCxf22YVyxkzan3Xg&index=6)
 * GO Language https://golang.org/ref/spec 
+* https://www.jetbrains.com/go/
+* 
 
 ## Dicussion Topics: 
 *  [Python vs Go](https://www.bmc.com/blogs/go-vs-python/)
@@ -37,5 +41,6 @@
 *  [GO for BLockchain](https://medium.com/karachain/why-i-am-building-a-blockchain-in-go-6395a60b24dd)
 *  Go Topics https://appliedgo.net/ 
 *  Go REDIT https://www.reddit.com/r/golang/ 
+*  Weekly Newsletter https://golangweekly.com/ 
 
 https://coggle.it/diagram/XR3QwVj7lePgLaQj/t/go-lang
