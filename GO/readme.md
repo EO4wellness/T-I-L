@@ -4,10 +4,13 @@
 *  [GP Website](https://golang.org/)
 *  [GO User Documentation](https://golang.org/doc/)
 *  [Set up on Windows, OSX, or other](https://www.golang-book.com/guides/machine_setup)
+*  Intro https://www.geeksforgeeks.org/go-programming-language-introduction/ 
+*  Why Use Go? https://yalantis.com/blog/why-use-go/  
 
 ## Learning GO: 
 * [GO Tutorial](https://golang.org/doc/tutorial/getting-started)
 * [SoloLearn](https://www.sololearn.com/learning/1164) 
+* [W3Schools](https://www.w3schools.com/go/go_introduction.php)
 * [Top 15 Free GO learning Resources](https://digitaldefynd.com/best-golang-courses-training-tutorial-online/)
 * [LinkedIn Learning](https://www.linkedin.com/learning/developing-secure-software/building-security-into-software-development?autoplay=true&trk=learning-course_tocItem&upsellOrderOrigin=aff_src.aff-lilpar_c.partners_pkw.1238999_plc.Digital%20Defynd%20-%20LinkedIn%20Learning_pcrid.449670_learning)
 * [Code Cademy](https://www.codecademy.com/learn/learn-go)
@@ -32,7 +35,8 @@
 * [Dynamic Reloading](https://www.youtube.com/watch?v=QVE4k_ry4EY&list=PLVEltXlEeWglOJ42pCxf22YVyxkzan3Xg&index=6)
 * GO Language https://golang.org/ref/spec 
 * https://www.jetbrains.com/go/
-* 
+* GO Libraries https://awesome-go.com/  
+* Debugging https://github.com/derekparker/delve 
 
 ## Dicussion Topics: 
 *  [Python vs Go](https://www.bmc.com/blogs/go-vs-python/)
