@@ -1,4 +1,7 @@
 # GO 
+![Go Logo](https://sololearnuploads.azureedge.net/uploads/courses/1164.png)
+
+
 *  GO is a programming language developed by Google 
 *  Go is often knicknamed GOLANG because of the website URL it resides upon. 
 *  [GP Website](https://golang.org/)
