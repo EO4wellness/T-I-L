@@ -177,12 +177,6 @@ You might learn a lot about the map method if you implement your own version of 
 
 ## 09 [Use the filter Method to Extract Data from an Array](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/use-the-filter-method-to-extract-data-from-an-array)
 * Notes: 
-* Coding Assignment: 
-* [My Code](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-exercises/08.FunctionalProgramming/09_use-the-filter-method-to-extract-data-from-an-array.js)
-
-
-## 10 [Implement the filter Method on a Prototype](#)
-* Notes: 
 Another useful array function is Array.prototype.filter(), or simply filter().
 
 filter calls a function on each element of an array and returns a new array containing only the elements for which that function returns true. In other words, it filters the array, based on the function passed to it. Like map, it does this without needing to modify the original array.
@@ -327,7 +321,27 @@ console.log(filteredList);
 ```
 
 * Coding Assignment: The variable watchList holds an array of objects with information on several movies. Use a combination of filter and map on watchList to assign a new array of objects with only title and rating keys. The new array should only include objects where imdbRating is greater than or equal to 8.0. Note that the rating values are saved as strings in the object and you may need to convert them into numbers to perform mathematical operations on them.
+* [My Code](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-exercises/08.FunctionalProgramming/09_use-the-filter-method-to-extract-data-from-an-array.js)
 
+## 10 [Implement the filter Method on a Prototype](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/implement-the-filter-method-on-a-prototype)
+* Notes: You might learn a lot about the filter method if you implement your own version of it. It is recommended you use a for loop or Array.prototype.forEach().
+* Starting Code:
+```
+// The global variable
+var s = [23, 65, 98, 5];
+
+Array.prototype.myFilter = function(callback) {
+  // Only change code below this line
+  var newArray = [];
+  // Only change code above this line
+  return newArray;
+};
+
+var new_s = s.myFilter(function(item) {
+  return item % 2 === 1;
+});
+```
+* Coding Assignment: Write your own Array.prototype.myFilter(), which should behave exactly like Array.prototype.filter(). You should not use the built-in filter method. The Array instance can be accessed in the myFilter method using this.
 * [My Code](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-exercises/08.FunctionalProgramming/10_implement-the-filter-method-on-a-prototype.js)
 
 
