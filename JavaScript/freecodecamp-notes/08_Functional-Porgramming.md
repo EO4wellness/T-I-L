@@ -223,16 +223,16 @@ An example of an array of real numbers is [-3, 4.8, 5, 3, -3.2].
 
 Note: Your function should not use any kind of for or while loops or the forEach() function.
 
-* [My Code](#)
+* [My Code](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-exercises/08.FunctionalProgramming/16_use-higher-order-functions-map-filter-or-reduce-to-solve-a-complex-problem.js)
 
 
 ## 17 [Sort an Array Alphabetically using the sort Method](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/sort-an-array-alphabetically-using-the-sort-method)
 * Notes: 
 * Coding Assignment: 
-* [My Code](#)
+* [My Code](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-exercises/08.FunctionalProgramming/17_sort-an-array-alphabetically-using-the-sort-method.js)
 
 
-## 18 [Return a Sorted Array Without Changing the Original Array](#)
+## 18 [Return a Sorted Array Without Changing the Original Array](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/return-a-sorted-array-without-changing-the-original-array)
 * Notes: 
 * Coding Assignment: 
 * [My Code](#)
