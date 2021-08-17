@@ -18,7 +18,7 @@
 * [YouTube Walk Thru Tutorials](https://www.youtube.com/playlist?list=PLVEltXlEeWglOJ42pCxf22YVyxkzan3Xg)
 * https://www.calhoun.io/
 * [Master GO Course](https://appliedgo.com/courses/mastergo/contents/5d68dad658535)
-* Practice GO code: https://gophercises.com/ 
+* Practice GO code: https://gophercises.com/  signed up wtih gmail: https://courses.calhoun.io/courses/cor_gophercises  
 
 ## GO Code: 
 * Learn [GO by Example:](https://gobyexample.com/)
