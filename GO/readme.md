@@ -27,7 +27,7 @@
 * Practice GO code: https://gophercises.com/  signed up wtih gmail: https://courses.calhoun.io/courses/cor_gophercises  
 * https://exercism.io/tracks/go
 * www.gopl.io
-* 
+* https://www.educative.io/courses/prof-command-line-programs-go?utm_source=activecampaign&utm_medium=email&utm_campaign=prof-command-line-programs-go&vgo_ee=rJ5R%2FYnXUvXOqv02v9u0Lr9xNL0uPdWKPfefZlVJEEE%3D
 
 ## GO Code: 
 * Learn [GO by Example:](https://gobyexample.com/)
