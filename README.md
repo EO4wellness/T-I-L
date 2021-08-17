@@ -100,6 +100,7 @@ This is a record of my personal journey.  November, 2020 is the very beginning o
 ### General
 * Currently I volunteer as a webmaster for an organization.  
 * As part of my volunteer position, I research and teach-myself anything I don't already know how to do, in order to implement what I need to accomplish.  I've been doing this since the 1990s when I taught myself HTML from "view source" on Netscape, and then taught myself desk-top publishing reading the Help menu of InDesign. 
+* [How is a Programming Language Created?](https://thenewstack.io/how-does-an-engineer-create-a-programming-language/)
 
 
 ### Git/GitHub
