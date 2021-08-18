@@ -2,3 +2,5 @@
 ![Assingment](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/Images/Day-13-Assignment.jpg)
 
 https://www.kaggle.com/alexisbcook/categorical-variables 
+
+Today (Aug 18) I finished up this assignment and submitted yet another result. 
