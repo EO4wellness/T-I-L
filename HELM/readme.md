@@ -8,6 +8,8 @@
 *  Many maintainers (not just one company behind HELM) so it is likely "here to stay" 
 
 ![video-image](https://github.com/EO4wellness/T-I-L/blob/main/HELM/Images/helm-basic-video-content.jpg)
+
+
 [YouTube Basic Beginner Video: What is HELM?](https://youtu.be/fy8SHvNZGeE)
 
 ## Helm Charts: 
