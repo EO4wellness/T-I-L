@@ -640,12 +640,12 @@ alphabeticalOrder(["a", "d", "c", "a", "z", "g"]);
 
 
 ## 18 [Return a Sorted Array Without Changing the Original Array](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/return-a-sorted-array-without-changing-the-original-array)
-* Notes: 
-* Coding Assignment: 
-* [My Code](#)
+* Notes: A side effect of the sort method is that it changes the order of the elements in the original array. In other words, it mutates the array in place. One way to avoid this is to first concatenate an empty array to the one being sorted (remember that slice and concat return a new array), then run the sort method.
+* Coding Assignment: Use the sort method in the nonMutatingSort function to sort the elements of an array in ascending order. The function should return a new array, and not mutate the globalArray variable.
+* [My Code](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-exercises/08.FunctionalProgramming/18_return-a-sorted-array-without-changing-the-original-array.js)
 
 
-## 19 [Split a String into an Array Using the split Method](#)
+## 19 [Split a String into an Array Using the split Method](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/split-a-string-into-an-array-using-the-split-method)
 * Notes: 
 * Coding Assignment: 
 * [My Code](#)
