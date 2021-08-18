@@ -17,6 +17,11 @@
 ## Basic Concepts: 
 7.1 Variables
 8.1 Data Types 
+Another interesting feature of Go are zero values: variables that are declared without a value take the zero value of their type:
+0 for numeric types,
+false for the boolean type, 
+"" for strings.
+
 9.1 Constants 
 
 
