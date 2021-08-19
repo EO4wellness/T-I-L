@@ -647,13 +647,37 @@ alphabeticalOrder(["a", "d", "c", "a", "z", "g"]);
 
 ## 19 [Split a String into an Array Using the split Method](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/split-a-string-into-an-array-using-the-split-method)
 * Notes: 
-* Coding Assignment: 
-* [My Code](#)
+
+The split method splits a string into an array of strings. It takes an argument for the delimiter, which can be a character to use to break up the string or a regular expression. For example, if the delimiter is a space, you get an array of words, and if the delimiter is an empty string, you get an array of each character in the string.
+
+Here are two examples that split one string by spaces, then another by digits using a regular expression:
+```
+var str = "Hello World";
+var bySpace = str.split(" ");
+
+var otherString = "How9are7you2today";
+var byDigits = otherString.split(/\d/);
+```
+bySpace would have the value ["Hello", "World"] and byDigits would have the value ["How", "are", "you", "today"].
+
+Since strings are immutable, the split method makes it easier to work with them.
+* Useful Link: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions 
+* Coding Assignment: Use the split method inside the splitify function to split str into an array of words. The function should return the array. Note that the words are not always separated by spaces, and the array should not contain punctuation.
+* [My Code](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-exercises/08.FunctionalProgramming/19_split-a-string-into-an-array-using-the-split-method.js)
 
 
-## 20 [Combine an Array into a String Using the join Method](#)
-* Notes: 
-* Coding Assignment: 
+## 20 [Combine an Array into a String Using the join Method](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/combine-an-array-into-a-string-using-the-join-method)
+* Notes: The join method is used to join the elements of an array together to create a string. 
+* It takes an argument for the delimiter that is used to separate the array elements in the string.
+* Here's an example:
+```
+var arr = ["Hello", "World"];
+var str = arr.join(" ");
+```
+* str would have a value of the string Hello World.
+
+* Coding Assignment: Use the join method (among others) inside the sentensify function to make a sentence from the words in the string str. The function should return a string. For example, I-like-Star-Wars would be converted to I like Star Wars. For this challenge, do not use the replace method.
+
 * [My Code](#)
 
 
