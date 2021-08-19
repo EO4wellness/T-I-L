@@ -57,3 +57,4 @@ https://coggle.it/diagram/XR3QwVj7lePgLaQj/t/go-lang
 * [Hugo](https://gohugo.io/)
 * [Hugo App Building](https://blog.logrocket.com/build-an-app-with-hugo/)
 * [Top Frameworks 2021](https://www.geeksforgeeks.org/top-5-golang-frameworks-in-2020/)
+* [Useful GoRoutines](https://www.geeksforgeeks.org/goroutines-concurrency-in-golang/)
