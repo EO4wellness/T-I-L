@@ -40,6 +40,7 @@
 * https://www.jetbrains.com/go/
 * GO Libraries https://awesome-go.com/  
 * Debugging https://github.com/derekparker/delve 
+* [Formating GO](https://www.geeksforgeeks.org/time-formatting-in-golang/)
 
 ## Dicussion Topics: 
 *  [Python vs Go](https://www.bmc.com/blogs/go-vs-python/)
@@ -51,3 +52,10 @@
 *  Weekly Newsletter https://golangweekly.com/ 
 
 https://coggle.it/diagram/XR3QwVj7lePgLaQj/t/go-lang
+
+## GO Frameworks: 
+* [What is Hugo](https://gohugo.io/about/what-is-hugo/)
+* [Hugo](https://gohugo.io/)
+* [Hugo App Building](https://blog.logrocket.com/build-an-app-with-hugo/)
+* [Top Frameworks 2021](https://www.geeksforgeeks.org/top-5-golang-frameworks-in-2020/)
+* [Useful GoRoutines](https://www.geeksforgeeks.org/goroutines-concurrency-in-golang/)
