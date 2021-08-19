@@ -40,6 +40,7 @@
 * https://www.jetbrains.com/go/
 * GO Libraries https://awesome-go.com/  
 * Debugging https://github.com/derekparker/delve 
+* [Formating GO](https://www.geeksforgeeks.org/time-formatting-in-golang/)
 
 ## Dicussion Topics: 
 *  [Python vs Go](https://www.bmc.com/blogs/go-vs-python/)
