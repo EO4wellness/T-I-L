@@ -32,6 +32,7 @@ Below are articles worth reading, realted to WP:
 * [Hide WP](https://wordpress.org/plugins/wp-hide-security-enhancer/)
 * [2021 Guide/updates](https://www.codeinwp.com/blog/secure-your-wordpress-website/)
 * [Vulnerability checklist](https://blog.hubspot.com/website/wordpress-security-issues)
+* [Hiding Malware](https://www.wordfence.com/blog/2021/08/wordpress-malware-camouflaged-as-code/) in Code and [AI to Detect](https://www.wordfence.com/blog/2021/02/machine-learning-gives-wordfence-an-advantage/) it.
 
 ## WP Media-Rich:
 * [Audio](https://css-tricks.com/pinned-audio-wordpress-theme/)
