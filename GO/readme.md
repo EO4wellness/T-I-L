@@ -1,5 +1,5 @@
 # GO 
-![Go Logo](https://sololearnuploads.azureedge.net/uploads/courses/1164.png)
+![Go Logo](https://github.com/EO4wellness/T-I-L/blob/main/GO/Images/Go-logo-image.png
 
 
 *  GO is a programming language developed by Google 
@@ -54,8 +54,13 @@
 https://coggle.it/diagram/XR3QwVj7lePgLaQj/t/go-lang
 
 ## GO Frameworks: 
+![Common-Go-Frameworks](https://github.com/EO4wellness/T-I-L/blob/main/GO/Images/webframework-golang.png)
+
+
 * [What is Hugo](https://gohugo.io/about/what-is-hugo/)
 * [Hugo](https://gohugo.io/)
 * [Hugo App Building](https://blog.logrocket.com/build-an-app-with-hugo/)
 * [Top Frameworks 2021](https://www.geeksforgeeks.org/top-5-golang-frameworks-in-2020/)
 * [Useful GoRoutines](https://www.geeksforgeeks.org/goroutines-concurrency-in-golang/)
+
+![GO-LANG](https://github.com/EO4wellness/T-I-L/blob/main/GO/Images/golang.jpeg)
