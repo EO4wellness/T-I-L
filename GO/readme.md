@@ -51,3 +51,9 @@
 *  Weekly Newsletter https://golangweekly.com/ 
 
 https://coggle.it/diagram/XR3QwVj7lePgLaQj/t/go-lang
+
+## GO Frameworks: 
+* [What is Hugo](https://gohugo.io/about/what-is-hugo/)
+* [Hugo](https://gohugo.io/)
+* [Hugo App Building](https://blog.logrocket.com/build-an-app-with-hugo/)
+* [Top Frameworks 2021](https://www.geeksforgeeks.org/top-5-golang-frameworks-in-2020/)
