@@ -1,4 +1,4 @@
-# GO - SoloLearn 
+# GO - [SoloLearn](https://www.sololearn.com/learning/1164)
 * Course Link: https://www.sololearn.com/learning/1164
 * Go (sometimes called Golang) is one of the most popular and powerful open-source programming languages today. 
 * Developed by Google, it’s used on servers, web development, and even command-line interfaces. 
