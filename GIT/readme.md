@@ -8,6 +8,7 @@
 * [Undoing Mistakes-1](https://www.smashingmagazine.com/2021/05/undoing-mistakes-git-part1/)
 * [Undoing Mistakes-2](https://www.smashingmagazine.com/2021/05/undoing-mistakes-git-part2/)
 * Yet another [Undoing Mistakes article](https://gist.github.com/silent1mezzo/1670623)
+* [Delete all Commit History](https://avneesh0612.hashnode.dev/how-to-delete-all-commit-history-in-github) - A solution when credentials were accidentally spillled in public. 
 
 ## Resources:
 * [GitHub Desktop](https://desktop.github.com/)
