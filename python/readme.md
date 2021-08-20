@@ -85,6 +85,7 @@ There is no way to learn code other than getting experience coding.  Here are so
 * [Text To Speech With Python](https://www.udemy.com/share/101wZYAkMSdF5RRH4=/) A Udemy Free course using Pyttsx3, Talkey, Espeak, GTTS(online). 
 * [Fast API - A Framework built on Python](https://fastapi.tiangolo.com/)
 * [Build a Profanity Filter with Python](https://blog.logrocket.com/build-profanity-filter-api-graphql/)
+* [Python Twitter bot](https://pythonawesome.com/twitter-bot-that-finds-new-friends-in-twitter/)
 
 # Certification / Learning
 
