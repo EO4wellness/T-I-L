@@ -1,5 +1,5 @@
 # GO 
-![Go Logo](https://github.com/EO4wellness/T-I-L/blob/main/GO/Images/Go-logo-image.png
+![Go Logo](https://github.com/EO4wellness/T-I-L/blob/main/GO/Images/Go-logo-image.png)
 
 
 *  GO is a programming language developed by Google 
@@ -50,6 +50,7 @@
 *  Go Topics https://appliedgo.net/ 
 *  Go REDIT https://www.reddit.com/r/golang/ 
 *  Weekly Newsletter https://golangweekly.com/ 
+*  https://blog.logrocket.com/advanced-unit-testing-patterns-go/
 
 https://coggle.it/diagram/XR3QwVj7lePgLaQj/t/go-lang
 
