@@ -6,7 +6,7 @@
 * Let’s Go!
 
 ## Getting Started: 
-![Cute-Go-Logo]() 
+![Cute-Go-Logo](https://github.com/EO4wellness/T-I-L/blob/main/GO/SoloLearn/Images/go-logo-cute.jpg) 
 
 1.1 Lesson
 * Wecome to GO
@@ -282,7 +282,7 @@ func main() {
 }
 
 ```
-![Section-Completed]()
+![Section-Completed](https://github.com/EO4wellness/T-I-L/blob/main/GO/SoloLearn/Images/GO-basics-completed-SL.jpg)
 
 
 ## Basic Concepts: 
