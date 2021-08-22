@@ -14,6 +14,7 @@
 * [GitHub Desktop](https://desktop.github.com/)
 * [Desktop Help Documentation](https://docs.github.com/en/desktop)
 * [How-Tos of all major Git functions](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop)
+* https://enlear.academy/git-merge-vs-git-rebase-25770af1e427
 
 ## Git Hub Organizations 
 * If you are going to code, you need a team, or to be part of a team.  
