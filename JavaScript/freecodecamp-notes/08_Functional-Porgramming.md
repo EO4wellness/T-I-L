@@ -723,15 +723,63 @@ The every method would return false here.
 * [My Code](#)
 
 
-## 23 [Use the some Method to Check that Any Elements in an Array Meet a Criteria](#)
+## 23 [Use the some Method to Check that Any Elements in an Array Meet a Criteria](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/use-the-some-method-to-check-that-any-elements-in-an-array-meet-a-criteria)
 * Notes: 
-* Coding Assignment: 
+The some method works with arrays to check if any element passes a particular test. It returns a Boolean value - true if any of the values meet the criteria, false if not.
+
+For example, the following code would check if any element in the numbers array is less than 10:
+```
+var numbers = [10, 50, 8, 220, 110, 11];
+numbers.some(function(currentValue) {
+  return currentValue < 10;
+});
+```
+The some method would return true.
+
+* Coding Assignment: Use the some method inside the checkPositive function to check if any element in arr is positive. The function should return a Boolean value.
 * [My Code](#)
 
 
-## 24 [Introduction to Currying and Partial Application](#)
+## 24 [Introduction to Currying and Partial Application](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/introduction-to-currying-and-partial-application)
 * Notes: 
-* Coding Assignment: 
+
+The arity of a function is the number of arguments it requires. Currying a function means to convert a function of N arity into N functions of arity 1.
+
+In other words, it restructures a function so it takes one argument, then returns another function that takes the next argument, and so on.
+
+Here's an example:
+
+function unCurried(x, y) {
+  return x + y;
+}
+
+function curried(x) {
+  return function(y) {
+    return x + y;
+  }
+}
+
+const curried = x => y => x + y
+
+curried(1)(2)
+
+curried(1)(2) would return 3.
+
+This is useful in your program if you can't supply all the arguments to a function at one time. You can save each function call into a variable, which will hold the returned function reference that takes the next argument when it's available. Here's an example using the curried function in the example above:
+
+var funcForY = curried(1);
+console.log(funcForY(2)); // 3
+
+Similarly, partial application can be described as applying a few arguments to a function at a time and returning another function that is applied to more arguments. Here's an example:
+
+function impartial(x, y, z) {
+  return x + y + z;
+}
+var partialFn = impartial.bind(this, 1, 2);
+partialFn(10); // 13
+
+
+* Coding Assignment: Fill in the body of the add function so it uses currying to add parameters x, y, and z.
 * [My Code](#)
 
 
