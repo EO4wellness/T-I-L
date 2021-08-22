@@ -9,3 +9,4 @@
 
 # Learning Tools:
 * [Basics-a quick Tutorial](https://www.infoworld.com/video/102019/creating-a-simple-web-app-with-python-and-flask)
+* [Flask History on wiki](https://en.m.wikipedia.org/wiki/Flask_(web_framework))
