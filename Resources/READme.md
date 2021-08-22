@@ -16,4 +16,5 @@ This repo is used for linking to, and storing, items I've obtained freely online
 		5. Create a new network location. 
 
 * This file was originally offered as a free-to-everyone download from the Zapier website and was originally named "c43f5053f73f750e90ede3de4c65073e.pdf" I edited the file name to suit my ability to remember what's inside the document when I see it in my files list. 
+* Tips to better use Google for research: https://blog.suhailkakar.com/how-to-use-google-like-a-pro  
 

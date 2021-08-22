@@ -8,11 +8,13 @@
 * [Undoing Mistakes-1](https://www.smashingmagazine.com/2021/05/undoing-mistakes-git-part1/)
 * [Undoing Mistakes-2](https://www.smashingmagazine.com/2021/05/undoing-mistakes-git-part2/)
 * Yet another [Undoing Mistakes article](https://gist.github.com/silent1mezzo/1670623)
+* [Delete all Commit History](https://avneesh0612.hashnode.dev/how-to-delete-all-commit-history-in-github) - A solution when credentials were accidentally spillled in public. 
 
 ## Resources:
 * [GitHub Desktop](https://desktop.github.com/)
 * [Desktop Help Documentation](https://docs.github.com/en/desktop)
 * [How-Tos of all major Git functions](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop)
+* https://enlear.academy/git-merge-vs-git-rebase-25770af1e427
 
 ## Git Hub Organizations 
 * If you are going to code, you need a team, or to be part of a team.  

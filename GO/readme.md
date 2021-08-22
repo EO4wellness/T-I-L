@@ -1,5 +1,5 @@
 # GO 
-![Go Logo](https://sololearnuploads.azureedge.net/uploads/courses/1164.png)
+![Go Logo](https://github.com/EO4wellness/T-I-L/blob/main/GO/Images/Go-logo-image.png)
 
 
 *  GO is a programming language developed by Google 
@@ -40,6 +40,7 @@
 * https://www.jetbrains.com/go/
 * GO Libraries https://awesome-go.com/  
 * Debugging https://github.com/derekparker/delve 
+* [Formating GO](https://www.geeksforgeeks.org/time-formatting-in-golang/)
 
 ## Dicussion Topics: 
 *  [Python vs Go](https://www.bmc.com/blogs/go-vs-python/)
@@ -49,5 +50,18 @@
 *  Go Topics https://appliedgo.net/ 
 *  Go REDIT https://www.reddit.com/r/golang/ 
 *  Weekly Newsletter https://golangweekly.com/ 
+*  https://blog.logrocket.com/advanced-unit-testing-patterns-go/
 
 https://coggle.it/diagram/XR3QwVj7lePgLaQj/t/go-lang
+
+## GO Frameworks: 
+![Common-Go-Frameworks](https://github.com/EO4wellness/T-I-L/blob/main/GO/Images/webframework-golang.png)
+
+
+* [What is Hugo](https://gohugo.io/about/what-is-hugo/)
+* [Hugo](https://gohugo.io/)
+* [Hugo App Building](https://blog.logrocket.com/build-an-app-with-hugo/)
+* [Top Frameworks 2021](https://www.geeksforgeeks.org/top-5-golang-frameworks-in-2020/)
+* [Useful GoRoutines](https://www.geeksforgeeks.org/goroutines-concurrency-in-golang/)
+
+![GO-LANG](https://github.com/EO4wellness/T-I-L/blob/main/GO/Images/golang.jpeg)

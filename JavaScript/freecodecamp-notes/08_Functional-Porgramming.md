@@ -647,37 +647,139 @@ alphabeticalOrder(["a", "d", "c", "a", "z", "g"]);
 
 ## 19 [Split a String into an Array Using the split Method](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/split-a-string-into-an-array-using-the-split-method)
 * Notes: 
-* Coding Assignment: 
+
+The split method splits a string into an array of strings. It takes an argument for the delimiter, which can be a character to use to break up the string or a regular expression. For example, if the delimiter is a space, you get an array of words, and if the delimiter is an empty string, you get an array of each character in the string.
+
+Here are two examples that split one string by spaces, then another by digits using a regular expression:
+```
+var str = "Hello World";
+var bySpace = str.split(" ");
+
+var otherString = "How9are7you2today";
+var byDigits = otherString.split(/\d/);
+```
+bySpace would have the value ["Hello", "World"] and byDigits would have the value ["How", "are", "you", "today"].
+
+Since strings are immutable, the split method makes it easier to work with them.
+* Useful Link: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions 
+* Coding Assignment: Use the split method inside the splitify function to split str into an array of words. The function should return the array. Note that the words are not always separated by spaces, and the array should not contain punctuation.
+* [My Code](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-exercises/08.FunctionalProgramming/19_split-a-string-into-an-array-using-the-split-method.js)
+
+
+## 20 [Combine an Array into a String Using the join Method](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/combine-an-array-into-a-string-using-the-join-method)
+* Notes: The join method is used to join the elements of an array together to create a string. 
+* It takes an argument for the delimiter that is used to separate the array elements in the string.
+* Here's an example:
+```
+var arr = ["Hello", "World"];
+var str = arr.join(" ");
+```
+* str would have a value of the string Hello World.
+
+* Coding Assignment: Use the join method (among others) inside the sentensify function to make a sentence from the words in the string str. The function should return a string. For example, I-like-Star-Wars would be converted to I like Star Wars. For this challenge, do not use the replace method.
+
 * [My Code](#)
 
 
-## 20 [Combine an Array into a String Using the join Method](#)
+## 21 [Apply Functional Programming to Convert Strings to URL Slugs](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/apply-functional-programming-to-convert-strings-to-url-slugs)
 * Notes: 
+
+The last several challenges covered a number of useful array and string methods that follow functional programming principles. We've also learned about reduce, which is a powerful method used to reduce problems to simpler forms. From computing averages to sorting, any array operation can be achieved by applying it. Recall that map and filter are special cases of reduce.
+
+Let's combine what we've learned to solve a practical problem.
+
+Many content management sites (CMS) have the titles of a post added to part of the URL for simple bookmarking purposes. For example, if you write a Medium post titled Stop Using Reduce, it's likely the URL would have some form of the title string in it (.../stop-using-reduce). You may have already noticed this on the freeCodeCamp site.
+
 * Coding Assignment: 
+
+Fill in the urlSlug function so it converts a string title and returns the hyphenated version for the URL. You can use any of the methods covered in this section, and don't use replace. Here are the requirements:
+
+The input is a string with spaces and title-cased words
+
+The output is a string with the spaces between words replaced by a hyphen (-)
+
+The output should be all lower-cased letters
+
+The output should not have any spaces
+
 * [My Code](#)
 
 
-## 21 [Apply Functional Programming to Convert Strings to URL Slugs](#)
+## 22 [Use the every Method to Check that Every Element in an Array Meets a Criteria](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/use-the-every-method-to-check-that-every-element-in-an-array-meets-a-criteria)
 * Notes: 
-* Coding Assignment: 
+
+The every method works with arrays to check if every element passes a particular test. It returns a Boolean value - true if all values meet the criteria, false if not.
+
+For example, the following code would check if every element in the numbers array is less than 10:
+```
+var numbers = [1, 5, 8, 0, 10, 11];
+numbers.every(function(currentValue) {
+  return currentValue < 10;
+});
+```
+The every method would return false here.
+
+* Coding Assignment: Use the every method inside the checkPositive function to check if every element in arr is positive. The function should return a Boolean value.
 * [My Code](#)
 
 
-## 22 [Use the every Method to Check that Every Element in an Array Meets a Criteria](#)
+## 23 [Use the some Method to Check that Any Elements in an Array Meet a Criteria](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/use-the-some-method-to-check-that-any-elements-in-an-array-meet-a-criteria)
 * Notes: 
-* Coding Assignment: 
+The some method works with arrays to check if any element passes a particular test. It returns a Boolean value - true if any of the values meet the criteria, false if not.
+
+For example, the following code would check if any element in the numbers array is less than 10:
+```
+var numbers = [10, 50, 8, 220, 110, 11];
+numbers.some(function(currentValue) {
+  return currentValue < 10;
+});
+```
+The some method would return true.
+
+* Coding Assignment: Use the some method inside the checkPositive function to check if any element in arr is positive. The function should return a Boolean value.
 * [My Code](#)
 
 
-## 23 [Use the some Method to Check that Any Elements in an Array Meet a Criteria](#)
+## 24 [Introduction to Currying and Partial Application](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/introduction-to-currying-and-partial-application)
 * Notes: 
-* Coding Assignment: 
-* [My Code](#)
+
+The arity of a function is the number of arguments it requires. Currying a function means to convert a function of N arity into N functions of arity 1.
+
+In other words, it restructures a function so it takes one argument, then returns another function that takes the next argument, and so on.
+
+Here's an example:
+
+function unCurried(x, y) {
+  return x + y;
+}
+
+function curried(x) {
+  return function(y) {
+    return x + y;
+  }
+}
+
+const curried = x => y => x + y
+
+curried(1)(2)
+
+curried(1)(2) would return 3.
+
+This is useful in your program if you can't supply all the arguments to a function at one time. You can save each function call into a variable, which will hold the returned function reference that takes the next argument when it's available. Here's an example using the curried function in the example above:
+
+var funcForY = curried(1);
+console.log(funcForY(2)); // 3
+
+Similarly, partial application can be described as applying a few arguments to a function at a time and returning another function that is applied to more arguments. Here's an example:
+
+function impartial(x, y, z) {
+  return x + y + z;
+}
+var partialFn = impartial.bind(this, 1, 2);
+partialFn(10); // 13
 
 
-## 24 [Introduction to Currying and Partial Application](#)
-* Notes: 
-* Coding Assignment: 
+* Coding Assignment: Fill in the body of the add function so it uses currying to add parameters x, y, and z.
 * [My Code](#)
 
 

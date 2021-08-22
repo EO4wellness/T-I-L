@@ -11,3 +11,4 @@
 
 ## Topics of Interest (Reading, Video, Blogs) 
 * [Use Rocky Linus as a Docker container image](https://www.techrepublic.com/article/how-to-use-rocky-linux-as-a-docker-container-image/?ftag=TRE684d531&bhid=29410384078638952511834173176338&mid=13455023&cid=2276729581)
+* https://itnext.io/multi-arch-docker-images-in-gitlab-container-registry-ada46cc6d4bb
