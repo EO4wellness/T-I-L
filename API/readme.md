@@ -16,6 +16,7 @@
 ## Useful Reads/Articles:
 * [What is an API? Everything You Need to Know](https://www.cleo.com/blog/knowledge-base-what-is-an-api)
 * [Most Popular APIs](https://rapidapi.com/blog/most-popular-api/)
+* [What are Endpoints](https://www.youtube.com/watch?v=lE7obYznoyk) YouTube 
 
 ## [Git API tutorial](https://renanmf.com/using-the-github-api-in-python/)
 * The following section is my follow-along notes from "renanmouraf" article linked in this section's title. 
