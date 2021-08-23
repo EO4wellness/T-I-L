@@ -8,6 +8,7 @@ Below are articles worth reading, realted to WP:
 * [WP Onion](https://www.producthunt.com/posts/wponion) - I didn't know there were "frameworks" for WP.  I need to look into this topic more! 
 * [WP Blocks](https://css-tricks.com/a-crash-course-in-wordpress-block-filters/)
 * [Environment](https://github.com/alexmacarthur/wp-skateboard)
+* [Localization](https://phrase.com/lp/wordpress/)
 
 ## WP Layouts:
 * [Blocks-Using this New Feature Smarter](https://theeventscalendar.com/blog/wordpress/how-to-work-with-wordpress-block-patterns/)
