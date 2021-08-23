@@ -27,7 +27,9 @@
 * An individual Neuron is the basic building block of all Neural Networks
 * the linear unit 
 ``` y = we + b ```
-![Linear Unit image](#)
+![Linear Unit image](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/Kaggle/Images/mfOlDR6.png)
+
+
 * the INPUT is x
 * w is the weight
 * w is multiplied by x
