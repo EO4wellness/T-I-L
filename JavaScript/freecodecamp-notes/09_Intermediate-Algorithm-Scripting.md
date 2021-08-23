@@ -10,6 +10,24 @@ We'll pass you an array of two numbers. Return the sum of those two numbers plus
 
 For example, sumAll([4,1]) should return 10 because sum of all the numbers between 1 and 4 (both inclusive) is 10.
 
+This is an iteration to add all the numbers between the starting number and the ending number into a sum.  
+```Math.min()``` is the code to find the minium value of two numbers 
+```Math.max()``` is the code to find the maximum value of two numbers 
+
+```
+function sumAll(arr) {
+  let max = Math.max(arr[0], arr[1]);
+  let min = Math.min(arr[0], arr[1]);
+  let sumBetween = 0;
+  for (let i = min; i <= max; i++) {
+    sumBetween += i;
+  }
+  return sumBetween;
+}
+
+sumAll([1, 4]);
+```
+
 Starter Code: 
 ```
 function sumAll(arr) {
@@ -21,11 +39,21 @@ sumAll([1, 4]);
 
 My Code(#)
 
-## 02 [Diff Two Arrays](#)
+## 02 [Diff Two Arrays](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/diff-two-arrays)
 Notes: 
+
+Compare two arrays and return a new array with any items only found in one of the two given arrays, but not both. In other words, return the symmetric difference of the two arrays.
+
+Note: You can return the array with its elements in any order.
+
 Starter Code:
 ```
-(#)
+function diffArray(arr1, arr2) {
+  var newArr = [];
+  return newArr;
+}
+
+diffArray([1, 2, 3, 5], [1, 2, 3, 4, 5]);
 ```
 My Code(#)
 
