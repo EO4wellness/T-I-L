@@ -14,7 +14,7 @@
 
 ## 08 Functional Programming (24 units)
 
-## 09 Intermediate algorithm Scripting (21 units)
+## 09 Intermediate Algorithm Scripting (21 units)
 
 * 01 [Sum All Numbers in a Range](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-exercises/09.IntermediateAlgorithmScripting/01_sum-all-numbers-in-a-range.js)
 *  02 [Diff Two Arrays](#)
