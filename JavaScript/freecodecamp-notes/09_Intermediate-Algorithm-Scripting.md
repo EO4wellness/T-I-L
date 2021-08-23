@@ -37,7 +37,69 @@ function sumAll(arr) {
 sumAll([1, 4]);
 ```
 
-My Code(#)
+My Code(https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-exercises/09.IntermediateAlgorithmScripting/01_sum-all-numbers-in-a-range.js)
+
+Additional Notes from the "Help" forum article: 
+### Problem Explanation
+
+You need to create a program that will take an array of two numbers who are not necessarily in order, and then add not just those numbers but any numbers in between. For example, [3,1] will be the same as 1+2+3 and not just 3+1
+
+[Math Max](https://forum.freecodecamp.org/t/javascript-math-max-explained-with-examples/14682)
+[Math Mix](https://forum.freecodecamp.org/t/javascript-math-min-explained-with-an-example/14684)
+[For Loops](https://forum.freecodecamp.org/t/javascript-for-loops-explained-with-examples/14666)
+
+Solution 1: 
+```
+function sumAll(arr) {
+  let max = Math.max(arr[0], arr[1]);
+  let min = Math.min(arr[0], arr[1]);
+  let sumBetween = 0;
+  for (let i = min; i <= max; i++) {
+    sumBetween += i;
+  }
+  return sumBetween;
+}
+
+sumAll([1, 4]);
+```
+
+[Array.sort()](https://forum.freecodecamp.org/t/how-to-use-javascript-array-prototype-sort-javascript-sort-explained-with-examples/14306)
+[Arithmetic Progression summing formula](https://en.wikipedia.org/wiki/Arithmetic_progression#Sum)
+[ES6 arrow function](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
+
+Solution 2: 
+```
+const sumAll = arr => {
+  // Buckle up everything to one!
+  const startNum = arr[0];
+  const endNum = arr[1];
+
+  // Get the count of numbers between the two numbers by subtracting them and add 1 to the absolute value.
+  // ex. There are |1-4| + 1 = 4, (1, 2, 3, 4), 4 numbers between 1 and 4.
+  const numCount = Math.abs(startNum - endNum) + 1;
+
+  // Using Arithmetic Progression summing formula
+  const sum = ((startNum + endNum) * numCount) / 2;
+  return sum;
+};
+```
+
+Solution 3 is pretty much my solution. links given with this are:
+[Spread Operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax)
+[Using Spread Operator in Math.max()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/max)
+
+Solution 4 
+```
+function sumAll(arr) {
+  const [first, last] = [...arr].sort((a, b) => a - b);
+  return first !== last
+    ? first + sumAll([first + 1, last])
+    : first;
+}
+
+sumAll([1, 4]);
+```
+
 
 ## 02 [Diff Two Arrays](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/diff-two-arrays)
 Notes: 
