@@ -51,6 +51,27 @@ y=we + b
 ```
 * this is also the maths equation for a line 
 
+![Example](https://i.imgur.com/yjsfFvY.png)
+
+Example with 3 inputs: 
+
+![Exaple](https://i.imgur.com/vyXSnlZ.png)
+
+Math Formula: 
+
+The formula for this neuron would be y=w0x0+w1x1+w2x2+b. A linear unit with two inputs will fit a plane, and a unit with more inputs than that will fit a hyperplane.
+
+```
+from tensorflow import keras
+from tensorflow.keras import layers
+
+# Create a network with 1 linear unit
+model = keras.Sequential([
+    layers.Dense(units=1, input_shape=[3])
+])
+
+```
+
 
 ## Lesson 2: Deep Neural Networks
 
