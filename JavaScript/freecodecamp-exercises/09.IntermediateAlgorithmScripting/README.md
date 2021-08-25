@@ -17,8 +17,8 @@
 ## 09 Intermediate Algorithm Scripting (21 units)
 
 * 01 [Sum All Numbers in a Range](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-exercises/09.IntermediateAlgorithmScripting/01_sum-all-numbers-in-a-range.js)
-*  02 [Diff Two Arrays](#)
-*  03 [Seek and Destroy](#)
+*  02 [Diff Two Arrays](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-exercises/09.IntermediateAlgorithmScripting/02_diff-two-arrays.js)
+*  03 [Seek and Destroy](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-exercises/09.IntermediateAlgorithmScripting/03_seek-and-destroy.js)
 *  04 [Wherefore art thou](#)
 *  05 [Spinal Tap Case](#)
 *  06 [Pig Latin](#)
