@@ -74,6 +74,53 @@ model = keras.Sequential([
 
 
 ## Lesson 2: Deep Neural Networks
+* a key concept is modularity 
+* modularity:  building up a complex network from simpler (but functional) 
+ units
+
+### Layers
+* Neurons are organized into layers
+* dense layer: collection of linear units with a common set of inputs
+
+![dense layer image](#)
+
+* transformation of inputs
+* in Keras a layer is very general 
+* convolution
+* recurrent
+
+### Activation Function
+* 2 dense layers dont perform any better than 1
+* our models needs something to move us from linear planes
+* we need nonlinear 
+* without activation functions: 
+   -neural Networks can only learn linear relationships 
+   - we also need to fit curves
+
+![Image of non linear relationship(#)
+
+* activations: eachblayers outputs
+* activation function: 
+ A function where we apply each layers outputs
+
+Most common: rectifier function ```max(0,x)```
+
+Rectifier function has a line with the "nevative part" rectified to zero
+
+The net result is to bend the data
+Bent data is not linear
+
+ReLU: rectified linear unit
+
+Applying a ReLU activation to a linear unit means the output becomes max(0, w * x + b)
+
+![Image to visualize this]()
+
+### StackingDense Layers
+
+
+
+
 
 ## Lesson 3: Stochastic Gradient
 
