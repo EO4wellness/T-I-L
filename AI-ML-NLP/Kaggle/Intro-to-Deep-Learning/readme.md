@@ -174,4 +174,4 @@ my lesson 2 workbook: https://www.kaggle.com/eo4wellness/exercise-deep-neural-ne
 
 ## Lesson 6: Binary Classification 
 
-Detecting Higgs Boston
+[Detecting Higgs Boston](https://www.kaggle.com/ryanholbrook/detecting-the-higgs-boson-with-tpus)
