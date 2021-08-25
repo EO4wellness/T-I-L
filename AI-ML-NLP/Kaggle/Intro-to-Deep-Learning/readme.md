@@ -82,7 +82,7 @@ model = keras.Sequential([
 * Neurons are organized into layers
 * dense layer: collection of linear units with a common set of inputs
 
-![dense layer image](#)
+![dense layer image](https://i.imgur.com/2MA4iMV.png)
 
 * transformation of inputs
 * in Keras a layer is very general 
@@ -97,7 +97,7 @@ model = keras.Sequential([
    -neural Networks can only learn linear relationships 
    - we also need to fit curves
 
-![Image of non linear relationship(#)
+![Image of non linear relationship(https://i.imgur.com/OLSUEYT.png)
 
 * activations: eachblayers outputs
 * activation function: 
@@ -114,12 +114,48 @@ ReLU: rectified linear unit
 
 Applying a ReLU activation to a linear unit means the output becomes max(0, w * x + b)
 
-![Image to visualize this]()
+![Image to visualize this](https://i.imgur.com/aeIyAlF.png)
+
+![Image](https://i.imgur.com/eFry7Yu.png)
 
 ### StackingDense Layers
+Now we increased the complexity by stacking.  Here is an image to visualize this: 
+
+![Image](https://i.imgur.com/Y5iwFQZ.png)
+
+Illustration of a FULLY CONNECTED network of dense layers 
+
+The layers before the output layer are sometimes called hidden since we never see their outputs directly.
+
+Now, notice that the final (output) layer is a linear unit (meaning, no activation function). That makes this network appropriate to a regression task, where we are trying to predict some arbitrary numeric value. Other tasks (like classification) might require an activation function on the output.
 
 
+Stacking Dense Layers
 
+Now that we have some nonlinearity, let's see how we can stack layers to get complex data transformations.
+An input layer, two hidden layers, and a final linear layer.
+A stack of dense layers makes a "fully-connected" network.
+
+The layers before the output layer are sometimes called hidden since we never see their outputs directly.
+
+Now, notice that the final (output) layer is a linear unit (meaning, no activation function). That makes this network appropriate to a regression task, where we are trying to predict some arbitrary numeric value. Other tasks (like classification) might require an activation function on the output.
+Building Sequential Models
+
+The Sequential model we've been using will connect together a list of layers in order from first to last: the first layer gets the input, the last layer produces the output. This creates the model in the figure above:
+
+from tensorflow import keras
+from tensorflow.keras import layers
+
+Building Sequential Models
+The sequential model = keras.Sequential([
+    # the hidden ReLU layers
+    layers.Dense(units=4, activation='relu', input_shape=[2]),
+    layers.Dense(units=3, activation='relu'),
+    # the linear output layer 
+    layers.Dense(units=1),
+])
+
+Be sure to pass all the layers together in a list, like [layer, layer, layer, ...], instead of as separate arguments. To add an activation function to a layer, just give its name in the activation argument.
 
 
 ## Lesson 3: Stochastic Gradient
