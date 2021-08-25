@@ -72,6 +72,7 @@ model = keras.Sequential([
 
 ```
 
+my lesson 1 notebook: https://www.kaggle.com/eo4wellness/exercise-a-single-neuron 
 
 ## Lesson 2: Deep Neural Networks
 * a key concept is modularity 
@@ -157,6 +158,13 @@ The sequential model = keras.Sequential([
 
 Be sure to pass all the layers together in a list, like [layer, layer, layer, ...], instead of as separate arguments. To add an activation function to a layer, just give its name in the activation argument.
 
+Alternatives to ReLU
+
+There is a whole family of variants of the 'relu' activation -- 'elu', 'selu', and 'swish', among others -- all of which you can use in Keras. Sometimes one activation will perform better than another on a given task, so you could consider experimenting with activations as you develop a model. The ReLU activation tends to do well on most problems, so it's a good one to start with.
+
+Let's look at the graphs of some of these. Change the activation from 'relu' to one of the others named above. Then run the cell to see the graph. (Check out the documentation for more ideas.)
+
+my lesson 2 workbook: https://www.kaggle.com/eo4wellness/exercise-deep-neural-networks
 
 ## Lesson 3: Stochastic Gradient
 
