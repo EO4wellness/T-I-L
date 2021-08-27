@@ -162,15 +162,26 @@ whatIsInAName([{ first: "Romeo", last: "Montague" }, { first: "Mercutio", last: 
 ```
 My Code(#)
 
-## 05 [Spinal Tap Case](#)
-Notes: 
+## 05 [Spinal Tap Case](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/spinal-tap-case)
+Notes: Convert a string to spinal case. Spinal case is all-lowercase-words-joined-by-dashes.
+Relevant Links
+
+    [String global object(https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String)
+    [JS Regex Resources](https://forum.freecodecamp.org/t/a-quick-and-simple-guide-to-javascript-regular-expressions/190263)
+    [JS String Prototype Replace](http://forum.freecodecamp.com/t/javascript-string-prototype-replace/15942)
+    [JS String Prototype ToLowerCase](http://forum.freecodecamp.com/t/javascript-string-prototype-tolowercase/15948)
+
 Starter Code:
 ```
-(#)
+function spinalCase(str) {
+  return str;
+}
+
+spinalCase('This Is Spinal Tap');
 ```
 My Code(#)
 
-## 06 [Pig Latin](#)
+## 06 [Pig Latin](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/pig-latin)
 Notes: 
 Starter Code:
 ```
