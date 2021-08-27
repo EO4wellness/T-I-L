@@ -20,7 +20,7 @@
 *  02 [Diff Two Arrays](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-exercises/09.IntermediateAlgorithmScripting/02_diff-two-arrays.js)
 *  03 [Seek and Destroy](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-exercises/09.IntermediateAlgorithmScripting/03_seek-and-destroy.js)
 *  04 [Wherefore art thou](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-exercises/09.IntermediateAlgorithmScripting/04_wherefore-art-thou.js)
-*  05 [Spinal Tap Case](#)
+*  05 [Spinal Tap Case](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-exercises/09.IntermediateAlgorithmScripting/05_spinal-tap-case.js)
 *  06 [Pig Latin](#)
 *  07 [Search and Replace](#)
 *  08 [DNA Pairing](#)
