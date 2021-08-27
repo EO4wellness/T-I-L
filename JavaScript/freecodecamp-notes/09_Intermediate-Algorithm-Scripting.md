@@ -140,6 +140,7 @@ destroyer([1, 2, 3, 1, 2, 3], 2, 3);
 ```
 My Code(https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-exercises/09.IntermediateAlgorithmScripting/03_seek-and-destroy.js)
 
+
 ## 04 [Wherefore art thou](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/wherefore-art-thou)
 Notes: 
 
@@ -160,7 +161,8 @@ function whatIsInAName(collection, source) {
 
 whatIsInAName([{ first: "Romeo", last: "Montague" }, { first: "Mercutio", last: null }, { first: "Tybalt", last: "Capulet" }], { last: "Capulet" });
 ```
-My Code(#)
+My Code(https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-exercises/09.IntermediateAlgorithmScripting/04_wherefore-art-thou.js)
+
 
 ## 05 [Spinal Tap Case](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/spinal-tap-case)
 Notes: Convert a string to spinal case. Spinal case is all-lowercase-words-joined-by-dashes.
@@ -179,7 +181,7 @@ function spinalCase(str) {
 
 spinalCase('This Is Spinal Tap');
 ```
-My Code(#)
+My Code(https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-exercises/09.IntermediateAlgorithmScripting/05_spinal-tap-case.js)
 
 ## 06 [Pig Latin](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/pig-latin)
 Notes: 
