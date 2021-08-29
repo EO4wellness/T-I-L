@@ -1,4 +1,4 @@
-# IntelJ IDEA 
+# IntelliJ IDEA 
 * [Overview of IntelliJ IDEA](https://youtu.be/GSKERVTMWqs)
 * [Tips and Tricks YouTube Channel](https://www.youtube.com/c/intellijidea/playlists)
 * [Navigation Tips](https://www.youtube.com/watch?v=1UHsJyCq1SU)
@@ -7,10 +7,11 @@
 * [Short Cut for Everything: Alt+Enter](https://blog.jetbrains.com/dotnet/2020/11/30/alt-enter-the-shortcut-for-everything/)
 * [AMIGOsCode complete course Intellj](https://youtu.be/yefmcX57Eyg)
 * [Key Board Short cuts](https://youtu.be/QYO5_riePOQ)
+* JetBrains Intellij IDEA Resources: https://www.jetbrains.com/idea/resources 
 
 
-## Comparing Intellj IDEA: 
-* [VS Code vs. Intellj](https://youtu.be/bu79P3H1PCw)
+## Comparing Intellij IDEA: 
+* [VS Code vs. Intellij](https://youtu.be/bu79P3H1PCw)
 
 ## Versions/Updates: 
 * [What’s New in IntelliJ IDEA 2021.2](https://www.jetbrains.com/idea/whatsnew/)
