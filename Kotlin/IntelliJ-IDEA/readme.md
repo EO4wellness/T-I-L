@@ -1,9 +1,38 @@
 # IntelJ IDEA 
+* [Overview of IntelliJ IDEA](https://youtu.be/GSKERVTMWqs)
 * [Tips and Tricks YouTube Channel](https://www.youtube.com/c/intellijidea/playlists)
 * [Navigation Tips](https://www.youtube.com/watch?v=1UHsJyCq1SU)
 * [Refactoring Tips](https://blog.jetbrains.com/idea/2020/09/everyday-refactorings-in-intellij-idea)
 * [Knowledge Base](https://www.jetbrains.com/idea/resources/)
 * [Short Cut for Everything: Alt+Enter](https://blog.jetbrains.com/dotnet/2020/11/30/alt-enter-the-shortcut-for-everything/)
+* [AMIGOsCode complete course Intellj](https://youtu.be/yefmcX57Eyg)
+* [Key Board Short cuts](https://youtu.be/QYO5_riePOQ)
 
-## Updates: 
+
+## Comparing Intellj IDEA: 
+* [VS Code vs. Intellj](https://youtu.be/bu79P3H1PCw)
+
+## Versions/Updates: 
 * [What’s New in IntelliJ IDEA 2021.2](https://www.jetbrains.com/idea/whatsnew/)
+
+## Keyboard Tips: 
+```
+Alt+Enter - Show Intention Actions
+F2 - Next Highlighted Error
+⌘1 or Alt+1 - Project Tool Window
+Esc - Focus on the Editor
+⌘E or Ctrl+E - View Recent Files
+⌘B or Ctrl+B - Go to Declaration
+Alt+F7 - Find Usages
+Ctrl Ctrl - Run Anything
+⌥↑ / ⌥↓ or Ctrl + W / Shift + Ctrl + W - Extend or Shrink Selection
+⌘/ or Ctrl + / - Add/Remove Line Comment (⌥⌘/ or Shift+Ctrl+/ for Block Comment)
+⇧⌘⏎ or Shift+Ctrl+Enter - Complete Current Statement
+⌥⌘L or Ctrl+Alt+L - Reformat Code
+⌃T or Shift+Ctrl+Alt+T - Refactor This
+⇧⌘A or Shift+Ctrl+A - Find Action
+Shift Shift - Search Everywhere
+```
+For more information, go to: https://jb.gg/clnjsc
+See this blog post here: https://jb.gg/top15
+Download IntelliJ IDEA: https://jb.gg/download-intellij-idea
