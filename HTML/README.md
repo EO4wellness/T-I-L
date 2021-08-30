@@ -5,6 +5,10 @@
 * Used WordPress and other WYSIWYG tools, as well as raw coding.
 * Originally, I learned HTML before there was a division into "CSS" too. 
 
+
+# HTML TEST
+* [Code Validator](https://validator.w3.org/#validate_by_input)
+
 ## HTML Study Resources: 
 * [Udacity](https://www.udacity.com/course/intro-to-html-and-css--ud001)
 * [Free-Code-Camp (HTML)](https://www.freecodecamp.org/news/html-and-css-course/)
