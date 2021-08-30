@@ -23,7 +23,7 @@
 *  05 [Spinal Tap Case](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-exercises/09.IntermediateAlgorithmScripting/05_spinal-tap-case.js)
 *  06 [Pig Latin](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-exercises/09.IntermediateAlgorithmScripting/06_pig-latin.js)
 *  07 [Search and Replace](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-exercises/09.IntermediateAlgorithmScripting/07_search-and-replace.js)
-*  08 [DNA Pairing](#)
+*  08 [DNA Pairing](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-exercises/09.IntermediateAlgorithmScripting/08_dna-pairing.js)
 *  09 [Missing letters](#)
 *  10 [Sorted Union](#)
 *  11 [Convert HTML Entities](#)
