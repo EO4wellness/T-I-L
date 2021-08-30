@@ -34,9 +34,9 @@ Ctrl Ctrl - Run Anything
 ⇧⌘A or Shift+Ctrl+A - Find Action
 Shift Shift - Search Everywhere
 ```
-For more information, go to: https://jb.gg/clnjsc
-See this blog post here: https://jb.gg/top15
-Download IntelliJ IDEA: https://jb.gg/download-intellij-idea
+* For more information, go to: https://jb.gg/clnjsc
+* See this blog post here: https://jb.gg/top15
+* Download IntelliJ IDEA: https://jb.gg/download-intellij-idea
 
 ### Installation:
 * To get started go to JetBrains to download. 
@@ -64,5 +64,7 @@ Download IntelliJ IDEA: https://jb.gg/download-intellij-idea
 ![tip5](https://github.com/EO4wellness/T-I-L/blob/main/IntelliJ-IDEA/Images/Tip5-getting-started.jpg)
 
 
-* Next: [Running IntelliJ IDEA for the First Time](https://www.youtube.com/watch?v=c0efB_CKOYo)
+* Next: Tips for set up after installation is completed
+[Running IntelliJ IDEA for the First Time](https://www.youtube.com/watch?v=c0efB_CKOYo)
+
 * I also have more inside the [free Udacity Kotlin course](https://github.com/EO4wellness/leary-leerie/tree/master/Kotlin), lesson 1 materials, where the instructors walked us thru installation and use. 
