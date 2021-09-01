@@ -286,13 +286,28 @@ function uniteUnique(arr) {
 
 uniteUnique([1, 3, 2], [5, 2, 1, 4], [2, 1]);
 ```
+
+Hints
+[JS Arguments](https://forum.freecodecamp.org/t/how-arguments-work-in-javascript-javascript-arguments-guide/14283) 
+1. Hint 1
+Since you have no idea how many parameters were passed, it would be best to loop through the arguments before looping through the arrays.
+2. Hint 2
+It isn’t necessary to use loops. You can use functions such as map(), reduce() or others if you want.
+3. Hint 3
+You will have to check if the current value is already on the array to be returned for every value.
+
+
 My Code(#)
 
-## 11 [Convert HTML Entities](#)
-Notes: 
+## 11 [Convert HTML Entities](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/convert-html-entities)
+Notes: Convert the characters &, <, >, " (double quote), and ' (apostrophe), in a string to their corresponding HTML entities.
 Starter Code:
 ```
-(#)
+function convertHTML(str) {
+  return str;
+}
+
+convertHTML("Dolce & Gabbana");
 ```
 My Code(#)
 
