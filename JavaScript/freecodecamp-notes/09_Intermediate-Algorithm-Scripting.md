@@ -311,19 +311,64 @@ convertHTML("Dolce & Gabbana");
 ```
 My Code(#)
 
-## 12 [Sum All Odd Fibonacci Numbers](#)
-Notes: 
+## 12 [Sum All Odd Fibonacci Numbers](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/sum-all-odd-fibonacci-numbers)
+Notes: What are [Fibonacci Numbers](https://en.wikipedia.org/wiki/Fibonacci_number):
+```
+In mathematics, the Fibonacci numbers, commonly denoted Fn, form a sequence, called the Fibonacci sequence, 
+such that each number is the sum of the two preceding ones, starting from 0 and 1. That is,[1]
+F 0 = 0 , F 1 = 1 , {\displaystyle F_{0}=0,\quad F_{1}=1,}
+{\displaystyle F_{0}=0,\quad F_{1}=1,}
+and
+F n = F n − 1 + F n − 2 {\displaystyle F_{n}=F_{n-1}+F_{n-2}}
+{\displaystyle F_{n}=F_{n-1}+F_{n-2}}
+for n > 1.
+
+The sequence starts:[2]
+
+    0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, ...
+```
+
+Given a positive integer num, return the sum of all odd Fibonacci numbers that are less than or equal to num.
+
+The first two numbers in the Fibonacci sequence are 1 and 1. Every additional number in the sequence is the sum of the two previous numbers. The first six numbers of the Fibonacci sequence are 1, 1, 2, 3, 5 and 8.
+
+For example, sumFibs(10) should return 10 because all odd Fibonacci numbers less than or equal to 10 are 1, 1, 3, and 5.
+
+Hints
+Hint 1
+
+To get the next number of the series, you need to add the current one to the previous and that will give you the next one.
+Hint 2
+
+To check if a number is even all you have to check is if number % 2 == 0.
+Hint 3
+
+As you get the next odd one, don’t forget to add it to a global variable that can be returned at the end. result += currNumber; will do the trick.
+
 Starter Code:
 ```
-(#)
+function sumFibs(num) {
+  return num;
+}
+
+sumFibs(4);
 ```
 My Code(#)
 
-## 13 [Sum All Primes](#)
+## 13 [Sum All Primes](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/sum-all-primes)
 Notes: 
+
+A prime number is a whole number greater than 1 with exactly two divisors: 1 and itself. For example, 2 is a prime number because it is only divisible by 1 and 2. In contrast, 4 is not prime since it is divisible by 1, 2 and 4.
+
+Rewrite sumPrimes so it returns the sum of all prime numbers that are less than or equal to num.
+
 Starter Code:
 ```
-(#)
+function sumPrimes(num) {
+  return num;
+}
+
+sumPrimes(10);
 ```
 My Code(#)
 
