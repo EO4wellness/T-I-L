@@ -32,34 +32,42 @@
 * most indence are traced to system changes 
 * butterfly effect 
 
-![image2]() 
+![image2](https://github.com/EO4wellness/T-I-L/blob/main/Events/Images/K8s-Troubleshooting-image2.jpg) 
 
 * Not all docker experts know K8s
 
-![image3]() 
+![image3](https://github.com/EO4wellness/T-I-L/blob/main/Events/Images/K8s-Troubleshooting-image3.jpg) 
 
 * Access + no knowledge = disaster 
 * introduce something to close the gap between
 * those who know and those who do not know 
 
-![k8s-Best Practices1]()
+![k8s-Best Practices1](https://github.com/EO4wellness/T-I-L/blob/main/Events/Images/K8s-BestPractice1.jpg)
 
 * Maintain a Good YAML
 
-![Example-YAML]()
+![Example-YAML](https://github.com/EO4wellness/T-I-L/blob/main/Events/Images/YAML-example.jpg)
 
 
-![k8s-Best Practices2]()
+![k8s-Best Practices2](https://github.com/EO4wellness/T-I-L/blob/main/Events/Images/K8s-BestPractice2.jpg)
 
-![k8s-Best Practices3]()
+![k8s-Best Practices3](https://github.com/EO4wellness/T-I-L/blob/main/Events/Images/K8s-BestPractice3.jpg)
 
 you have so many logs
 agrigate it to know what's happening 
+![Example-logging](https://github.com/EO4wellness/T-I-L/blob/main/Events/Images/Logging-example.jpg)
 
-![k8s-Best Practices4-option1]()
+![k8s-Best Practices4-option1](https://github.com/EO4wellness/T-I-L/blob/main/Events/Images/K8s-BestPractice4.jpg)
 
-![k8s-Best Practices40option2]()
+![k8s-Best Practices40option2](https://github.com/EO4wellness/T-I-L/blob/main/Events/Images/K8s-BestPractice4b.jpg)
 
-![k8s-Best Practices5-step1]()
+![k8s-Best Practices5-step1](https://github.com/EO4wellness/T-I-L/blob/main/Events/Images/K8s-BestPractice5.jpg)
 
-![k8s-Best Practices5-step2]()
+![k8s-Best Practices5-step2](https://github.com/EO4wellness/T-I-L/blob/main/Events/Images/K8s-BestPractice5b.jpg)
+
+# Conclusions: 
+
+![end](https://github.com/EO4wellness/T-I-L/blob/main/Events/Images/end.jpg)
+
+Q & A 
+Komodor - helps those who aren't so familiar with Kubernetes or do not use it every day 

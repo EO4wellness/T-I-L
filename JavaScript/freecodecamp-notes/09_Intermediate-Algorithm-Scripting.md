@@ -265,7 +265,7 @@ function fearNotLetter(str) {
 
 fearNotLetter("abce");
 ```
-My Code(#)
+My Code(https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-exercises/09.IntermediateAlgorithmScripting/09_missing-letters.js)
 
 ## 10 [Sorted Union](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/sorted-union)
 Notes: 
@@ -297,7 +297,7 @@ It isn’t necessary to use loops. You can use functions such as map(), reduce()
 You will have to check if the current value is already on the array to be returned for every value.
 
 
-My Code(#)
+My Code(https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-exercises/09.IntermediateAlgorithmScripting/10_sorted-union.js)
 
 ## 11 [Convert HTML Entities](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/convert-html-entities)
 Notes: Convert the characters &, <, >, " (double quote), and ' (apostrophe), in a string to their corresponding HTML entities.
@@ -309,7 +309,7 @@ function convertHTML(str) {
 
 convertHTML("Dolce & Gabbana");
 ```
-My Code(#)
+My Code(https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-exercises/09.IntermediateAlgorithmScripting/11_convert-html-entities.js)
 
 ## 12 [Sum All Odd Fibonacci Numbers](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/sum-all-odd-fibonacci-numbers)
 Notes: What are [Fibonacci Numbers](https://en.wikipedia.org/wiki/Fibonacci_number):
@@ -353,7 +353,7 @@ function sumFibs(num) {
 
 sumFibs(4);
 ```
-My Code(#)
+My Code(https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-exercises/09.IntermediateAlgorithmScripting/12_sum-all-odd-fibonacci-numbers.js)
 
 ## 13 [Sum All Primes](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/sum-all-primes)
 Notes: 
@@ -370,21 +370,42 @@ function sumPrimes(num) {
 
 sumPrimes(10);
 ```
-My Code(#)
+My Code(https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-exercises/09.IntermediateAlgorithmScripting/13_sum-all-primes.js)
 
-## 14 [Smallest Common Multiple](#)
+## 14 [Smallest Common Multiple](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/smallest-common-multiple)
 Notes: 
+
+Find the smallest common multiple of the provided parameters that can be evenly divided by both, as well as by all sequential numbers in the range between these parameters.
+
+The range will be an array of two numbers that will not necessarily be in numerical order.
+
+For example, if given 1 and 3, find the smallest common multiple of both 1 and 3 that is also evenly divisible by all numbers between 1 and 3. The answer here would be 6.
+
 Starter Code:
 ```
-(#)
-```
-My Code(#)
+function smallestCommons(arr) {
+  return arr;
+}
 
-## 15 [Drop it](#)
+
+smallestCommons([1,5]);
+```
+My Code(https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-exercises/09.IntermediateAlgorithmScripting/14_smallest-common-multiple.js)
+
+## 15 [Drop it](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/drop-it)
 Notes: 
+
+Given the array arr, iterate through and remove each element starting from the first element (the 0 index) until the function func returns true when the iterated element is passed through it.
+
+Then return the rest of the array once the condition is satisfied, otherwise, arr should be returned as an empty array.
+
 Starter Code:
 ```
-(#)
+function dropElements(arr, func) {
+  return arr;
+}
+
+dropElements([1, 2, 3], function(n) {return n < 3; });
 ```
 My Code(#)
 
