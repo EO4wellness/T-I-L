@@ -46,7 +46,7 @@
 
 * Maintain a Good YAML
 
-![Example-YAML]()
+![Example-YAML](https://github.com/EO4wellness/T-I-L/blob/main/Events/Images/YAML-example.jpg)
 
 
 ![k8s-Best Practices2]()
@@ -55,6 +55,7 @@
 
 you have so many logs
 agrigate it to know what's happening 
+![Example-logging](https://github.com/EO4wellness/T-I-L/blob/main/Events/Images/Logging-example.jpg)
 
 ![k8s-Best Practices4-option1]()
 
@@ -63,3 +64,7 @@ agrigate it to know what's happening
 ![k8s-Best Practices5-step1]()
 
 ![k8s-Best Practices5-step2]()
+
+# Conclusions: 
+
+![end](https://github.com/EO4wellness/T-I-L/blob/main/Events/Images/end.jpg)
