@@ -13,6 +13,53 @@
 -- microservices also brought along the need to maintain it all 
 -- more to maintain 
 
-![image1]()
+
+## Some Benefits: 
+
+![image1](https://github.com/EO4wellness/T-I-L/blob/main/Events/Images/K8s-Troubleshooting-image1.jpg)
+
+## Some Challenges:
+* Security 
+* Logging 
+* Monitoring 
+* Cultural and Technical changes with development 
+* complexity 
+
+## Why is it so Complex? 
+* GKE (Google Kubernetes Engine) 
+* issues happen daily or even more frequently 
+* root cause can be obsecured 
+* most indence are traced to system changes 
+* butterfly effect 
+
+![image2]() 
+
+* Not all docker experts know K8s
+
+![image3]() 
+
+* Access + no knowledge = disaster 
+* introduce something to close the gap between
+* those who know and those who do not know 
+
+![k8s-Best Practices1]()
+
+* Maintain a Good YAML
+
+![Example-YAML]()
 
 
+![k8s-Best Practices2]()
+
+![k8s-Best Practices3]()
+
+you have so many logs
+agrigate it to know what's happening 
+
+![k8s-Best Practices4-option1]()
+
+![k8s-Best Practices40option2]()
+
+![k8s-Best Practices5-step1]()
+
+![k8s-Best Practices5-step2]()
