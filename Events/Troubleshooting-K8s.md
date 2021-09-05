@@ -7,4 +7,12 @@
 * But-it can be hard to troubleshoot 
 * The topic today is 5 best practices to make troubleshooting easier 
 * Instructor built a k8s-native trobuleshooting platform 
-* 
+* Instructor's personal history with monolith vs. microservices
+-- history: monolith were so huge
+-- microservices broke that down into manageable pieces 
+-- microservices also brought along the need to maintain it all 
+-- more to maintain 
+
+![image1]()
+
+
