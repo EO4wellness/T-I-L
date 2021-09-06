@@ -407,7 +407,7 @@ function dropElements(arr, func) {
 
 dropElements([1, 2, 3], function(n) {return n < 3; });
 ```
-My Code(#)
+My Code(https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-exercises/09.IntermediateAlgorithmScripting/15_drop-it.js)
 
 ## 16 [Steamroller](#)
 Notes: 
