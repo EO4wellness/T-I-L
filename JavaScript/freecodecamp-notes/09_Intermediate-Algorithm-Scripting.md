@@ -37,7 +37,7 @@ function sumAll(arr) {
 sumAll([1, 4]);
 ```
 
-My Code(https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-exercises/09.IntermediateAlgorithmScripting/01_sum-all-numbers-in-a-range.js)
+[My Code](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-exercises/09.IntermediateAlgorithmScripting/01_sum-all-numbers-in-a-range.js)
 
 Additional Notes from the "Help" forum article: 
 ### Problem Explanation
@@ -117,7 +117,7 @@ function diffArray(arr1, arr2) {
 
 diffArray([1, 2, 3, 5], [1, 2, 3, 4, 5]);
 ```
-My Code(https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-exercises/09.IntermediateAlgorithmScripting/02_diff-two-arrays.js)
+[My Code](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-exercises/09.IntermediateAlgorithmScripting/02_diff-two-arrays.js)
 
 
 ## 03 [Seek and Destroy](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/seek-and-destroy)
@@ -138,7 +138,7 @@ function destroyer(arr) {
 
 destroyer([1, 2, 3, 1, 2, 3], 2, 3);
 ```
-My Code(https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-exercises/09.IntermediateAlgorithmScripting/03_seek-and-destroy.js)
+[My Code](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-exercises/09.IntermediateAlgorithmScripting/03_seek-and-destroy.js)
 
 
 ## 04 [Wherefore art thou](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/wherefore-art-thou)
@@ -161,7 +161,7 @@ function whatIsInAName(collection, source) {
 
 whatIsInAName([{ first: "Romeo", last: "Montague" }, { first: "Mercutio", last: null }, { first: "Tybalt", last: "Capulet" }], { last: "Capulet" });
 ```
-My Code(https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-exercises/09.IntermediateAlgorithmScripting/04_wherefore-art-thou.js)
+[My Code](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-exercises/09.IntermediateAlgorithmScripting/04_wherefore-art-thou.js)
 
 
 ## 05 [Spinal Tap Case](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/spinal-tap-case)
@@ -181,7 +181,7 @@ function spinalCase(str) {
 
 spinalCase('This Is Spinal Tap');
 ```
-My Code(https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-exercises/09.IntermediateAlgorithmScripting/05_spinal-tap-case.js)
+[My Code](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-exercises/09.IntermediateAlgorithmScripting/05_spinal-tap-case.js)
 
 ## 06 [Pig Latin](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/pig-latin)
 Notes: 
@@ -202,7 +202,7 @@ function translatePigLatin(str) {
 
 translatePigLatin("consonant");
 ```
-My Code(https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-exercises/09.IntermediateAlgorithmScripting/06_pig-latin.js)
+[My Code](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-exercises/09.IntermediateAlgorithmScripting/06_pig-latin.js)
 
 ## 07 [Search and Replace](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/search-and-replace)
 Notes: 
@@ -225,7 +225,7 @@ function myReplace(str, before, after) {
 
 myReplace("A quick brown fox jumped over the lazy dog", "jumped", "leaped");
 ```
-My Code(https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-exercises/09.IntermediateAlgorithmScripting/07_search-and-replace.js)
+[My Code](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-exercises/09.IntermediateAlgorithmScripting/07_search-and-replace.js)
 
 ## 08 [DNA Pairing](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/dna-pairing)
 Notes: 
@@ -248,7 +248,7 @@ function pairElement(str) {
 
 pairElement("GCG");
 ```
-My Code(#)
+[My Code](#)
 
 ## 09 [Missing letters](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/missing-letters)
 Notes: Missing lettersPassed
@@ -297,7 +297,7 @@ It isn’t necessary to use loops. You can use functions such as map(), reduce()
 You will have to check if the current value is already on the array to be returned for every value.
 
 
-My Code(https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-exercises/09.IntermediateAlgorithmScripting/10_sorted-union.js)
+[My Code](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-exercises/09.IntermediateAlgorithmScripting/10_sorted-union.js)
 
 ## 11 [Convert HTML Entities](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/convert-html-entities)
 Notes: Convert the characters &, <, >, " (double quote), and ' (apostrophe), in a string to their corresponding HTML entities.
@@ -309,7 +309,7 @@ function convertHTML(str) {
 
 convertHTML("Dolce & Gabbana");
 ```
-My Code(https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-exercises/09.IntermediateAlgorithmScripting/11_convert-html-entities.js)
+[My Code](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-exercises/09.IntermediateAlgorithmScripting/11_convert-html-entities.js)
 
 ## 12 [Sum All Odd Fibonacci Numbers](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/sum-all-odd-fibonacci-numbers)
 Notes: What are [Fibonacci Numbers](https://en.wikipedia.org/wiki/Fibonacci_number):
@@ -353,7 +353,7 @@ function sumFibs(num) {
 
 sumFibs(4);
 ```
-My Code(https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-exercises/09.IntermediateAlgorithmScripting/12_sum-all-odd-fibonacci-numbers.js)
+[My Code](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-exercises/09.IntermediateAlgorithmScripting/12_sum-all-odd-fibonacci-numbers.js)
 
 ## 13 [Sum All Primes](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/sum-all-primes)
 Notes: 
@@ -370,7 +370,7 @@ function sumPrimes(num) {
 
 sumPrimes(10);
 ```
-My Code(https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-exercises/09.IntermediateAlgorithmScripting/13_sum-all-primes.js)
+[My Code](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-exercises/09.IntermediateAlgorithmScripting/13_sum-all-primes.js)
 
 ## 14 [Smallest Common Multiple](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/smallest-common-multiple)
 Notes: 
@@ -390,7 +390,7 @@ function smallestCommons(arr) {
 
 smallestCommons([1,5]);
 ```
-My Code(https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-exercises/09.IntermediateAlgorithmScripting/14_smallest-common-multiple.js)
+[My Code](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-exercises/09.IntermediateAlgorithmScripting/14_smallest-common-multiple.js)
 
 ## 15 [Drop it](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/drop-it)
 Notes: 
@@ -419,7 +419,7 @@ function steamrollArray(arr) {
 
 steamrollArray([1, [2], [3, [[4]]]]);
 ```
-My Code(#)
+[My Code](#)
 
 ## 17 [Binary Agents](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/binary-agents)
 Notes: 
@@ -436,7 +436,7 @@ function binaryAgent(str) {
 
 binaryAgent("01000001 01110010 01100101 01101110 00100111 01110100 00100000 01100010 01101111 01101110 01100110 01101001 01110010 01100101 01110011 00100000 01100110 01110101 01101110 00100001 00111111");
 ```
-My Code(#)
+[My Code](#)
 
 ## 18 [Everything Be True](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/everything-be-true)
 Notes: 
@@ -457,7 +457,7 @@ function truthCheck(collection, pre) {
 
 truthCheck([{"user": "Tinky-Winky", "sex": "male"}, {"user": "Dipsy", "sex": "male"}, {"user": "Laa-Laa", "sex": "female"}, {"user": "Po", "sex": "female"}], "sex");
 ```
-My Code(#)
+[My Code](#)
 
 ## 19 [Arguments Optional](#)
 Notes: 
@@ -465,7 +465,7 @@ Starter Code:
 ```
 (#)
 ```
-My Code(#)
+[My Code](#)
 
 ## 20 [Make a Person](#)
 Notes: 
@@ -473,7 +473,7 @@ Starter Code:
 ```
 (#)
 ```
-My Code(#)
+[My Code](#)
 
 ## 21 [Map the Debris](#)
 Notes: 
@@ -481,6 +481,6 @@ Starter Code:
 ```
 (#)
 ```
-My Code(#)
+[My Code](#)
 	
 Nav: [Basic JavaScript](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/01_Basic-JavaScript.md) | [ES6](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/02_ES6.md) | [Regular Expressions](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/03_Regular-Expressions.md) |  [Debugging](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/04_Debugging.md) | [Basic Data Structures](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/05_Basic-Data-Structures.md) | [Basic Algorithm Scripting](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/06_Basic-Algorithm-Scripting.md) |  [Object Oriented Programming](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/07_Object-Oriented-Programming.md) | [Functional Porgramming](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/08_Functional-Porgramming.md) | [Intermediate algorithm Scripting](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/09_Intermediate-Algorithm-Scripting.md) | [JavaScript Algorithms and Data Structures Projects](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/10_JavaScript-Algorithms-and-Data-Structures-Projects.md)
