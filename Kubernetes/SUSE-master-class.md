@@ -86,3 +86,9 @@ Azure
 - client ID
 - provide these to rancher 
 
+
+AWS 
+- create an IAM user 
+- programic access 
+- provide this to rancher 
+
