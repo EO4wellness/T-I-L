@@ -92,3 +92,4 @@ AWS
 - programic access 
 - provide this to rancher 
 
+![yaml](https://github.com/EO4wellness/T-I-L/blob/main/Kubernetes/images/aws-rancher-authentication-kubernetes.jpg)
