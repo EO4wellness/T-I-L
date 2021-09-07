@@ -23,7 +23,7 @@
 * find and use polls, etc. 
 
 ## What does it mean to operate at scale or "cloud native at scale". 
-8 this series running sep thru oct looks at 4 aspects of this
+* this series running sep thru oct looks at 4 aspects of this
 1. (Today's Session) cluster Managment at scale 
 2. Applications at Scale 
 3. Utilization at Scale 
@@ -40,4 +40,49 @@
 - lock down access to specific k8s cluster 
 - adopting a multi cloud model 
 
+
+## Challenges 
+* Different environments in the same cluster 
+* Lack of Isolation between applications 
+* Complex administration
+* Consistency
+* High costs 
+
+## Multiple Clusters in Multiple clouds
+* K8s alleviates risk in multi-cloud (infra-agnostic) 
+* workload and workflow portability 
+* redundancy and availability 
+* managed control planes 
+* cloud burstin 
+* adopt multiple cloud integrations 
+
+## Things to consider: 
+* Multi-cluster Management: 
+* Lifecycle Management 
+* Organization 
+* delopyments 
+* experience 
+* visiblity 
+* security 
+
+
+## Lifestyle Management (EKS, GKE, AKS) 
+* Start with Rancher 
+* Start also with a newly provisioned cluster in each of the sercices: EKS, GKE, AKS  
+
+Google Cloud Platform
+- admin
+- create service account 
+- give it a role wiht specific permissions to allow rancher to use the services 
+- Role is "Kubernetes Admin" 
+- create a key (json) 
+- upload to rancher 
+
+
+Azure
+-register an application 
+- new application
+- create a certificate 
+- client ID
+- provide these to rancher 
 
