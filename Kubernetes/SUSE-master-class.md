@@ -92,3 +92,14 @@ AWS
 - programic access 
 - provide this to rancher 
 
+![yaml](https://github.com/EO4wellness/T-I-L/blob/main/Kubernetes/images/aws-rancher-authentication-kubernetes.jpg)
+
+## organization
+* this is accomplished with projects 
+* it is also accomplished with namespaces 
+* namespaces referred to as virtual clusters 
+* namespaces allow division of access control and resource quotas 
+* projects are custom rancher ojbects
+* projects are uses to group namespaces 
+* assign resources to the project level 
+* this allows each namspace in the project to use the related resources 
