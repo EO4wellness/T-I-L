@@ -409,27 +409,53 @@ dropElements([1, 2, 3], function(n) {return n < 3; });
 ```
 My Code(https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-exercises/09.IntermediateAlgorithmScripting/15_drop-it.js)
 
-## 16 [Steamroller](#)
-Notes: 
+## 16 [Steamroller](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/steamroller)
+Notes: Flatten a nested array. You must account for varying levels of nesting. 
 Starter Code:
 ```
-(#)
+function steamrollArray(arr) {
+  return arr;
+}
+
+steamrollArray([1, [2], [3, [[4]]]]);
 ```
 My Code(#)
 
-## 17 [Binary Agents](#)
+## 17 [Binary Agents](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/binary-agents)
 Notes: 
+
+Return an English translated sentence of the passed binary string.
+
+The binary string will be space separated.
+
 Starter Code:
 ```
-(#)
+function binaryAgent(str) {
+  return str;
+}
+
+binaryAgent("01000001 01110010 01100101 01101110 00100111 01110100 00100000 01100010 01101111 01101110 01100110 01101001 01110010 01100101 01110011 00100000 01100110 01110101 01101110 00100001 00111111");
 ```
 My Code(#)
 
-## 18 [Everything Be True](#)
+## 18 [Everything Be True](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/everything-be-true)
 Notes: 
+
+Check if the predicate (second argument) is truthy on all elements of a collection (first argument).
+
+In other words, you are given an array collection of objects. The predicate pre will be an object property and you need to return true if its value is truthy. Otherwise, return false.
+
+In JavaScript, truthy values are values that translate to true when evaluated in a Boolean context.
+
+Remember, you can access object properties through either dot notation or [] notation.
+
 Starter Code:
 ```
-(#)
+function truthCheck(collection, pre) {
+  return pre;
+}
+
+truthCheck([{"user": "Tinky-Winky", "sex": "male"}, {"user": "Dipsy", "sex": "male"}, {"user": "Laa-Laa", "sex": "female"}, {"user": "Po", "sex": "female"}], "sex");
 ```
 My Code(#)
 
