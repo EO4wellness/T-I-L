@@ -484,20 +484,126 @@ addTogether(2,3);
 ```
 [My Code](#)
 
-## 20 [Make a Person](#)
-Notes: 
+## 20 [Make a Person](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/make-a-person)
+Notes: Fill in the object constructor with the following methods below:
+```
+getFirstName()
+getLastName()
+getFullName()
+setFirstName(first)
+setLastName(last)
+setFullName(firstAndLast)
+```
+Run the tests to see the expected output for each method. The methods that take an argument must accept only one argument and it has to be a string. These methods must be the only available means of interacting with the object.
+
 Starter Code:
 ```
-(#)
+var Person = function(firstAndLast) {
+  // Only change code below this line
+  // Complete the method below and implement the others similarly
+  this.getFullName = function() {
+    return "";
+  };
+  return firstAndLast;
+};
+
+var bob = new Person('Bob Ross');
+bob.getFullName();
 ```
 [My Code](#)
 
-## 21 [Map the Debris](#)
+Problem Explanation
+
+When I started the program I figured I just had to create the six functions mentioned in the details. However, it was not that simple. Creating them as a function was not the right way, I had to create them in a different way to make them a key.
+
+There is also a tricky part as you need six keys no more or less, so at first I had the variable that store the original name as a key too which was wrong.
+
+As for the usage of array, that is optional, you could also create new variable to hold the separated string if you wish but an array is easier to deal with as strings are immutable.
+
+Read the instructions carefully, it is always a good hint in itself to run the code and check what the test results were so you know what to expect but do not fixate yourself on that. Once you understand what you need to do, this problem is very easy and straightforward.
+Relevant Links
+
+    [Closures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures)
+    [Details of the Object Model](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Details_of_the_Object_Model)
+
+Hints
+Hint 1
+
+Use the this notation to create the keys instead of regular functions: This means instead of var varName = function() {/*...*/} you should use this.varName = function() {/*...*/}
+Hint 2
+
+The program has a test that checks for how many keys you used, they have to be exactly six, the six mentioned in the details section. This means if you need to work with variables, make them local and not a key: this.fullName = firstAndLast;
+Hint 3
+
+Often the code would not work the way you expect it due to wrong variable names, make sure to check that you spell them the right way. This happens to all of us at some point.
+Hint 4
+
+If you are having problems with writing the setter methods, below is a template for a set method:
+
+this.setFullName = function(input) {
+  // Insert your code here
+};
+
+Code Explanation
+
+    Create a variable that will make a copy of the full name that was passed as a parameter.
+    Then we can proceed to create the six methods needed and return what is asked for.
+    For the individual setters, we can use the split to turn the fullname into an array of first and last names and concatenate the unchanged portion of the name with what was passed as a parameter.
+
+Relevant Links
+
+    [Build javascript objects]()
+    [Define a constructor function]()
+    [Declare javascript variables]()
+
+
+
+## 21 [Map the Debris](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/map-the-debris)
 Notes: 
+
+Return a new array that transforms the elements' average altitude into their orbital periods (in seconds).
+
+The array will contain objects in the format {name: 'name', avgAlt: avgAlt}.
+
+You can read about orbital periods on Wikipedia.
+
+The values should be rounded to the nearest whole number. The body being orbited is Earth.
+
+The radius of the earth is 6367.4447 kilometers, and the GM value of earth is 398600.4418 km3s-2.
+
 Starter Code:
 ```
-(#)
+function orbitalPeriod(arr) {
+  var GM = 398600.4418;
+  var earthRadius = 6367.4447;
+  return arr;
+}
+
+orbitalPeriod([{name : "sputnik", avgAlt : 35873.5553}]);
 ```
 [My Code](#)
+
+Problem Explanation
+
+The first thing to do is to get familiar with what the program is for by knowing what Orbital period exactly is. You’ve to return a new array that transforms the element’s average altitude into their orbital periods. The parts generally found hard are finding the formula, implementing it and for some people, modifying objects by the key. However, something that is not very clear is the fact that your program has to be able to check for any number of objects in the array; This is what is tested on the second part.
+Relevant Links
+
+    [Orbital period](https://en.wikipedia.org/wiki/Orbital_period)
+    [JS Objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object)
+    [Math.PI](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/PI)
+    [JS Math Pow](https://forum.freecodecamp.org/t/javascript-exponents-explained-math-pow-examples/14685)
+    [Math.sqrt()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/sqrt)
+    [Math.round()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/round)
+
+Hints
+Hint 1: The formula needed is:
+
+![formula](https://aws1.discourse-cdn.com/freecodecamp/original/3X/3/b/3b3831f4334b255f143b3b1cdb0656f41bd008df.png)
+
+
+Hint 2: Use Math.round() to round up to the next whole number as requested. Using Math.ceil() will let you pass the first test but fail the second one.
+
+Hint 3: Find out how to remove and add key to a JavaScript object.
+
 	
 Nav: [Basic JavaScript](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/01_Basic-JavaScript.md) | [ES6](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/02_ES6.md) | [Regular Expressions](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/03_Regular-Expressions.md) |  [Debugging](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/04_Debugging.md) | [Basic Data Structures](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/05_Basic-Data-Structures.md) | [Basic Algorithm Scripting](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/06_Basic-Algorithm-Scripting.md) |  [Object Oriented Programming](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/07_Object-Oriented-Programming.md) | [Functional Porgramming](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/08_Functional-Porgramming.md) | [Intermediate algorithm Scripting](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/09_Intermediate-Algorithm-Scripting.md) | [JavaScript Algorithms and Data Structures Projects](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/freecodecamp-notes/10_JavaScript-Algorithms-and-Data-Structures-Projects.md)
