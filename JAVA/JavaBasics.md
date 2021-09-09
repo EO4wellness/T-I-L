@@ -1,5 +1,7 @@
 # CodeGym Java Basics
 * Source: https://codegym.cc/  
+
+## Day 1: Studies 
 * Programs written in Java are executed by the Java virtual machine (JVM). 
 * The JVM is a special program that knows how to execute programs written in Java.
 * The list of its commands is quite extensive. 
@@ -26,9 +28,8 @@ System.out.println("Humans and robots are friends forever");
 
 
 * Results: 
-* 
-![task1-image](https://github.com/EO4wellness/T-I-L/blob/main/JAVA/Images/CodeGym/JavaBasics/2021-09-09-task1.jpg)
 
+![task1-image](https://github.com/EO4wellness/T-I-L/blob/main/JAVA/Images/CodeGym/JavaBasics/2021-09-09-task1.jpg)
 
 * A program can’t consist of nothing but commands.
 * programs consist of classes, classes consist of methods, and methods consist of commands!
@@ -87,4 +88,15 @@ public class Home
 
 ![image](https://github.com/EO4wellness/T-I-L/blob/main/JAVA/Images/CodeGym/JavaBasics/ex_3.jpg) 
 
-## [Ready for the first program](https://codegym.cc/quests/lectures/questsyntax.level00.lecture03)
+* Practice Task 2: 
+
+![task assignment](https://github.com/EO4wellness/T-I-L/blob/main/JAVA/Images/CodeGym/JavaBasics/02_task-assignment.jpg)
+
+![result](https://github.com/EO4wellness/T-I-L/blob/main/JAVA/Images/CodeGym/JavaBasics/2021-09-09-task2.jpg) 
+
+* End of Today's Study Session: 
+
+![results](https://github.com/EO4wellness/T-I-L/blob/main/JAVA/Images/CodeGym/JavaBasics/2021-09-09--earned-today.jpg) 
+
+## Day 2 Studies: 
+* [Ready for the first program](https://codegym.cc/quests/lectures/questsyntax.level00.lecture03)
