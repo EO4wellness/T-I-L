@@ -120,3 +120,7 @@ print(response.status_code)
 ```
 
 * if 204 (no content) is returned, it means it was successfully deleted 
+
+
+## Selected API Reading: 
+* [How API Use Cases Have Evolved, and What It Means for API Security](https://checkmarx.com/resources/checkmarx-blog/how-api-use-cases-have-evolved-and-what-it-means-for-api-security) 
