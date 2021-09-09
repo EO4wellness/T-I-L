@@ -11,6 +11,11 @@
  - [RegEx Cheat Sheet](https://code.tutsplus.com/tutorials/a-simple-regex-cheat-sheet--cms-31278)
  - [70 places to learn JS for free](https://devdojo.com/shreya/learn-javascript)
 
+Earned the FreeCode Camp certification on Sept 9, 2021: 
+
+![certification](https://www.freecodecamp.org/certification/fcc82f28646-b371-4d60-b44c-2a1e6e85fbd9/javascript-algorithms-and-data-structures)
+
+
 
 ### W3Schools
 -  [link to course](https://www.w3schools.com/js/default.asp)
@@ -104,3 +109,4 @@ Nav: [Basic JavaScript](https://github.com/EO4wellness/T-I-L/blob/main/JavaScrip
 ## Now What? 
 - [Learn a Framework](https://github.com/EO4wellness/T-I-L/tree/main/JavaScript/frameworks) or two...
 - Do a project or two 
+- https://www.freecodecamp.org/news/javascript-projects-for-beginners/ 
