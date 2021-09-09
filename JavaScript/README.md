@@ -13,7 +13,10 @@
 
 Earned the FreeCode Camp certification on Sept 9, 2021: 
 
-![certification](https://www.freecodecamp.org/certification/fcc82f28646-b371-4d60-b44c-2a1e6e85fbd9/javascript-algorithms-and-data-structures)
+![certification](https://github.com/EO4wellness/T-I-L/blob/main/JavaScript/Images/2021-09-09-earned-FCC-JavaScript-cert.jpg)
+
+
+[freeCodeCamp link](https://www.freecodecamp.org/certification/fcc82f28646-b371-4d60-b44c-2a1e6e85fbd9/javascript-algorithms-and-data-structures)
 
 
 
