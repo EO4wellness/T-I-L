@@ -20,5 +20,14 @@ System.out.println("Humans and robots are friends forever");
 System.out.println("Humans and robots are friends forever");
 ```
 * Quick Task to Illustrate these points: 
+* Assignement and my Solution: 
+
+![task](https://github.com/EO4wellness/T-I-L/blob/main/JAVA/Images/CodeGym/JavaBasics/01_task-assignment.jpg)
+
+
+* Results: 
+* 
 ![task1-image](https://github.com/EO4wellness/T-I-L/blob/main/JAVA/Images/CodeGym/JavaBasics/2021-09-09-task1.jpg)
+
+
 
