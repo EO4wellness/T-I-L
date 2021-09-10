@@ -1,4 +1,4 @@
-# Bootsgtrap 
+# Bootstrap 
 * Begin studies: 9/9/2021
 * 31 Units of study in this section 
 
@@ -48,7 +48,7 @@ It would be great if this image could be exactly the width of our phone's screen
 
 Fortunately, with Bootstrap, all we need to do is add the img-responsive class to your image. Do this, and the image should perfectly fit the width of your page.
 
-[My Code]()
+[My Code](https://github.com/EO4wellness/T-I-L/blob/main/FrontEnd/freeCodeCamp/exercises/bootstrap/02_make-images-mobile-responsive.html)
 
 [03 Center Text With Bootstrap](https://www.freecodecamp.org/learn/front-end-development-libraries/bootstrap/center-text-with-bootstrap)
 
