@@ -8,11 +8,9 @@ Bootstrap is a front end framework used to design responsive web pages and appli
 In this course, you'll learn how to build responsive websites with Bootstrap, and use its included classes to style buttons, images, forms, navigation, and other common elements.
 
 
-## Units of Study: 
+# Units of Study: 
 
-[01 Use Responsive Design with Bootstrap Fluid Containers](https://www.freecodecamp.org/learn/front-end-development-libraries/bootstrap/use-responsive-design-with-bootstrap-fluid-containers)
-
-
+## [01 Use Responsive Design with Bootstrap Fluid Containers](https://www.freecodecamp.org/learn/front-end-development-libraries/bootstrap/use-responsive-design-with-bootstrap-fluid-containers)
 
 In the HTML5 and CSS section of freeCodeCamp we built a Cat Photo App. Now let's go back to it. This time, we'll style it using the popular Bootstrap responsive CSS framework.
 
@@ -39,7 +37,7 @@ When I went to do this assignment, I quickly realized:
 [My Code](https://github.com/EO4wellness/T-I-L/blob/main/FrontEnd/freeCodeCamp/exercises/bootstrap/01_use-responsive-design-with-bootstrap-fluid-containers.html)
 
 
-[02 Make Images Mobile Responsive](https://www.freecodecamp.org/learn/front-end-development-libraries/bootstrap/make-images-mobile-responsive)
+## [02 Make Images Mobile Responsive](https://www.freecodecamp.org/learn/front-end-development-libraries/bootstrap/make-images-mobile-responsive)
 
 
 First, add a new image below the existing one. Set its src attribute to https://bit.ly/fcc-running-cats.
@@ -50,5 +48,23 @@ Fortunately, with Bootstrap, all we need to do is add the img-responsive class t
 
 [My Code](https://github.com/EO4wellness/T-I-L/blob/main/FrontEnd/freeCodeCamp/exercises/bootstrap/02_make-images-mobile-responsive.html)
 
-[03 Center Text With Bootstrap](https://www.freecodecamp.org/learn/front-end-development-libraries/bootstrap/center-text-with-bootstrap)
+## [03 Center Text With Bootstrap](https://www.freecodecamp.org/learn/front-end-development-libraries/bootstrap/center-text-with-bootstrap)
 
+Now that we're using Bootstrap, we can center our heading element to make it look better. All we need to do is add the class text-center to our h2 element.
+
+Remember that you can add several classes to the same element by separating each of them with a space, like this:
+```
+<h2 class="red-text text-center">your text</h2>
+```
+
+[My Code](https://github.com/EO4wellness/T-I-L/blob/main/FrontEnd/freeCodeCamp/exercises/bootstrap/03_center-text-with-bootstrap.html)
+
+## [04-Create a Bootstrap Button](https://www.freecodecamp.org/learn/front-end-development-libraries/bootstrap/create-a-bootstrap-button)
+
+Bootstrap has its own styles for button elements, which look much better than the plain HTML ones.
+
+Create a new button element below your large kitten photo. Give it the btn and btn-default classes, as well as the text of Like.
+
+[My Code](https://github.com/EO4wellness/T-I-L/blob/main/FrontEnd/freeCodeCamp/exercises/bootstrap/04_create-a-bootstrap-button.html)
+
+## [05-Create a Block Element Bootstrap Button](https://www.freecodecamp.org/learn/front-end-development-libraries/bootstrap/create-a-block-element-bootstrap-button)
