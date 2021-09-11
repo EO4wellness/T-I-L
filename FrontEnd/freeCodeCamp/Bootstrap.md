@@ -52,3 +52,21 @@ Fortunately, with Bootstrap, all we need to do is add the img-responsive class t
 
 [03 Center Text With Bootstrap](https://www.freecodecamp.org/learn/front-end-development-libraries/bootstrap/center-text-with-bootstrap)
 
+Now that we're using Bootstrap, we can center our heading element to make it look better. All we need to do is add the class text-center to our h2 element.
+
+Remember that you can add several classes to the same element by separating each of them with a space, like this:
+```
+<h2 class="red-text text-center">your text</h2>
+```
+
+[My Code](#)
+
+## [04-Create a Bootstrap Button](https://www.freecodecamp.org/learn/front-end-development-libraries/bootstrap/create-a-bootstrap-button)
+
+Bootstrap has its own styles for button elements, which look much better than the plain HTML ones.
+
+Create a new button element below your large kitten photo. Give it the btn and btn-default classes, as well as the text of Like.
+
+[My Code]()
+
+## [050Create a Block Element Bootstrap Button](https://www.freecodecamp.org/learn/front-end-development-libraries/bootstrap/create-a-block-element-bootstrap-button)
