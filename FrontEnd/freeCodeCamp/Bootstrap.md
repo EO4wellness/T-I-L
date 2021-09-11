@@ -57,7 +57,7 @@ Remember that you can add several classes to the same element by separating each
 <h2 class="red-text text-center">your text</h2>
 ```
 
-[My Code](https://github.com/EO4wellness/T-I-L/blob/main/FrontEnd/freeCodeCamp/exercises/bootstrap/03_center-text-with-bootstrap.html)\
+[My Code](https://github.com/EO4wellness/T-I-L/blob/main/FrontEnd/freeCodeCamp/exercises/bootstrap/03_center-text-with-bootstrap.html)
 
 ## [04-Create a Bootstrap Button](https://www.freecodecamp.org/learn/front-end-development-libraries/bootstrap/create-a-bootstrap-button)
 
