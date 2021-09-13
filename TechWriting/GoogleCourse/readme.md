@@ -14,7 +14,7 @@
     - Technical Writing One, which covers the critical basics of technical writing.
     - Technical Writing Two, which covers intermediate topics in technical writing.
 
-* Structur of these Courses:
+* Structure of these Courses:
 
     - self-paced online pre-class material
     - virtual live session
