@@ -68,3 +68,67 @@ Create a new button element below your large kitten photo. Give it the btn and b
 [My Code](https://github.com/EO4wellness/T-I-L/blob/main/FrontEnd/freeCodeCamp/exercises/bootstrap/04_create-a-bootstrap-button.html)
 
 ## [05-Create a Block Element Bootstrap Button](https://www.freecodecamp.org/learn/front-end-development-libraries/bootstrap/create-a-block-element-bootstrap-button)
+Normally, your button elements with the btn and btn-default classes are only as wide as the text that they contain. For example:
+
+<button class="btn btn-default">Submit</button>
+
+This button would only be as wide as the word Submit.
+
+By making them block elements with the additional class of btn-block, your button will stretch to fill your page's entire horizontal space and any elements following it will flow onto a "new line" below the block.
+
+<button class="btn btn-default btn-block">Submit</button>
+
+This button would take up 100% of the available width.
+
+[My Code]()
+
+## [06-Raste the Bootstrap Button Color Rainbow](https://www.freecodecamp.org/learn/front-end-development-libraries/bootstrap/taste-the-bootstrap-button-color-rainbow)
+
+
+The btn-primary class is the main color you'll use in your app. It is useful for highlighting actions you want your user to take.
+
+Replace Bootstrap's btn-default class with btn-primary in your button.
+
+Note that this button will still need the btn and btn-block classes.
+
+Your button should have the class btn-primary.
+
+Your button should still have the btn and btn-block classes.
+
+All your button elements should have closing tags.
+
+[My Code]()
+
+## [07=Call out Optional Actions with btn-info](https://www.freecodecamp.org/learn/front-end-development-libraries/bootstrap/call-out-optional-actions-with-btn-info)
+
+Bootstrap comes with several pre-defined colors for buttons. The btn-info class is used to call attention to optional actions that the user can take.
+
+Create a new block-level Bootstrap button below your Like button with the text Info, and add Bootstrap's btn-info and btn-block classes to it.
+
+Note that these buttons still need the btn and btn-block classes.
+
+You should create a new button element with the text Info.
+
+Both of your Bootstrap buttons should have the btn and btn-block classes.
+
+Your new button should have the class btn-info.
+
+NOTE: the criteria for this coding session said to make the button text say "info" 
+however that didn't past the end-of-unit test (it must be a typo) 
+what passed the test was switching the text to "Information" 
+
+[My Code]()
+
+## [08-QAarn your Users of a Dangerous Action](https://www.freecodecamp.org/learn/front-end-development-libraries/bootstrap/warn-your-users-of-a-dangerous-action-with-btn-danger)
+
+Warn Your Users of a Dangerous Action with btn-danger
+
+Bootstrap comes with several pre-defined colors for buttons. The btn-danger class is the button color you'll use to notify users that the button performs a destructive action, such as deleting a cat photo.
+
+Create a button with the text Delete and give it the class btn-danger.
+
+Note that these buttons still need the btn and btn-block classes.
+
+[My Code]()
+
+https://www.freecodecamp.org/learn/front-end-development-libraries/bootstrap/use-the-bootstrap-grid-to-put-elements-side-by-side
