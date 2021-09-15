@@ -85,7 +85,7 @@ $(".text-primary").addClass("animated shake");
 [My Code](https://github.com/EO4wellness/T-I-L/blob/main/FrontEnd/freeCodeCamp/exercises/jQuery/04_target-elements-by-id-using-jquery.js)
 
 
-## o5 [Delete Your jQuery Functions](https://www.freecodecamp.org/learn/front-end-development-libraries/jquery/delete-your-jquery-functions)
+## 05 [Delete Your jQuery Functions](https://www.freecodecamp.org/learn/front-end-development-libraries/jquery/delete-your-jquery-functions)
 
 
 These animations were cool at first, but now they're getting kind of distracting.
@@ -97,13 +97,40 @@ Delete all three of these jQuery functions from your document ready function, bu
 
 ## 06 [Target the Same Element with Multiple jQuery Selectors]()
 
+
+
+Now you know three ways of targeting elements: by type: $("button"), by class: $(".btn"), and by id $("#target1").
+
+Although it is possible to add multiple classes in a single .addClass() call, let's add them to the same element in three separate ways.
+
+Using .addClass(), add only one class at a time to the same element, three different ways:
+
+Add the animated class to all elements with type button.
+
+Add the shake class to all the buttons with class .btn.
+
+Add the btn-primary class to the button with id #target1.
+
+Note: You should only be targeting one element and adding only one class at a time. Altogether, your three individual selectors will end up adding the three classes shake, animated, and btn-primary to #target1.
+
+
 [My Code]()
 
-## 07 [Remove Classes from an Element with jQuery]()
+## 07 [Remove Classes from an Element with jQuery](https://www.freecodecamp.org/learn/front-end-development-libraries/jquery/remove-classes-from-an-element-with-jquery)
+
+
+In the same way you can add classes to an element with jQuery's addClass() function, you can remove them with jQuery's removeClass() function.
+
+Here's how you would do this for a specific button:
+```
+$("#target2").removeClass("btn-default");
+```
+Let's remove the btn-default class from all of our button elements.
+
 
 [My Code]()
 
-## 08 [Change the CSS of an Element Using jQuery]()
+## 08 [Change the CSS of an Element Using jQuery](https://www.freecodecamp.org/learn/front-end-development-libraries/jquery/change-the-css-of-an-element-using-jquery)
 
 [My Code]()
 
