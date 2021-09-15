@@ -95,8 +95,7 @@ Delete all three of these jQuery functions from your document ready function, bu
 [My Code](https://github.com/EO4wellness/T-I-L/blob/main/FrontEnd/freeCodeCamp/exercises/jQuery/05_delete-your-jquery-functions.js)
 
 
-## 06 [Target the Same Element with Multiple jQuery Selectors]()
-
+## 06 [Target the Same Element with Multiple jQuery Selectors](https://www.freecodecamp.org/learn/front-end-development-libraries/jquery/target-the-same-element-with-multiple-jquery-selectors)
 
 
 Now you know three ways of targeting elements: by type: $("button"), by class: $(".btn"), and by id $("#target1").
