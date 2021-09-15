@@ -19,12 +19,7 @@
 * "Dare to embrace a career in technology." 
 
 
-SheDares - Resource & Reference List
-Module 3: Overcoming Barriers
-
-![tech-instrustry]()
-
-![alignPurpose]()
+![alignPurpose](https://github.com/EO4wellness/T-I-L/blob/main/AWS/SheDAREs/AlignPurpose.jpg)
 
 
 ![one](https://github.com/EO4wellness/T-I-L/blob/main/AWS/SheDAREs/Module_4__2_.webp)
@@ -35,6 +30,11 @@ Module 3: Overcoming Barriers
 
 ![advantages](https://github.com/EO4wellness/T-I-L/blob/main/AWS/SheDAREs/outsider-advantages.jpg)
 
+SheDares - Resource & Reference List
+Module 3: Overcoming Barriers
+* Internal and External 
+* pivot thinking, pivot results 
+* turn impossible to i'm possible 
 
 ### Additional Resources
 * https://github.com/EO4wellness/T-I-L/blob/main/AWS/SheDAREs/SheDares.pdf
