@@ -29,7 +29,7 @@ Build a Markdown Previewer
 
 Build a Drum Machine 
 
-Build a JavaScript Calculator 
+[Build a JavaScript Calculator](https://github.com/EO4wellness/T-I-L/blob/main/FrontEnd/freeCodeCamp/Built-JS-Calculator.md)
 
 [Build a 25 + 5 clock](https://github.com/EO4wellness/T-I-L/blob/main/FrontEnd/freeCodeCamp/Build-Clock.md) 
 
