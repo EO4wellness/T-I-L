@@ -35,45 +35,61 @@ As I've never seen code like this, I had a bit of trouble getting the syntax cor
 
 ## 04 [Target Elements by id Using jQuery]()
 
-
-## [Delete Your jQuery Functions]()
-
-
-## [Target the Same Element with Multiple jQuery Selectors]()
+[My Code]()
 
 
-## [Remove Classes from an Element with jQuery]()
+## o5 [Delete Your jQuery Functions]()
 
+[My Code]()
 
-## [Change the CSS of an Element Using jQuery]()
+## 06 [Target the Same Element with Multiple jQuery Selectors]()
 
+[My Code]()
 
-## [Disable an Element Using jQuery]()
+## 07 [Remove Classes from an Element with jQuery]()
 
+[My Code]()
 
-## [Change Text Inside an Element Using jQuery]()
+## 08 [Change the CSS of an Element Using jQuery]()
 
+[My Code]()
 
-## [Remove an Element Using jQuery]()
+## 09 [Disable an Element Using jQuery]()
 
+[My Code]()
 
-## [Use appendTo to Move Elements with jQuery]()
+## 10 [Change Text Inside an Element Using jQuery]()
 
+[My Code]()
 
-## [Clone an Element Using jQuery]()
+## 11 [Remove an Element Using jQuery]()
 
+[My Code]()
 
-## [Target the Parent of an Element Using jQuery]()
+## 12 [Use appendTo to Move Elements with jQuery]()
 
+[My Code]()
 
-## [Target the Children of an Element Using jQuery]()
+## 13 [Clone an Element Using jQuery]()
 
+[My Code]()
 
-## [Target a Specific Child of an Element Using jQuery]()
+## 14 [Target the Parent of an Element Using jQuery]()
 
+[My Code]()
 
-## [Target Even Elements Using jQuery]()
+## 15 [Target the Children of an Element Using jQuery]()
 
+[My Code]()
 
-## [Use jQuery to Modify the Entire Page]()
+## 16 [Target a Specific Child of an Element Using jQuery]()
 
+[My Code]()
+
+## 17 [Target Even Elements Using jQuery]()
+
+[My Code]()
+
+## 18 [Use jQuery to Modify the Entire Page]()
+
+[My Code]()
