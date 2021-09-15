@@ -17,7 +17,7 @@ Later, you'll build a shopping cart and other applications to learn how to creat
 ## Topic Outline: 
 -- 01: Bootstrap (31 units of study)
 -- 02: jQuery (18 units of study)
--- 03: SASS (9 units of study)
+-- 03: [SASS](https://github.com/EO4wellness/T-I-L/blob/main/FrontEnd/freeCodeCamp/SASS.md) (9 units of study)
 -- 04: React (47 units of study)
 -- 05: Redux (17 units of study)
 -- 06: React and Redux (10 units of study)
