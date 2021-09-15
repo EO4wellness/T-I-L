@@ -1,4 +1,5 @@
-# jQuery
+# [jQuery](https://www.freecodecamp.org/learn/front-end-development-libraries/#jquery)
+* 18 study units 
 * jQuery is one of the most widely used JavaScript libraries in the world.
 * In 2006 when it was released, all major browsers handled JavaScript slightly differently. 
 * jQuery simplified the process of writing client-side JavaScript, and also ensured that your code worked the same way in all browsers.
