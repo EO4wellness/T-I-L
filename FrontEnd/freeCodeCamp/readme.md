@@ -31,7 +31,7 @@ Build a Drum Machine
 
 Build a JavaScript Calculator 
 
-Build a 25 + 5 clock 
+[Build a 25 + 5 clock](https://github.com/EO4wellness/T-I-L/blob/main/FrontEnd/freeCodeCamp/Build-Clock.md) 
 
 # Course Completion: 
 Date: 
