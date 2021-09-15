@@ -20,27 +20,27 @@ We'll learn more about functions later. The important thing to know is that code
 
 This is important because without your document ready function, your code may run before your HTML is rendered, which would cause bugs.
 
-[My Code]()
+[My Code](https://github.com/EO4wellness/T-I-L/blob/main/FrontEnd/freeCodeCamp/exercises/jQuery/01_learn-how-script-tags-and-document-ready-work.js)
 
 As I've never seen code like this, I had a bit of trouble getting the syntax correct and needed to search for it and look it up until I resolved the various error messages
 
 
 ## 02 [Target HTML Elements with Selectors Using jQuery]()
 
-[My Code]()
+[My Code](https://github.com/EO4wellness/T-I-L/blob/main/FrontEnd/freeCodeCamp/exercises/jQuery/02_target-html-elements-with-selectors-using-jquery.js)
 
 ## 03 [Target Elements by Class Using jQuery]()
 
-[My Code]()
+[My Code](https://github.com/EO4wellness/T-I-L/blob/main/FrontEnd/freeCodeCamp/exercises/jQuery/03_arget-elements-by-class-using-jquery.js)
 
 ## 04 [Target Elements by id Using jQuery]()
 
-[My Code]()
+[My Code](https://github.com/EO4wellness/T-I-L/blob/main/FrontEnd/freeCodeCamp/exercises/jQuery/04_target-elements-by-id-using-jquery.js)
 
 
 ## o5 [Delete Your jQuery Functions]()
 
-[My Code]()
+[My Code](https://github.com/EO4wellness/T-I-L/blob/main/FrontEnd/freeCodeCamp/exercises/jQuery/05_delete-your-jquery-functions.js)
 
 ## 06 [Target the Same Element with Multiple jQuery Selectors]()
 
