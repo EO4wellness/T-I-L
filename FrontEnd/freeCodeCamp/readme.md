@@ -27,11 +27,11 @@ Build a Random Quote Machine
 
 Build a Markdown Previewer 
 
-Build a Drum Machine 
+[Build a Drum Machine](https://github.com/EO4wellness/T-I-L/blob/main/FrontEnd/freeCodeCamp/Build-Drum-Machine.md)
 
-Build a JavaScript Calculator 
+[Build a JavaScript Calculator](https://github.com/EO4wellness/T-I-L/blob/main/FrontEnd/freeCodeCamp/Build-JS-Calculator.md)
 
-Build a 25 + 5 clock 
+[Build a 25 + 5 clock](https://github.com/EO4wellness/T-I-L/blob/main/FrontEnd/freeCodeCamp/Build-Clock.md) 
 
 # Course Completion: 
 Date: 

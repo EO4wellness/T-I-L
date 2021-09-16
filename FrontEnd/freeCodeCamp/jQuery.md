@@ -113,7 +113,7 @@ Add the btn-primary class to the button with id #target1.
 Note: You should only be targeting one element and adding only one class at a time. Altogether, your three individual selectors will end up adding the three classes shake, animated, and btn-primary to #target1.
 
 
-[My Code]()
+[My Code](https://github.com/EO4wellness/T-I-L/blob/main/FrontEnd/freeCodeCamp/exercises/jQuery/06_target-the-same-element-with-multiple-jquery-selectors.js.js)
 
 ## 07 [Remove Classes from an Element with jQuery](https://www.freecodecamp.org/learn/front-end-development-libraries/jquery/remove-classes-from-an-element-with-jquery)
 
@@ -127,7 +127,7 @@ $("#target2").removeClass("btn-default");
 Let's remove the btn-default class from all of our button elements.
 
 
-[My Code]()
+[My Code](https://github.com/EO4wellness/T-I-L/blob/main/FrontEnd/freeCodeCamp/exercises/jQuery/07_remove-classes-from-an-element-with-jquery.js)
 
 ## 08 [Change the CSS of an Element Using jQuery](https://www.freecodecamp.org/learn/front-end-development-libraries/jquery/change-the-css-of-an-element-using-jquery)
 
