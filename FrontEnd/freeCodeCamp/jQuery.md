@@ -131,17 +131,62 @@ Let's remove the btn-default class from all of our button elements.
 
 ## 08 [Change the CSS of an Element Using jQuery](https://www.freecodecamp.org/learn/front-end-development-libraries/jquery/change-the-css-of-an-element-using-jquery)
 
+We can also change the CSS of an HTML element directly with jQuery.
+
+jQuery has a function called .css() that allows you to change the CSS of an element.
+
+Here's how we would change its color to blue:
+
+$("#target1").css("color", "blue");
+
+This is slightly different from a normal CSS declaration, because the CSS property and its value are in quotes, and separated with a comma instead of a colon.
+
+Delete your jQuery selectors, leaving an empty document ready function.
+
+Select target1 and change its color to red.
+
+
 [My Code]()
+
+My solution for this unit doesn't pass, though it appears to be correct. 
+```
+<script>
+  $(document).ready(function() {
+    $("#target1").css("color", "red");
+
+  });
+</script>
+```
 
 ## 09 [Disable an Element Using jQuery]()
 
+
+
+  
 [My Code]()
 
-## 10 [Change Text Inside an Element Using jQuery]()
+## 10 [Change Text Inside an Element Using jQuery](https://www.freecodecamp.org/learn/front-end-development-libraries/jquery/change-text-inside-an-element-using-jquery)
 
-[My Code]()
 
-## 11 [Remove an Element Using jQuery]()
+Using jQuery, you can change the text between the start and end tags of an element. You can even change HTML markup.
+
+jQuery has a function called .html() that lets you add HTML tags and text within an element. Any content previously within the element will be completely replaced with the content you provide using this function.
+
+Here's how you would rewrite and emphasize the text of our heading:
+
+$("h3").html("<em>jQuery Playground</em>");
+
+jQuery also has a similar function called .text() that only alters text without adding tags. In other words, this function will not evaluate any HTML tags passed to it, but will instead treat it as the text you want to replace the existing content with.
+
+Change the button with id target4 by emphasizing its text.
+
+View our news article for <em> to learn the difference between <i> and <em> and their uses.
+
+Note that while the <i> tag has traditionally been used to emphasize text, it has since been adopted for use as a tag for icons. The <em> tag is now widely accepted as the tag for emphasis. Either will work for this challenge.
+  
+[My Code](https://github.com/EO4wellness/T-I-L/blob/main/FrontEnd/freeCodeCamp/exercises/jQuery/10_change-text-inside-an-element-using-jquery.js)
+
+## 11 [Remove an Element Using jQuery](https://www.freecodecamp.org/learn/front-end-development-libraries/jquery/remove-an-element-using-jquery)
 
 [My Code]()
 
