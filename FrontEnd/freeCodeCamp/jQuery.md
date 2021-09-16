@@ -146,7 +146,7 @@ Delete your jQuery selectors, leaving an empty document ready function.
 Select target1 and change its color to red.
 
 
-[My Code]()
+[My Code](https://github.com/EO4wellness/T-I-L/blob/main/FrontEnd/freeCodeCamp/exercises/jQuery/08_change-the-css-of-an-element-using-jquery.js)
 
 My solution for this unit doesn't pass, though it appears to be correct. 
 ```
@@ -157,6 +157,8 @@ My solution for this unit doesn't pass, though it appears to be correct.
   });
 </script>
 ```
+
+Post about this problem.  Also encountered the exact same problem below with changing the color on the parent and child units below.  This is the solution.  Once I turned off the Dark browser extension, the code passed the test(s). 
 
 ## 09 [Disable an Element Using jQuery](https://www.freecodecamp.org/learn/front-end-development-libraries/jquery/disable-an-element-using-jquery)
 
@@ -198,17 +200,59 @@ Note that while the <i> tag has traditionally been used to emphasize text, it ha
 
 ## 11 [Remove an Element Using jQuery](https://www.freecodecamp.org/learn/front-end-development-libraries/jquery/remove-an-element-using-jquery)
 
-[My Code]()
+Now let's remove an HTML element from your page using jQuery.
 
-## 12 [Use appendTo to Move Elements with jQuery]()
+jQuery has a function called .remove() that will remove an HTML element entirely
 
-[My Code]()
+Remove the #target4 element from the page by using the .remove() function.
+  
+[My Code](https://github.com/EO4wellness/T-I-L/blob/main/FrontEnd/freeCodeCamp/exercises/jQuery/11_remove-an-element-using-jquery.js)
 
-## 13 [Clone an Element Using jQuery]()
+## 12 [Use appendTo to Move Elements with jQuery](https://www.freecodecamp.org/learn/front-end-development-libraries/jquery/use-appendto-to-move-elements-with-jquery)
+  
 
-[My Code]()
+Now let's try moving elements from one div to another.
 
-## 14 [Target the Parent of an Element Using jQuery]()
+jQuery has a function called appendTo() that allows you to select HTML elements and append them to another element.
+
+For example, if we wanted to move target4 from our right well to our left well, we would use:
+```
+$("#target4").appendTo("#left-well");
+```
+Move your target2 element from your left-well to your right-well.
+
+  
+[My Code](https://github.com/EO4wellness/T-I-L/blob/main/FrontEnd/freeCodeCamp/exercises/jQuery/12_use-appendto-to-move-elements-with-jquery.js)
+
+## 13 [Clone an Element Using jQuery](https://www.freecodecamp.org/learn/front-end-development-libraries/jquery/clone-an-element-using-jquery)
+
+In addition to moving elements, you can also copy them from one place to another.
+
+jQuery has a function called clone() that makes a copy of an element.
+
+For example, if we wanted to copy target2 from our left-well to our right-well, we would use:
+```
+$("#target2").clone().appendTo("#right-well");
+```
+Did you notice this involves sticking two jQuery functions together? This is called function chaining and it's a convenient way to get things done with jQuery.
+
+Clone your target5 element and append it to your left-well.
+ 
+[My Code](https://github.com/EO4wellness/T-I-L/blob/main/FrontEnd/freeCodeCamp/exercises/jQuery/13_clone-an-element-using-jquery.js)
+
+## 14 [Target the Parent of an Element Using jQuery](https://www.freecodecamp.org/learn/front-end-development-libraries/jquery/target-the-parent-of-an-element-using-jquery)
+
+Every HTML element has a parent element from which it inherits properties.
+
+For example, your jQuery Playground h3 element has the parent element of <div class="container-fluid">, which itself has the parent body.
+
+jQuery has a function called parent() that allows you to access the parent of whichever element you've selected.
+
+Here's an example of how you would use the parent() function if you wanted to give the parent element of the left-well element a background color of blue:
+```
+$("#left-well").parent().css("background-color", "blue")
+```
+Give the parent of the #target1 element a background-color of red.
 
 [My Code]()
 
