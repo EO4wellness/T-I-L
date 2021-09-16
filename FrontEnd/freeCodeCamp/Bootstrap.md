@@ -1,4 +1,4 @@
-# Bootstrap 
+# [Bootstrap](https://www.freecodecamp.org/learn/front-end-development-libraries/#bootstrap)
 * Begin studies: 9/9/2021
 * 31 Units of study in this section 
 
@@ -99,7 +99,7 @@ All your button elements should have closing tags.
 
 [My Code]()
 
-## [07=Call out Optional Actions with btn-info](https://www.freecodecamp.org/learn/front-end-development-libraries/bootstrap/call-out-optional-actions-with-btn-info)
+## [07-Call out Optional Actions with btn-info](https://www.freecodecamp.org/learn/front-end-development-libraries/bootstrap/call-out-optional-actions-with-btn-info)
 
 Bootstrap comes with several pre-defined colors for buttons. The btn-info class is used to call attention to optional actions that the user can take.
 
@@ -119,7 +119,7 @@ what passed the test was switching the text to "Information"
 
 [My Code]()
 
-## [08-QAarn your Users of a Dangerous Action](https://www.freecodecamp.org/learn/front-end-development-libraries/bootstrap/warn-your-users-of-a-dangerous-action-with-btn-danger)
+## [08-Warn your Users of a Dangerous Action](https://www.freecodecamp.org/learn/front-end-development-libraries/bootstrap/warn-your-users-of-a-dangerous-action-with-btn-danger)
 
 Warn Your Users of a Dangerous Action with btn-danger
 

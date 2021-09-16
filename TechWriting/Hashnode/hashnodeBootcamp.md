@@ -83,3 +83,48 @@
 * Conclusion: writers most likely to be life long learners 
 " I believe that a good writer doesn't really need to be told anything except to keep at it." Chinua Achebe
 * Twitter: @didicodes
+
+## Day 2:
+* 2021-09-15 
+* Hashnode All-Star: [Chris Bongers](https://hashnode.com/@dailydevtips)
+* Chris published every day 
+* Consistency
+* How to come up with ideas. 
+* [Hashnode Series](https://townhall.hashnode.com/series-feature?source=newsletter)
+* Acting or done in the same way over time, especially to be fair or accurate 
+* Consistency:  mixture of time and effort 
+* Chris Bongers golden standards: 
+1. Writing every time period = consistent
+2. Putting in the same effort in every article = consistent 
+* Side Support: 
+- Tooling
+- Planning 
+- Goals 
+- Celebrating 
+- Inspiration 
+* Reasons People Fail 
+- Life gets in the way 
+- The schedule is not working
+- stress 
+- content doesn't get traction 
+- effort drops over time 
+- writers block 
+* people need to find the content, it takes time to grow an audience 
+* Have a calendar for every day you plan to Blog
+* Plan ahead. 
+* Write in Titles as they occur to you for future dates. 
+* On the Calendar date, write what you planned. 
+* Goal:  6-7 article titles ahead of today's writing 
+* Content Ideas: 
+- write about struggles
+- write about knowledge 
+- write about experiences 
+- things you googled 
+- what tools do you use (or reject using) 
+- last event you attended 
+- books you have read (key takeaways) 
+- advice for you but five years ago
+- inspirational thoughts 
+- what keeps you up at night thinking too much about it 
+
+
