@@ -121,9 +121,11 @@ Note: You should only be targeting one element and adding only one class at a ti
 In the same way you can add classes to an element with jQuery's addClass() function, you can remove them with jQuery's removeClass() function.
 
 Here's how you would do this for a specific button:
+
 ```
 $("#target2").removeClass("btn-default");
 ```
+
 Let's remove the btn-default class from all of our button elements.
 
 
@@ -136,9 +138,9 @@ We can also change the CSS of an HTML element directly with jQuery.
 jQuery has a function called .css() that allows you to change the CSS of an element.
 
 Here's how we would change its color to blue:
-
+```
 $("#target1").css("color", "blue");
-
+```
 This is slightly different from a normal CSS declaration, because the CSS property and its value are in quotes, and separated with a comma instead of a colon.
 
 Delete your jQuery selectors, leaving an empty document ready function.
@@ -169,9 +171,9 @@ When you disable a button, it will become grayed-out and can no longer be clicke
 jQuery has a function called .prop() that allows you to adjust the properties of elements.
 
 Here's how you would disable all buttons:
-
+```
 $("button").prop("disabled", true);
-
+```
 Disable only the target1 button.
 
   
@@ -188,13 +190,14 @@ Here's how you would rewrite and emphasize the text of our heading:
 ```
 $("h3").html("<em>jQuery Playground</em>");
 ```
+
 jQuery also has a similar function called .text() that only alters text without adding tags. In other words, this function will not evaluate any HTML tags passed to it, but will instead treat it as the text you want to replace the existing content with.
 
 Change the button with id target4 by emphasizing its text.
 
-View our news article for <em> to learn the difference between <i> and <em> and their uses.
+View our news article for``` <em>``` to learn the difference between ```<i>``` and ```<em>``` and their uses.
 
-Note that while the <i> tag has traditionally been used to emphasize text, it has since been adopted for use as a tag for icons. The <em> tag is now widely accepted as the tag for emphasis. Either will work for this challenge.
+Note that while the ```<i>``` tag has traditionally been used to emphasize text, it has since been adopted for use as a tag for icons. The ```<em>``` tag is now widely accepted as the tag for emphasis. Either will work for this challenge.
   
 [My Code](https://github.com/EO4wellness/T-I-L/blob/main/FrontEnd/freeCodeCamp/exercises/jQuery/10_change-text-inside-an-element-using-jquery.js)
 
@@ -204,7 +207,7 @@ Now let's remove an HTML element from your page using jQuery.
 
 jQuery has a function called .remove() that will remove an HTML element entirely
 
-Remove the #target4 element from the page by using the .remove() function.
+Remove the #target4 element from the page by using the ```.remove()``` function.
   
 [My Code](https://github.com/EO4wellness/T-I-L/blob/main/FrontEnd/freeCodeCamp/exercises/jQuery/11_remove-an-element-using-jquery.js)
 
@@ -250,9 +253,9 @@ Every HTML element has a parent element from which it inherits properties.
 
 For example, your jQuery Playground h3 element has the parent element of <div class="container-fluid">, which itself has the parent body.
 
-jQuery has a function called parent() that allows you to access the parent of whichever element you've selected.
+jQuery has a function called ```parent()``` that allows you to access the parent of whichever element you've selected.
 
-Here's an example of how you would use the parent() function if you wanted to give the parent element of the left-well element a background color of blue:
+Here's an example of how you would use the``` parent() ```function if you wanted to give the parent element of the left-well element a background color of blue:
   
 ```
 $("#left-well").parent().css("background-color", "blue")
