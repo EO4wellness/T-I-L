@@ -185,9 +185,9 @@ Using jQuery, you can change the text between the start and end tags of an eleme
 jQuery has a function called .html() that lets you add HTML tags and text within an element. Any content previously within the element will be completely replaced with the content you provide using this function.
 
 Here's how you would rewrite and emphasize the text of our heading:
-
+```
 $("h3").html("<em>jQuery Playground</em>");
-
+```
 jQuery also has a similar function called .text() that only alters text without adding tags. In other words, this function will not evaluate any HTML tags passed to it, but will instead treat it as the text you want to replace the existing content with.
 
 Change the button with id target4 by emphasizing its text.
@@ -216,9 +216,11 @@ Now let's try moving elements from one div to another.
 jQuery has a function called appendTo() that allows you to select HTML elements and append them to another element.
 
 For example, if we wanted to move target4 from our right well to our left well, we would use:
+  
 ```
 $("#target4").appendTo("#left-well");
 ```
+  
 Move your target2 element from your left-well to your right-well.
 
   
@@ -231,9 +233,11 @@ In addition to moving elements, you can also copy them from one place to another
 jQuery has a function called clone() that makes a copy of an element.
 
 For example, if we wanted to copy target2 from our left-well to our right-well, we would use:
+  
 ```
 $("#target2").clone().appendTo("#right-well");
 ```
+  
 Did you notice this involves sticking two jQuery functions together? This is called function chaining and it's a convenient way to get things done with jQuery.
 
 Clone your target5 element and append it to your left-well.
@@ -249,9 +253,11 @@ For example, your jQuery Playground h3 element has the parent element of <div cl
 jQuery has a function called parent() that allows you to access the parent of whichever element you've selected.
 
 Here's an example of how you would use the parent() function if you wanted to give the parent element of the left-well element a background color of blue:
+  
 ```
 $("#left-well").parent().css("background-color", "blue")
 ```
+  
 Give the parent of the #target1 element a background-color of red.
 
 [My Code](https://github.com/EO4wellness/T-I-L/blob/main/FrontEnd/freeCodeCamp/exercises/jQuery/14_target-the-parent-of-an-element-using-jquery.js)
