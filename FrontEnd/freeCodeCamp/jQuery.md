@@ -158,12 +158,22 @@ My solution for this unit doesn't pass, though it appears to be correct.
 </script>
 ```
 
-## 09 [Disable an Element Using jQuery]()
+## 09 [Disable an Element Using jQuery](https://www.freecodecamp.org/learn/front-end-development-libraries/jquery/disable-an-element-using-jquery)
 
+You can also change the non-CSS properties of HTML elements with jQuery. For example, you can disable buttons.
 
+When you disable a button, it will become grayed-out and can no longer be clicked.
+
+jQuery has a function called .prop() that allows you to adjust the properties of elements.
+
+Here's how you would disable all buttons:
+
+$("button").prop("disabled", true);
+
+Disable only the target1 button.
 
   
-[My Code]()
+[My Code](https://github.com/EO4wellness/T-I-L/blob/main/FrontEnd/freeCodeCamp/exercises/jQuery/09_disable-an-element-using-jquery.js)
 
 ## 10 [Change Text Inside an Element Using jQuery](https://www.freecodecamp.org/learn/front-end-development-libraries/jquery/change-text-inside-an-element-using-jquery)
 
