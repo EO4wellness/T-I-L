@@ -27,18 +27,79 @@ One example where variables are useful is when a number of elements need to be t
 
 Create a variable $text-color and set it to red. Then change the value of the color property for the .blog-post and h2 to the $text-color variable.
 
-[My Code]()
+[My Code](https://github.com/EO4wellness/T-I-L/blob/main/FrontEnd/freeCodeCamp/exercises/SASS/01_store-data-with-sass-variables.html)
 
 
-## 02 [Nest CSS with Sass]()
+## 02 [Nest CSS with Sass](https://www.freecodecamp.org/learn/front-end-development-libraries/sass/nest-css-with-sass)
 
-[My Code]()
+Sass allows nesting of CSS rules, which is a useful way of organizing a style sheet.
 
-## 03 [Create Reusable CSS with Mixins]()
+Normally, each element is targeted on a different line to style it, like so:
+```
+nav {
+  background-color: red;
+}
 
-[My Code]()
+nav ul {
+  list-style: none;
+}
 
-## 04 [Use @if and @else to Add Logic To Your Styles]()
+nav ul li {
+  display: inline-block;
+}
+```
+For a large project, the CSS file will have many lines and rules. This is where nesting can help organize your code by placing child style rules within the respective parent elements:
+```
+nav {
+  background-color: red;
+
+  ul {
+    list-style: none;
+
+    li {
+      display: inline-block;
+    }
+  }
+}
+```
+Use the nesting technique shown above to re-organize the CSS rules for both children of .blog-post element. For testing purposes, the h1 should come before the p element.
+
+[My Code](https://github.com/EO4wellness/T-I-L/blob/main/FrontEnd/freeCodeCamp/exercises/SASS/02_nest-css-with-sass.html)
+
+## 03 [Create Reusable CSS with Mixins](https://www.freecodecamp.org/learn/front-end-development-libraries/sass/create-reusable-css-with-mixins)
+
+In Sass, a mixin is a group of CSS declarations that can be reused throughout the style sheet.
+
+Newer CSS features take time before they are fully adopted and ready to use in all browsers. As features are added to browsers, CSS rules using them may need vendor prefixes. Consider box-shadow:
+```
+div {
+  -webkit-box-shadow: 0px 0px 4px #fff;
+  -moz-box-shadow: 0px 0px 4px #fff;
+  -ms-box-shadow: 0px 0px 4px #fff;
+  box-shadow: 0px 0px 4px #fff;
+}
+```
+It's a lot of typing to re-write this rule for all the elements that have a box-shadow, or to change each value to test different effects. Mixins are like functions for CSS. Here is how to write one:
+```
+@mixin box-shadow($x, $y, $blur, $c){ 
+  -webkit-box-shadow: $x $y $blur $c;
+  -moz-box-shadow: $x $y $blur $c;
+  -ms-box-shadow: $x $y $blur $c;
+  box-shadow: $x $y $blur $c;
+}
+```
+The definition starts with @mixin followed by a custom name. The parameters (the $x, $y, $blur, and $c in the example above) are optional. Now any time a box-shadow rule is needed, only a single line calling the mixin replaces having to type all the vendor prefixes. A mixin is called with the @include directive:
+```
+div {
+  @include box-shadow(0px, 0px, 4px, #fff);
+}
+```
+Write a mixin for border-radius and give it a $radius parameter. It should use all the vendor prefixes from the example. Then use the border-radius mixin to give the #awesome element a border radius of 15px.
+
+
+[My Code](https://github.com/EO4wellness/T-I-L/blob/main/FrontEnd/freeCodeCamp/exercises/SASS/03_create-reusable-css-with-mixins.html)
+
+## 04 [Use @if and @else to Add Logic To Your Styles](https://www.freecodecamp.org/learn/front-end-development-libraries/sass/use-if-and-else-to-add-logic-to-your-styles)
 
 [My Code]()
 
