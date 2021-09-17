@@ -100,8 +100,42 @@ Write a mixin for border-radius and give it a $radius parameter. It should use a
 [My Code](https://github.com/EO4wellness/T-I-L/blob/main/FrontEnd/freeCodeCamp/exercises/SASS/03_create-reusable-css-with-mixins.html)
 
 ## 04 [Use @if and @else to Add Logic To Your Styles](https://www.freecodecamp.org/learn/front-end-development-libraries/sass/use-if-and-else-to-add-logic-to-your-styles)
+Use @if and @else to Add Logic To Your Styles
 
-[My Code]()
+The ```@if``` directive in Sass is useful to test for a specific case - it works just like the ```if``` statement in JavaScript.
+```
+@mixin make-bold($bool) {
+  @if $bool == true {
+    font-weight: bold;
+  }
+}
+```
+And just like in JavaScript, ```@else if and @else``` test for more conditions:
+```
+@mixin text-effect($val) {
+  @if $val == danger {
+    color: red;
+  }
+  @else if $val == alert {
+    color: yellow;
+  }
+  @else if $val == success {
+    color: green;
+  }
+  @else {
+    color: black;
+  }
+}
+```
+Create a mixin called border-stroke that takes a parameter $val. The mixin should check for the following conditions using @if, @else if, and @else:
+```
+light - 1px solid black
+medium - 3px solid black
+heavy - 6px solid black
+```
+If $val is not light, medium, or heavy, the border should be set to none.
+
+[My Code](https://github.com/EO4wellness/T-I-L/blob/main/FrontEnd/freeCodeCamp/exercises/SASS/04_use-if-and-else-to-add-logic-to-your-styles.html)
 
 ## 05 [Use @for to Create a Sass Loop]()
 
