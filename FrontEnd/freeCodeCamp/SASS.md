@@ -227,14 +227,52 @@ Use ```@while``` to create a series of classes with different ```font-sizes```.
 
 There should be 5 different classes from ```text-1``` to ```text-5```. Then set ```font-size``` to ```15px``` multiplied by the current index number. Make sure to avoid an infinite loop!
 
-[My Code]()
+[My Code](https://github.com/EO4wellness/T-I-L/blob/main/FrontEnd/freeCodeCamp/exercises/SASS/07_apply-a-style-until-a-condition-is-met-with-while.html)
 
 ## 08 [Split Your Styles into Smaller Chunks with Partials](https://www.freecodecamp.org/learn/front-end-development-libraries/sass/split-your-styles-into-smaller-chunks-with-partials)
 
-[My Code]()
+<i>Partials</i> in Sass are separate files that hold segments of CSS code. These are imported and used in other Sass files. This is a great way to group similar code into a module to keep it organized.
+
+Names for partials start with the underscore (_) character, which tells Sass it is a small segment of CSS and not to convert it into a CSS file. Also, Sass files end with the .scss file extension. To bring the code in the partial into another Sass file, use the @import directive.
+
+For example, if all your mixins are saved in a partial named "_mixins.scss", and they are needed in the "main.scss" file, this is how to use them in the main file:
+```
+@import 'mixins'
+```
+Note that the underscore and file extension are not needed in the import statement - Sass understands it is a partial. Once a partial is imported into a file, all variables, mixins, and other code are available to use.
+
+Write an @import statement to import a partial named _variables.scss into the main.scss file.
 
 
-## 09 [Extend One Set of CSS Styles to Another Element]()
+[My Code](https://github.com/EO4wellness/T-I-L/blob/main/FrontEnd/freeCodeCamp/exercises/SASS/08_split-your-styles-into-smaller-chunks-with-partials.html)
 
 
-[My Code]()
+## 09 [Extend One Set of CSS Styles to Another Element](https://www.freecodecamp.org/learn/front-end-development-libraries/sass/extend-one-set-of-css-styles-to-another-element)
+
+Sass has a feature called ```extend``` that makes it easy to borrow the CSS rules from one element and build upon them in another.
+
+For example, the below block of CSS rules style a .panel class. It has a ```background-color```, height and border.
+```
+.panel{
+  background-color: red;
+  height: 70px;
+  border: 2px solid green;
+}
+```
+Now you want another panel called ```.big-panel```. It has the same base properties as ```.panel```, but also needs a ```width``` and ```font-size```. It's possible to copy and paste the initial CSS rules from ```.panel```, but the code becomes repetitive as you add more types of panels. The ```extend``` directive is a simple way to reuse the rules written for one element, then add more for another:
+```
+.big-panel{
+  @extend .panel;
+  width: 150px;
+  font-size: 2em;
+}
+```
+The ```.big-panel``` will have the same properties as ```.panel``` in addition to the new styles.
+
+Make a class ```.info-important``` that extends ```.info``` and also has a ```background-color``` set to magenta.
+
+
+[My Code](https://github.com/EO4wellness/T-I-L/blob/main/FrontEnd/freeCodeCamp/exercises/SASS/09_extend-one-set-of-css-styles-to-another-element.html)
+
+![Completed](https://github.com/EO4wellness/T-I-L/blob/main/FrontEnd/Images/2021-09-17-completedFCC-SASS-Unit-Studies.jpg)
+
