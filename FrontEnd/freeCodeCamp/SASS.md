@@ -172,7 +172,7 @@ Write a ```@for``` directive that takes a variable ```$j``` that goes from 1 to 
 It should create 5 classes called ```.text-1``` to ```.text-5``` where each has a ```font-size``` set to 15px multiplied by the index.
 
 
-[My Code]()
+[My Code](https://github.com/EO4wellness/T-I-L/blob/main/FrontEnd/freeCodeCamp/exercises/SASS/05_use-for-to-create-a-sass-loop.html)
 
 ## 06 [Use @each to Map Over Items in a List](https://www.freecodecamp.org/learn/front-end-development-libraries/sass/use-each-to-map-over-items-in-a-list)
 
