@@ -209,11 +209,27 @@ Write an ```@each``` directive that goes through a list: blue, black, red and as
 
 [My Code](https://github.com/EO4wellness/T-I-L/blob/main/FrontEnd/freeCodeCamp/exercises/SASS/06_use-each-to-map-over-items-in-a-list.html)
 
-## 07 [Apply a Style Until a Condition is Met with @while]()
+## 07 [Apply a Style Until a Condition is Met with @while](https://www.freecodecamp.org/learn/front-end-development-libraries/sass/apply-a-style-until-a-condition-is-met-with-while)
+
+The ```@while``` directive is an option with similar functionality to the JavaScript while loop. It creates CSS rules until a condition is met.
+
+The ```@for``` challenge gave an example to create a simple grid system. This can also work with ```@while```.
+```
+$x: 1;
+@while $x < 13 {
+  .col-#{$x} { width: 100%/12 * $x;}
+  $x: $x + 1;
+}
+```
+First, define a variable ```$x``` and set it to 1. Next, use the ```@while``` directive to create the grid system while ```$x``` is less than 13. After setting the CSS rule for width, ```$x``` is incremented by 1 to avoid an infinite loop.
+
+Use ```@while``` to create a series of classes with different ```font-sizes```.
+
+There should be 5 different classes from ```text-1``` to ```text-5```. Then set ```font-size``` to ```15px``` multiplied by the current index number. Make sure to avoid an infinite loop!
 
 [My Code]()
 
-## 08 [Split Your Styles into Smaller Chunks with Partials]()
+## 08 [Split Your Styles into Smaller Chunks with Partials](https://www.freecodecamp.org/learn/front-end-development-libraries/sass/split-your-styles-into-smaller-chunks-with-partials)
 
 [My Code]()
 
