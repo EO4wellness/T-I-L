@@ -21,17 +21,17 @@ Later, you'll build a shopping cart and other applications to learn how to creat
 -- 04: [React](https://github.com/EO4wellness/T-I-L/blob/main/FrontEnd/freeCodeCamp/React.md) (47 units of study)<br>
 -- 05: Redux (17 units of study)<br>
 -- 06: React and Redux (10 units of study)<br>
--- 07: Front End Development Libraries Projects <br>
+-- 07: Front End Development Libraries Projects (5 projects:)<br>
 
-Build a Random Quote Machine 
+  1. Build a Random Quote Machine 
 
-Build a Markdown Previewer 
+  2. Build a Markdown Previewer 
 
-[Build a Drum Machine](https://github.com/EO4wellness/T-I-L/blob/main/FrontEnd/freeCodeCamp/Build-Drum-Machine.md)
+  3. [Build a Drum Machine](https://github.com/EO4wellness/T-I-L/blob/main/FrontEnd/freeCodeCamp/Build-Drum-Machine.md)
 
-[Build a JavaScript Calculator](https://github.com/EO4wellness/T-I-L/blob/main/FrontEnd/freeCodeCamp/Build-JS-Calculator.md)
+  4. [Build a JavaScript Calculator](https://github.com/EO4wellness/T-I-L/blob/main/FrontEnd/freeCodeCamp/Build-JS-Calculator.md)
 
-[Build a 25 + 5 clock](https://github.com/EO4wellness/T-I-L/blob/main/FrontEnd/freeCodeCamp/Build-Clock.md) 
+  5. [Build a 25 + 5 clock](https://github.com/EO4wellness/T-I-L/blob/main/FrontEnd/freeCodeCamp/Build-Clock.md) 
 
 # Course Completion: 
 Date: 
