@@ -176,8 +176,38 @@ It should create 5 classes called ```.text-1``` to ```.text-5``` where each has 
 
 ## 06 [Use @each to Map Over Items in a List](https://www.freecodecamp.org/learn/front-end-development-libraries/sass/use-each-to-map-over-items-in-a-list)
 
+The last challenge showed how the ```@for``` directive uses a starting and ending value to loop a certain number of times. Sass also offers the ```@each``` directive which loops over each item in a list or map. On each iteration, the variable gets assigned to the current value from the list or map.
+```
+@each $color in blue, red, green {
+  .#{$color}-text {color: $color;}
+}
+```
+A map has slightly different syntax. Here's an example:
+```
+$colors: (color1: blue, color2: red, color3: green);
 
-[My Code]()
+@each $key, $color in $colors {
+  .#{$color}-text {color: $color;}
+}
+```
+Note that the ```$key``` variable is needed to reference the keys in the map. Otherwise, the compiled CSS would have ```color1```, ```color2```... in it. Both of the above code examples are converted into the following CSS:
+
+```
+.blue-text {
+  color: blue;
+}
+
+.red-text {
+  color: red;
+}
+
+.green-text {
+  color: green;
+}
+```
+Write an ```@each``` directive that goes through a list: blue, black, red and assigns each variable to a .color-bg class, where the color part changes for each item. Each class should set the ```background-color``` the respective color.
+
+[My Code](https://github.com/EO4wellness/T-I-L/blob/main/FrontEnd/freeCodeCamp/exercises/SASS/06_use-each-to-map-over-items-in-a-list.html)
 
 ## 07 [Apply a Style Until a Condition is Met with @while]()
 
