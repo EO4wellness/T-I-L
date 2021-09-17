@@ -176,14 +176,60 @@ It should create 5 classes called ```.text-1``` to ```.text-5``` where each has 
 
 ## 06 [Use @each to Map Over Items in a List](https://www.freecodecamp.org/learn/front-end-development-libraries/sass/use-each-to-map-over-items-in-a-list)
 
+The last challenge showed how the ```@for``` directive uses a starting and ending value to loop a certain number of times. Sass also offers the ```@each``` directive which loops over each item in a list or map. On each iteration, the variable gets assigned to the current value from the list or map.
+```
+@each $color in blue, red, green {
+  .#{$color}-text {color: $color;}
+}
+```
+A map has slightly different syntax. Here's an example:
+```
+$colors: (color1: blue, color2: red, color3: green);
+
+@each $key, $color in $colors {
+  .#{$color}-text {color: $color;}
+}
+```
+Note that the ```$key``` variable is needed to reference the keys in the map. Otherwise, the compiled CSS would have ```color1```, ```color2```... in it. Both of the above code examples are converted into the following CSS:
+
+```
+.blue-text {
+  color: blue;
+}
+
+.red-text {
+  color: red;
+}
+
+.green-text {
+  color: green;
+}
+```
+Write an ```@each``` directive that goes through a list: blue, black, red and assigns each variable to a .color-bg class, where the color part changes for each item. Each class should set the ```background-color``` the respective color.
+
+[My Code](https://github.com/EO4wellness/T-I-L/blob/main/FrontEnd/freeCodeCamp/exercises/SASS/06_use-each-to-map-over-items-in-a-list.html)
+
+## 07 [Apply a Style Until a Condition is Met with @while](https://www.freecodecamp.org/learn/front-end-development-libraries/sass/apply-a-style-until-a-condition-is-met-with-while)
+
+The ```@while``` directive is an option with similar functionality to the JavaScript while loop. It creates CSS rules until a condition is met.
+
+The ```@for``` challenge gave an example to create a simple grid system. This can also work with ```@while```.
+```
+$x: 1;
+@while $x < 13 {
+  .col-#{$x} { width: 100%/12 * $x;}
+  $x: $x + 1;
+}
+```
+First, define a variable ```$x``` and set it to 1. Next, use the ```@while``` directive to create the grid system while ```$x``` is less than 13. After setting the CSS rule for width, ```$x``` is incremented by 1 to avoid an infinite loop.
+
+Use ```@while``` to create a series of classes with different ```font-sizes```.
+
+There should be 5 different classes from ```text-1``` to ```text-5```. Then set ```font-size``` to ```15px``` multiplied by the current index number. Make sure to avoid an infinite loop!
 
 [My Code]()
 
-## 07 [Apply a Style Until a Condition is Met with @while]()
-
-[My Code]()
-
-## 08 [Split Your Styles into Smaller Chunks with Partials]()
+## 08 [Split Your Styles into Smaller Chunks with Partials](https://www.freecodecamp.org/learn/front-end-development-libraries/sass/split-your-styles-into-smaller-chunks-with-partials)
 
 [My Code]()
 
