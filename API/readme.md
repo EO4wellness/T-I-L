@@ -1,6 +1,7 @@
 # Why: API?
 * [INFOWORLD QUOTE](https://www.infoworld.com/article/3296487/15-apis-every-developer-should-know.html): "Was it Isaac Newton who said he saw further because he stood on the shoulders of giants? APIs are like pithy, 
 * epigrammatic quotes for those who write code. They let programmers see further and stand on the shoulders of giants."
+* [Best Practices Endpoint Design](https://www.freecodecamp.org/news/rest-api-best-practices-rest-endpoint-design-examples/)
 
 
 ## Web APIs you need to know about. 
