@@ -149,7 +149,7 @@ Then delete the p element that contains a dead link. Then remove the red-text cl
 Finally, remove the smaller-image class from your first img element and replace it with the img-responsive class.
 
 
-[My Code]()
+[My Code](https://github.com/EO4wellness/T-I-L/blob/main/FrontEnd/freeCodeCamp/exercises/bootstrap/10_ditch-custom-css-for-bootstrap.html)
 
 
 
