@@ -82,7 +82,7 @@ This button would take up 100% of the available width.
 
 [My Code](https://github.com/EO4wellness/T-I-L/blob/main/FrontEnd/freeCodeCamp/exercises/bootstrap/05_create-a-block-element-bootstrap-button.html)
 
-## [06-Raste the Bootstrap Button Color Rainbow](https://www.freecodecamp.org/learn/front-end-development-libraries/bootstrap/taste-the-bootstrap-button-color-rainbow)
+## [06-Taste the Bootstrap Button Color Rainbow](https://www.freecodecamp.org/learn/front-end-development-libraries/bootstrap/taste-the-bootstrap-button-color-rainbow)
 
 
 The btn-primary class is the main color you'll use in your app. It is useful for highlighting actions you want your user to take.
@@ -97,7 +97,7 @@ Your button should still have the btn and btn-block classes.
 
 All your button elements should have closing tags.
 
-[My Code]()
+[My Code](https://github.com/EO4wellness/T-I-L/blob/main/FrontEnd/freeCodeCamp/exercises/bootstrap/06_taste-the-bootstrap-button-color-rainbow.txt)
 
 ## [07-Call out Optional Actions with btn-info](https://www.freecodecamp.org/learn/front-end-development-libraries/bootstrap/call-out-optional-actions-with-btn-info)
 
