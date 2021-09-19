@@ -117,7 +117,7 @@ NOTE: the criteria for this coding session said to make the button text say "inf
 however that didn't past the end-of-unit test (it must be a typo) 
 what passed the test was switching the text to "Information" 
 
-[My Code]()
+[My Code](https://github.com/EO4wellness/T-I-L/blob/main/FrontEnd/freeCodeCamp/exercises/bootstrap/07_call-out-optional-actions-with-btn-info.html)
 
 ## [08-Warn your Users of a Dangerous Action](https://www.freecodecamp.org/learn/front-end-development-libraries/bootstrap/warn-your-users-of-a-dangerous-action-with-btn-danger)
 
@@ -133,7 +133,7 @@ Note that these buttons still need the btn and btn-block classes.
 
 ## [09 - Use the Bootstrap Grid to Put Elements Side By Side](https://www.freecodecamp.org/learn/front-end-development-libraries/bootstrap/use-the-bootstrap-grid-to-put-elements-side-by-side)
 
-[My Code]()
+[My Code](https://github.com/EO4wellness/T-I-L/blob/main/FrontEnd/freeCodeCamp/exercises/bootstrap/09_use-the-bootstrap-grid-to-put-elements-side-by-side.html)
 
 
 ## [10-Ditch Custom  CSS for Bootstrap](https://www.freecodecamp.org/learn/front-end-development-libraries/bootstrap/ditch-custom-css-for-bootstrap)
