@@ -131,4 +131,26 @@ Note that these buttons still need the btn and btn-block classes.
 
 [My Code]()
 
+## [09 - Use the Bootstrap Grid to Put Elements Side By Side](https://www.freecodecamp.org/learn/front-end-development-libraries/bootstrap/use-the-bootstrap-grid-to-put-elements-side-by-side)
+
+[My Code]()
+
+
+## [10-Ditch Custom  CSS for Bootstrap](https://www.freecodecamp.org/learn/front-end-development-libraries/bootstrap/ditch-custom-css-for-bootstrap)
+
+We can clean up our code and make our Cat Photo App look more conventional by using Bootstrap's built-in styles instead of the custom styles we created earlier.
+
+Don't worry - there will be plenty of time to customize our CSS later.
+
+Delete the .red-text, p, and .smaller-image CSS declarations from your style element so that the only declarations left in your style element are h2 and thick-green-border.
+
+Then delete the p element that contains a dead link. Then remove the red-text class from your h2 element and replace it with the text-primary Bootstrap class.
+
+Finally, remove the smaller-image class from your first img element and replace it with the img-responsive class.
+
+
+[My Code]()
+
+
+
 https://www.freecodecamp.org/learn/front-end-development-libraries/bootstrap/use-the-bootstrap-grid-to-put-elements-side-by-side
