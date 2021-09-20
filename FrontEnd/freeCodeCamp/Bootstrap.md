@@ -179,4 +179,4 @@ Here's how you would do this for the p element that has the text Top 3 things ca
 [My Code]()
 
 
-https://www.freecodecamp.org/learn/front-end-development-libraries/bootstrap/use-the-bootstrap-grid-to-put-elements-side-by-side
+
