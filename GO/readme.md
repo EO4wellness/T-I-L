@@ -63,5 +63,23 @@ https://coggle.it/diagram/XR3QwVj7lePgLaQj/t/go-lang
 * [Hugo App Building](https://blog.logrocket.com/build-an-app-with-hugo/)
 * [Top Frameworks 2021](https://www.geeksforgeeks.org/top-5-golang-frameworks-in-2020/)
 * [Useful GoRoutines](https://www.geeksforgeeks.org/goroutines-concurrency-in-golang/)
-
+* List from [Sololearn course](https://linksharing.samsungcloud.com/x2ZI6wQ7Vg6H) comments:
+```
+Nice packages and libraries for GO: 
+1. GORM
+2. Gen
+3. Goose
+4. cli
+5. Go Kit
+6. Vegeta
+7. Authboss
+8. Glide
+9. Ginkgo
+10. Docker
+11. Kubernetes
+12. Fuzzy
+13. mgo
+14. NSQ
+15. Etcd
+```
 ![GO-LANG](https://github.com/EO4wellness/T-I-L/blob/main/GO/Images/golang.jpeg)

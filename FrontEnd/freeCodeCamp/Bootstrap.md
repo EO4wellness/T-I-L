@@ -97,7 +97,7 @@ Your button should still have the btn and btn-block classes.
 
 All your button elements should have closing tags.
 
-[My Code](https://github.com/EO4wellness/T-I-L/blob/main/FrontEnd/freeCodeCamp/exercises/bootstrap/06_taste-the-bootstrap-button-color-rainbow.txt)
+[My Code](https://github.com/EO4wellness/T-I-L/blob/main/FrontEnd/freeCodeCamp/exercises/bootstrap/06_taste-the-bootstrap-button-color-rainbow.html)
 
 ## [07-Call out Optional Actions with btn-info](https://www.freecodecamp.org/learn/front-end-development-libraries/bootstrap/call-out-optional-actions-with-btn-info)
 
@@ -151,6 +151,32 @@ Finally, remove the smaller-image class from your first img element and replace 
 
 [My Code](https://github.com/EO4wellness/T-I-L/blob/main/FrontEnd/freeCodeCamp/exercises/bootstrap/10_ditch-custom-css-for-bootstrap.html)
 
+## [11-Use a span to Target Inline Elements]()
+
+You can use spans to create inline elements. Remember when we used the btn-block class to make the button fill the entire row?
+
+That illustrates the difference between an "inline" element and a "block" element.
+
+By using the inline span element, you can put several elements on the same line, and even style different parts of the same line differently.
+
+Using a span element, nest the word love inside the p element that currently has the text Things cats love. Then give the span the class text-danger to make the text red.
+
+Here's how you would do this for the p element that has the text Top 3 things cats hate:
+```
+<p>Top 3 things cats <span class="text-danger">hate:</span></p>
+```
+
+[My Code](https://github.com/EO4wellness/T-I-L/blob/main/FrontEnd/freeCodeCamp/exercises/bootstrap/11_use-a-span-to-target-inline-elements.html)
 
 
-https://www.freecodecamp.org/learn/front-end-development-libraries/bootstrap/use-the-bootstrap-grid-to-put-elements-side-by-side
+## [12- Create a Custom Heading](https://www.freecodecamp.org/learn/front-end-development-libraries/bootstrap/create-a-custom-heading) 
+
+
+[My Code]()
+
+## [13-]()
+
+[My Code]()
+
+
+
