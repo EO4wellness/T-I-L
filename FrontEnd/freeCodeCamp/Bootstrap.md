@@ -133,6 +133,19 @@ Note that these buttons still need the btn and btn-block classes.
 
 ## [09 - Use the Bootstrap Grid to Put Elements Side By Side](https://www.freecodecamp.org/learn/front-end-development-libraries/bootstrap/use-the-bootstrap-grid-to-put-elements-side-by-side)
 
+
+Bootstrap uses a responsive 12-column grid system, which makes it easy to put elements into rows and specify each element's relative width. Most of Bootstrap's classes can be applied to a div element.
+
+Bootstrap has different column width attributes that it uses depending on how wide the user's screen is. For example, phones have narrow screens, and laptops have wider screens.
+
+Take for example Bootstrap's col-md-* class. Here, md means medium, and * is a number specifying how many columns wide the element should be. In this case, the column width of an element on a medium-sized screen, such as a laptop, is being specified.
+
+In the Cat Photo App that we're building, we'll use col-xs-*, where xs means extra small (like an extra-small mobile phone screen), and * is the number of columns specifying how many columns wide the element should be.
+
+Put the Like, Info and Delete buttons side-by-side by nesting all three of them within one <div class="row"> element, then each of them within a <div class="col-xs-4"> element.
+
+The row class is applied to a div, and the buttons themselves can be nested within it.
+
 [My Code](https://github.com/EO4wellness/T-I-L/blob/main/FrontEnd/freeCodeCamp/exercises/bootstrap/09_use-the-bootstrap-grid-to-put-elements-side-by-side.html)
 
 
@@ -151,7 +164,7 @@ Finally, remove the smaller-image class from your first img element and replace 
 
 [My Code](https://github.com/EO4wellness/T-I-L/blob/main/FrontEnd/freeCodeCamp/exercises/bootstrap/10_ditch-custom-css-for-bootstrap.html)
 
-## [11-Use a span to Target Inline Elements]()
+## [11-Use a span to Target Inline Elements](https://www.freecodecamp.org/learn/front-end-development-libraries/bootstrap/use-a-span-to-target-inline-elements)
 
 You can use spans to create inline elements. Remember when we used the btn-block class to make the button fill the entire row?
 
@@ -183,7 +196,7 @@ Notice how the image is now just the right size to fit along the text?
 [My Code](https://github.com/EO4wellness/T-I-L/blob/main/FrontEnd/freeCodeCamp/exercises/bootstrap/12-create-a-custom-heading.html)
     
     
-## [14-Add Font Awesome Icons to our Buttons](https://www.freecodecamp.org/learn/front-end-development-libraries/bootstrap/add-font-awesome-icons-to-our-buttons)
+## [13-Add Font Awesome Icons to our Buttons](https://www.freecodecamp.org/learn/front-end-development-libraries/bootstrap/add-font-awesome-icons-to-our-buttons)
 
 
 Font Awesome is a convenient library of icons. These icons can be webfonts or vector graphics. These icons are treated just like fonts. You can specify their size using pixels, and they will assume the font size of their parent HTML elements.
@@ -204,34 +217,45 @@ Use Font Awesome to add a thumbs-up icon to your like button by giving it an i e
 
 [My Code]()
     
-## [15-Add Font Awesome Icons to ALL our Buttons]()   
+## [14-Add Font Awesome Icons to ALL our Buttons](https://www.freecodecamp.org/learn/front-end-development-libraries/bootstrap/add-font-awesome-icons-to-all-of-our-buttons)   
+
+Font Awesome is a convenient library of icons. These icons can be web fonts or vector graphics. These icons are treated just like fonts. You can specify their size using pixels, and they will assume the font size of their parent HTML elements.
+
+Use Font Awesome to add an info-circle icon to your info button and a trash icon to your delete button.
+
+Note: The span element is an acceptable alternative to the i element for the directions below.
 
 [My Code]() 
     
-## [16-Responsively Style Radio Buttons]()
+## [15-Responsively Style Radio Buttons]()
 
 [My Code]()
     
-## [17-Responsively Style Checkboxes]()
+## [16-Responsively Style Checkboxes]()
 
 [My Code]()
     
-## [18-Style Text Inputs as Form Controls]()
+## [17-Style Text Inputs as Form Controls]()
 
 [My Code]()
     
-## [19-Line up Form Elements Responsively with Bootstrap]()
+## [18-Line up Form Elements Responsively with Bootstrap]()
 
 [My Code]()
     
-## [20-Create a Bootstrap Headline]()
+## [19-Create a Bootstrap Headline]()
 
 [My Code]()
     
-## [21-House our page within a Bootstrap container-fluid div]()
+## [20-House our page within a Bootstrap container-fluid div]()
 
 [My Code]()
-                 
+    
+    
+## [21 Create a Bootstrap Row]()
+    
+[My Code]()
+    
 ## [22-Split Your Bootstrap Row]()
 
 [My Code]()
@@ -273,4 +297,20 @@ Use Font Awesome to add a thumbs-up icon to your like button by giving it an i e
                  
 ## [31-Use Comments to Clarify Code]()
 
+When we start using jQuery, we will modify HTML elements without needing to actually change them in HTML.
+
+Let's make sure that everyone knows they shouldn't actually modify any of this code directly.
+
+Remember that you can start a comment with <!-- and end a comment with -->
+
+Add a comment at the top of your HTML that says Code below this line should not be changed
+```  
+You should start a comment with <!-- at the top of your HTML.
+
+Your comment should have the text Code below this line should not be changed.
+
+You should close your comment with -->.
+
+You should have the same number of comment openers and closers.
+```
 [My Code]()    
