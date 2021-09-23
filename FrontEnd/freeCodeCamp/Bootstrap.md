@@ -250,42 +250,47 @@ Note: The span element is an acceptable alternative to the i element for the dir
 ## [20-House our page within a Bootstrap container-fluid div]()
 
 [My Code]()
-                 
-## [21-Split Your Bootstrap Row]()
+    
+    
+## [21 Create a Bootstrap Row]()
+    
+[My Code]()
+    
+## [22-Split Your Bootstrap Row]()
 
 [My Code]()
                  
-## [22-Create Bootstrap Wells]()
+## [23-Create Bootstrap Wells]()
 
 [My Code]()  
     
-## [23-Add Elements within Your Bootstrap Wells]()
+## [24-Add Elements within Your Bootstrap Wells]()
 
 [My Code]()    
                  
-## [24-Apply the Default Bootstrap Button Style]()
+## [25-Apply the Default Bootstrap Button Style]()
 
 [My Code]()
                  
-## [25-Create a Class to Target with jQuery Selectors]()
-
-[My Code]()
-    
-                 
-## [26-Add id Attributes to Bootstrap Elements]()
-
-[My Code]()
-                 
-## [27-Label Bootstrap Wells]()
-
-[My Code]()
-                 
-## [28-Give Each Element a Unique id]()
+## [26-Create a Class to Target with jQuery Selectors]()
 
 [My Code]()
     
                  
-## [29-Label Bootstrap Buttons]()
+## [27-Add id Attributes to Bootstrap Elements]()
+
+[My Code]()
+                 
+## [28-Label Bootstrap Wells]()
+
+[My Code]()
+                 
+## [29-Give Each Element a Unique id]()
+
+[My Code]()
+    
+                 
+## [30-Label Bootstrap Buttons]()
 
 [My Code]()
     
