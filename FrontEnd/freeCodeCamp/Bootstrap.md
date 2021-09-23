@@ -204,28 +204,73 @@ Use Font Awesome to add a thumbs-up icon to your like button by giving it an i e
 
 [My Code]()
     
-## [14-]()
+## [15-Add Font Awesome Icons to ALL our Buttons]()   
+
+[My Code]() 
+    
+## [16-Responsively Style Radio Buttons]()
 
 [My Code]()
     
-## [15-]()
+## [17-Responsively Style Checkboxes]()
 
 [My Code]()
     
-## [16-]()
+## [18-Style Text Inputs as Form Controls]()
 
 [My Code]()
     
-## [17-]()
+## [19-Line up Form Elements Responsively with Bootstrap]()
 
 [My Code]()
     
-## [18-]()
+## [20-Create a Bootstrap Headline]()
 
 [My Code]()
     
-## [19-]()
+## [21-House our page within a Bootstrap container-fluid div]()
 
 [My Code]()
-                    
+                 
+## [22-Split Your Bootstrap Row]()
 
+[My Code]()
+                 
+## [23-Create Bootstrap Wells]()
+
+[My Code]()  
+    
+## [24-Add Elements within Your Bootstrap Wells]()
+
+[My Code]()    
+                 
+## [25-Apply the Default Bootstrap Button Style]()
+
+[My Code]()
+                 
+## [26-Create a Class to Target with jQuery Selectors]()
+
+[My Code]()
+    
+                 
+## [27-Add id Attributes to Bootstrap Elements]()
+
+[My Code]()
+                 
+## [28-Label Bootstrap Wells]()
+
+[My Code]()
+                 
+## [29-Give Each Element a Unique id]()
+
+[My Code]()
+    
+                 
+## [30-Label Bootstrap Buttons]()
+
+[My Code]()
+    
+                 
+## [31-Use Comments to Clarify Code]()
+
+[My Code]()    
