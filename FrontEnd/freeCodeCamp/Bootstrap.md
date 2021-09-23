@@ -215,7 +215,7 @@ Note that the span element is also acceptable for use with icons.
 
 Use Font Awesome to add a thumbs-up icon to your like button by giving it an i element with the classes fas and fa-thumbs-up. Make sure to keep the text Like next to the icon.
 
-[My Code]()
+[My Code](https://github.com/EO4wellness/T-I-L/blob/main/FrontEnd/freeCodeCamp/exercises/bootstrap/14_add-font-awesome-icons-to-all-of-our-buttons.html)
     
 ## [14-Add Font Awesome Icons to ALL our Buttons](https://www.freecodecamp.org/learn/front-end-development-libraries/bootstrap/add-font-awesome-icons-to-all-of-our-buttons)   
 
@@ -227,8 +227,20 @@ Note: The span element is an acceptable alternative to the i element for the dir
 
 [My Code]() 
     
-## [15-Responsively Style Radio Buttons]()
+## [15-Responsively Style Radio Buttons](https://www.freecodecamp.org/learn/front-end-development-libraries/bootstrap/responsively-style-radio-buttons)
 
+You can use Bootstrap's col-xs-* classes on form elements, too! This way, our radio buttons will be evenly spread out across the page, regardless of how wide the screen resolution is.
+
+Nest both your radio buttons within a ```<div class="row"> ```element. Then nest each of them within a ```<div class="col-xs-6">``` element.
+
+Note: As a reminder, radio buttons are input elements of type radio.
+```
+    All of your radio buttons should be nested inside one div with the class row.
+
+Each of your radio buttons should be nested inside its own div with the class col-xs-6.
+
+All of your div elements should have closing tags.
+```
 [My Code]()
     
 ## [16-Responsively Style Checkboxes]()
