@@ -231,65 +231,65 @@ Note: The span element is an acceptable alternative to the i element for the dir
 
 [My Code]()
     
-## [17-Responsively Style Checkboxes]()
+## [16-Responsively Style Checkboxes]()
 
 [My Code]()
     
-## [18-Style Text Inputs as Form Controls]()
+## [17-Style Text Inputs as Form Controls]()
 
 [My Code]()
     
-## [19-Line up Form Elements Responsively with Bootstrap]()
+## [18-Line up Form Elements Responsively with Bootstrap]()
 
 [My Code]()
     
-## [20-Create a Bootstrap Headline]()
+## [19-Create a Bootstrap Headline]()
 
 [My Code]()
     
-## [21-House our page within a Bootstrap container-fluid div]()
+## [20-House our page within a Bootstrap container-fluid div]()
 
 [My Code]()
                  
-## [22-Split Your Bootstrap Row]()
+## [21-Split Your Bootstrap Row]()
 
 [My Code]()
                  
-## [23-Create Bootstrap Wells]()
+## [22-Create Bootstrap Wells]()
 
 [My Code]()  
     
-## [24-Add Elements within Your Bootstrap Wells]()
+## [23-Add Elements within Your Bootstrap Wells]()
 
 [My Code]()    
                  
-## [25-Apply the Default Bootstrap Button Style]()
+## [24-Apply the Default Bootstrap Button Style]()
 
 [My Code]()
                  
-## [26-Create a Class to Target with jQuery Selectors]()
-
-[My Code]()
-    
-                 
-## [27-Add id Attributes to Bootstrap Elements]()
-
-[My Code]()
-                 
-## [28-Label Bootstrap Wells]()
-
-[My Code]()
-                 
-## [29-Give Each Element a Unique id]()
+## [25-Create a Class to Target with jQuery Selectors]()
 
 [My Code]()
     
                  
-## [30-Label Bootstrap Buttons]()
+## [26-Add id Attributes to Bootstrap Elements]()
+
+[My Code]()
+                 
+## [27-Label Bootstrap Wells]()
+
+[My Code]()
+                 
+## [28-Give Each Element a Unique id]()
 
 [My Code]()
     
                  
-## [31-Use Comments to Clarify Code]()
+## [29-Label Bootstrap Buttons]()
+
+[My Code]()
+    
+                 
+## [30-Use Comments to Clarify Code]()
 
 [My Code]()    
