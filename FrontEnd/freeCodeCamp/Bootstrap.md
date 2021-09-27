@@ -225,7 +225,7 @@ Use Font Awesome to add an info-circle icon to your info button and a trash icon
 
 Note: The span element is an acceptable alternative to the i element for the directions below.
 
-[My Code]() 
+[My Code](https://github.com/EO4wellness/T-I-L/blob/main/FrontEnd/freeCodeCamp/exercises/bootstrap/14_add-font-awesome-icons-to-all-of-our-buttons.html) 
     
 ## [15-Responsively Style Radio Buttons](https://www.freecodecamp.org/learn/front-end-development-libraries/bootstrap/responsively-style-radio-buttons)
 
@@ -241,21 +241,55 @@ Each of your radio buttons should be nested inside its own div with the class co
 
 All of your div elements should have closing tags.
 ```
-[My Code]()
+[My Code](https://github.com/EO4wellness/T-I-L/blob/main/FrontEnd/freeCodeCamp/exercises/bootstrap/15_responsively-style-radio-buttons.html)
     
-## [16-Responsively Style Checkboxes]()
+## [16-Responsively Style Checkboxes](https://www.freecodecamp.org/learn/front-end-development-libraries/bootstrap/responsively-style-checkboxes)
 
-[My Code]()
-    
-## [17-Style Text Inputs as Form Controls]()
+Since Bootstrap's ```col-xs-* ``` classes are applicable to all form elements, you can use them on your checkboxes too! This way, the checkboxes will be evenly spread out across the page, regardless of how wide the screen resolution is.
 
-[My Code]()
-    
-## [18-Line up Form Elements Responsively with Bootstrap]()
+Nest all three of your checkboxes in a ```<div class="row">``` element. Then nest each of them in a ```<div class="col-xs-4"> ``` element.
 
+    
+```
+    All of your checkboxes should be nested inside one div with the class row.
+
+Each of your checkboxes should be nested inside its own div with the class col-xs-4.
+
+All of your div elements should have closing tags.
+```
+    
+[My Code](https://github.com/EO4wellness/T-I-L/blob/main/FrontEnd/freeCodeCamp/exercises/bootstrap/16_responsively-style-checkboxes.html)
+    
+## [17-Style Text Inputs as Form Controls](https://www.freecodecamp.org/learn/front-end-development-libraries/bootstrap/style-text-inputs-as-form-controls)
+
+[My Code](https://github.com/EO4wellness/T-I-L/blob/main/FrontEnd/freeCodeCamp/exercises/bootstrap/17_style-text-inputs-as-form-controls.html)
+    
+You can add the fa-paper-plane Font Awesome icon by adding ```<i class="fa fa-paper-plane"></i> ``` within your submit button element.
+
+Give your form's text input field a class of form-control. Give your form's submit button the classes ```btn btn-primary```. Also give this button the Font Awesome icon of ```fa-paper-plane```.
+
+All textual ```<input>, <textarea>, and <select>``` elements with the class ```.form-control``` have a width of 100%.
+
+## [18-Line up Form Elements Responsively with Bootstrap](https://www.freecodecamp.org/learn/front-end-development-libraries/bootstrap/line-up-form-elements-responsively-with-bootstrap)
+  
+Now let's get your form input and your submission button on the same line. We'll do this the same way we have previously: by using a div element with the class row, and other div elements within it using the col-xs-* class.
+
+Nest both your form's text input and submit button within a div with the class row. Nest your form's text input within a div with the class of col-xs-7. Nest your form's submit button in a div with the class col-xs-5.
+
+This is the last challenge we'll do for our Cat Photo App for now. We hope you've enjoyed learning Font Awesome, Bootstrap, and responsive design!
+  
+```
+Your form submission button and text input should be nested in a div with class row.
+
+Your form text input should be nested in a div with the class col-xs-7.
+
+Your form submission button should be nested in a div with the class col-xs-5.
+
+All of your div elements should have closing tags. 
+```
 [My Code]()
     
-## [19-Create a Bootstrap Headline]()
+## [19-Create a Bootstrap Headline](https://www.freecodecamp.org/learn/front-end-development-libraries/bootstrap/line-up-form-elements-responsively-with-bootstrap)
 
 [My Code]()
     
