@@ -34,4 +34,18 @@ but emphasis can change by how you design it.
 
 Here is an example of one design to empahsize different content: 
 
+![image6]
+
+...
+
+The built in bootstrap breakpoint sizes are anticipated to be useful for: 
+xs=cell phone in portrait mode 
+=cell phone in landscape mode 
+=tablet 
+=lap top or desk top computer views
+= wider devices such as smart tvs, etc. 
+![image12](https://github.com/EO4wellness/T-I-L/blob/main/FrontEnd/Bootstrap/12_breakpoint-pixel-sizes.jpg)
+
+Best practice: start with the design with XS and then go from there. 
+For most things this works best as the small screen is less complex of a design 
 
