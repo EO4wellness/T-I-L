@@ -1,4 +1,4 @@
-# React
+# [React](https://www.freecodecamp.org/learn/front-end-development-libraries/#react)
 * There are 47 units of study in this segment 
 * React is a popular JavaScript library for building reusable, component-driven user interfaces for web pages or applications.
 * React combines HTML with JavaScript functionality into its own markup language called JSX. 
