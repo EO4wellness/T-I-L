@@ -289,24 +289,48 @@ All of your div elements should have closing tags.
 ```
 [My Code](https://github.com/EO4wellness/T-I-L/blob/main/FrontEnd/freeCodeCamp/exercises/bootstrap/18_line-up-form-elements-responsively-with-bootstrap.html)
     
-## [19-Create a Bootstrap Headline](https://www.freecodecamp.org/learn/front-end-development-libraries/bootstrap/line-up-form-elements-responsively-with-bootstrap)
+## [19-Create a Bootstrap Headline](https://www.freecodecamp.org/learn/front-end-development-libraries/bootstrap/create-a-bootstrap-headline)  
 
-[My Code]()
-    
-## [20-House our page within a Bootstrap container-fluid div]()
+Now let's build something from scratch to practice our HTML, CSS and Bootstrap skills.
 
-[My Code]()
+We'll build a jQuery playground, which we'll soon put to use in our jQuery challenges.
+
+To start with, create an h3 element, with the text jQuery Playground.
+
+Color your h3 element with the text-primary Bootstrap class, and center it with the text-center Bootstrap class.
+
+[My Code](https://github.com/EO4wellness/T-I-L/blob/main/FrontEnd/freeCodeCamp/exercises/bootstrap/19_create-a-bootstrap-headline.html)
+    
+## [20-House our page within a Bootstrap container-fluid div](https://www.freecodecamp.org/learn/front-end-development-libraries/bootstrap/house-our-page-within-a-bootstrap-container-fluid-div)
+House our page within a Bootstrap container-fluid div
+
+Now let's make sure all the content on your page is mobile-responsive.
+
+Let's nest your h3 element within a div element with the class container-fluid.
+```
+Your div element should have the class container-fluid.
+
+Each of your div elements should have closing tags.
+
+Your h3 element should be nested inside a div element. 
+```    
+[My Code](https://github.com/EO4wellness/T-I-L/blob/main/FrontEnd/freeCodeCamp/exercises/bootstrap/20_house-our-page-within-a-bootstrap-container-fluid-div.html)
     
     
-## [21 Create a Bootstrap Row]()
+## [21 Create a Bootstrap Row](https://www.freecodecamp.org/learn/front-end-development-libraries/bootstrap/create-a-bootstrap-row)
     
-[My Code]()
+[My Code](https://github.com/EO4wellness/T-I-L/blob/main/FrontEnd/freeCodeCamp/exercises/bootstrap/20_house-our-page-within-a-bootstrap-container-fluid-div.html)
     
-## [22-Split Your Bootstrap Row]()
+## [22-Split Your Bootstrap Row](https://www.freecodecamp.org/learn/front-end-development-libraries/bootstrap/split-your-bootstrap-row)
+
+
+Now that we have a Bootstrap Row, let's split it into two columns to house our elements.
+
+Create two div elements within your row, both with the class col-xs-6.
 
 [My Code]()
                  
-## [23-Create Bootstrap Wells]()
+## [23-Create Bootstrap Wells](https://www.freecodecamp.org/learn/front-end-development-libraries/bootstrap/create-bootstrap-wells)
 
 [My Code]()  
     
