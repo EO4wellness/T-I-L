@@ -66,8 +66,13 @@ Note: When rendering multiple elements like this, you can wrap them all in paren
 
 ## 03 [Add Comments in JSX](https://www.freecodecamp.org/learn/front-end-development-libraries/react/add-comments-in-jsx)
 
+JSX is a syntax that gets compiled into valid JavaScript. Sometimes, for readability, you might need to add comments to your code. Like most programming languages, JSX has its own way to do this.
 
-[My Code]()
+To put comments inside JSX, you use the syntax {/* */} to wrap around the comment text.
+
+The code editor has a JSX element similar to what you created in the last challenge. Add a comment somewhere within the provided div element, without modifying the existing h1 or p elements.
+
+[My Code](https://github.com/EO4wellness/T-I-L/blob/main/FrontEnd/freeCodeCamp/exercises/React/03_add-comments-in-jsx.jsx)
 
 
 
