@@ -103,7 +103,7 @@ Apply a class of myDiv to the div provided in the JSX code.
 
 [My Code](https://github.com/EO4wellness/T-I-L/blob/main/FrontEnd/freeCodeCamp/exercises/React/05_define-an-html-class-in-jsx.jsx)
 
-
+with this lesson, the only thing I didn't understand is the syntax.  it was pretty much assumed we know the syntax.  so it turns out the syntax is pretty much what is expected:  myClass="camelCaseName" 
 
 ## 06 [Learn About Self-Closing JSX Tags](https://www.freecodecamp.org/learn/front-end-development-libraries/react/learn-about-self-closing-jsx-tags)
 
