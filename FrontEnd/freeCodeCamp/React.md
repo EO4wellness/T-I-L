@@ -113,11 +113,11 @@ So far, you’ve seen how JSX differs from HTML in a key way with the use of cla
 
 Another important way in which JSX differs from HTML is in the idea of the self-closing tag.
 
-In HTML, almost all tags have both an opening and closing tag: <div></div>; the closing tag always has a forward slash before the tag name that you are closing. However, there are special instances in HTML called “self-closing tags”, or tags that don’t require both an opening and closing tag before another tag can start.
+In HTML, almost all tags have both an opening and closing tag: ```<div></div>```; the closing tag always has a forward slash before the tag name that you are closing. However, there are special instances in HTML called “self-closing tags”, or tags that don’t require both an opening and closing tag before another tag can start.
 
-For example the line-break tag can be written as <br> or as <br />, but should never be written as <br></br>, since it doesn't contain any content.
+For example the line-break tag can be written as ```<br> ```or as ```<br />```, but should never be written as ```<br></br>```, since it doesn't contain any content.
 
-In JSX, the rules are a little different. Any JSX element can be written with a self-closing tag, and every element must be closed. The line-break tag, for example, must always be written as <br /> in order to be valid JSX that can be transpiled. A <div>, on the other hand, can be written as <div /> or <div></div>. The difference is that in the first syntax version there is no way to include anything in the <div />. You will see in later challenges that this syntax is useful when rendering React components.
+In JSX, the rules are a little different. Any JSX element can be written with a self-closing tag, and every element must be closed. The line-break tag, for example, must always be written as ```<br />``` in order to be valid JSX that can be transpiled. A ```<div>```, on the other hand, can be written as ```<div />``` or ```<div></div>```. The difference is that in the first syntax version there is no way to include anything in the <div />. You will see in later challenges that this syntax is useful when rendering React components.
 
 Fix the errors in the code editor so that it is valid JSX and successfully transpiles. Make sure you don't change any of the content - you only need to close tags where they are needed.
 
@@ -125,7 +125,7 @@ Fix the errors in the code editor so that it is valid JSX and successfully trans
 
 
 
-## 07 [Create a Stateless Functional Component]()
+## 07 [Create a Stateless Functional Component](https://www.freecodecamp.org/learn/front-end-development-libraries/react/create-a-stateless-functional-component)
 
 
 Components are the core of React. Everything in React is a component and here you will learn how to create one.
