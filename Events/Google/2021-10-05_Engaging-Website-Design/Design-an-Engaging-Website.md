@@ -41,6 +41,12 @@ Session Instructor: Basim Newby
 
 
 ## Create Customer persona
+* You cannot reach people until you know who you are trying to reach.  
+* Your brand/website/online presence can have more than one visitor persona. 
+
+![Who Is Your Audience](https://github.com/EO4wellness/T-I-L/blob/main/Events/Google/2021-10-05_Engaging-Website-Design/who-is-your-audience.jpg)
+
+
 ![Create-Persona](https://github.com/EO4wellness/T-I-L/blob/main/Events/Google/2021-10-05_Engaging-Website-Design/create-persona.jpg)
 
 ## Track and Measure Success 
