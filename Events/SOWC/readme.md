@@ -25,4 +25,7 @@ http://swoc.tech/project.html
 2020-12-28: Read guidelines and slack notifications/announcements.  Read the timeline and projects.  Visited Project Repots and decided on a few to consider working upon. Began connecting with fellow participants. 
 2021-10-01: RSVP'd that I'm attending this year. 
 
+# 2021:
+![2021](https://github.com/EO4wellness/T-I-L/blob/main/Events/SOWC/2021-09-11-registered-forSOWC.jpg)
+
 https://devfolio.co/swoc/dashboard
