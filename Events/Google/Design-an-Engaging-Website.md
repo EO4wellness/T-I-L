@@ -18,7 +18,7 @@
 
 ![outline](https://github.com/EO4wellness/T-I-L/blob/main/Events/Google/what-makes-a-good-website.jpg)
 
-Specific Goals: 
+## Specific Goals: 
 * Not enough to just be online
 * What do I want in a website?
 * What are you goals?
@@ -36,10 +36,10 @@ Specific Goals:
 * point of view 
 
 
-Create Customer persona
+## Create Customer persona
 ![]()
 
-# Track and Measure Success 
+## Track and Measure Success 
 * Make modifications based on data 
 * 
 
@@ -51,7 +51,7 @@ Create Customer persona
 "Now"
 "Near Me" 
 ```
-This means people want things NOW and NEARBY
+* This means people want things NOW and NEARBY
 * Appear higher in organic results. 
 * Make site FAST
 * Load time is super important 
@@ -66,7 +66,7 @@ This means people want things NOW and NEARBY
 * logical info 
 * Half of all visitors are on a cell phone 
 
-
+## Responsive First 
 * Fluid design that adapts to all size display
 * test mobile first 
 * space for TAP navigation 
@@ -74,7 +74,7 @@ This means people want things NOW and NEARBY
 * when in doubt, less is more 
 * design a site for everyone 
 * accessability standards 
-* 
+
 
 ## Payments: 
 * Make it easy
