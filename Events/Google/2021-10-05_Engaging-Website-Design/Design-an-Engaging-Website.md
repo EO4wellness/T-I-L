@@ -102,6 +102,9 @@ Session Instructor: Basim Newby
 
 ![vector-graphics](https://github.com/EO4wellness/T-I-L/blob/main/Events/Google/2021-10-05_Engaging-Website-Design/must-use-vector-graphics.jpg)
 
+* Your website shouldn't be your ONLY online presence 
+* Think about how your brand all works together 
+
 ![website-1-peices-of-your-brands-online-presence](https://github.com/EO4wellness/T-I-L/blob/main/Events/Google/2021-10-05_Engaging-Website-Design/website-part-of-the-online-presence-puzzle.jpg)
 
 ## Payments:
