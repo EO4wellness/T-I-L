@@ -24,7 +24,7 @@ Specific Goals:
 * where are your people?  geographically
 * point of view 
 
-![]()
+![example](https://github.com/EO4wellness/T-I-L/blob/main/Events/Google/2021-10-05-grow-with-google_website-tips.jpg)
 
 Create Customer persona
 ![]()
