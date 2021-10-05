@@ -2,6 +2,10 @@
 
 [Handout](https://github.com/EO4wellness/T-I-L/blob/main/Events/Google/Design%20an%20Engaging%20Website%20for%20Your%20Business.pdf)
 
+[Presentation Slides](https://docs.google.com/presentation/d/1yAjenc2Ypg1AX38RDTa3mZyXy4JaJa1VudKvqrGdGbE/edit#slide=id.g542f3fa4f3_0_2516)
+
+[On-Demand Replay](https://www.youtube.com/watch?v=V3TbTEEH55M&t=335s)
+
 # Grow with Google 
 ``` #growwithgoogle```
 
@@ -87,6 +91,9 @@ This means people want things NOW and NEARBY
 * Lead them what to do
 * Call to action 
 
+## Q&A
+* Design Tool: https://www.thinkwithgoogle.com/feature/testmysite/  
+* 
 
 Part 2: 
 ![Part2]()
