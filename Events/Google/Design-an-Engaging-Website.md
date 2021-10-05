@@ -26,9 +26,44 @@ Specific Goals:
 
 ![example](https://github.com/EO4wellness/T-I-L/blob/main/Events/Google/2021-10-05-grow-with-google_website-tips.jpg)
 
+[Handout](https://github.com/EO4wellness/T-I-L/blob/main/Events/Google/Design%20an%20Engaging%20Website%20for%20Your%20Business.pdf)
+
 Create Customer persona
 ![]()
 
 # Track and Measure Success 
 * Make modifications based on data 
+* 
+
+## Search 
+* SEO (search enginee optimization) is important
+* How people search is also important.
+* Example: Current trend is: 
+```
+"Now"
+"Near Me" 
+```
+This means people want things NOW and NEARBY
+* Appear higher in organic results. 
+* Make site FAST
+* Load time is super important 
+* Publish original, useful content, be accurate
+* Keywords need to be accurate 
+* Links need to be included to high-quality info 
+* use anchor text with releveant key words 
+* Descriptive Titles
+* Unique titles to each page
+* organization
+* information architecture
+* logical info 
+* Half of all visitors are on a cell phone 
+
+
+* Fluid design that adapts to all size display
+* test mobile first 
+* space for TAP navigation 
+* Call to Action--> make it tappable 
+* when in doubt, less is more 
+* design a site for everyone 
+* accessability standards 
 * 
