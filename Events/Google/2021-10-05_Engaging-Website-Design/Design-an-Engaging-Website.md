@@ -176,5 +176,8 @@ Session Instructor: Basim Newby
 
 ![grow-with-google](https://github.com/EO4wellness/T-I-L/blob/main/Events/Google/2021-10-05_Engaging-Website-Design/grow-with-google-opportunities.jpg)
 
-Part 2: 
+[Part 2:]()
+
 ![Part2](https://github.com/EO4wellness/T-I-L/blob/main/Events/Google/2021-10-05_Engaging-Website-Design/Part-2.jpg)
+
+
