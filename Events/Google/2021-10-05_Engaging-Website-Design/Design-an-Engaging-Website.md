@@ -1,6 +1,9 @@
-![example](https://github.com/EO4wellness/T-I-L/blob/main/Events/Google/2021-10-05-grow-with-google_website-tips.jpg)
+![Use Case Example](https://github.com/EO4wellness/T-I-L/blob/main/Events/Google/2021-10-05_Engaging-Website-Design/2021-10-05-grow-with-google_website-tips.jpg)
 
-[Handout](https://github.com/EO4wellness/T-I-L/blob/main/Events/Google/Design%20an%20Engaging%20Website%20for%20Your%20Business.pdf)
+This openning use-case example, shows how things are RAPIDLY changing!  To succeed your website(s) and online branding need to change too. 
+
+
+[Session Handout and Worksheet](https://github.com/EO4wellness/T-I-L/blob/main/Events/Google/2021-10-05_Engaging-Website-Design/Design%20an%20Engaging%20Website%20for%20Your%20Business.pdf)
 
 [Presentation Slides](https://docs.google.com/presentation/d/1yAjenc2Ypg1AX38RDTa3mZyXy4JaJa1VudKvqrGdGbE/edit#slide=id.g542f3fa4f3_0_2516)
 
@@ -9,14 +12,15 @@
 # Grow with Google 
 ``` #growwithgoogle```
 
-![instuctor](https://github.com/EO4wellness/T-I-L/blob/main/Events/Google/Part1.jpg)
+![instuctor](https://github.com/EO4wellness/T-I-L/blob/main/Events/Google/2021-10-05_Engaging-Website-Design/Part1.jpg)
+Session Instructor: Basim Newby
 
 * This is PART1 in a 2 part #growwithgoogle series
 * Consumer behavior is RAPIDLY changing
 * Websites need to adapt to consumer needs and changes 
 
 
-![outline](https://github.com/EO4wellness/T-I-L/blob/main/Events/Google/what-makes-a-good-website.jpg)
+![outline](https://github.com/EO4wellness/T-I-L/blob/main/Events/Google/2021-10-05_Engaging-Website-Design/what-makes-a-good-website.jpg)
 
 ## Specific Goals: 
 * Not enough to just be online
@@ -37,7 +41,13 @@
 
 
 ## Create Customer persona
-![Create-Persona]()
+* You cannot reach people until you know who you are trying to reach.  
+* Your brand/website/online presence can have more than one visitor persona. 
+
+![Who Is Your Audience](https://github.com/EO4wellness/T-I-L/blob/main/Events/Google/2021-10-05_Engaging-Website-Design/who-is-your-audience.jpg)
+
+
+![Create-Persona](https://github.com/EO4wellness/T-I-L/blob/main/Events/Google/2021-10-05_Engaging-Website-Design/create-persona.jpg)
 
 ## Track and Measure Success 
 * Make modifications based on data 
@@ -45,11 +55,11 @@
 * Measure thru tracking
 * More on this in Part 2 
 
-![measure-sucess]()
+![measure-sucess](https://github.com/EO4wellness/T-I-L/blob/main/Events/Google/2021-10-05_Engaging-Website-Design/Measure-Success.jpg)
 
 ## Search Basics 
 
-![Search-basics]()
+![Search-basics](https://github.com/EO4wellness/T-I-L/blob/main/Events/Google/2021-10-05_Engaging-Website-Design/search-basics.jpg)
 
 * SEO (search enginee optimization) is important
 * How people search is also important.
@@ -73,12 +83,12 @@
 * logical info 
 * Half of all visitors are on a cell phone 
 
-![website-architecture]()
+![website-architecture](https://github.com/EO4wellness/T-I-L/blob/main/Events/Google/2021-10-05_Engaging-Website-Design/website-architecture.jpg)
 
 
 ## Responsive First 
 
-![trend-mobile]()
+![trend-mobile](https://github.com/EO4wellness/T-I-L/blob/main/Events/Google/2021-10-05_Engaging-Website-Design/ordering-more-via-mobiles.jpg)
 
 
 * Fluid design that adapts to all size display
@@ -90,27 +100,30 @@
 * accessability standards 
 * use vector graphics only
 
-![vector-graphics]()
+![vector-graphics](https://github.com/EO4wellness/T-I-L/blob/main/Events/Google/2021-10-05_Engaging-Website-Design/must-use-vector-graphics.jpg)
 
-![website-1-peices-of-your-brands-online-presence]()
+* Your website shouldn't be your ONLY online presence 
+* Think about how your brand all works together 
+
+![website-1-peices-of-your-brands-online-presence](https://github.com/EO4wellness/T-I-L/blob/main/Events/Google/2021-10-05_Engaging-Website-Design/website-part-of-the-online-presence-puzzle.jpg)
 
 ## Payments:
 
-![payments]() 
+![payments](https://github.com/EO4wellness/T-I-L/blob/main/Events/Google/2021-10-05_Engaging-Website-Design/payment.jpg) 
 
-
+* Keep it SIMPLE 
 * Make it easy
 * Don't ask for a sign up 
 * Get the transaction 
 * Then offer an account for "next time" works best 
 * Recommend more products to up the shopping cart total 
 
-![recommends]() 
+![recommends](https://github.com/EO4wellness/T-I-L/blob/main/Events/Google/2021-10-05_Engaging-Website-Design/recommend-gift-extras-go-alongs.jpg) 
 
 * build in convience
 * think from your web visitor point of view 
 
-![conviences]() 
+![conviences](https://github.com/EO4wellness/T-I-L/blob/main/Events/Google/2021-10-05_Engaging-Website-Design/growth-suggestions.jpg) 
 
 ## IA-your plan
 * PLAN 
@@ -120,7 +133,7 @@
 * site map 
 * update based on testing and data metrics 
 
-![organize-with-IA-Plan]()
+![organize-with-IA-Plan](https://github.com/EO4wellness/T-I-L/blob/main/Events/Google/2021-10-05_Engaging-Website-Design/organize-IA-plan.jpg)
 
 ## Clear CTA
 * Dead-Ends: the visitor goes to the bottom of the page and has to decide what to do next
@@ -129,12 +142,12 @@
 * Call to action 
 * each page must have one (even it if is just to sign up for a news letter or push notification) 
 
-![clear-every-page-CTA]()
+![clear-every-page-CTA](https://github.com/EO4wellness/T-I-L/blob/main/Events/Google/2021-10-05_Engaging-Website-Design/organize-clear-call-to-action-on-EACH-page.jpg)
 
 
 ## Trust
 
-![privacy-trustworthy]()
+![privacy-trustworthy](https://github.com/EO4wellness/T-I-L/blob/main/Events/Google/2021-10-05_Engaging-Website-Design/privacy-trustworthy.jpg)
 
 * privacy 
 * SSL
@@ -143,9 +156,9 @@
 * reviews (honest) 
 * links/content reputable 
 
-![security]()
+![security](https://github.com/EO4wellness/T-I-L/blob/main/Events/Google/2021-10-05_Engaging-Website-Design/security.jpg)
 
-![steps-to-build-repution]() 
+![steps-to-build-repution](https://github.com/EO4wellness/T-I-L/blob/main/Events/Google/2021-10-05_Engaging-Website-Design/website-reputation.jpg) 
 
 ## Q&A
 * Design Tool: https://www.thinkwithgoogle.com/feature/testmysite/  
@@ -153,13 +166,18 @@
 
 ## Next Steps: 
 
-![next-steps]()
+![next-steps](https://github.com/EO4wellness/T-I-L/blob/main/Events/Google/2021-10-05_Engaging-Website-Design/next-steps.jpg)
 
-![suggestions]()
+![suggestions](https://github.com/EO4wellness/T-I-L/blob/main/Events/Google/2021-10-05_Engaging-Website-Design/suggestions.jpg)
 
-![googleonair]()
+[Primer App](g.co/primer)
 
-![grow-with-google]()
+![googleonair](https://github.com/EO4wellness/T-I-L/blob/main/Events/Google/2021-10-05_Engaging-Website-Design/google-on-air.jpg)
 
-Part 2: 
-![Part2]()
+![grow-with-google](https://github.com/EO4wellness/T-I-L/blob/main/Events/Google/2021-10-05_Engaging-Website-Design/grow-with-google-opportunities.jpg)
+
+[Part 2:]()
+
+![Part2](https://github.com/EO4wellness/T-I-L/blob/main/Events/Google/2021-10-05_Engaging-Website-Design/Part-2.jpg)
+
+
