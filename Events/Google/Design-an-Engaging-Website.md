@@ -79,3 +79,14 @@ This means people want things NOW and NEARBY
 * Then offer an account for "next time" works best 
 * Recommend more products to up the shopping cart total 
 
+## IA-your plan
+![IA-Plan]()
+
+* Dead-Ends: the visitor goes to the bottom of the page and has to decide what to do next
+* Avoid dead ends
+* Lead them what to do
+* Call to action 
+
+
+Part 2: 
+![Part2]()
