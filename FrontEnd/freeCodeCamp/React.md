@@ -197,19 +197,29 @@ In the code editor, there is a simple functional component called ChildComponent
 
 Note: ChildComponent is defined with an ES6 arrow function because this is a very common practice when using React. However, know that this is just a function. If you aren't familiar with the arrow function syntax, please refer to the JavaScript section.
 
-[My Code]()
+[My Code](https://github.com/EO4wellness/T-I-L/blob/main/FrontEnd/freeCodeCamp/exercises/React/09_create-a-component-with-composition.jsx)
 
 
 
-## 10 [Use React to Render Nested Components]()
+## 10 [Use React to Render Nested Components](https://www.freecodecamp.org/learn/front-end-development-libraries/react/use-react-to-render-nested-components)
+
+The last challenge showed a simple way to compose two components, but there are many different ways you can compose components with React.
+
+Component composition is one of React's powerful features. When you work with React, it is important to start thinking about your user interface in terms of components like the App example in the last challenge. You break down your UI into its basic building blocks, and those pieces become the components. This helps to separate the code responsible for the UI from the code responsible for handling your application logic. It can greatly simplify the development and maintenance of complex projects.
+
+There are two functional components defined in the code editor, called TypesOfFruit and Fruits. Take the TypesOfFruit component and compose it, or nest it, within the Fruits component. Then take the Fruits component and nest it within the TypesOfFood component. The result should be a child component, nested within a parent component, which is nested within a parent component of its own!
+
+[My Code](https://github.com/EO4wellness/T-I-L/blob/main/FrontEnd/freeCodeCamp/exercises/React/10_use-react-to-render-nested-components.jsx)
 
 
-[My Code]()
 
+## 11 [Compose React Components](https://www.freecodecamp.org/learn/front-end-development-libraries/react/compose-react-components)
 
+As the challenges continue to use more complex compositions with React components and JSX, there is one important point to note. Rendering ES6 style class components within other components is no different than rendering the simple components you used in the last few challenges. You can render JSX elements, stateless functional components, and ES6 class components within other components.
 
-## 11 [Compose React Components]()
+In the code editor, the TypesOfFood component is already rendering a component called Vegetables. Also, there is the Fruits component from the last challenge.
 
+Nest two components inside of Fruits — first NonCitrus, and then Citrus. Both of these components are provided for you behind the scenes. Next, nest the Fruits class component into the TypesOfFood component, below the h1 header and above Vegetables. The result should be a series of nested components, which uses two different component types.
 
 [My Code]()
 
