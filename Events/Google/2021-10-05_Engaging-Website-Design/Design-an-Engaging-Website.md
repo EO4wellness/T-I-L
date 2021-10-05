@@ -18,7 +18,7 @@
 
 ![outline](https://github.com/EO4wellness/T-I-L/blob/main/Events/Google/what-makes-a-good-website.jpg)
 
-Specific Goals: 
+## Specific Goals: 
 * Not enough to just be online
 * What do I want in a website?
 * What are you goals?
@@ -36,14 +36,21 @@ Specific Goals:
 * point of view 
 
 
-Create Customer persona
-![]()
+## Create Customer persona
+![Create-Persona]()
 
-# Track and Measure Success 
+## Track and Measure Success 
 * Make modifications based on data 
-* 
+* Track
+* Measure thru tracking
+* More on this in Part 2 
 
-## Search 
+![measure-sucess]()
+
+## Search Basics 
+
+![Search-basics]()
+
 * SEO (search enginee optimization) is important
 * How people search is also important.
 * Example: Current trend is: 
@@ -51,7 +58,7 @@ Create Customer persona
 "Now"
 "Near Me" 
 ```
-This means people want things NOW and NEARBY
+* This means people want things NOW and NEARBY
 * Appear higher in organic results. 
 * Make site FAST
 * Load time is super important 
@@ -66,6 +73,13 @@ This means people want things NOW and NEARBY
 * logical info 
 * Half of all visitors are on a cell phone 
 
+![website-architecture]()
+
+
+## Responsive First 
+
+![trend-mobile]()
+
 
 * Fluid design that adapts to all size display
 * test mobile first 
@@ -74,26 +88,78 @@ This means people want things NOW and NEARBY
 * when in doubt, less is more 
 * design a site for everyone 
 * accessability standards 
-* 
+* use vector graphics only
 
-## Payments: 
+![vector-graphics]()
+
+![website-1-peices-of-your-brands-online-presence]()
+
+## Payments:
+
+![payments]() 
+
+
 * Make it easy
 * Don't ask for a sign up 
 * Get the transaction 
 * Then offer an account for "next time" works best 
 * Recommend more products to up the shopping cart total 
 
-## IA-your plan
-![IA-Plan]()
+![recommends]() 
 
+* build in convience
+* think from your web visitor point of view 
+
+![conviences]() 
+
+## IA-your plan
+* PLAN 
+* implement information architecture
+* important for SEO
+* important for web visitor
+* site map 
+* update based on testing and data metrics 
+
+![organize-with-IA-Plan]()
+
+## Clear CTA
 * Dead-Ends: the visitor goes to the bottom of the page and has to decide what to do next
 * Avoid dead ends
 * Lead them what to do
 * Call to action 
+* each page must have one (even it if is just to sign up for a news letter or push notification) 
+
+![clear-every-page-CTA]()
+
+
+## Trust
+
+![privacy-trustworthy]()
+
+* privacy 
+* SSL
+* trustworthy
+* recommendations
+* reviews (honest) 
+* links/content reputable 
+
+![security]()
+
+![steps-to-build-repution]() 
 
 ## Q&A
 * Design Tool: https://www.thinkwithgoogle.com/feature/testmysite/  
-* 
+* this is also available on demand 
+
+## Next Steps: 
+
+![next-steps]()
+
+![suggestions]()
+
+![googleonair]()
+
+![grow-with-google]()
 
 Part 2: 
 ![Part2]()
