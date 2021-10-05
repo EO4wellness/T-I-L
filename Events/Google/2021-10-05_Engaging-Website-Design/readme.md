@@ -1,3 +1,5 @@
+# Design an Engaging Website 
+
 ![Use Case Example](https://github.com/EO4wellness/T-I-L/blob/main/Events/Google/2021-10-05_Engaging-Website-Design/2021-10-05-grow-with-google_website-tips.jpg)
 
 This openning use-case example, shows how things are RAPIDLY changing!  To succeed your website(s) and online branding need to change too. 
@@ -176,7 +178,7 @@ Session Instructor: Basim Newby
 
 ![grow-with-google](https://github.com/EO4wellness/T-I-L/blob/main/Events/Google/2021-10-05_Engaging-Website-Design/grow-with-google-opportunities.jpg)
 
-[Part 2:]()
+[Part 2:](https://github.com/EO4wellness/T-I-L/tree/main/Events/Google/2021-10-12_Using-Google-Tools-Websites)
 
 ![Part2](https://github.com/EO4wellness/T-I-L/blob/main/Events/Google/2021-10-05_Engaging-Website-Design/Part-2.jpg)
 
