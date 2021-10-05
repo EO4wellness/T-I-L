@@ -23,3 +23,6 @@ http://swoc.tech/project.html
 2020-12-26: Participation Notification Email sent out. 
 2020-12-27: Participation Award Notification received.  Joined the SWoC slack.
 2020-12-28: Read guidelines and slack notifications/announcements.  Read the timeline and projects.  Visited Project Repots and decided on a few to consider working upon. Began connecting with fellow participants. 
+2021-10-01: RSVP'd that I'm attending this year. 
+
+https://devfolio.co/swoc/dashboard
