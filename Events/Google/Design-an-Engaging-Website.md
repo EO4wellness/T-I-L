@@ -1,3 +1,10 @@
+![example](https://github.com/EO4wellness/T-I-L/blob/main/Events/Google/2021-10-05-grow-with-google_website-tips.jpg)
+
+[Handout](https://github.com/EO4wellness/T-I-L/blob/main/Events/Google/Design%20an%20Engaging%20Website%20for%20Your%20Business.pdf)
+
+# Grow with Google 
+``` #growwithgoogle```
+
 ![instuctor](https://github.com/EO4wellness/T-I-L/blob/main/Events/Google/Part1.jpg)
 
 * This is PART1 in a 2 part #growwithgoogle series
@@ -24,9 +31,6 @@ Specific Goals:
 * where are your people?  geographically
 * point of view 
 
-![example](https://github.com/EO4wellness/T-I-L/blob/main/Events/Google/2021-10-05-grow-with-google_website-tips.jpg)
-
-[Handout](https://github.com/EO4wellness/T-I-L/blob/main/Events/Google/Design%20an%20Engaging%20Website%20for%20Your%20Business.pdf)
 
 Create Customer persona
 ![]()
@@ -67,3 +71,11 @@ This means people want things NOW and NEARBY
 * design a site for everyone 
 * accessability standards 
 * 
+
+## Payments: 
+* Make it easy
+* Don't ask for a sign up 
+* Get the transaction 
+* Then offer an account for "next time" works best 
+* Recommend more products to up the shopping cart total 
+
