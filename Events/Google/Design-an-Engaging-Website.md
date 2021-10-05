@@ -91,6 +91,9 @@ This means people want things NOW and NEARBY
 * Lead them what to do
 * Call to action 
 
+## Q&A
+* Design Tool: https://www.thinkwithgoogle.com/feature/testmysite/  
+* 
 
 Part 2: 
 ![Part2]()
