@@ -221,7 +221,7 @@ In the code editor, the TypesOfFood component is already rendering a component c
 
 Nest two components inside of Fruits — first NonCitrus, and then Citrus. Both of these components are provided for you behind the scenes. Next, nest the Fruits class component into the TypesOfFood component, below the h1 header and above Vegetables. The result should be a series of nested components, which uses two different component types.
 
-[My Code]()
+[My Code](https://github.com/EO4wellness/T-I-L/blob/main/FrontEnd/freeCodeCamp/exercises/React/11_compose-react-components.jsx)
 
 
 
@@ -235,7 +235,7 @@ React components are passed into ReactDOM.render() a little differently than JSX
 
 Both the Fruits and Vegetables components are defined for you behind the scenes. Render both components as children of the TypesOfFood component, then render TypesOfFood to the DOM. There is a div with id='challenge-node' available for you to use.
 
-[My Code]()
+[My Code](https://github.com/EO4wellness/T-I-L/blob/main/FrontEnd/freeCodeCamp/exercises/React/12_render-a-class-component-to-the-dom.jsx)
 
 
 
@@ -247,7 +247,7 @@ Define a class MyComponent that extends React.Component. Its render method shoul
 
 Render this component to the DOM using ReactDOM.render(). There is a div with id='challenge-node' available for you to use.
 
-[My Code]()
+[My Code](https://github.com/EO4wellness/T-I-L/blob/main/FrontEnd/freeCodeCamp/exercises/React/13_write-a-react-component-from-scratch.jsx)
 
 
 
