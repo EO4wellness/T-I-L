@@ -13,3 +13,4 @@ For more information and resources, not just hosted by Google, about fonts and t
 
 ##  More Google discoveries pending future study sessions on other days....
 
+More Google Resources are available in the [#GrowWithGoogle Events](https://github.com/EO4wellness/T-I-L/tree/main/Events/Google) folder. 
