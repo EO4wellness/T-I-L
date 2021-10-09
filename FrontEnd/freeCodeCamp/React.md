@@ -286,12 +286,15 @@ The child component then has access to the array property colors. Array methods 
 There are List and ToDo components in the code editor. When rendering each List from the ToDo component, pass in a tasks property assigned to an array of to-do tasks, for example ["walk dog", "workout"]. Then access this tasks array in the List component, showing its value within the p element. Use join(", ") to display the props.tasksarray in the p element as a comma separated list. Today's list should have at least 2 tasks and tomorrow's should have at least 3 tasks.
 
 
-[My Code]()
+[My Code](https://github.com/EO4wellness/T-I-L/blob/main/FrontEnd/freeCodeCamp/exercises/React/15_use-default-props.jsx)
 
 
 
-## 16 [Use Default Props]()
+## 16 [Use Default Props](https://www.freecodecamp.org/learn/front-end-development-libraries/react/use-default-props)
 
+React also has an option to set default props. You can assign default props to a component as a property on the component itself and React assigns the default prop if necessary. This allows you to specify what a prop value should be if no value is explicitly provided. For example, if you declare MyComponent.defaultProps = { location: 'San Francisco' }, you have defined a location prop that's set to the string San Francisco, unless you specify otherwise. React assigns default props if props are undefined, but if you pass null as the value for a prop, it will remain null.
+
+The code editor shows a ShoppingCart component. Define default props on this component which specify a prop items with a value of 0.
 
 [My Code]()
 
