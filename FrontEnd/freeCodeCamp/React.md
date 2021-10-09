@@ -296,7 +296,7 @@ React also has an option to set default props. You can assign default props to a
 
 The code editor shows a ShoppingCart component. Define default props on this component which specify a prop items with a value of 0.
 
-[My Code]()
+[My Code](https://github.com/EO4wellness/T-I-L/blob/main/FrontEnd/freeCodeCamp/exercises/React/16_override-default-props.jsx)
 
 
 
