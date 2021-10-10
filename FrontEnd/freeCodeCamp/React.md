@@ -286,7 +286,7 @@ The child component then has access to the array property colors. Array methods 
 There are List and ToDo components in the code editor. When rendering each List from the ToDo component, pass in a tasks property assigned to an array of to-do tasks, for example ["walk dog", "workout"]. Then access this tasks array in the List component, showing its value within the p element. Use join(", ") to display the props.tasksarray in the p element as a comma separated list. Today's list should have at least 2 tasks and tomorrow's should have at least 3 tasks.
 
 
-[My Code](https://github.com/EO4wellness/T-I-L/blob/main/FrontEnd/freeCodeCamp/exercises/React/15_use-default-props.jsx)
+[My Code]()
 
 
 
@@ -296,25 +296,44 @@ React also has an option to set default props. You can assign default props to a
 
 The code editor shows a ShoppingCart component. Define default props on this component which specify a prop items with a value of 0.
 
-[My Code](https://github.com/EO4wellness/T-I-L/blob/main/FrontEnd/freeCodeCamp/exercises/React/16_override-default-props.jsx)
+[My Code](https://github.com/EO4wellness/T-I-L/blob/main/FrontEnd/freeCodeCamp/exercises/React/16_use-default-props.jsx)
 
 
 
-## 17 [Override Default Props]()
+## 17 [Override Default Props](https://www.freecodecamp.org/learn/front-end-development-libraries/react/override-default-props)
+
+The ability to set default props is a useful feature in React. The way to override the default props is to explicitly set the prop values for a component.
+
+The ShoppingCart component now renders a child component Items. This Items component has a default prop quantity set to the integer 0. Override the default prop by passing in a value of 10 for quantity.
+
+Note: Remember that the syntax to add a prop to a component looks similar to how you add HTML attributes. However, since the value for quantity is an integer, it won't go in quotes but it should be wrapped in curly braces. For example, {100}. This syntax tells JSX to interpret the value within the braces directly as JavaScript.
 
 
-[My Code]()
+[My Code](https://github.com/EO4wellness/T-I-L/blob/main/FrontEnd/freeCodeCamp/exercises/React/17_override-default-props.jsx)
 
 
 
-## 18 [Use PropTypes to Define the Props You Expect]()
+## 18 [Use PropTypes to Define the Props You Expect](https://www.freecodecamp.org/learn/front-end-development-libraries/react/use-proptypes-to-define-the-props-you-expect)
 
 
-[My Code]()
+React provides useful type-checking features to verify that components receive props of the correct type. For example, your application makes an API call to retrieve data that you expect to be in an array, which is then passed to a component as a prop. You can set propTypes on your component to require the data to be of type array. This will throw a useful warning when the data is of any other type.
+
+It's considered a best practice to set propTypes when you know the type of a prop ahead of time. You can define a propTypes property for a component in the same way you defined defaultProps. Doing this will check that props of a given key are present with a given type. Here's an example to require the type function for a prop called handleClick:
+```
+MyComponent.propTypes = { handleClick: PropTypes.func.isRequired }
+```
+In the example above, the PropTypes.func part checks that handleClick is a function. Adding isRequired tells React that handleClick is a required property for that component. You will see a warning if that prop isn't provided. Also notice that func represents function. Among the seven JavaScript primitive types, function and boolean (written as bool) are the only two that use unusual spelling. In addition to the primitive types, there are other types available. For example, you can check that a prop is a React element. Please [refer to the documentation](https://reactjs.org/docs/typechecking-with-proptypes.html#proptypes) for all of the options.
+
+Note: As of React v15.5.0, released in April of 2017, PropTypes is imported independently from React, like this: import PropTypes from 'prop-types';
+
+Define propTypes for the Items component to require quantity as a prop and verify that it is of type number.
+
+
+[My Code](https://github.com/EO4wellness/T-I-L/blob/main/FrontEnd/freeCodeCamp/exercises/React/18_use-proptypes-to-define-the-props-you-expect.jsx)
 
 
 
-## 19 [Access Props Using this.props]()
+## 19 [Access Props Using this.props](https://www.freecodecamp.org/learn/front-end-development-libraries/react/access-props-using-this-props)
 
 
 [My Code]()
