@@ -334,7 +334,7 @@ Define propTypes for the Items component to require quantity as a prop and verif
 
 
 ## 19 [Access Props Using this.props](https://www.freecodecamp.org/learn/front-end-development-libraries/react/access-props-using-this-props)
-
+Used [Random Password Generator](https://passwordsgenerator.net/) for this assingment.
 
 [My Code]()
 
