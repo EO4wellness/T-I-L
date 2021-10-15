@@ -399,7 +399,7 @@ In the MyComponent render method, define a const called name and set it equal to
 
 Next, in the return statement, render this value in an h1 tag using the variable name. Remember, you need to use the JSX syntax (curly braces for JavaScript) in the return statement.
 
-[My Code]()
+[My Code](https://github.com/EO4wellness/T-I-L/blob/main/FrontEnd/freeCodeCamp/exercises/React/23_render-state-in-the-user-interface-another-way.jsx)
 
 
 
