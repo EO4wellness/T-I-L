@@ -481,8 +481,7 @@ The Counter component keeps track of a count value in state. There are two butto
 
 Note: Make sure you don't modify the classNames of the buttons. Also, remember to add the necessary bindings for the newly-created methods in the constructor.
 
-[My Code]()
-
+[My Code](https://github.com/EO4wellness/T-I-L/blob/main/FrontEnd/freeCodeCamp/exercises/React/27_write-a-simple-counter.jsx)
 
 
 ## 28 [Create a Controlled Input]()
