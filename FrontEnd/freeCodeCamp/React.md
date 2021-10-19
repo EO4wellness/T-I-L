@@ -484,15 +484,35 @@ Note: Make sure you don't modify the classNames of the buttons. Also, remember t
 [My Code](https://github.com/EO4wellness/T-I-L/blob/main/FrontEnd/freeCodeCamp/exercises/React/27_write-a-simple-counter.jsx)
 
 
-## 28 [Create a Controlled Input]()
+## 28 [Create a Controlled Input](https://www.freecodecamp.org/learn/front-end-development-libraries/react/create-a-controlled-input)
 
+Your application may have more complex interactions between state and the rendered UI. For example, form control elements for text input, such as input and textarea, maintain their own state in the DOM as the user types. With React, you can move this mutable state into a React component's state. The user's input becomes part of the application state, so React controls the value of that input field. Typically, if you have React components with input fields the user can type into, it will be a controlled input form.
+
+The code editor has the skeleton of a component called ControlledInput to create a controlled input element. The component's state is already initialized with an input property that holds an empty string. This value represents the text a user types into the input field.
+
+First, create a method called handleChange() that has a parameter called event. When the method is called, it receives an event object that contains a string of text from the input element. You can access this string with event.target.value inside the method. Update the input property of the component's state with this new string.
+
+In the render method, create the input element above the h4 tag. Add a value attribute which is equal to the input property of the component's state. Then add an onChange() event handler set to the handleChange() method.
+
+When you type in the input box, that text is processed by the handleChange() method, set as the input property in the local state, and rendered as the value in the input box on the page. The component state is the single source of truth regarding the input data.
+
+Last but not least, don't forget to add the necessary bindings in the constructor.
 
 [My Code]()
 
 
 
-## 29 [Create a Controlled Form]()
+## 29 [Create a Controlled Form](https://www.freecodecamp.org/learn/front-end-development-libraries/react/create-a-controlled-form)
 
+The last challenge showed that React can control the internal state for certain elements like input and textarea, which makes them controlled components. This applies to other form elements as well, including the regular HTML form element.
+
+The MyForm component is set up with an empty form with a submit handler. The submit handler will be called when the form is submitted.
+
+We've added a button which submits the form. You can see it has the type set to submit indicating it is the button controlling the form. Add the input element in the form and set its value and onChange() attributes like the last challenge. You should then complete the handleSubmit method so that it sets the component state property submit to the current input value in the local state.
+
+Note: You also must call event.preventDefault() in the submit handler, to prevent the default form submit behavior which will refresh the web page. For camper convenience, the default behavior has been disabled here to prevent refreshes from resetting challenge code.
+
+Finally, create an h1 tag after the form which renders the submit value from the component's state. You can then type in the form and click the button (or press enter), and you should see your input rendered to the page.
 
 [My Code]()
 
