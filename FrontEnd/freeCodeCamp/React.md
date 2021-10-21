@@ -590,7 +590,7 @@ The MyApp component is stateful and renders a Navbar component as a child. Pass 
 
 
 [My Code]()
-
+ 
 
 ## 40 [Use && for a More Concise Conditional]()
 
