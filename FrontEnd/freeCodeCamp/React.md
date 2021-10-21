@@ -527,7 +527,7 @@ This pattern illustrates some important paradigms in React. The first is unidire
 
 The MyApp component is stateful and renders a Navbar component as a child. Pass the name property in its state down to the child component, then show the name in the h1 tag that's part of the Navbar render method. name should appear after the text Hello, my name is:.
 
-[My Code]()
+[My Code](https://github.com/EO4wellness/T-I-L/blob/main/FrontEnd/freeCodeCamp/exercises/React/30_pass-state-as-props-to-child-components.jsx)
 
 
 
