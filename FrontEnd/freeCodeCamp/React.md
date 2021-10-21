@@ -498,8 +498,7 @@ When you type in the input box, that text is processed by the handleChange() met
 
 Last but not least, don't forget to add the necessary bindings in the constructor.
 
-[My Code]()
-
+[My Code](https://github.com/EO4wellness/T-I-L/blob/main/FrontEnd/freeCodeCamp/exercises/React/28_create-a-controlled-input.jsx)
 
 
 ## 29 [Create a Controlled Form](https://www.freecodecamp.org/learn/front-end-development-libraries/react/create-a-controlled-form)
@@ -514,12 +513,19 @@ Note: You also must call event.preventDefault() in the submit handler, to preven
 
 Finally, create an h1 tag after the form which renders the submit value from the component's state. You can then type in the form and click the button (or press enter), and you should see your input rendered to the page.
 
-[My Code]()
+[My Code](https://github.com/EO4wellness/T-I-L/blob/main/FrontEnd/freeCodeCamp/exercises/React/29_create-a-controlled-form.jsx)
 
 
 
-## 30 [Pass State as Props to Child Components]()
+## 30 [Pass State as Props to Child Components](https://www.freecodecamp.org/learn/front-end-development-libraries/react/pass-state-as-props-to-child-components)
 
+You saw a lot of examples that passed props to child JSX elements and child React components in previous challenges. You may be wondering where those props come from. A common pattern is to have a stateful component containing the state important to your app, that then renders child components. You want these components to have access to some pieces of that state, which are passed in as props.
+
+For example, maybe you have an App component that renders a Navbar, among other components. In your App, you have state that contains a lot of user information, but the Navbar only needs access to the user's username so it can display it. You pass that piece of state to the Navbar component as a prop.
+
+This pattern illustrates some important paradigms in React. The first is unidirectional data flow. State flows in one direction down the tree of your application's components, from the stateful parent component to child components. The child components only receive the state data they need. The second is that complex stateful apps can be broken down into just a few, or maybe a single, stateful component. The rest of your components simply receive state from the parent as props, and render a UI from that state. It begins to create a separation where state management is handled in one part of code and UI rendering in another. This principle of separating state logic from UI logic is one of React's key principles. When it's used correctly, it makes the design of complex, stateful applications much easier to manage.
+
+The MyApp component is stateful and renders a Navbar component as a child. Pass the name property in its state down to the child component, then show the name in the h1 tag that's part of the Navbar render method. name should appear after the text Hello, my name is:.
 
 [My Code]()
 
