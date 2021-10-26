@@ -539,32 +539,53 @@ There are three components outlined in the code editor. The MyApp component is t
 
 Next, add RenderInput to the render method in MyApp, then create a prop called input and pass the inputValue from state to it. Once you are finished you will be able to type in the input field in the GetInput component, which then calls the handler method in its parent via props. This updates the input in the state of the parent, which is passed as props to both children. Observe how the data flows between the components and how the single source of truth remains the state of the parent component. Admittedly, this example is a bit contrived, but should serve to illustrate how data and callbacks can be passed between React components.
 
-[My Code]()
+[My Code](https://github.com/EO4wellness/T-I-L/blob/main/FrontEnd/freeCodeCamp/exercises/React/31_pass-a-callback-as-props.jsx)
 
 
 
-## 32 [Use the Lifecycle Method componentWillMount]()
+## 32 [Use the Lifecycle Method componentWillMount](https://www.freecodecamp.org/learn/front-end-development-libraries/react/use-the-lifecycle-method-componentwillmount)
 
+React components have several special methods that provide opportunities to perform actions at specific points in the lifecycle of a component. These are called lifecycle methods, or lifecycle hooks, and allow you to catch components at certain points in time. This can be before they are rendered, before they update, before they receive props, before they unmount, and so on. Here is a list of some of the main lifecycle methods: componentWillMount() componentDidMount() shouldComponentUpdate() componentDidUpdate() componentWillUnmount() The next several lessons will cover some of the basic use cases for these lifecycle methods.
 
-[My Code]()
+Note: The componentWillMount Lifecycle method will be deprecated in a future version of 16.X and removed in version 17. (Source: https://reactjs.org/blog/2018/03/27/update-on-async-rendering.html)
 
+The componentWillMount() method is called before the render() method when a component is being mounted to the DOM. Log something to the console within componentWillMount() - you may want to have your browser console open to see the output.
 
-
-## 33 [Use the Lifecycle Method componentDidMount]()
-
-
-[My Code]()
-
-
-
-## 34 [Add Event Listeners]()
-
-
-[My Code]()
+[My Code](https://github.com/EO4wellness/T-I-L/blob/main/FrontEnd/freeCodeCamp/exercises/React/32_use-the-lifecycle-method-componentwillmount.jsx)
 
 
 
-## 35 [Optimize Re-Renders with shouldComponentUpdate]()
+## 33 [Use the Lifecycle Method componentDidMount](https://www.freecodecamp.org/learn/front-end-development-libraries/react/use-the-lifecycle-method-componentdidmount)
+
+
+Most web developers, at some point, need to call an API endpoint to retrieve data. If you're working with React, it's important to know where to perform this action.
+
+The best practice with React is to place API calls or any calls to your server in the lifecycle method componentDidMount(). This method is called after a component is mounted to the DOM. Any calls to setState() here will trigger a re-rendering of your component. When you call an API in this method, and set your state with the data that the API returns, it will automatically trigger an update once you receive the data.
+
+There is a mock API call in componentDidMount(). It sets state after 2.5 seconds to simulate calling a server to retrieve data. This example requests the current total active users for a site. In the render method, render the value of activeUsers in the h1 after the text Active Users:. Watch what happens in the preview, and feel free to change the timeout to see the different effects.
+
+
+[My Code](https://github.com/EO4wellness/T-I-L/blob/main/FrontEnd/freeCodeCamp/exercises/React/33_use-the-lifecycle-method-componentdidmount.jsx)
+
+
+
+## 34 [Add Event Listeners](https://www.freecodecamp.org/learn/front-end-development-libraries/react/add-event-listeners)
+
+
+The componentDidMount() method is also the best place to attach any event listeners you need to add for specific functionality. React provides a synthetic event system which wraps the native event system present in browsers. This means that the synthetic event system behaves exactly the same regardless of the user's browser - even if the native events may behave differently between different browsers.
+
+You've already been using some of these synthetic event handlers such as onClick(). React's synthetic event system is great to use for most interactions you'll manage on DOM elements. However, if you want to attach an event handler to the document or window objects, you have to do this directly.
+
+Attach an event listener in the componentDidMount() method for keydown events and have these events trigger the callback handleKeyPress(). You can use document.addEventListener() which takes the event (in quotes) as the first argument and the callback as the second argument.
+
+Then, in componentWillUnmount(), remove this same event listener. You can pass the same arguments to document.removeEventListener(). It's good practice to use this lifecycle method to do any clean up on React components before they are unmounted and destroyed. Removing event listeners is an example of one such clean up action.
+
+
+[My Code](https://github.com/EO4wellness/T-I-L/blob/main/FrontEnd/freeCodeCamp/exercises/React/34_add-event-listeners.jsx)
+
+
+
+## 35 [Optimize Re-Renders with shouldComponentUpdate](https://www.freecodecamp.org/learn/front-end-development-libraries/react/optimize-re-renders-with-shouldcomponentupdate)
 
 
 [My Code]()
