@@ -598,19 +598,39 @@ The shouldComponentUpdate() method is added in a component called OnlyEvens. Cur
 
 
 
-## 36 [Introducing Inline Styles]()
+## 36 [Introducing Inline Styles](https://www.freecodecamp.org/learn/front-end-development-libraries/react/introducing-inline-styles)
 
+There are other complex concepts that add powerful capabilities to your React code. But you may be wondering about the more simple problem of how to style those JSX elements you create in React. You likely know that it won't be exactly the same as working with HTML because of the way you apply classes to JSX elements.
+
+If you import styles from a stylesheet, it isn't much different at all. You apply a class to your JSX element using the className attribute, and apply styles to the class in your stylesheet. Another option is to apply inline styles, which are very common in ReactJS development.
+
+You apply inline styles to JSX elements similar to how you do it in HTML, but with a few JSX differences. Here's an example of an inline style in HTML:
+```
+<div style="color: yellow; font-size: 16px">Mellow Yellow</div>
+```
+JSX elements use the style attribute, but because of the way JSX is transpiled, you can't set the value to a string. Instead, you set it equal to a JavaScript object. Here's an example:
+```
+<div style={{color: "yellow", fontSize: 16}}>Mellow Yellow</div>
+```
+Notice how we camelCase the fontSize property? This is because React will not accept kebab-case keys in the style object. React will apply the correct property name for us in the HTML.
+
+Add a style attribute to the div in the code editor to give the text a color of red and font size of 72px.
+
+Note that you can optionally set the font size to be a number, omitting the units px, or write it as 72px.
+
+
+[My Code](https://github.com/EO4wellness/T-I-L/blob/main/FrontEnd/freeCodeCamp/exercises/React/36_introducing-inline-styles.jsx)
+
+
+## 37 [dd Inline Styles in React](https://www.freecodecamp.org/learn/front-end-development-libraries/react/add-inline-styles-in-react)
+
+You may have noticed in the last challenge that there were several other syntax differences from HTML inline styles in addition to the style attribute set to a JavaScript object. First, the names of certain CSS style properties use camel case. For example, the last challenge set the size of the font with fontSize instead of font-size. Hyphenated words like font-size are invalid syntax for JavaScript object properties, so React uses camel case. As a rule, any hyphenated style properties are written using camel case in JSX.
+
+All property value length units (like height, width, and fontSize) are assumed to be in px unless otherwise specified. If you want to use em, for example, you wrap the value and the units in quotes, like {fontSize: "4em"}. Other than the length values that default to px, all other property values should be wrapped in quotes.
+
+If you have a large set of styles, you can assign a style object to a constant to keep your code organized. Declare your styles constant as a global variable at the top of the file. Initialize styles constant and assign an object with three style properties and their values to it. Give the div a color of purple, a font-size of 40, and a border of 2px solid purple. Then set the style attribute equal to the styles constant.
 
 [My Code]()
-
-
-
-## 37 [Add Inline Styles in React]()
-
-
-[My Code]()
-
-
 
 ## 38 [Use Advanced JavaScript in React Render Method]()
 
