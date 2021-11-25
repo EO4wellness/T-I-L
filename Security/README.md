@@ -1,9 +1,12 @@
 # Cyber Security 
 is a big deal. 
+* [2022 Predicted Trends](https://www.techrepublic.com/article/8-advanced-threats-kaspersky-predicts-for-2022/):  1. Influx new APT Actors. 2. Target Mobile Devices 3. Supply-Chain Attacks 4. Work At Home opportunities 5. Geopolitics attacks 6. Cloud security and outsourced services risks 7: Bootkits 
+* [Zero-Day Vulnerability](https://www.techrepublic.com/article/what-is-a-zero-day-vulnerability/)
 
 ## Resources:
 Cybrary (training programs)
-[Javascript Exploit](https://thehackernews.com/2021/04/new-javascript-exploit-can-now-carry.html)
+* [Javascript Exploit](https://thehackernews.com/2021/04/new-javascript-exploit-can-now-carry.html)
+* [Becoming a Cyber Security expert](https://www.techrepublic.com/article/cheat-sheet-how-to-become-a-cybersecurity-pro/)
 
 # Malware Threats 
 * [GitHub updates its Policy](https://thehackernews.com/2021/06/github-updates-policy-to-remove-exploit.html)
