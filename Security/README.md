@@ -55,3 +55,7 @@ Cybrary (training programs)
 * Intermediate Python 
 
 https://app.cybrary.it/immersive
+
+## Breach News 
+* [GoDaddy/Wordpress](https://www.techrepublic.com/article/godaddy-security-breach-impacts-more-than-1-million-wordpress-users/?ftag=TRE684d531&bhid=29410384078638952511834173176338&mid=13596172&cid=2276729581)
+* 
