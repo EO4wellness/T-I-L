@@ -10,9 +10,10 @@
 * [Data resource](https://archive.ics.uci.edu/ml/index.php)
 
 # NLP (Natural Laungage Processing)
-This is the area of AI/ML application, which interests me the most. 
-[Free Online NLP course](https://huggingface.co/course/chapter1)
-[NLP Black-Box Problem](https://analyticsindiamag.com/is-there-an-antidote-to-the-black-box-problem-of-nlp/)
+* This is the area of AI/ML application, which interests me the most. 
+* [Free Online NLP course](https://huggingface.co/course/chapter1)
+* [NLP Black-Box Problem](https://analyticsindiamag.com/is-there-an-antidote-to-the-black-box-problem-of-nlp/)
+* [XLS-R release](https://analyticsindiamag.com/facebook-ai-releases-xls-r-self-supervised-model-for-speech-tasks/)
 
 # Studies
 * Besides annaconda, google colab, amazon sagemaker, you can also run juptyper notebooks for AI/ML/NLP in [VS Code](https://www.freecodecamp.org/news/how-to-use-google-colab-with-vs-code/)
