@@ -38,8 +38,8 @@ to write highly efficient GPU code.
 
 
 Hands-on Guides for ML Developers
-+ Hands-on Guide to Cockpit: A Debugging Tool for Deep Learning Models
-+ Hands-on Guide to Image Denoising using Encoder-Decoder Model
-+ An Illustrative Guide to Deep Relational Learning
-+ A Guide to Chainer: A Flexible Toolkit For Neural Networks
-+ How Machine Learning is Used with Operations Research?
++ [Hands-on Guide to Cockpit](https://analyticsindiamag.com/hands-on-guide-to-cockpit-a-debugging-tool-for-deep-learning-models/?utm_source=email+marketing+Mailigen&utm_campaign=emailer&utm_medium=email): A Debugging Tool for Deep Learning Models
++ [Hands-on Guide to Image Denoising](https://analyticsindiamag.com/hands-on-guide-to-image-denoising-using-encoder-decoder-model/?utm_source=email+marketing+Mailigen&utm_campaign=emailer&utm_medium=email) using Encoder-Decoder Model
++ [An Illustrative Guide to Deep Relational Learning](https://analyticsindiamag.com/an-illustrative-guide-to-deep-relational-learning/?utm_source=email+marketing+Mailigen&utm_campaign=emailer&utm_medium=email)
++ [A Guide to Chainer: A Flexible Toolkit For Neural Networks](https://analyticsindiamag.com/a-guide-to-chainer-a-flexible-toolkit-for-neural-networks/?utm_source=email+marketing+Mailigen&utm_campaign=emailer&utm_medium=email)
++ [How Machine Learning is Used with Operations Research?](https://analyticsindiamag.com/how-machine-learning-is-used-with-operations-research/?utm_source=email+marketing+Mailigen&utm_campaign=emailer&utm_medium=email)
