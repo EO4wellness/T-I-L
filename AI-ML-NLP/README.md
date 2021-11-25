@@ -2,6 +2,7 @@
 * [Cleaning Images](https://alumni.iitm.ac.in/tech-talk/clean-up-neural-networks-show-the-way-to-preserve-photographs/) and the coordinating [Paper](https://ieeexplore.ieee.org/document/9288928)
 * Read about various research, [papers](https://arxiv.org/pdf/2104.03902.pdf), current science theory looking into [autodidactic algorithms](https://www.popularmechanics.com/science/a36112655/universe-is-self-learning-algorithm/) and [Autodiadactic Neurosurgeons](https://arxiv.org/abs/2102.02638) type concepts-the links here are just a sample of this. 
 * PANDAS Tutorial https://realpython.com/courses/reading-writing-files-pandas/  
+* [AI for Earth Monitoring](https://www.futurelearn.com/courses/artificial-intelligence-for-earth-monitoring/1/steps/1169052) coursework: Oceans, Atmosphere, Land and Climate. 
 
 # ML (Machine Learning) 
 * [Within SQL](https://www.freecodecamp.org/news/machine-learning-directly-in-sql/)
@@ -25,6 +26,7 @@ This is the area of AI/ML application, which interests me the most.
 # Papers
 * [Log: AI/ML/NLP Papers](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/reading-study-resouces.md)
 * [NLP Lessons](https://explosion.ai/blog/applied-nlp-thinking)
+* [Facial Recognition News](https://analyticsindiamag.com/meta-0-facebook-1-the-facial-recognition-hypocrisy/)
 
 # Industry News:
 OpenAI unveiled a new programming language called [Triton](https://list.mg5.mlgn2ca.com/track/click?u=b11a07979bc4eedf18034b12329dd965&id=873fee47e40e44fe&e=0d4b55193b1a1c15) 
@@ -35,3 +37,9 @@ to write highly efficient GPU code.
 [Cuda vs Triton](https://list.mg5.mlgn2ca.com/track/click?u=b11a07979bc4eedf18034b12329dd965&id=3572685d5dcc8ae3&e=0d4b55193b1a1c15)
 
 
+Hands-on Guides for ML Developers
++ Hands-on Guide to Cockpit: A Debugging Tool for Deep Learning Models
++ Hands-on Guide to Image Denoising using Encoder-Decoder Model
++ An Illustrative Guide to Deep Relational Learning
++ A Guide to Chainer: A Flexible Toolkit For Neural Networks
++ How Machine Learning is Used with Operations Research?
