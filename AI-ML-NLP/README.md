@@ -2,14 +2,18 @@
 * [Cleaning Images](https://alumni.iitm.ac.in/tech-talk/clean-up-neural-networks-show-the-way-to-preserve-photographs/) and the coordinating [Paper](https://ieeexplore.ieee.org/document/9288928)
 * Read about various research, [papers](https://arxiv.org/pdf/2104.03902.pdf), current science theory looking into [autodidactic algorithms](https://www.popularmechanics.com/science/a36112655/universe-is-self-learning-algorithm/) and [Autodiadactic Neurosurgeons](https://arxiv.org/abs/2102.02638) type concepts-the links here are just a sample of this. 
 * PANDAS Tutorial https://realpython.com/courses/reading-writing-files-pandas/  
+* [AI for Earth Monitoring](https://www.futurelearn.com/courses/artificial-intelligence-for-earth-monitoring/1/steps/1169052) coursework: Oceans, Atmosphere, Land and Climate. 
+* [OpenAI GPT3 API](https://analyticsindiamag.com/openai-makes-gpt-3-broadly-available-to-developers-through-api-service/)
 
 # ML (Machine Learning) 
 * [Within SQL](https://www.freecodecamp.org/news/machine-learning-directly-in-sql/)
 * [Data resource](https://archive.ics.uci.edu/ml/index.php)
 
 # NLP (Natural Laungage Processing)
-This is the area of AI/ML application, which interests me the most. 
-[Free Online NLP course](https://huggingface.co/course/chapter1)
+* This is the area of AI/ML application, which interests me the most. 
+* [Free Online NLP course](https://huggingface.co/course/chapter1)
+* [NLP Black-Box Problem](https://analyticsindiamag.com/is-there-an-antidote-to-the-black-box-problem-of-nlp/)
+* [XLS-R release](https://analyticsindiamag.com/facebook-ai-releases-xls-r-self-supervised-model-for-speech-tasks/) and its coordinating [GitHub Repo](https://github.com/huggingface/blog/blob/master/fine-tune-xlsr-wav2vec2.md)
 
 # Studies
 * Besides annaconda, google colab, amazon sagemaker, you can also run juptyper notebooks for AI/ML/NLP in [VS Code](https://www.freecodecamp.org/news/how-to-use-google-colab-with-vs-code/)
@@ -25,6 +29,7 @@ This is the area of AI/ML application, which interests me the most.
 # Papers
 * [Log: AI/ML/NLP Papers](https://github.com/EO4wellness/T-I-L/blob/main/AI-ML-NLP/reading-study-resouces.md)
 * [NLP Lessons](https://explosion.ai/blog/applied-nlp-thinking)
+* [Facial Recognition News](https://analyticsindiamag.com/meta-0-facebook-1-the-facial-recognition-hypocrisy/)
 
 # Industry News:
 OpenAI unveiled a new programming language called [Triton](https://list.mg5.mlgn2ca.com/track/click?u=b11a07979bc4eedf18034b12329dd965&id=873fee47e40e44fe&e=0d4b55193b1a1c15) 
@@ -33,5 +38,12 @@ to write highly efficient GPU code.
 
 [Triton Dev Guide](https://list.mg5.mlgn2ca.com/track/click?u=b11a07979bc4eedf18034b12329dd965&id=ec542b50ead14be7&e=0d4b55193b1a1c15)
 [Cuda vs Triton](https://list.mg5.mlgn2ca.com/track/click?u=b11a07979bc4eedf18034b12329dd965&id=3572685d5dcc8ae3&e=0d4b55193b1a1c15)
+[PyTorch](https://analyticsindiamag.com/pytorch-releases-version-2-of-lightningcli/)
 
 
+Hands-on Guides for ML Developers
++ [Hands-on Guide to Cockpit](https://analyticsindiamag.com/hands-on-guide-to-cockpit-a-debugging-tool-for-deep-learning-models/?utm_source=email+marketing+Mailigen&utm_campaign=emailer&utm_medium=email): A Debugging Tool for Deep Learning Models
++ [Hands-on Guide to Image Denoising](https://analyticsindiamag.com/hands-on-guide-to-image-denoising-using-encoder-decoder-model/?utm_source=email+marketing+Mailigen&utm_campaign=emailer&utm_medium=email) using Encoder-Decoder Model
++ [An Illustrative Guide to Deep Relational Learning](https://analyticsindiamag.com/an-illustrative-guide-to-deep-relational-learning/?utm_source=email+marketing+Mailigen&utm_campaign=emailer&utm_medium=email)
++ [A Guide to Chainer: A Flexible Toolkit For Neural Networks](https://analyticsindiamag.com/a-guide-to-chainer-a-flexible-toolkit-for-neural-networks/?utm_source=email+marketing+Mailigen&utm_campaign=emailer&utm_medium=email)
++ [How Machine Learning is Used with Operations Research?](https://analyticsindiamag.com/how-machine-learning-is-used-with-operations-research/?utm_source=email+marketing+Mailigen&utm_campaign=emailer&utm_medium=email)
